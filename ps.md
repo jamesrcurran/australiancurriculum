@@ -101,16 +101,16 @@
 
 ##### Elaborations only
 
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
 #### **Level 3**: describe the influence that people, situations and events have on their emotions
@@ -131,16 +131,16 @@
 
 ##### Elaborations only
 
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
 #### **Level 4**: explain how the appropriateness of emotional responses influences behaviour
@@ -155,16 +155,16 @@
 
 ##### Elaborations only
 
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
 #### **Level 5**: examine influences on and consequences of their emotional responses in a learning, social and work-related contexts
@@ -186,16 +186,16 @@
 
 ##### Elaborations only
 
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
 #### **Level 6**: reflect critically on their emotional responses to challenging situations in a wide range of learning, social and work-related contexts
@@ -213,16 +213,16 @@
 
 ##### Elaborations only
 
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
 ### Recognise personal qualities and achievements
@@ -256,30 +256,30 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 3**: describe personal strengths and challenges and identify skills they wish to develop
@@ -314,30 +314,30 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 4**: describe the influence that personal qualities and strengths have on their learning outcomes
@@ -359,30 +359,30 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 5**: make a realistic assessment of their abilities and achievements, and prioritise areas for improvement
@@ -421,30 +421,30 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 6**: assess their strengths and challenges and devise personally appropriate strategies to achieve future success
@@ -504,30 +504,30 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 ### Understand themselves as learners
@@ -567,49 +567,49 @@
 
 ##### Elaborations only
 
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
+* **English 10**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
  (ACELT1815)
   * *creating a range of students’ own spoken, written or multimodal texts, experimenting with and manipulating language devices for particular audiences, purposes and contexts*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 3**: identify and describe factors and strategies that assist their learning
@@ -648,49 +648,49 @@
 
 ##### Elaborations only
 
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
+* **English 10**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
  (ACELT1815)
   * *creating a range of students’ own spoken, written or multimodal texts, experimenting with and manipulating language devices for particular audiences, purposes and contexts*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 4**: identify preferred learning styles and work habits
@@ -732,49 +732,49 @@
 
 ##### Elaborations only
 
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
+* **English 10**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
  (ACELT1815)
   * *creating a range of students’ own spoken, written or multimodal texts, experimenting with and manipulating language devices for particular audiences, purposes and contexts*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 5**: identify and choose a range of learning strategies appropriate to specific tasks and describe work practices that assist their learning
@@ -829,49 +829,49 @@
 
 ##### Elaborations only
 
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
+* **English 10**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
  (ACELT1815)
   * *creating a range of students’ own spoken, written or multimodal texts, experimenting with and manipulating language devices for particular audiences, purposes and contexts*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 6**: evaluate the effectiveness of commonly used learning strategies and work practices and refine these as required
@@ -953,49 +953,49 @@
 
 ##### Elaborations only
 
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
+* **English 10**: Create literary texts with a sustained ‘voice’, selecting and adapting appropriate text structures, literary devices, language, auditory and visual structures and features for a specific purpose and intended audience
  (ACELT1815)
   * *creating a range of students’ own spoken, written or multimodal texts, experimenting with and manipulating language devices for particular audiences, purposes and contexts*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 ### Develop reflective practice
@@ -1054,40 +1054,40 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *reflecting on experiences of when language includes, distances or marginalises others*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
+* **English 10**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
   * *reflecting on, critiquing and refining students’ own texts prior to publishing for an authentic audience, such as uploading a movie to a website, contributing to an anthology, writing texts appropriate for the workplace, or delivering a presentation*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
@@ -1125,40 +1125,40 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *reflecting on experiences of when language includes, distances or marginalises others*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
+* **English 10**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
   * *reflecting on, critiquing and refining students’ own texts prior to publishing for an authentic audience, such as uploading a movie to a website, contributing to an anthology, writing texts appropriate for the workplace, or delivering a presentation*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
@@ -1199,40 +1199,40 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *reflecting on experiences of when language includes, distances or marginalises others*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
+* **English 10**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
   * *reflecting on, critiquing and refining students’ own texts prior to publishing for an authentic audience, such as uploading a movie to a website, contributing to an anthology, writing texts appropriate for the workplace, or delivering a presentation*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
@@ -1316,40 +1316,40 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *reflecting on experiences of when language includes, distances or marginalises others*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
+* **English 10**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
   * *reflecting on, critiquing and refining students’ own texts prior to publishing for an authentic audience, such as uploading a movie to a website, contributing to an anthology, writing texts appropriate for the workplace, or delivering a presentation*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
@@ -1448,40 +1448,40 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *reflecting on experiences of when language includes, distances or marginalises others*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
+* **English 10**: Review, edit and refine students’ own and others’ texts for control of content, organisation, sentence structure, vocabulary, and/or visual features to achieve particular purposes and effects (ACELY1757)
   * *reflecting on, critiquing and refining students’ own texts prior to publishing for an authentic audience, such as uploading a movie to a website, contributing to an anthology, writing texts appropriate for the workplace, or delivering a presentation*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *identifying how research and new ideas might enhance their own creating and performing practices*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *evaluating and comparing stylistic interpretations of a range of music to develop aesthetic awareness*
   * *evaluating their own and others’ music, and applying feedback to refine and improve performances and compositions*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *using self-talk and encouragement to motivate themselves and team members to continue to participate and improve performance*
 
@@ -1570,71 +1570,71 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *responding to other students’ dances to provide feedback*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
   * *exploring, reworking and refining the dramatic action through rehearsal and honing expressive performance skills for effective audience engagement*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 3**: identify and describe strategies to manage and moderate emotions in increasingly unfamiliar situations
@@ -1679,71 +1679,71 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *responding to other students’ dances to provide feedback*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
   * *exploring, reworking and refining the dramatic action through rehearsal and honing expressive performance skills for effective audience engagement*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 4**: explain the influence of emotions on behaviour, learning and relationships
@@ -1787,71 +1787,71 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *responding to other students’ dances to provide feedback*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
   * *exploring, reworking and refining the dramatic action through rehearsal and honing expressive performance skills for effective audience engagement*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 5**: forecast the consequences of expressing emotions inappropriately and devise measures to regulate behaviour
@@ -1871,71 +1871,71 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *responding to other students’ dances to provide feedback*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
   * *exploring, reworking and refining the dramatic action through rehearsal and honing expressive performance skills for effective audience engagement*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 6**: consider control and justify their emotional responses, in expressing their opinions, beliefs, values, questions and choices
@@ -1967,71 +1967,71 @@
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
+* **English 10**: Create literary texts that reflect an emerging sense of personal style and evaluate the effectiveness of these texts (ACELT1814)
   * *creating texts which draw on students’ experience of other texts and which have a personal aesthetic appeal*
   * *reflect on the authors who have influenced students’ own aesthetic style and evaluate their impact*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *responding to other students’ dances to provide feedback*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
   * *exploring, reworking and refining the dramatic action through rehearsal and honing expressive performance skills for effective audience engagement*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 ### Develop self-discipline and set goals
@@ -2053,30 +2053,30 @@
 
 ##### Elaborations only
 
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *developing a personal movement vocabulary by combining elements of dance with finding new ways of moving, and establishing a personal style*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *experimenting with, reflecting on and refining the connections in their own work between viewpoints, materials, techniques, technologies practices and processes*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *participating in competitions where players rather than an independent official are responsible for applying the rules*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 3**: explain the value of self-discipline and goal-setting in helping them to learn
@@ -2102,30 +2102,30 @@
 
 ##### Elaborations only
 
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *developing a personal movement vocabulary by combining elements of dance with finding new ways of moving, and establishing a personal style*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *experimenting with, reflecting on and refining the connections in their own work between viewpoints, materials, techniques, technologies practices and processes*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *participating in competitions where players rather than an independent official are responsible for applying the rules*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 4**: analyse factors that influence ability to self-regulate; devise and apply strategies to monitor own behaviour and set realistic learning goals
@@ -2166,30 +2166,30 @@
 
 ##### Elaborations only
 
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *developing a personal movement vocabulary by combining elements of dance with finding new ways of moving, and establishing a personal style*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *experimenting with, reflecting on and refining the connections in their own work between viewpoints, materials, techniques, technologies practices and processes*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *participating in competitions where players rather than an independent official are responsible for applying the rules*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 5**: select, use and analyse strategies that assist in regulating behaviour and achieving personal and learning goals
@@ -2260,30 +2260,30 @@
 
 ##### Elaborations only
 
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *developing a personal movement vocabulary by combining elements of dance with finding new ways of moving, and establishing a personal style*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *experimenting with, reflecting on and refining the connections in their own work between viewpoints, materials, techniques, technologies practices and processes*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *participating in competitions where players rather than an independent official are responsible for applying the rules*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 6**: critically analyse self-discipline strategies and personal goals and consider their application in social and work-related contexts
@@ -2330,30 +2330,30 @@
 
 ##### Elaborations only
 
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *developing a personal movement vocabulary by combining elements of dance with finding new ways of moving, and establishing a personal style*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *experimenting with, reflecting on and refining the connections in their own work between viewpoints, materials, techniques, technologies practices and processes*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *participating in competitions where players rather than an independent official are responsible for applying the rules*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 ### Work independently and show initiative
@@ -2391,33 +2391,33 @@
 
 ##### Elaborations only
 
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Transfer understanding from previous movement experiences to create solutions to movement challenges
+* **HPE 9-10**: Transfer understanding from previous movement experiences to create solutions to movement challenges
  (ACPMP106)
   * *demonstrating motivation, persistence, confidence and commitment when faced with difficult or unfamiliar movement tasks*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 3**: consider, select and adopt a range of strategies for working independently and taking initiative
@@ -2462,33 +2462,33 @@
 
 ##### Elaborations only
 
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Transfer understanding from previous movement experiences to create solutions to movement challenges
+* **HPE 9-10**: Transfer understanding from previous movement experiences to create solutions to movement challenges
  (ACPMP106)
   * *demonstrating motivation, persistence, confidence and commitment when faced with difficult or unfamiliar movement tasks*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 4**: assess the value of working independently, and taking initiative to do so where appropriate
@@ -2512,33 +2512,33 @@
 
 ##### Elaborations only
 
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Transfer understanding from previous movement experiences to create solutions to movement challenges
+* **HPE 9-10**: Transfer understanding from previous movement experiences to create solutions to movement challenges
  (ACPMP106)
   * *demonstrating motivation, persistence, confidence and commitment when faced with difficult or unfamiliar movement tasks*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 5**: critique their effectiveness in working independently by identifying enablers and barriers to achieving goals
@@ -2591,33 +2591,33 @@
 
 ##### Elaborations only
 
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Transfer understanding from previous movement experiences to create solutions to movement challenges
+* **HPE 9-10**: Transfer understanding from previous movement experiences to create solutions to movement challenges
  (ACPMP106)
   * *demonstrating motivation, persistence, confidence and commitment when faced with difficult or unfamiliar movement tasks*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 6**: establish personal priorities, manage resources effectively and demonstrate initiative to achieve personal goals and learning outcomes
@@ -2670,33 +2670,33 @@
 
 ##### Elaborations only
 
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *taking part in a range of roles in sustained production work*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *experimenting with a variety of techniques and processes when exploring their intentions as artist*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Transfer understanding from previous movement experiences to create solutions to movement challenges
+* **HPE 9-10**: Transfer understanding from previous movement experiences to create solutions to movement challenges
  (ACPMP106)
   * *demonstrating motivation, persistence, confidence and commitment when faced with difficult or unfamiliar movement tasks*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 ### Become confident, resilient and adaptable
@@ -2736,34 +2736,34 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
 
 #### **Level 3**: persist with tasks when faced with challenges and adapt their approach where first attempts are not successful
@@ -2821,34 +2821,34 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
 
 #### **Level 4**: devise strategies and formulate plans to assist in the completion of challenging tasks and the maintenance of personal safety
@@ -2899,34 +2899,34 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
 
 #### **Level 5**: assess, adapt and modify personal and safety strategies and plans, and revisit tasks with renewed confidence
@@ -3014,34 +3014,34 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
 
 #### **Level 6**: evaluate, rethink and refine approaches to tasks to take account of unexpected or difficult situations and safety considerations
@@ -3132,34 +3132,34 @@
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
+* **Science 9**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS166)
   * *applying specific skills for the use of scientific instruments*
-* **Science**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
   * *applying specific skills for the use of scientific instruments*
-* **Dance**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
+* **Dance 9-10**: Manipulate combinations of the elements of dance and choreographic devices to communicate their choreographic intent (ACADAM021)
   * *improvising with the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent*
   * *setting choreographic goals and developing their own movement vocabulary and style*
-* **Dance**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Drama**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
   * *evaluating conventions from past forms and styles to consider incorporating into their own drama and contemporary practice*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Visual**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
   * *developing technical proficiency in the resolution of designed, fabricated and constructed artworks, using safe and sustainable practices*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
 
 ## Social awareness
@@ -3309,208 +3309,208 @@
 
 ##### Elaborations only
 
-* **English**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
+* **English 9**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
   * *experimenting with ways to present personal viewpoints through innovating with texts*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
+* **Science 9**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
   * *considering the impacts of human activity on an ecosystem from a range of different perspectives*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
+* **Science 9**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
   * *describing how scientific arguments are used to make decisions regarding personal and community issues*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 10**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE230)
   * *considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisation such as insurance companies or medical facilities*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
+* **Science 10**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
   * *describing how scientific arguments, as well as ethical, economic and social arguments, are used to make decisions regarding personal and community issues*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *analysing and documenting the practices of selected visual artists and designers, including their use of materials, technologies, techniques and processes, when developing their art and design intentions for representation*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *deconstructing and reconstructing a range of images, objects and/or spaces to synthesise viewpoints, concepts, purposes and/or meanings*
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
   * *developing representational ideas as images, objects and spaces to highlight the interconnection of making and display, and how the artwork establishes interaction between the artist and the audience*
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
   * *outlining the growth of trade unions as a response to the impacts of the Industrial Revolution*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: The US civil rights movement and its influence on Australia (ACDSEH105)
+* **Hist 10**: The US civil rights movement and its influence on Australia (ACDSEH105)
   * *outlining the Freedom Rides in the US, how they inspired civil rights campaigners in Australia, and how they became a turning point in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
   * *explaining the race to build the atomic bomb (by Germany, Japan, the US) and why the atomic bombs were dropped on Hiroshima and Nagasaki*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Identify the origin, purpose and context of primary and secondary sources
+* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
  (ACHHS187)
   * *explaining the context of a source such as the*
-* **Hist**: Evaluate the reliability and usefulness of primary and secondary sources
+* **Hist 10**: Evaluate the reliability and usefulness of primary and secondary sources
  (ACHHS189)
   * *discussing the reliability and usefulness of Martin Luther King’s 1963 ‘I Have A Dream’ speech as a source to assist in understanding the aims and motivations of the US Civil Rights movement*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Hist**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
+* **Hist 10**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
   * *designing a poster that outlines the main arguments against French nuclear testing in the Pacific and explaining the nature and reliability of the sources used to construct the poster*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *describing the role of people’s environmental world views (for example, human-centred and earth-centred) in producing different attitudes and approaches towards environmental management*
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
   * *investigating why a particular group advocates for change (for example, in relation to gender equity)*
   * *exploring the various ways that individuals can contribute to civic life (for example, by volunteering their services to charities and service groups, becoming a Justice of the Peace, making submissions to public enquiries, attending public meetings, serving on local government bodies and providing voluntary help at schools and nursing homes)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The role of the High Court, including in interpreting the Constitution
+* **C&C 10**: The role of the High Court, including in interpreting the Constitution
  (ACHCK092)
   * *exploring an example of a High Court judgement in interpreting and applying Australian law, such as the Mabo decision or the construction of the Hindmarsh Island Bridge*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
+* **C&C 10**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
   * *critically analysing published material relevant to civics and citizenship topics and issues to assess reliability and purpose (for example, NGO fundraising material or a government information campaign)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
   * *explaining assumptions or missing information in sources that may affect the reliability of an opinion about the issue*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *organising the data and information collected into a form that shows the different perspectives around an issue/event (for example, the impact of global events on participants in the Australian economy)*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
+* **E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
   * *developing texts for different audiences such as peers, businesses, the public, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
+* **E&B 10**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
   * *categorising and interpreting data and information collected into a form that shows multiple perspectives around an issue/event*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
+* **E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
   * *developing texts for different audiences such as peers, businesses, the public, a business manager/entrepreneur, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 3**: discuss the value of diverse perspectives and describe a point of view that is different from their own
@@ -3629,208 +3629,208 @@
 
 ##### Elaborations only
 
-* **English**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
+* **English 9**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
   * *experimenting with ways to present personal viewpoints through innovating with texts*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
+* **Science 9**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
   * *considering the impacts of human activity on an ecosystem from a range of different perspectives*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
+* **Science 9**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
   * *describing how scientific arguments are used to make decisions regarding personal and community issues*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 10**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE230)
   * *considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisation such as insurance companies or medical facilities*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
+* **Science 10**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
   * *describing how scientific arguments, as well as ethical, economic and social arguments, are used to make decisions regarding personal and community issues*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *analysing and documenting the practices of selected visual artists and designers, including their use of materials, technologies, techniques and processes, when developing their art and design intentions for representation*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *deconstructing and reconstructing a range of images, objects and/or spaces to synthesise viewpoints, concepts, purposes and/or meanings*
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
   * *developing representational ideas as images, objects and spaces to highlight the interconnection of making and display, and how the artwork establishes interaction between the artist and the audience*
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
   * *outlining the growth of trade unions as a response to the impacts of the Industrial Revolution*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: The US civil rights movement and its influence on Australia (ACDSEH105)
+* **Hist 10**: The US civil rights movement and its influence on Australia (ACDSEH105)
   * *outlining the Freedom Rides in the US, how they inspired civil rights campaigners in Australia, and how they became a turning point in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
   * *explaining the race to build the atomic bomb (by Germany, Japan, the US) and why the atomic bombs were dropped on Hiroshima and Nagasaki*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Identify the origin, purpose and context of primary and secondary sources
+* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
  (ACHHS187)
   * *explaining the context of a source such as the*
-* **Hist**: Evaluate the reliability and usefulness of primary and secondary sources
+* **Hist 10**: Evaluate the reliability and usefulness of primary and secondary sources
  (ACHHS189)
   * *discussing the reliability and usefulness of Martin Luther King’s 1963 ‘I Have A Dream’ speech as a source to assist in understanding the aims and motivations of the US Civil Rights movement*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Hist**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
+* **Hist 10**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
   * *designing a poster that outlines the main arguments against French nuclear testing in the Pacific and explaining the nature and reliability of the sources used to construct the poster*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *describing the role of people’s environmental world views (for example, human-centred and earth-centred) in producing different attitudes and approaches towards environmental management*
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
   * *investigating why a particular group advocates for change (for example, in relation to gender equity)*
   * *exploring the various ways that individuals can contribute to civic life (for example, by volunteering their services to charities and service groups, becoming a Justice of the Peace, making submissions to public enquiries, attending public meetings, serving on local government bodies and providing voluntary help at schools and nursing homes)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The role of the High Court, including in interpreting the Constitution
+* **C&C 10**: The role of the High Court, including in interpreting the Constitution
  (ACHCK092)
   * *exploring an example of a High Court judgement in interpreting and applying Australian law, such as the Mabo decision or the construction of the Hindmarsh Island Bridge*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
+* **C&C 10**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
   * *critically analysing published material relevant to civics and citizenship topics and issues to assess reliability and purpose (for example, NGO fundraising material or a government information campaign)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
   * *explaining assumptions or missing information in sources that may affect the reliability of an opinion about the issue*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *organising the data and information collected into a form that shows the different perspectives around an issue/event (for example, the impact of global events on participants in the Australian economy)*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
+* **E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
   * *developing texts for different audiences such as peers, businesses, the public, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
+* **E&B 10**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
   * *categorising and interpreting data and information collected into a form that shows multiple perspectives around an issue/event*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
+* **E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
   * *developing texts for different audiences such as peers, businesses, the public, a business manager/entrepreneur, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 4**: explain how means of communication differ within and between communities and identify the role these play in helping or hindering understanding of others
@@ -3947,208 +3947,208 @@
 
 ##### Elaborations only
 
-* **English**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
+* **English 9**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
   * *experimenting with ways to present personal viewpoints through innovating with texts*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
+* **Science 9**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
   * *considering the impacts of human activity on an ecosystem from a range of different perspectives*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
+* **Science 9**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
   * *describing how scientific arguments are used to make decisions regarding personal and community issues*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 10**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE230)
   * *considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisation such as insurance companies or medical facilities*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
+* **Science 10**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
   * *describing how scientific arguments, as well as ethical, economic and social arguments, are used to make decisions regarding personal and community issues*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *analysing and documenting the practices of selected visual artists and designers, including their use of materials, technologies, techniques and processes, when developing their art and design intentions for representation*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *deconstructing and reconstructing a range of images, objects and/or spaces to synthesise viewpoints, concepts, purposes and/or meanings*
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
   * *developing representational ideas as images, objects and spaces to highlight the interconnection of making and display, and how the artwork establishes interaction between the artist and the audience*
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
   * *outlining the growth of trade unions as a response to the impacts of the Industrial Revolution*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: The US civil rights movement and its influence on Australia (ACDSEH105)
+* **Hist 10**: The US civil rights movement and its influence on Australia (ACDSEH105)
   * *outlining the Freedom Rides in the US, how they inspired civil rights campaigners in Australia, and how they became a turning point in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
   * *explaining the race to build the atomic bomb (by Germany, Japan, the US) and why the atomic bombs were dropped on Hiroshima and Nagasaki*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Identify the origin, purpose and context of primary and secondary sources
+* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
  (ACHHS187)
   * *explaining the context of a source such as the*
-* **Hist**: Evaluate the reliability and usefulness of primary and secondary sources
+* **Hist 10**: Evaluate the reliability and usefulness of primary and secondary sources
  (ACHHS189)
   * *discussing the reliability and usefulness of Martin Luther King’s 1963 ‘I Have A Dream’ speech as a source to assist in understanding the aims and motivations of the US Civil Rights movement*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Hist**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
+* **Hist 10**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
   * *designing a poster that outlines the main arguments against French nuclear testing in the Pacific and explaining the nature and reliability of the sources used to construct the poster*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *describing the role of people’s environmental world views (for example, human-centred and earth-centred) in producing different attitudes and approaches towards environmental management*
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
   * *investigating why a particular group advocates for change (for example, in relation to gender equity)*
   * *exploring the various ways that individuals can contribute to civic life (for example, by volunteering their services to charities and service groups, becoming a Justice of the Peace, making submissions to public enquiries, attending public meetings, serving on local government bodies and providing voluntary help at schools and nursing homes)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The role of the High Court, including in interpreting the Constitution
+* **C&C 10**: The role of the High Court, including in interpreting the Constitution
  (ACHCK092)
   * *exploring an example of a High Court judgement in interpreting and applying Australian law, such as the Mabo decision or the construction of the Hindmarsh Island Bridge*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
+* **C&C 10**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
   * *critically analysing published material relevant to civics and citizenship topics and issues to assess reliability and purpose (for example, NGO fundraising material or a government information campaign)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
   * *explaining assumptions or missing information in sources that may affect the reliability of an opinion about the issue*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *organising the data and information collected into a form that shows the different perspectives around an issue/event (for example, the impact of global events on participants in the Australian economy)*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
+* **E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
   * *developing texts for different audiences such as peers, businesses, the public, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
+* **E&B 10**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
   * *categorising and interpreting data and information collected into a form that shows multiple perspectives around an issue/event*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
+* **E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
   * *developing texts for different audiences such as peers, businesses, the public, a business manager/entrepreneur, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 5**: acknowledge the values, opinions and attitudes of different groups within society and compare to their own points of view
@@ -4426,208 +4426,208 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
+* **English 9**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
   * *experimenting with ways to present personal viewpoints through innovating with texts*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
+* **Science 9**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
   * *considering the impacts of human activity on an ecosystem from a range of different perspectives*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
+* **Science 9**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
   * *describing how scientific arguments are used to make decisions regarding personal and community issues*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 10**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE230)
   * *considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisation such as insurance companies or medical facilities*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
+* **Science 10**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
   * *describing how scientific arguments, as well as ethical, economic and social arguments, are used to make decisions regarding personal and community issues*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *analysing and documenting the practices of selected visual artists and designers, including their use of materials, technologies, techniques and processes, when developing their art and design intentions for representation*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *deconstructing and reconstructing a range of images, objects and/or spaces to synthesise viewpoints, concepts, purposes and/or meanings*
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
   * *developing representational ideas as images, objects and spaces to highlight the interconnection of making and display, and how the artwork establishes interaction between the artist and the audience*
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
   * *outlining the growth of trade unions as a response to the impacts of the Industrial Revolution*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: The US civil rights movement and its influence on Australia (ACDSEH105)
+* **Hist 10**: The US civil rights movement and its influence on Australia (ACDSEH105)
   * *outlining the Freedom Rides in the US, how they inspired civil rights campaigners in Australia, and how they became a turning point in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
   * *explaining the race to build the atomic bomb (by Germany, Japan, the US) and why the atomic bombs were dropped on Hiroshima and Nagasaki*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Identify the origin, purpose and context of primary and secondary sources
+* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
  (ACHHS187)
   * *explaining the context of a source such as the*
-* **Hist**: Evaluate the reliability and usefulness of primary and secondary sources
+* **Hist 10**: Evaluate the reliability and usefulness of primary and secondary sources
  (ACHHS189)
   * *discussing the reliability and usefulness of Martin Luther King’s 1963 ‘I Have A Dream’ speech as a source to assist in understanding the aims and motivations of the US Civil Rights movement*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Hist**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
+* **Hist 10**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
   * *designing a poster that outlines the main arguments against French nuclear testing in the Pacific and explaining the nature and reliability of the sources used to construct the poster*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *describing the role of people’s environmental world views (for example, human-centred and earth-centred) in producing different attitudes and approaches towards environmental management*
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
   * *investigating why a particular group advocates for change (for example, in relation to gender equity)*
   * *exploring the various ways that individuals can contribute to civic life (for example, by volunteering their services to charities and service groups, becoming a Justice of the Peace, making submissions to public enquiries, attending public meetings, serving on local government bodies and providing voluntary help at schools and nursing homes)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The role of the High Court, including in interpreting the Constitution
+* **C&C 10**: The role of the High Court, including in interpreting the Constitution
  (ACHCK092)
   * *exploring an example of a High Court judgement in interpreting and applying Australian law, such as the Mabo decision or the construction of the Hindmarsh Island Bridge*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
+* **C&C 10**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
   * *critically analysing published material relevant to civics and citizenship topics and issues to assess reliability and purpose (for example, NGO fundraising material or a government information campaign)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
   * *explaining assumptions or missing information in sources that may affect the reliability of an opinion about the issue*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *organising the data and information collected into a form that shows the different perspectives around an issue/event (for example, the impact of global events on participants in the Australian economy)*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
+* **E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
   * *developing texts for different audiences such as peers, businesses, the public, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
+* **E&B 10**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
   * *categorising and interpreting data and information collected into a form that shows multiple perspectives around an issue/event*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
+* **E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
   * *developing texts for different audiences such as peers, businesses, the public, a business manager/entrepreneur, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 #### **Level 6**: articulate their personal value system and analyse the effects of actions that repress social power and limit the expression of diverse views
@@ -4864,208 +4864,208 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
+* **English 9**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
   * *experimenting with ways to present personal viewpoints through innovating with texts*
-* **English**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
+* **English 9**: Interpret and compare how representations of people and culture in literary texts are drawn from different historical, social and cultural contexts (ACELT1633)
   * *exploring and reflecting on personal understanding of the world and human experience, interpreted in literature drawn from cultures and times different from the students’ own*
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **English**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
+* **English 9**: Investigate and experiment with the use and effect of extended metaphor, metonymy, allegory, icons, myths and symbolism in texts, for example poetry, short films, graphic novels, and plays on similar themes (ACELT1637)
   * *identifying examples of language devices in a range of poems, ballads or poetic extracts, and considering how their use adds to meaning and may also influence the emotional responses of listeners or readers, in varying ways*
   * *exploring how language devices look or sound in written or spoken texts, how they can be identified, purposes they serve and what effect they might have on how the audience responds*
-* **English**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
+* **English 10**: Compare and evaluate how ‘voice’ as a literary device can be used in a range of different types of texts such as poetry to evoke particular emotional responses (ACELT1643)
   * *creating extended written responses to literary texts, making reference to varying points of view about the issues raised*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
+* **Science 9**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
   * *considering the impacts of human activity on an ecosystem from a range of different perspectives*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
+* **Science 9**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS172)
   * *describing how scientific arguments are used to make decisions regarding personal and community issues*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 10**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE230)
   * *considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisation such as insurance companies or medical facilities*
-* **Science**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
+* **Science 10**: Critically analyse the validity of information in primary and secondary sources and evaluate the approaches used to solve problems (ACSIS206)
   * *describing how scientific arguments, as well as ethical, economic and social arguments, are used to make decisions regarding personal and community issues*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Drama**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **Visual**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
   * *analysing and documenting the practices of selected visual artists and designers, including their use of materials, technologies, techniques and processes, when developing their art and design intentions for representation*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **Visual**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
+* **Visual 9-10**: Manipulate materials, techniques, technologies and processes to develop and represent their own artistic intentions (ACAVAM126)
   * *deconstructing and reconstructing a range of images, objects and/or spaces to synthesise viewpoints, concepts, purposes and/or meanings*
   * *using selected techniques, technologies and processes to explore personal representation of a theme, concept or subject matter*
   * *selecting, testing and experimenting with materials, techniques, technologies and processes to synthesise an idea that is developed into multiple representations*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *visiting galleries, art museums and public art displays, in formal and informal settings, to research the role of the curator and the elements of good display/exhibition, which they then apply to their own ideas for an exhibition of their own or others’ artworks*
   * *developing representational ideas as images, objects and spaces to highlight the interconnection of making and display, and how the artwork establishes interaction between the artist and the audience*
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Maths**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
+* **Maths 10A**: Investigate reports of studies in digital media and elsewhere for information on their planning and implementation (ACMSP277)
   * *evaluating whether graphs in a report could mislead, and whether graphs and numerical information support the claims*
-* **Hist**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
   * *outlining the growth of trade unions as a response to the impacts of the Industrial Revolution*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: Use historical terms and concepts (ACHHS165)
+* **Hist 9**: Use historical terms and concepts (ACHHS165)
   * *discussing the contestability of particular historical terms such as 'settlement', 'invasion' and 'colonisation' in the context of Australia’s history*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: The US civil rights movement and its influence on Australia (ACDSEH105)
+* **Hist 10**: The US civil rights movement and its influence on Australia (ACDSEH105)
   * *outlining the Freedom Rides in the US, how they inspired civil rights campaigners in Australia, and how they became a turning point in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
   * *explaining the race to build the atomic bomb (by Germany, Japan, the US) and why the atomic bombs were dropped on Hiroshima and Nagasaki*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Identify the origin, purpose and context of primary and secondary sources
+* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
  (ACHHS187)
   * *explaining the context of a source such as the*
-* **Hist**: Evaluate the reliability and usefulness of primary and secondary sources
+* **Hist 10**: Evaluate the reliability and usefulness of primary and secondary sources
  (ACHHS189)
   * *discussing the reliability and usefulness of Martin Luther King’s 1963 ‘I Have A Dream’ speech as a source to assist in understanding the aims and motivations of the US Civil Rights movement*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Hist**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
+* **Hist 10**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
   * *designing a poster that outlines the main arguments against French nuclear testing in the Pacific and explaining the nature and reliability of the sources used to construct the poster*
-* **Geo**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *discussing the concept of sustainability in relation to environmental functions*
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *describing the role of people’s environmental world views (for example, human-centred and earth-centred) in producing different attitudes and approaches towards environmental management*
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
   * *investigating why a particular group advocates for change (for example, in relation to gender equity)*
   * *exploring the various ways that individuals can contribute to civic life (for example, by volunteering their services to charities and service groups, becoming a Justice of the Peace, making submissions to public enquiries, attending public meetings, serving on local government bodies and providing voluntary help at schools and nursing homes)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The role of the High Court, including in interpreting the Constitution
+* **C&C 10**: The role of the High Court, including in interpreting the Constitution
  (ACHCK092)
   * *exploring an example of a High Court judgement in interpreting and applying Australian law, such as the Mabo decision or the construction of the Hindmarsh Island Bridge*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
+* **C&C 10**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS097)
   * *critically analysing published material relevant to civics and citizenship topics and issues to assess reliability and purpose (for example, NGO fundraising material or a government information campaign)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
  (ACHEK041)
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
   * *explaining assumptions or missing information in sources that may affect the reliability of an opinion about the issue*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *organising the data and information collected into a form that shows the different perspectives around an issue/event (for example, the impact of global events on participants in the Australian economy)*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
+* **E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
   * *developing texts for different audiences such as peers, businesses, the public, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
+* **E&B 9**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES049)
   * *discussing and reflecting on the outcomes of a decision and identifying those that were intended or unintended*
-* **E&B**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
+* **E&B 10**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
   * *categorising and interpreting data and information collected into a form that shows multiple perspectives around an issue/event*
-* **E&B**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
+* **E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
   * *developing texts for different audiences such as peers, businesses, the public, a business manager/entrepreneur, and for different purposes (for example, to persuade or inform)*
-* **E&B**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
+* **E&B 10**: Reflect on the intended and unintended consequences of economic and business decisions (ACHES061)
   * *discussing the outcomes of a decision, identifying those that were intended and unintended and reflecting on strategies that may address the unintended consequences*
 
 ### Contribute to civil society
@@ -5089,24 +5089,24 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Media**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
+* **Media 9-10**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
   * *investigating the differences between government regulation and self-regulation, for example, researching Australia’s classification system and its relationship to audience, and explaining how it affects themselves and the production and reception of media artworks*
   * *research viral marketing campaigns and examine the social and ethical implications that arise in relation to choice of different platforms as drivers of distribution*
   * *explore the role of media makers in challenging prevailing views on issues of contemporary relevance, for example, social and cultural issues presented in Australian film and television*
   * *identifying a variety of ways in which media can be produced, including through sole digital producers, cross-media organisations, public and private sector, and multinational organisations*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
+* **D&T 9-10**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
  (ACTDEK044)
   * *examining emerging production technologies and methods in terms of productivity, profitability and sustainability, for example vertical farming, recirculation technologies in aquaculture*
   * *investigating how digital technologies could be used to enhance food production systems, for example global positioning system (GPS) for managing animals, crop sensors or automated animal feeding or milking*
@@ -5114,111 +5114,111 @@ Interpret and analyse learning area texts*
   * *investigating the interdependence of plants and animals in food and fibre production*
   * *examining the marketing chain of a range of agricultural products and outlining the effect of product processing and advertising on demand and price*
   * *taking account of animal welfare considerations in food and fibre production enterprises*
-* **D&T**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *examining factors influencing the design of a product that has an explicit environmental emphasis, for example the low-flush toilet*
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
   * *critiquing the social nature of services, for example a signage system to manage students and community members during a school function (signs may include words, pictures and/or braille); organisational system for an aged-care facility*
   * *critiquing environments in relation to preferred futures in relation to society, ethics and sustainability practices, for example the refurbishment of a local playground; the re-design of a local wetland*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **DT**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
   * *investigating major causes of threats to data, for example human actions such as losing a storage device, disclosing passwords, theft and fraud*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *examining the ICT policy for schooling and evaluating the impact on education*
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **Hist**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
+* **Hist 10**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
   * *describing accounts of the past experiences of Aboriginal and Torres Strait Islander people who were forcibly removed from their families*
-* **Hist**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
+* **Hist 10**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
   * *describing the aims, tactics and outcomes of a particular event in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
   * *identifying areas (for example, education, health, work) that are the focus for continued civil rights action for Aboriginal and Torres Strait Islander Peoples*
-* **Hist**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
+* **Geo 9**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
   * *presenting an oral response, supported by visual aids including maps, to communicate a reasoned argument about a contemporary geographical issue, and responding to questions*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
   * *evaluating the concept of ecosystem services and the importance of these services for sustainability of biodiversity*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
+* **Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
   * *examining the interconnections between biophysical processes and human actions that generate environmental change, together with the consequences of these changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
   * *exploring the variety of solutions to similar environmental changes in different places*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
   * *identifying ways to improve the wellbeing of remote Aboriginal or Torres Strait Islander communities, including ways proposed by the communities*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
   * *developing an evidence-based argument which recognises different interpretations (for example, about the role of social media in contemporary debates)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
 
 #### **Level 3**: identify the various communities to which they belong and what they can do to make a difference
@@ -5259,24 +5259,24 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Media**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
+* **Media 9-10**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
   * *investigating the differences between government regulation and self-regulation, for example, researching Australia’s classification system and its relationship to audience, and explaining how it affects themselves and the production and reception of media artworks*
   * *research viral marketing campaigns and examine the social and ethical implications that arise in relation to choice of different platforms as drivers of distribution*
   * *explore the role of media makers in challenging prevailing views on issues of contemporary relevance, for example, social and cultural issues presented in Australian film and television*
   * *identifying a variety of ways in which media can be produced, including through sole digital producers, cross-media organisations, public and private sector, and multinational organisations*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
+* **D&T 9-10**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
  (ACTDEK044)
   * *examining emerging production technologies and methods in terms of productivity, profitability and sustainability, for example vertical farming, recirculation technologies in aquaculture*
   * *investigating how digital technologies could be used to enhance food production systems, for example global positioning system (GPS) for managing animals, crop sensors or automated animal feeding or milking*
@@ -5284,111 +5284,111 @@ Interpret and analyse learning area texts*
   * *investigating the interdependence of plants and animals in food and fibre production*
   * *examining the marketing chain of a range of agricultural products and outlining the effect of product processing and advertising on demand and price*
   * *taking account of animal welfare considerations in food and fibre production enterprises*
-* **D&T**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *examining factors influencing the design of a product that has an explicit environmental emphasis, for example the low-flush toilet*
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
   * *critiquing the social nature of services, for example a signage system to manage students and community members during a school function (signs may include words, pictures and/or braille); organisational system for an aged-care facility*
   * *critiquing environments in relation to preferred futures in relation to society, ethics and sustainability practices, for example the refurbishment of a local playground; the re-design of a local wetland*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **DT**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
   * *investigating major causes of threats to data, for example human actions such as losing a storage device, disclosing passwords, theft and fraud*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *examining the ICT policy for schooling and evaluating the impact on education*
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **Hist**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
+* **Hist 10**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
   * *describing accounts of the past experiences of Aboriginal and Torres Strait Islander people who were forcibly removed from their families*
-* **Hist**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
+* **Hist 10**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
   * *describing the aims, tactics and outcomes of a particular event in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
   * *identifying areas (for example, education, health, work) that are the focus for continued civil rights action for Aboriginal and Torres Strait Islander Peoples*
-* **Hist**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
+* **Geo 9**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
   * *presenting an oral response, supported by visual aids including maps, to communicate a reasoned argument about a contemporary geographical issue, and responding to questions*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
   * *evaluating the concept of ecosystem services and the importance of these services for sustainability of biodiversity*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
+* **Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
   * *examining the interconnections between biophysical processes and human actions that generate environmental change, together with the consequences of these changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
   * *exploring the variety of solutions to similar environmental changes in different places*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
   * *identifying ways to improve the wellbeing of remote Aboriginal or Torres Strait Islander communities, including ways proposed by the communities*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
   * *developing an evidence-based argument which recognises different interpretations (for example, about the role of social media in contemporary debates)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
 
 #### **Level 4**: identify a community need or problem and consider ways to take action to address it
@@ -5451,24 +5451,24 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Media**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
+* **Media 9-10**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
   * *investigating the differences between government regulation and self-regulation, for example, researching Australia’s classification system and its relationship to audience, and explaining how it affects themselves and the production and reception of media artworks*
   * *research viral marketing campaigns and examine the social and ethical implications that arise in relation to choice of different platforms as drivers of distribution*
   * *explore the role of media makers in challenging prevailing views on issues of contemporary relevance, for example, social and cultural issues presented in Australian film and television*
   * *identifying a variety of ways in which media can be produced, including through sole digital producers, cross-media organisations, public and private sector, and multinational organisations*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
+* **D&T 9-10**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
  (ACTDEK044)
   * *examining emerging production technologies and methods in terms of productivity, profitability and sustainability, for example vertical farming, recirculation technologies in aquaculture*
   * *investigating how digital technologies could be used to enhance food production systems, for example global positioning system (GPS) for managing animals, crop sensors or automated animal feeding or milking*
@@ -5476,111 +5476,111 @@ Interpret and analyse learning area texts*
   * *investigating the interdependence of plants and animals in food and fibre production*
   * *examining the marketing chain of a range of agricultural products and outlining the effect of product processing and advertising on demand and price*
   * *taking account of animal welfare considerations in food and fibre production enterprises*
-* **D&T**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *examining factors influencing the design of a product that has an explicit environmental emphasis, for example the low-flush toilet*
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
   * *critiquing the social nature of services, for example a signage system to manage students and community members during a school function (signs may include words, pictures and/or braille); organisational system for an aged-care facility*
   * *critiquing environments in relation to preferred futures in relation to society, ethics and sustainability practices, for example the refurbishment of a local playground; the re-design of a local wetland*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **DT**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
   * *investigating major causes of threats to data, for example human actions such as losing a storage device, disclosing passwords, theft and fraud*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *examining the ICT policy for schooling and evaluating the impact on education*
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **Hist**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
+* **Hist 10**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
   * *describing accounts of the past experiences of Aboriginal and Torres Strait Islander people who were forcibly removed from their families*
-* **Hist**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
+* **Hist 10**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
   * *describing the aims, tactics and outcomes of a particular event in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
   * *identifying areas (for example, education, health, work) that are the focus for continued civil rights action for Aboriginal and Torres Strait Islander Peoples*
-* **Hist**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
+* **Geo 9**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
   * *presenting an oral response, supported by visual aids including maps, to communicate a reasoned argument about a contemporary geographical issue, and responding to questions*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
   * *evaluating the concept of ecosystem services and the importance of these services for sustainability of biodiversity*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
+* **Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
   * *examining the interconnections between biophysical processes and human actions that generate environmental change, together with the consequences of these changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
   * *exploring the variety of solutions to similar environmental changes in different places*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
   * *identifying ways to improve the wellbeing of remote Aboriginal or Torres Strait Islander communities, including ways proposed by the communities*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
   * *developing an evidence-based argument which recognises different interpretations (for example, about the role of social media in contemporary debates)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
 
 #### **Level 5**: analyse personal and social roles and responsibilities in planning and implementing ways of contributing to their communities
@@ -5756,24 +5756,24 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Media**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
+* **Media 9-10**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
   * *investigating the differences between government regulation and self-regulation, for example, researching Australia’s classification system and its relationship to audience, and explaining how it affects themselves and the production and reception of media artworks*
   * *research viral marketing campaigns and examine the social and ethical implications that arise in relation to choice of different platforms as drivers of distribution*
   * *explore the role of media makers in challenging prevailing views on issues of contemporary relevance, for example, social and cultural issues presented in Australian film and television*
   * *identifying a variety of ways in which media can be produced, including through sole digital producers, cross-media organisations, public and private sector, and multinational organisations*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
+* **D&T 9-10**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
  (ACTDEK044)
   * *examining emerging production technologies and methods in terms of productivity, profitability and sustainability, for example vertical farming, recirculation technologies in aquaculture*
   * *investigating how digital technologies could be used to enhance food production systems, for example global positioning system (GPS) for managing animals, crop sensors or automated animal feeding or milking*
@@ -5781,111 +5781,111 @@ Interpret and analyse learning area texts*
   * *investigating the interdependence of plants and animals in food and fibre production*
   * *examining the marketing chain of a range of agricultural products and outlining the effect of product processing and advertising on demand and price*
   * *taking account of animal welfare considerations in food and fibre production enterprises*
-* **D&T**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *examining factors influencing the design of a product that has an explicit environmental emphasis, for example the low-flush toilet*
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
   * *critiquing the social nature of services, for example a signage system to manage students and community members during a school function (signs may include words, pictures and/or braille); organisational system for an aged-care facility*
   * *critiquing environments in relation to preferred futures in relation to society, ethics and sustainability practices, for example the refurbishment of a local playground; the re-design of a local wetland*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **DT**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
   * *investigating major causes of threats to data, for example human actions such as losing a storage device, disclosing passwords, theft and fraud*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *examining the ICT policy for schooling and evaluating the impact on education*
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **Hist**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
+* **Hist 10**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
   * *describing accounts of the past experiences of Aboriginal and Torres Strait Islander people who were forcibly removed from their families*
-* **Hist**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
+* **Hist 10**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
   * *describing the aims, tactics and outcomes of a particular event in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
   * *identifying areas (for example, education, health, work) that are the focus for continued civil rights action for Aboriginal and Torres Strait Islander Peoples*
-* **Hist**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
+* **Geo 9**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
   * *presenting an oral response, supported by visual aids including maps, to communicate a reasoned argument about a contemporary geographical issue, and responding to questions*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
   * *evaluating the concept of ecosystem services and the importance of these services for sustainability of biodiversity*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
+* **Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
   * *examining the interconnections between biophysical processes and human actions that generate environmental change, together with the consequences of these changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
   * *exploring the variety of solutions to similar environmental changes in different places*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
   * *identifying ways to improve the wellbeing of remote Aboriginal or Torres Strait Islander communities, including ways proposed by the communities*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
   * *developing an evidence-based argument which recognises different interpretations (for example, about the role of social media in contemporary debates)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
 
 #### **Level 6**: plan, implement and evaluate ways of contributing to civil society at local, national regional and global levels
@@ -5989,24 +5989,24 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *considering how choices related to the use of fuels are influenced by environmental considerations*
-* **Media**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
+* **Media 9-10**: Analyse a range of media artworks from contemporary and past times to explore differing viewpoints and enrich their media arts making, starting with Australian media artworks, including media artworks of Aboriginal and Torres Strait Islander Peoples, and international media artworks (ACAMAR079)
   * *investigating the differences between government regulation and self-regulation, for example, researching Australia’s classification system and its relationship to audience, and explaining how it affects themselves and the production and reception of media artworks*
   * *research viral marketing campaigns and examine the social and ethical implications that arise in relation to choice of different platforms as drivers of distribution*
   * *explore the role of media makers in challenging prevailing views on issues of contemporary relevance, for example, social and cultural issues presented in Australian film and television*
   * *identifying a variety of ways in which media can be produced, including through sole digital producers, cross-media organisations, public and private sector, and multinational organisations*
-* **Media**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
+* **D&T 9-10**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
  (ACTDEK044)
   * *examining emerging production technologies and methods in terms of productivity, profitability and sustainability, for example vertical farming, recirculation technologies in aquaculture*
   * *investigating how digital technologies could be used to enhance food production systems, for example global positioning system (GPS) for managing animals, crop sensors or automated animal feeding or milking*
@@ -6014,111 +6014,111 @@ Interpret and analyse learning area texts*
   * *investigating the interdependence of plants and animals in food and fibre production*
   * *examining the marketing chain of a range of agricultural products and outlining the effect of product processing and advertising on demand and price*
   * *taking account of animal welfare considerations in food and fibre production enterprises*
-* **D&T**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *examining factors influencing the design of a product that has an explicit environmental emphasis, for example the low-flush toilet*
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
   * *critiquing the social nature of services, for example a signage system to manage students and community members during a school function (signs may include words, pictures and/or braille); organisational system for an aged-care facility*
   * *critiquing environments in relation to preferred futures in relation to society, ethics and sustainability practices, for example the refurbishment of a local playground; the re-design of a local wetland*
-* **D&T**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
   * *considering the needs of community groups to identify rich design tasks*
-* **DT**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
   * *investigating major causes of threats to data, for example human actions such as losing a storage device, disclosing passwords, theft and fraud*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *examining the ICT policy for schooling and evaluating the impact on education*
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *asserting their stance on a situation, dilemma or decision by expressing thoughts, opinions and beliefs that acknowledge the feelings of others*
   * *assessing behavioural expectations in different relationships and social situations, and examining how these expectations can influence decisions and actions*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **Hist**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
+* **Hist 10**: Background to the struggle of Aboriginal and Torres Strait Islander Peoples for rights and freedoms before 1965, including the 1938 Day of Mourning and the Stolen Generations (ACDSEH104)
   * *describing accounts of the past experiences of Aboriginal and Torres Strait Islander people who were forcibly removed from their families*
-* **Hist**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
+* **Hist 10**: The significance of the following for the civil rights of Aboriginal and Torres Strait Islander Peoples: 1962 right to vote federally; 1967 Referendum; Reconciliation; Mabo decision; Bringing Them Home Report (the Stolen Generations), the Apology (ACDSEH106)
   * *describing the aims, tactics and outcomes of a particular event in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
   * *identifying areas (for example, education, health, work) that are the focus for continued civil rights action for Aboriginal and Torres Strait Islander Peoples*
-* **Hist**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
+* **Hist 10**: The impact of at least ONE world event or development and its significance for Australia, such as the Vietnam War and Indochinese refugees (ACDSEH146)
   * *describing the impact of the Vietnam war on Vietnam and how the communist victory in Vietnam (1975) resulted in the arrival of refugees into Australia*
-* **Hist**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
+* **Hist 10**: The growth and influence of the environment movement within Australia and overseas, and developments in ideas about the environment including the concept of ‘sustainability’ (ACDSEH126)
   * *recognising the historic impact of the pictures of Earth taken during the Apollo 8 mission and how they influenced people’s view of the world*
   * *explaining the significance of ideas about the environment (for example, Gaia – the interaction of Earth and its biosphere; limits of growth – that unlimited growth is unsustainable; sustainability – that biological systems need to remain diverse and productive over time; and rights of nature – recognition that humans and their natural environment are closely interrelated)*
-* **Hist**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
   * *explaining the struggle over French nuclear weapon testing in the Pacific 1966–1996 (for example, the sinking of the ship, the Rainbow Warrior, in 1985)*
-* **Hist**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
   * *explaining the responses of governments and organisations to environmental threats (for example, New Zealand’s anti-nuclear policy, the United States’ Comprehensive Environmental Response, Compensation and Liability Act 1980 (CERCLA), Australia’s first Great Barrier Reef Outlook Report (2009)*
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
+* **Geo 9**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
   * *presenting an oral response, supported by visual aids including maps, to communicate a reasoned argument about a contemporary geographical issue, and responding to questions*
-* **Geo**: Human-induced environmental changes that challenge sustainability
+* **Geo 10**: Human-induced environmental changes that challenge sustainability
  (ACHGK070)
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
   * *evaluating the concept of ecosystem services and the importance of these services for sustainability of biodiversity*
-* **Geo**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
+* **Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
   * *examining the interconnections between biophysical processes and human actions that generate environmental change, together with the consequences of these changes*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
   * *exploring the variety of solutions to similar environmental changes in different places*
-* **Geo**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
   * *identifying ways to improve the wellbeing of remote Aboriginal or Torres Strait Islander communities, including ways proposed by the communities*
-* **Geo**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
   * *developing an evidence-based argument which recognises different interpretations (for example, about the role of social media in contemporary debates)*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
   * *discussing how social media is used to influence people’s understanding of issues*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
   * *examining factors that can undermine the application of the principles of justice (for example, bribery, coercion of witnesses, trial by media and court delays)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *comparing and contrasting the varying policies of different political groups on an issue*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
-* **C&C**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
+* **C&C 10**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS101)
   * *using a range of relevant evidence to persuade an audience to a point of view about how to sustain a resilient democracy*
 
 ### Understand relationships
@@ -6147,43 +6147,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *exploring external influences on sexuality and sexual health behaviours, and recognising the impact that decisions and actions can have on own and others’ health and wellbeing*
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **C&C**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
+* **C&C 9**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
   * *investigating the development and implementation of policy and the role of the public service in Australia, including the role of the Prime Minister and Cabinet in proposing policy and the role of parliament in debating it*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
-* **C&C**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
+* **C&C 10**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
   * *developing a plan for action that takes into account challenges, opportunities, risks and strategies to respond to a civics and citizenship issue*
   * *using democratic processes to decide on criteria that can be used to evaluate plans for action to addresses a civics and citizenship issue*
-* **C&C**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
+* **C&C 10**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
   * *discussing the implications of living in an interconnected world and what this could mean for active and informed citizenship*
-* **C&C**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
+* **C&C 10**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
   * *interviewing people with connections to a country in the Asia region to compare the values they associate with the system of government in that country with those of Australia*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
 
 #### **Level 3**: describe factors that contribute to positive relationships, including with people at school and in their community
@@ -6229,43 +6229,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *exploring external influences on sexuality and sexual health behaviours, and recognising the impact that decisions and actions can have on own and others’ health and wellbeing*
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **C&C**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
+* **C&C 9**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
   * *investigating the development and implementation of policy and the role of the public service in Australia, including the role of the Prime Minister and Cabinet in proposing policy and the role of parliament in debating it*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
-* **C&C**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
+* **C&C 10**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
   * *developing a plan for action that takes into account challenges, opportunities, risks and strategies to respond to a civics and citizenship issue*
   * *using democratic processes to decide on criteria that can be used to evaluate plans for action to addresses a civics and citizenship issue*
-* **C&C**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
+* **C&C 10**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
   * *discussing the implications of living in an interconnected world and what this could mean for active and informed citizenship*
-* **C&C**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
+* **C&C 10**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
   * *interviewing people with connections to a country in the Asia region to compare the values they associate with the system of government in that country with those of Australia*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
 
 #### **Level 4**: identify the differences between positive and negative relationships and ways of managing these
@@ -6300,43 +6300,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *exploring external influences on sexuality and sexual health behaviours, and recognising the impact that decisions and actions can have on own and others’ health and wellbeing*
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **C&C**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
+* **C&C 9**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
   * *investigating the development and implementation of policy and the role of the public service in Australia, including the role of the Prime Minister and Cabinet in proposing policy and the role of parliament in debating it*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
-* **C&C**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
+* **C&C 10**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
   * *developing a plan for action that takes into account challenges, opportunities, risks and strategies to respond to a civics and citizenship issue*
   * *using democratic processes to decide on criteria that can be used to evaluate plans for action to addresses a civics and citizenship issue*
-* **C&C**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
+* **C&C 10**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
   * *discussing the implications of living in an interconnected world and what this could mean for active and informed citizenship*
-* **C&C**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
+* **C&C 10**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
   * *interviewing people with connections to a country in the Asia region to compare the values they associate with the system of government in that country with those of Australia*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
 
 #### **Level 5**: identify indicators of possible problems in relationships in a range of social and work related situations
@@ -6416,43 +6416,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *exploring external influences on sexuality and sexual health behaviours, and recognising the impact that decisions and actions can have on own and others’ health and wellbeing*
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **C&C**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
+* **C&C 9**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
   * *investigating the development and implementation of policy and the role of the public service in Australia, including the role of the Prime Minister and Cabinet in proposing policy and the role of parliament in debating it*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
-* **C&C**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
+* **C&C 10**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
   * *developing a plan for action that takes into account challenges, opportunities, risks and strategies to respond to a civics and citizenship issue*
   * *using democratic processes to decide on criteria that can be used to evaluate plans for action to addresses a civics and citizenship issue*
-* **C&C**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
+* **C&C 10**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
   * *discussing the implications of living in an interconnected world and what this could mean for active and informed citizenship*
-* **C&C**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
+* **C&C 10**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
   * *interviewing people with connections to a country in the Asia region to compare the values they associate with the system of government in that country with those of Australia*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
 
 #### **Level 6**: explain how relationships differ between peers, parents, teachers and other adults, and identify the skills needed to manage different types of relationships
@@ -6510,43 +6510,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **DT**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
+* **DT 9-10**: Evaluate critically how student solutions and existing information systems and policies, take account of future risks and sustainability and provide opportunities for innovation and enterprise
  (ACTDIP042)
   * *reviewing the ‘terms of use’ policies on social media networks and predicting ways in which these can support advocacy of change and protection of individuals and societies*
   * *reviewing state, national and regional policies and analysing the potential impact of each. Examples of policies include:*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *exploring external influences on sexuality and sexual health behaviours, and recognising the impact that decisions and actions can have on own and others’ health and wellbeing*
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **C&C**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
+* **C&C 9**: The process through which government policy is shaped and developed, including the role of Prime Minister and Cabinet (ACHCK103)
   * *investigating the development and implementation of policy and the role of the public service in Australia, including the role of the Prime Minister and Cabinet in proposing policy and the role of parliament in debating it*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
-* **C&C**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
+* **C&C 9**: The key principles of Australia’s justice system, including equality before the law, independent judiciary, and right of appeal (ACHCK078)
   * *describing what is meant by each principle and how each works to protect citizens and contribute to a fair society*
-* **C&C**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
+* **C&C 10**: Use democratic processes to reach consensus on a course of action relating to a civics or citizenship issue and plan for that action (ACHCS100)
   * *developing a plan for action that takes into account challenges, opportunities, risks and strategies to respond to a civics and citizenship issue*
   * *using democratic processes to decide on criteria that can be used to evaluate plans for action to addresses a civics and citizenship issue*
-* **C&C**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
+* **C&C 10**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
   * *discussing the implications of living in an interconnected world and what this could mean for active and informed citizenship*
-* **C&C**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
+* **C&C 10**: The key features and values of Australia’s system of government compared with at least ONE other system of government in the Asia region (ACHCK090)
   * *interviewing people with connections to a country in the Asia region to compare the values they associate with the system of government in that country with those of Australia*
-* **C&C**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
+* **C&C 10**: The Australian Government’s role and responsibilities at a global level, for example provision of foreign aid, peacekeeping, participation in international organisations and the United Nations  (ACHCK091)
   * *exploring the types of participation that Australia has in the Asia region and internationally (for example, exchange programs, peacekeeping, election monitoring, health programs, disaster management)*
 
 ## Social management
@@ -6666,68 +6666,68 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, presenting a point of view and listening to other viewpoints, and negotiating an agreed position on an issue*
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
   * *adapting voice effects, such as tone, volume, pitch, pauses and change of pace, for their specific effects such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Drama**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
  (ACADRM050)
   * *focusing and strengthening the dramatic action by manipulating pace in movement and dialogue, cues, vocal tone, physical proximity between characters and transitions*
   * *structuring the performance space to convey dramatic meaning and sense of style for an audience*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *communicating using appropriate technical terms and recording the generation and development of design ideas for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicates each step of a design process*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
   * *discussing the responsibilities of government in improving the conditions of workers (for example, work health and safety, equal employment opportunity, anti-discrimination laws)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *exploring Australia's interdependence with other economies and brainstorming the ways that consumers, producers, workers and governments interact with other economies*
 
 #### **Level 3**: identify communication skills that enhance relationships for particular groups and purposes
@@ -6763,68 +6763,68 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, presenting a point of view and listening to other viewpoints, and negotiating an agreed position on an issue*
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
   * *adapting voice effects, such as tone, volume, pitch, pauses and change of pace, for their specific effects such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Drama**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
  (ACADRM050)
   * *focusing and strengthening the dramatic action by manipulating pace in movement and dialogue, cues, vocal tone, physical proximity between characters and transitions*
   * *structuring the performance space to convey dramatic meaning and sense of style for an audience*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *communicating using appropriate technical terms and recording the generation and development of design ideas for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicates each step of a design process*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
   * *discussing the responsibilities of government in improving the conditions of workers (for example, work health and safety, equal employment opportunity, anti-discrimination laws)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *exploring Australia's interdependence with other economies and brainstorming the ways that consumers, producers, workers and governments interact with other economies*
 
 #### **Level 4**: identify and explain factors that influence effective communication in a variety of situations
@@ -6884,68 +6884,68 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, presenting a point of view and listening to other viewpoints, and negotiating an agreed position on an issue*
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
   * *adapting voice effects, such as tone, volume, pitch, pauses and change of pace, for their specific effects such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Drama**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
  (ACADRM050)
   * *focusing and strengthening the dramatic action by manipulating pace in movement and dialogue, cues, vocal tone, physical proximity between characters and transitions*
   * *structuring the performance space to convey dramatic meaning and sense of style for an audience*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *communicating using appropriate technical terms and recording the generation and development of design ideas for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicates each step of a design process*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
   * *discussing the responsibilities of government in improving the conditions of workers (for example, work health and safety, equal employment opportunity, anti-discrimination laws)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *exploring Australia's interdependence with other economies and brainstorming the ways that consumers, producers, workers and governments interact with other economies*
 
 #### **Level 5**: analyse enablers of and barriers to effective verbal, nonverbal and digital communication
@@ -6981,68 +6981,68 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, presenting a point of view and listening to other viewpoints, and negotiating an agreed position on an issue*
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
   * *adapting voice effects, such as tone, volume, pitch, pauses and change of pace, for their specific effects such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Drama**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
  (ACADRM050)
   * *focusing and strengthening the dramatic action by manipulating pace in movement and dialogue, cues, vocal tone, physical proximity between characters and transitions*
   * *structuring the performance space to convey dramatic meaning and sense of style for an audience*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *communicating using appropriate technical terms and recording the generation and development of design ideas for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicates each step of a design process*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
   * *discussing the responsibilities of government in improving the conditions of workers (for example, work health and safety, equal employment opportunity, anti-discrimination laws)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *exploring Australia's interdependence with other economies and brainstorming the ways that consumers, producers, workers and governments interact with other economies*
 
 #### **Level 6**: formulate plans for effective communication (verbal, nonverbal, digital) to complete complex tasks
@@ -7080,68 +7080,68 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, presenting a point of view and listening to other viewpoints, and negotiating an agreed position on an issue*
   * *selecting voice effects such as tone, volume, pitch and pace for their specific effects, such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, activating prior knowledge to assess the credibility of a speaker’s assertions, and summarising alternative views on an issue*
   * *adapting voice effects, such as tone, volume, pitch, pauses and change of pace, for their specific effects such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *creating spoken, written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *presenting results and ideas using formal experimental reports, oral presentations, slide shows, poster presentations and contributing to group discussions*
-* **Drama**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
  (ACADRM050)
   * *focusing and strengthening the dramatic action by manipulating pace in movement and dialogue, cues, vocal tone, physical proximity between characters and transitions*
   * *structuring the performance space to convey dramatic meaning and sense of style for an audience*
-* **Drama**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
   * *evaluating how ideas and emotions shape the expressive qualities and staging of forms and styles in their own and others’ drama*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *explaining safe working practices required for a specific classroom design project for individual or community use*
-* **D&T**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *communicating using appropriate technical terms and recording the generation and development of design ideas for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicates each step of a design process*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Examine the impact of changes and transitions on relationships (ACPPS090)
+* **HPE 9-10**: Examine the impact of changes and transitions on relationships (ACPPS090)
   * *practising skills to deal with challenging or unsafe situations, such as refusal skills, communicating choices, expressing opinions and initiating contingency plans*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Hist**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
+* **Hist 9**: The short and long-term impacts of ONE of these ideas on Australia and the world (ACDSEH088)
   * *assessing the impact of a key idea in Australia and elsewhere (for example, the effect of increasing nationalist sentiment in Australia in the mid- to late nineteenth century or the effects of Chartism on democracy in Britain or on the Victorian goldfields)*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
-* **E&B**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
   * *discussing the responsibilities of government in improving the conditions of workers (for example, work health and safety, equal employment opportunity, anti-discrimination laws)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *exploring Australia's interdependence with other economies and brainstorming the ways that consumers, producers, workers and governments interact with other economies*
 
 ### Work collaboratively
@@ -7201,65 +7201,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, such as debating a topic with a team from another school, creating a voiceover for a media presentation, and adapting language devices such as evaluative language, cause and effect, anecdotes and humour for particular effects*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *collaborating as a member of a drama team by directing the blocking and staging of dramatic action to communicate intended meaning(s) for an audience*
   * *collaborating to undertake responsibilities in interpreting, rehearsing and performing drama such as stage manager, designer, etc.*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *discussing film work they have made and viewed to identify and explain how technical and symbolic elements, such as camera techniques, editing, sound rhythm and mise-en-scène, evoke a personal response such as excitement or fear, or convey an issue or idea such as differing opinions about climate change*
-* **Music**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
+* **Music 9-10**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
   * *rehearsing solo and ensemble repertoire to develop technical skill and musical sensitivity*
   * *rehearsing and refining solo and ensemble repertoire with an increasing stylistic understanding*
   * *working collaboratively to develop ensemble skills and an understanding of the role of each member of the ensemble in a performance.*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
   * *examining policies and processes for ensuring safe blood practices when participating in physical activities*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 3**: describe characteristics of cooperative behaviour and identify evidence of these in group activities
@@ -7300,65 +7300,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, such as debating a topic with a team from another school, creating a voiceover for a media presentation, and adapting language devices such as evaluative language, cause and effect, anecdotes and humour for particular effects*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *collaborating as a member of a drama team by directing the blocking and staging of dramatic action to communicate intended meaning(s) for an audience*
   * *collaborating to undertake responsibilities in interpreting, rehearsing and performing drama such as stage manager, designer, etc.*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *discussing film work they have made and viewed to identify and explain how technical and symbolic elements, such as camera techniques, editing, sound rhythm and mise-en-scène, evoke a personal response such as excitement or fear, or convey an issue or idea such as differing opinions about climate change*
-* **Music**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
+* **Music 9-10**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
   * *rehearsing solo and ensemble repertoire to develop technical skill and musical sensitivity*
   * *rehearsing and refining solo and ensemble repertoire with an increasing stylistic understanding*
   * *working collaboratively to develop ensemble skills and an understanding of the role of each member of the ensemble in a performance.*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
   * *examining policies and processes for ensuring safe blood practices when participating in physical activities*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 4**: contribute to groups and teams, suggesting improvements in methods used for group investigations and projects
@@ -7404,65 +7404,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, such as debating a topic with a team from another school, creating a voiceover for a media presentation, and adapting language devices such as evaluative language, cause and effect, anecdotes and humour for particular effects*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *collaborating as a member of a drama team by directing the blocking and staging of dramatic action to communicate intended meaning(s) for an audience*
   * *collaborating to undertake responsibilities in interpreting, rehearsing and performing drama such as stage manager, designer, etc.*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *discussing film work they have made and viewed to identify and explain how technical and symbolic elements, such as camera techniques, editing, sound rhythm and mise-en-scène, evoke a personal response such as excitement or fear, or convey an issue or idea such as differing opinions about climate change*
-* **Music**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
+* **Music 9-10**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
   * *rehearsing solo and ensemble repertoire to develop technical skill and musical sensitivity*
   * *rehearsing and refining solo and ensemble repertoire with an increasing stylistic understanding*
   * *working collaboratively to develop ensemble skills and an understanding of the role of each member of the ensemble in a performance.*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
   * *examining policies and processes for ensuring safe blood practices when participating in physical activities*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 5**: assess the extent to which individual roles and responsibilities enhance group cohesion and the achievement of personal and group objectives
@@ -7492,65 +7492,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, such as debating a topic with a team from another school, creating a voiceover for a media presentation, and adapting language devices such as evaluative language, cause and effect, anecdotes and humour for particular effects*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *collaborating as a member of a drama team by directing the blocking and staging of dramatic action to communicate intended meaning(s) for an audience*
   * *collaborating to undertake responsibilities in interpreting, rehearsing and performing drama such as stage manager, designer, etc.*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *discussing film work they have made and viewed to identify and explain how technical and symbolic elements, such as camera techniques, editing, sound rhythm and mise-en-scène, evoke a personal response such as excitement or fear, or convey an issue or idea such as differing opinions about climate change*
-* **Music**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
+* **Music 9-10**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
   * *rehearsing solo and ensemble repertoire to develop technical skill and musical sensitivity*
   * *rehearsing and refining solo and ensemble repertoire with an increasing stylistic understanding*
   * *working collaboratively to develop ensemble skills and an understanding of the role of each member of the ensemble in a performance.*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
   * *examining policies and processes for ensuring safe blood practices when participating in physical activities*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 6**: critique their ability to devise and enact strategies for working in diverse teams, drawing on the skills and contributions of team members to complete complex tasks
@@ -7574,65 +7574,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
-* **English**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
+* **English 10**: Understand that people’s evaluations of texts are influenced by their value systems, the context and the purpose and mode of communication (ACELA1565)
   * *considering whether ethical judgements of good, bad, right or wrong are absolute or relative through consideration of texts with varying points of view and through discussion with others*
-* **English**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
   * *participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations*
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, such as debating a topic with a team from another school, creating a voiceover for a media presentation, and adapting language devices such as evaluative language, cause and effect, anecdotes and humour for particular effects*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
+* **Science 9**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS174)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Science**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
+* **Science 10**: Communicate scientific ideas and information for a particular purpose, including constructing evidence-based arguments and using appropriate scientific language, conventions and representations (ACSIS208)
   * *using the internet to facilitate collaboration in joint projects and discussions*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Drama**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
  (ACADRM051)
   * *collaborating as a member of a drama team by directing the blocking and staging of dramatic action to communicate intended meaning(s) for an audience*
   * *collaborating to undertake responsibilities in interpreting, rehearsing and performing drama such as stage manager, designer, etc.*
-* **Media**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
  (ACAMAM075)
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *discussing film work they have made and viewed to identify and explain how technical and symbolic elements, such as camera techniques, editing, sound rhythm and mise-en-scène, evoke a personal response such as excitement or fear, or convey an issue or idea such as differing opinions about climate change*
-* **Music**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
+* **Music 9-10**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
   * *rehearsing solo and ensemble repertoire to develop technical skill and musical sensitivity*
   * *rehearsing and refining solo and ensemble repertoire with an increasing stylistic understanding*
   * *working collaboratively to develop ensemble skills and an understanding of the role of each member of the ensemble in a performance.*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *working individually and/or collaboratively with others to test and document audience reactions to selected artworks, for example, a selection of artworks that represent different aspects of persuasion*
-* **D&T**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
   * *experimenting with innovative combinations and ways of manipulating traditional and contemporary materials, components, tools, equipment and techniques, and recording findings in a collaborative space to debate the merits of each with peers*
-* **HPE**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
   * *proposing and practising a range of realistic responses to scenarios where peers are encouraging them to take unnecessary risks*
   * *examining policies and processes for ensuring safe blood practices when participating in physical activities*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *critiquing and selecting the most suitable and reliable sources of health information according to the decision that needs to be made*
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **HPE**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
+* **HPE 9-10**: Reflect on how fair play and ethical behaviour can influence the outcomes of movement activities (ACPMP107)
   * *discussing the role in promoting fairness and ethical behaviour in sport of organisations such as the Australian Sports Anti-Doping Authority, sporting tribunals, Australian Human Rights Commission and the Court of Arbitration for Sport*
-* **Geo**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **C&C**: How citizens’ political choices are shaped, including the influence of the media
+* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
  (ACHCK076)
   * *discussing how social media is used to influence people’s understanding of issues*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 ### Make decisions
@@ -7658,40 +7658,40 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
  (ACAMUM102)
   * *experimenting with contemporary media and recording techniques to create and refine original compositions and arrangements*
-* **DT**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
+* **DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
   * *testing a range of text and graphical user interface designs with clients who have different needs on the basis of time taken to complete the task and the number of errors made*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *examining local fast-food options, making healthy selections and advocating healthy choices to peers*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
   * *demonstrating and advocating appropriate bystander behaviour when participating in online interactions, for example in situations where another person's photo has been tagged without permission, sexting and posting explicit content*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
+* **E&B 9**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
   * *using a range of criteria (social, economic, environmental) to select and justify a preferred option*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
+* **E&B 10**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
   * *deciding on a potential major purchase (for example, a car, investigating options, calculating the costs of different purchasing methods and estimating the long-term costs and benefits of owning the asset and repaying the debt)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 3**: contribute to and predict the consequences of group decisions in a range of situations
@@ -7716,40 +7716,40 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
  (ACAMUM102)
   * *experimenting with contemporary media and recording techniques to create and refine original compositions and arrangements*
-* **DT**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
+* **DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
   * *testing a range of text and graphical user interface designs with clients who have different needs on the basis of time taken to complete the task and the number of errors made*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *examining local fast-food options, making healthy selections and advocating healthy choices to peers*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
   * *demonstrating and advocating appropriate bystander behaviour when participating in online interactions, for example in situations where another person's photo has been tagged without permission, sexting and posting explicit content*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
+* **E&B 9**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
   * *using a range of criteria (social, economic, environmental) to select and justify a preferred option*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
+* **E&B 10**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
   * *deciding on a potential major purchase (for example, a car, investigating options, calculating the costs of different purchasing methods and estimating the long-term costs and benefits of owning the asset and repaying the debt)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 4**: identify factors that influence decision making and consider the usefulness of these in making their own decisions
@@ -7800,40 +7800,40 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
  (ACAMUM102)
   * *experimenting with contemporary media and recording techniques to create and refine original compositions and arrangements*
-* **DT**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
+* **DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
   * *testing a range of text and graphical user interface designs with clients who have different needs on the basis of time taken to complete the task and the number of errors made*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *examining local fast-food options, making healthy selections and advocating healthy choices to peers*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
   * *demonstrating and advocating appropriate bystander behaviour when participating in online interactions, for example in situations where another person's photo has been tagged without permission, sexting and posting explicit content*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
+* **E&B 9**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
   * *using a range of criteria (social, economic, environmental) to select and justify a preferred option*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
+* **E&B 10**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
   * *deciding on a potential major purchase (for example, a car, investigating options, calculating the costs of different purchasing methods and estimating the long-term costs and benefits of owning the asset and repaying the debt)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 5**: assess individual and group decision-making processes in challenging situations
@@ -7868,40 +7868,40 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
  (ACAMUM102)
   * *experimenting with contemporary media and recording techniques to create and refine original compositions and arrangements*
-* **DT**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
+* **DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
   * *testing a range of text and graphical user interface designs with clients who have different needs on the basis of time taken to complete the task and the number of errors made*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *examining local fast-food options, making healthy selections and advocating healthy choices to peers*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
   * *demonstrating and advocating appropriate bystander behaviour when participating in online interactions, for example in situations where another person's photo has been tagged without permission, sexting and posting explicit content*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
+* **E&B 9**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
   * *using a range of criteria (social, economic, environmental) to select and justify a preferred option*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
+* **E&B 10**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
   * *deciding on a potential major purchase (for example, a car, investigating options, calculating the costs of different purchasing methods and estimating the long-term costs and benefits of owning the asset and repaying the debt)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 6**: develop and apply criteria to evaluate the outcomes of individual and group decisions and analyse the consequences of their decision making
@@ -7947,40 +7947,40 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
+* **English 9**: Present an argument about a literary text based on initial impressions and subsequent analysis of the whole text
  (ACELT1771)
   * *interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or shared consensus about the interpretations and ideas expressed*
-* **Dance**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
+* **Dance 9-10**: Evaluate their own choreography and performance, and that of others to inform and refine future work (ACADAR025)
   * *recognising personal capabilities and identifying next steps needed to improve and refine choreographing and performing*
-* **Media**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
   * *creating media artworks that reflect a refined understanding of how lenses, exposure and aperture work in photography and applying this knowledge in different lighting conditions*
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
  (ACAMUM102)
   * *experimenting with contemporary media and recording techniques to create and refine original compositions and arrangements*
-* **DT**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
+* **DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
   * *testing a range of text and graphical user interface designs with clients who have different needs on the basis of time taken to complete the task and the number of errors made*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *examining local fast-food options, making healthy selections and advocating healthy choices to peers*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *comparing own decisions with those of others and acknowledging others’ right to act differently and to change their mind*
   * *demonstrating and advocating appropriate bystander behaviour when participating in online interactions, for example in situations where another person's photo has been tagged without permission, sexting and posting explicit content*
-* **HPE**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
+* **HPE 9-10**: Critically analyse and apply health information from a range of sources to health decisions and situations (ACPPS095)
   * *evaluating strategies and actions to increase personal safety and planning to promote these in the school and community*
-* **HPE**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *creating and implementing self-assessment and peer-assessment tools to evaluate performance in a variety of roles*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
+* **E&B 9**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES046)
   * *using a range of criteria (social, economic, environmental) to select and justify a preferred option*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
+* **E&B 10**: Generate a range of viable options in response to an economic or business issue or event, use cost-benefit analysis and appropriate criteria to recommend and justify a course of action and predict the potential consequences of the proposed action (ACHES058)
   * *deciding on a potential major purchase (for example, a car, investigating options, calculating the costs of different purchasing methods and estimating the long-term costs and benefits of owning the asset and repaying the debt)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 ### Negotiate and resolve conflict
@@ -7994,9 +7994,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
 
 #### **Level 3**: identify a range of conflict resolution strategies to negotiate positive outcomes to problems
@@ -8008,9 +8008,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
 
 #### **Level 4**: identify causes and effects of conflict, and practise different strategies to diffuse or resolve conflict situations
@@ -8024,9 +8024,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
 
 #### **Level 5**: assess the appropriateness of various conflict resolution strategies in a range of social and work-related situations
@@ -8040,9 +8040,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
 
 #### **Level 6**: generate, apply and evaluate strategies such as active listening, mediation and negotiation to prevent and resolve interpersonal problems and conflicts
@@ -8058,9 +8058,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **E&B**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
   * *debating the difference between good and bad debt, how to manage debt, the risks of over-indebtedness, and the importance of having a savings buffer*
 
 ### Develop leadership skills
@@ -8072,16 +8072,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 3**: discuss the concept of leadership and identify situations where it is appropriate to adopt this role
@@ -8093,16 +8093,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 4**: initiate or help to organise group activities that address a common need
@@ -8113,16 +8113,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 5**: plan school and community projects, applying effective problem-solving and team-building strategies, and making the most of available resources to achieve goals
@@ -8142,16 +8142,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
 #### **Level 6**: propose, implement and monitor strategies to address needs prioritised at local, national, regional and global levels, and communicate these widely
@@ -8168,15 +8168,15 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **HPE**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **E&B**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
+* **E&B 9**: Develop questions and hypotheses about an economic or business issue or event, and plan and conduct an investigation (ACHES043)
   * *generating ideas about possible class or school projects and collaboratively developing a plan to guide the project*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
+* **E&B 9**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES047)
   * *applying enterprising behaviours to class and everyday activities (for example, by taking on a leadership role in a project, establishing goals that are meaningful and realistic, accepting responsibility)*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 

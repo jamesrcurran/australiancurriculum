@@ -122,34 +122,34 @@
 
 ##### Elaborations only
 
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **Hist**: Sequence historical events, developments and periods (ACHHS205)
+* **Hist 7**: Sequence historical events, developments and periods (ACHHS205)
   * *identifying the approximate beginning and end dates of ancient societies and the periods of time when they coexisted*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 3**: model, represent, order and use numbers up to five digits
@@ -193,34 +193,34 @@
 
 ##### Elaborations only
 
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **Hist**: Sequence historical events, developments and periods (ACHHS205)
+* **Hist 7**: Sequence historical events, developments and periods (ACHHS205)
   * *identifying the approximate beginning and end dates of ancient societies and the periods of time when they coexisted*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 4**: identify, describe and use numbers larger than one million
@@ -246,34 +246,34 @@
 
 ##### Elaborations only
 
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **Hist**: Sequence historical events, developments and periods (ACHHS205)
+* **Hist 7**: Sequence historical events, developments and periods (ACHHS205)
   * *identifying the approximate beginning and end dates of ancient societies and the periods of time when they coexisted*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 5**: compare, order and use positive and negative numbers to solve everyday problems
@@ -312,34 +312,34 @@
 
 ##### Elaborations only
 
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **Hist**: Sequence historical events, developments and periods (ACHHS205)
+* **Hist 7**: Sequence historical events, developments and periods (ACHHS205)
   * *identifying the approximate beginning and end dates of ancient societies and the periods of time when they coexisted*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 6**: use different ways to represent very large and very small numbers including scientific notation
@@ -387,34 +387,34 @@
 
 ##### Elaborations only
 
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **Hist**: Sequence historical events, developments and periods (ACHHS205)
+* **Hist 7**: Sequence historical events, developments and periods (ACHHS205)
   * *identifying the approximate beginning and end dates of ancient societies and the periods of time when they coexisted*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 ### Estimate and calculate
@@ -446,36 +446,36 @@
 
 ##### Elaborations only
 
-* **Maths**: Round decimals to a specified number of decimal places (ACMNA156)
+* **Maths 7**: Round decimals to a specified number of decimal places (ACMNA156)
   * *using rounding to estimate the results of calculations with whole numbers and decimals, and understanding the conventions for rounding*
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Maths**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
+* **Maths 7**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
   * *understanding that arithmetic laws are powerful ways of describing and simplifying calculations and that using these laws leads to the generality of algebra*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 3**: estimate a solution to a problem and then check the solution by recalling addition, subtraction, multiplication and division facts
@@ -516,36 +516,36 @@
 
 ##### Elaborations only
 
-* **Maths**: Round decimals to a specified number of decimal places (ACMNA156)
+* **Maths 7**: Round decimals to a specified number of decimal places (ACMNA156)
   * *using rounding to estimate the results of calculations with whole numbers and decimals, and understanding the conventions for rounding*
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Maths**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
+* **Maths 7**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
   * *understanding that arithmetic laws are powerful ways of describing and simplifying calculations and that using these laws leads to the generality of algebra*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 4**: solve problems and check calculations using efficient mental and written strategies
@@ -591,36 +591,36 @@
 
 ##### Elaborations only
 
-* **Maths**: Round decimals to a specified number of decimal places (ACMNA156)
+* **Maths 7**: Round decimals to a specified number of decimal places (ACMNA156)
   * *using rounding to estimate the results of calculations with whole numbers and decimals, and understanding the conventions for rounding*
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Maths**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
+* **Maths 7**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
   * *understanding that arithmetic laws are powerful ways of describing and simplifying calculations and that using these laws leads to the generality of algebra*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 5**: solve complex problems by estimating and calculating using efficient mental, written and digital strategies
@@ -693,36 +693,36 @@
 
 ##### Elaborations only
 
-* **Maths**: Round decimals to a specified number of decimal places (ACMNA156)
+* **Maths 7**: Round decimals to a specified number of decimal places (ACMNA156)
   * *using rounding to estimate the results of calculations with whole numbers and decimals, and understanding the conventions for rounding*
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Maths**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
+* **Maths 7**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
   * *understanding that arithmetic laws are powerful ways of describing and simplifying calculations and that using these laws leads to the generality of algebra*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 6**: solve and model problems involving complex data by estimating and calculating using a variety of efficient mental, written and digital strategies
@@ -795,36 +795,36 @@
 
 ##### Elaborations only
 
-* **Maths**: Round decimals to a specified number of decimal places (ACMNA156)
+* **Maths 7**: Round decimals to a specified number of decimal places (ACMNA156)
   * *using rounding to estimate the results of calculations with whole numbers and decimals, and understanding the conventions for rounding*
-* **Maths**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Maths**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
+* **Maths 7**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
   * *understanding that arithmetic laws are powerful ways of describing and simplifying calculations and that using these laws leads to the generality of algebra*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 ### Use money
@@ -842,17 +842,17 @@
 
 ##### Elaborations only
 
-* **HASS**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
+* **HASS 7**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
   * *examining the trade-offs involved in making choices (for example, choices about spending limited money; how to earn an income such as working as an employee or owning your own business; whether to pay more for an endorsed environmentally friendly product)*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *recognising the need to increase food production using cost efficient, ethical and sustainable production techniques*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *creating simple budgets to achieve specific financial goals and using digital and online tools to keep financial records in a ‘real-life’ context*
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
@@ -866,17 +866,17 @@
 
 ##### Elaborations only
 
-* **HASS**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
+* **HASS 7**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
   * *examining the trade-offs involved in making choices (for example, choices about spending limited money; how to earn an income such as working as an employee or owning your own business; whether to pay more for an endorsed environmentally friendly product)*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *recognising the need to increase food production using cost efficient, ethical and sustainable production techniques*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *creating simple budgets to achieve specific financial goals and using digital and online tools to keep financial records in a ‘real-life’ context*
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
@@ -898,17 +898,17 @@
 
 ##### Elaborations only
 
-* **HASS**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
+* **HASS 7**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
   * *examining the trade-offs involved in making choices (for example, choices about spending limited money; how to earn an income such as working as an employee or owning your own business; whether to pay more for an endorsed environmentally friendly product)*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *recognising the need to increase food production using cost efficient, ethical and sustainable production techniques*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *creating simple budgets to achieve specific financial goals and using digital and online tools to keep financial records in a ‘real-life’ context*
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
@@ -933,17 +933,17 @@
 
 ##### Elaborations only
 
-* **HASS**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
+* **HASS 7**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
   * *examining the trade-offs involved in making choices (for example, choices about spending limited money; how to earn an income such as working as an employee or owning your own business; whether to pay more for an endorsed environmentally friendly product)*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *recognising the need to increase food production using cost efficient, ethical and sustainable production techniques*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *creating simple budgets to achieve specific financial goals and using digital and online tools to keep financial records in a ‘real-life’ context*
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
@@ -962,17 +962,17 @@
 
 ##### Elaborations only
 
-* **HASS**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
+* **HASS 7**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
   * *examining the trade-offs involved in making choices (for example, choices about spending limited money; how to earn an income such as working as an employee or owning your own business; whether to pay more for an endorsed environmentally friendly product)*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *recognising the need to increase food production using cost efficient, ethical and sustainable production techniques*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
-* **HPE**: Investigate and select strategies to promote health, safety and wellbeing
+* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
  (ACPPS073)
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **E&B**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
   * *creating simple budgets to achieve specific financial goals and using digital and online tools to keep financial records in a ‘real-life’ context*
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
@@ -1060,76 +1060,76 @@
 
 ##### Elaborations only
 
-* **Maths**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
+* **Maths 7**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
   * *investigating multiplication of fractions and decimals, using strategies including patterning and multiplication as repeated addition, with both concrete materials and digital technologies, and identifying the processes for division as the inverse of multiplication*
-* **Maths**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
+* **Maths 7**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
  (ACMNA178)
   * *plotting points from a table of integer values and recognising simple patterns, such as points that lie on a straight line*
-* **Maths**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
+* **Maths 7**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
   * *describing patterns and investigating different ways to produce the same transformation such as using two successive reflections to provide the same result as a translation*
   * *experimenting with, creating and re-creating patterns using combinations of reflections and rotations using digital technologies*
-* **HASS**: The quantity and variability of Australia’s water resources compared with other continents
+* **HASS 7**: The quantity and variability of Australia’s water resources compared with other continents
  (ACHASSK184)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
+* **HASS 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **Dance**: Practise and refine technical skills in style-specific techniques (ACADAM015)
+* **Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)
   * *analysing and practising technical skills used in dances from different cultures to develop and appreciate music used for dance and movements, and demonstrating an awareness of protocols*
-* **Dance**: Structure dances using choreographic devices and form (ACADAM016)
+* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
   * *responding to feedback by changing the order and pattern of dance movement, phrases or sequences, using choreographic devices*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
 
@@ -1197,76 +1197,76 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
+* **Maths 7**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
   * *investigating multiplication of fractions and decimals, using strategies including patterning and multiplication as repeated addition, with both concrete materials and digital technologies, and identifying the processes for division as the inverse of multiplication*
-* **Maths**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
+* **Maths 7**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
  (ACMNA178)
   * *plotting points from a table of integer values and recognising simple patterns, such as points that lie on a straight line*
-* **Maths**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
+* **Maths 7**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
   * *describing patterns and investigating different ways to produce the same transformation such as using two successive reflections to provide the same result as a translation*
   * *experimenting with, creating and re-creating patterns using combinations of reflections and rotations using digital technologies*
-* **HASS**: The quantity and variability of Australia’s water resources compared with other continents
+* **HASS 7**: The quantity and variability of Australia’s water resources compared with other continents
  (ACHASSK184)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
+* **HASS 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **Dance**: Practise and refine technical skills in style-specific techniques (ACADAM015)
+* **Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)
   * *analysing and practising technical skills used in dances from different cultures to develop and appreciate music used for dance and movements, and demonstrating an awareness of protocols*
-* **Dance**: Structure dances using choreographic devices and form (ACADAM016)
+* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
   * *responding to feedback by changing the order and pattern of dance movement, phrases or sequences, using choreographic devices*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
 
@@ -1332,76 +1332,76 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
+* **Maths 7**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
   * *investigating multiplication of fractions and decimals, using strategies including patterning and multiplication as repeated addition, with both concrete materials and digital technologies, and identifying the processes for division as the inverse of multiplication*
-* **Maths**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
+* **Maths 7**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
  (ACMNA178)
   * *plotting points from a table of integer values and recognising simple patterns, such as points that lie on a straight line*
-* **Maths**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
+* **Maths 7**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
   * *describing patterns and investigating different ways to produce the same transformation such as using two successive reflections to provide the same result as a translation*
   * *experimenting with, creating and re-creating patterns using combinations of reflections and rotations using digital technologies*
-* **HASS**: The quantity and variability of Australia’s water resources compared with other continents
+* **HASS 7**: The quantity and variability of Australia’s water resources compared with other continents
  (ACHASSK184)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
+* **HASS 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **Dance**: Practise and refine technical skills in style-specific techniques (ACADAM015)
+* **Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)
   * *analysing and practising technical skills used in dances from different cultures to develop and appreciate music used for dance and movements, and demonstrating an awareness of protocols*
-* **Dance**: Structure dances using choreographic devices and form (ACADAM016)
+* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
   * *responding to feedback by changing the order and pattern of dance movement, phrases or sequences, using choreographic devices*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
 
@@ -1475,76 +1475,76 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
+* **Maths 7**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
   * *investigating multiplication of fractions and decimals, using strategies including patterning and multiplication as repeated addition, with both concrete materials and digital technologies, and identifying the processes for division as the inverse of multiplication*
-* **Maths**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
+* **Maths 7**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
  (ACMNA178)
   * *plotting points from a table of integer values and recognising simple patterns, such as points that lie on a straight line*
-* **Maths**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
+* **Maths 7**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
   * *describing patterns and investigating different ways to produce the same transformation such as using two successive reflections to provide the same result as a translation*
   * *experimenting with, creating and re-creating patterns using combinations of reflections and rotations using digital technologies*
-* **HASS**: The quantity and variability of Australia’s water resources compared with other continents
+* **HASS 7**: The quantity and variability of Australia’s water resources compared with other continents
  (ACHASSK184)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
+* **HASS 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **Dance**: Practise and refine technical skills in style-specific techniques (ACADAM015)
+* **Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)
   * *analysing and practising technical skills used in dances from different cultures to develop and appreciate music used for dance and movements, and demonstrating an awareness of protocols*
-* **Dance**: Structure dances using choreographic devices and form (ACADAM016)
+* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
   * *responding to feedback by changing the order and pattern of dance movement, phrases or sequences, using choreographic devices*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
 
@@ -1640,76 +1640,76 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
+* **Maths 7**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
   * *investigating multiplication of fractions and decimals, using strategies including patterning and multiplication as repeated addition, with both concrete materials and digital technologies, and identifying the processes for division as the inverse of multiplication*
-* **Maths**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
+* **Maths 7**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
  (ACMNA178)
   * *plotting points from a table of integer values and recognising simple patterns, such as points that lie on a straight line*
-* **Maths**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
+* **Maths 7**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
   * *describing patterns and investigating different ways to produce the same transformation such as using two successive reflections to provide the same result as a translation*
   * *experimenting with, creating and re-creating patterns using combinations of reflections and rotations using digital technologies*
-* **HASS**: The quantity and variability of Australia’s water resources compared with other continents
+* **HASS 7**: The quantity and variability of Australia’s water resources compared with other continents
  (ACHASSK184)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
+* **HASS 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **Dance**: Practise and refine technical skills in style-specific techniques (ACADAM015)
+* **Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)
   * *analysing and practising technical skills used in dances from different cultures to develop and appreciate music used for dance and movements, and demonstrating an awareness of protocols*
-* **Dance**: Structure dances using choreographic devices and form (ACADAM016)
+* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
   * *responding to feedback by changing the order and pattern of dance movement, phrases or sequences, using choreographic devices*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Music**: Experiment with texture and timbre in sound sources using aural skills
+* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
  (ACAMUM092)
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
  (ACAMUM093)
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **DT**: Investigate how digital systems represent text, image and audio data in binary
+* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
  (ACTDIK024)
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
 
@@ -1767,7 +1767,7 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
@@ -1789,7 +1789,7 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
@@ -1835,7 +1835,7 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
@@ -1873,7 +1873,7 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
@@ -1896,7 +1896,7 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
@@ -1913,12 +1913,12 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
+* **Maths 7**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
   * *expressing probabilities as decimals, fractions and percentages*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
 
@@ -1941,12 +1941,12 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
+* **Maths 7**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
   * *expressing probabilities as decimals, fractions and percentages*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
 
@@ -1983,12 +1983,12 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
+* **Maths 7**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
   * *expressing probabilities as decimals, fractions and percentages*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
 
@@ -2023,12 +2023,12 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
+* **Maths 7**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
   * *expressing probabilities as decimals, fractions and percentages*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
 
@@ -2051,12 +2051,12 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
+* **Maths 7**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
   * *expressing probabilities as decimals, fractions and percentages*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
 
@@ -2120,38 +2120,38 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **Visual**: Develop planning skills for art-making by exploring techniques and processes used by different artists
+* **Visual 7-8**: Develop planning skills for art-making by exploring techniques and processes used by different artists
  (ACAVAM120)
   * *imagining and refining their visual and spatial representations of the world, combining a variety of technologies*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
  (ACDSEH032)
   * *creating a graphic representation of the social structure of Egyptian society*
-* **Hist**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
  (ACDSEH035)
   * *examining evidence of the social structure of Athenian or Spartan society (for example, the roles of citizens, women, slaves in Athenian society and the roles of Spartiates, Perioikoi and Helots in Spartan society)*
-* **Hist**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
  (ACDSEH038)
   * *examining the evidence of the social structure of Roman society (for example, the roles of patricians, plebeians, women and slaves in the city of Rome) and the idea of Republican virtue and its historical resonance*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
 
 #### **Level 3**: visualise, sort, identify and describe symmetry, shapes and angles in the environment
@@ -2187,38 +2187,38 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **Visual**: Develop planning skills for art-making by exploring techniques and processes used by different artists
+* **Visual 7-8**: Develop planning skills for art-making by exploring techniques and processes used by different artists
  (ACAVAM120)
   * *imagining and refining their visual and spatial representations of the world, combining a variety of technologies*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
  (ACDSEH032)
   * *creating a graphic representation of the social structure of Egyptian society*
-* **Hist**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
  (ACDSEH035)
   * *examining evidence of the social structure of Athenian or Spartan society (for example, the roles of citizens, women, slaves in Athenian society and the roles of Spartiates, Perioikoi and Helots in Spartan society)*
-* **Hist**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
  (ACDSEH038)
   * *examining the evidence of the social structure of Roman society (for example, the roles of patricians, plebeians, women and slaves in the city of Rome) and the idea of Republican virtue and its historical resonance*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
 
 #### **Level 4**: visualise, sort, describe and compare the features of objects such as prisms and pyramids in the environment
@@ -2261,38 +2261,38 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **Visual**: Develop planning skills for art-making by exploring techniques and processes used by different artists
+* **Visual 7-8**: Develop planning skills for art-making by exploring techniques and processes used by different artists
  (ACAVAM120)
   * *imagining and refining their visual and spatial representations of the world, combining a variety of technologies*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
  (ACDSEH032)
   * *creating a graphic representation of the social structure of Egyptian society*
-* **Hist**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
  (ACDSEH035)
   * *examining evidence of the social structure of Athenian or Spartan society (for example, the roles of citizens, women, slaves in Athenian society and the roles of Spartiates, Perioikoi and Helots in Spartan society)*
-* **Hist**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
  (ACDSEH038)
   * *examining the evidence of the social structure of Roman society (for example, the roles of patricians, plebeians, women and slaves in the city of Rome) and the idea of Republican virtue and its historical resonance*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
 
 #### **Level 5**: visualise, describe and apply their understanding of the features and properties of 2D shapes and 3D objects
@@ -2330,38 +2330,38 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **Visual**: Develop planning skills for art-making by exploring techniques and processes used by different artists
+* **Visual 7-8**: Develop planning skills for art-making by exploring techniques and processes used by different artists
  (ACAVAM120)
   * *imagining and refining their visual and spatial representations of the world, combining a variety of technologies*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
  (ACDSEH032)
   * *creating a graphic representation of the social structure of Egyptian society*
-* **Hist**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
  (ACDSEH035)
   * *examining evidence of the social structure of Athenian or Spartan society (for example, the roles of citizens, women, slaves in Athenian society and the roles of Spartiates, Perioikoi and Helots in Spartan society)*
-* **Hist**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
  (ACDSEH038)
   * *examining the evidence of the social structure of Roman society (for example, the roles of patricians, plebeians, women and slaves in the city of Rome) and the idea of Republican virtue and its historical resonance*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
 
 #### **Level 6**: visualise, describe and analyse the way shapes and objects are combined and positioned in the environment for different purposes
@@ -2408,38 +2408,38 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Dance**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **Visual**: Develop planning skills for art-making by exploring techniques and processes used by different artists
+* **Visual 7-8**: Develop planning skills for art-making by exploring techniques and processes used by different artists
  (ACAVAM120)
   * *imagining and refining their visual and spatial representations of the world, combining a variety of technologies*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
  (ACDSEH032)
   * *creating a graphic representation of the social structure of Egyptian society*
-* **Hist**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
  (ACDSEH035)
   * *examining evidence of the social structure of Athenian or Spartan society (for example, the roles of citizens, women, slaves in Athenian society and the roles of Spartiates, Perioikoi and Helots in Spartan society)*
-* **Hist**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
+* **Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
  (ACDSEH038)
   * *examining the evidence of the social structure of Roman society (for example, the roles of patricians, plebeians, women and slaves in the city of Rome) and the idea of Republican virtue and its historical resonance*
-* **Geo**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
 
 ### Interpret maps and diagrams
@@ -2491,20 +2491,20 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
+* **Science 7**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
   * *explaining why different regions of the Earth experience different seasonal conditions*
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
+* **HASS 7**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
  (ACHASSK164)
   * *Composing texts through speaking, writing and creating
                             
 
 Compose spoken, written, visual and multimodal learning area texts*
-* **HASS**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
+* **HASS 7**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
  (ACHASSK166)
   * *identifying the major civilisations of the ancient world (namely Egypt, Mesopotamia, Persia, Greece, Rome, India, China and the Maya); where and when they existed, and the evidence for contact between them*
   * *Comprehending texts through listening, reading and viewing
@@ -2512,61 +2512,61 @@ Compose spoken, written, visual and multimodal learning area texts*
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
+* **HASS 7**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
  (ACHASSK169)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
   * *visualising data to create information, for example identify trends and outlier data from spreadsheets using plots, or displaying geocoded data on a map*
   * *applying a set of conditions to a spreadsheet to organise and filter data, for example using conditional formatting to highlight the state of particular cells, and filtering and sorting categorical data using column filters*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
+* **Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
  (ACHGK041)
   * *exploring the multilayered meanings (material, cultural and spiritual wellbeing) associated with rivers, waterways, waterholes, seas, lakes, soaks and springs for Aboriginal and Torres Strait Islander Peoples*
   * *examining bays, rivers, waterfalls or lakes in Australia and in countries of the Asia region that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
+* **E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
   * *interpreting tables, charts and graphs containing economic or business data to identify trends (for example, to answer the question: ‘To what extent has the number of people in casual work increased?’)*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 3**: interpret information, locate positions and describe routes on maps and diagrams using simple scales, legends and directional language
@@ -2618,20 +2618,20 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
+* **Science 7**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
   * *explaining why different regions of the Earth experience different seasonal conditions*
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
+* **HASS 7**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
  (ACHASSK164)
   * *Composing texts through speaking, writing and creating
                             
 
 Compose spoken, written, visual and multimodal learning area texts*
-* **HASS**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
+* **HASS 7**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
  (ACHASSK166)
   * *identifying the major civilisations of the ancient world (namely Egypt, Mesopotamia, Persia, Greece, Rome, India, China and the Maya); where and when they existed, and the evidence for contact between them*
   * *Comprehending texts through listening, reading and viewing
@@ -2639,61 +2639,61 @@ Compose spoken, written, visual and multimodal learning area texts*
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
+* **HASS 7**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
  (ACHASSK169)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
   * *visualising data to create information, for example identify trends and outlier data from spreadsheets using plots, or displaying geocoded data on a map*
   * *applying a set of conditions to a spreadsheet to organise and filter data, for example using conditional formatting to highlight the state of particular cells, and filtering and sorting categorical data using column filters*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
+* **Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
  (ACHGK041)
   * *exploring the multilayered meanings (material, cultural and spiritual wellbeing) associated with rivers, waterways, waterholes, seas, lakes, soaks and springs for Aboriginal and Torres Strait Islander Peoples*
   * *examining bays, rivers, waterfalls or lakes in Australia and in countries of the Asia region that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
+* **E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
   * *interpreting tables, charts and graphs containing economic or business data to identify trends (for example, to answer the question: ‘To what extent has the number of people in casual work increased?’)*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 4**: identify and describe routes and locations, using grid reference systems and directional language such as north or north east
@@ -2737,20 +2737,20 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
+* **Science 7**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
   * *explaining why different regions of the Earth experience different seasonal conditions*
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
+* **HASS 7**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
  (ACHASSK164)
   * *Composing texts through speaking, writing and creating
                             
 
 Compose spoken, written, visual and multimodal learning area texts*
-* **HASS**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
+* **HASS 7**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
  (ACHASSK166)
   * *identifying the major civilisations of the ancient world (namely Egypt, Mesopotamia, Persia, Greece, Rome, India, China and the Maya); where and when they existed, and the evidence for contact between them*
   * *Comprehending texts through listening, reading and viewing
@@ -2758,61 +2758,61 @@ Compose spoken, written, visual and multimodal learning area texts*
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
+* **HASS 7**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
  (ACHASSK169)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
   * *visualising data to create information, for example identify trends and outlier data from spreadsheets using plots, or displaying geocoded data on a map*
   * *applying a set of conditions to a spreadsheet to organise and filter data, for example using conditional formatting to highlight the state of particular cells, and filtering and sorting categorical data using column filters*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
+* **Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
  (ACHGK041)
   * *exploring the multilayered meanings (material, cultural and spiritual wellbeing) associated with rivers, waterways, waterholes, seas, lakes, soaks and springs for Aboriginal and Torres Strait Islander Peoples*
   * *examining bays, rivers, waterfalls or lakes in Australia and in countries of the Asia region that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
+* **E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
   * *interpreting tables, charts and graphs containing economic or business data to identify trends (for example, to answer the question: ‘To what extent has the number of people in casual work increased?’)*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 5**: create and interpret 2D and 3D maps, models and diagrams
@@ -2965,20 +2965,20 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
+* **Science 7**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
   * *explaining why different regions of the Earth experience different seasonal conditions*
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
+* **HASS 7**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
  (ACHASSK164)
   * *Composing texts through speaking, writing and creating
                             
 
 Compose spoken, written, visual and multimodal learning area texts*
-* **HASS**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
+* **HASS 7**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
  (ACHASSK166)
   * *identifying the major civilisations of the ancient world (namely Egypt, Mesopotamia, Persia, Greece, Rome, India, China and the Maya); where and when they existed, and the evidence for contact between them*
   * *Comprehending texts through listening, reading and viewing
@@ -2986,61 +2986,61 @@ Compose spoken, written, visual and multimodal learning area texts*
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
+* **HASS 7**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
  (ACHASSK169)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
   * *visualising data to create information, for example identify trends and outlier data from spreadsheets using plots, or displaying geocoded data on a map*
   * *applying a set of conditions to a spreadsheet to organise and filter data, for example using conditional formatting to highlight the state of particular cells, and filtering and sorting categorical data using column filters*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
+* **Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
  (ACHGK041)
   * *exploring the multilayered meanings (material, cultural and spiritual wellbeing) associated with rivers, waterways, waterholes, seas, lakes, soaks and springs for Aboriginal and Torres Strait Islander Peoples*
   * *examining bays, rivers, waterfalls or lakes in Australia and in countries of the Asia region that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
+* **E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
   * *interpreting tables, charts and graphs containing economic or business data to identify trends (for example, to answer the question: ‘To what extent has the number of people in casual work increased?’)*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 6**: create and interpret maps, models and diagrams using a range of mapping tools
@@ -3179,20 +3179,20 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
+* **Science 7**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
   * *explaining why different regions of the Earth experience different seasonal conditions*
-* **Science**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
+* **HASS 7**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
  (ACHASSK164)
   * *Composing texts through speaking, writing and creating
                             
 
 Compose spoken, written, visual and multimodal learning area texts*
-* **HASS**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
+* **HASS 7**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
  (ACHASSK166)
   * *identifying the major civilisations of the ancient world (namely Egypt, Mesopotamia, Persia, Greece, Rome, India, China and the Maya); where and when they existed, and the evidence for contact between them*
   * *Comprehending texts through listening, reading and viewing
@@ -3200,61 +3200,61 @@ Compose spoken, written, visual and multimodal learning area texts*
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
+* **HASS 7**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
  (ACHASSK169)
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **D&T**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
   * *visualising data to create information, for example identify trends and outlier data from spreadsheets using plots, or displaying geocoded data on a map*
   * *applying a set of conditions to a spreadsheet to organise and filter data, for example using conditional formatting to highlight the state of particular cells, and filtering and sorting categorical data using column filters*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
+* **Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
  (ACHGK041)
   * *exploring the multilayered meanings (material, cultural and spiritual wellbeing) associated with rivers, waterways, waterholes, seas, lakes, soaks and springs for Aboriginal and Torres Strait Islander Peoples*
   * *examining bays, rivers, waterfalls or lakes in Australia and in countries of the Asia region that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
+* **E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
   * *interpreting tables, charts and graphs containing economic or business data to identify trends (for example, to answer the question: ‘To what extent has the number of people in casual work increased?’)*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 ## Interpreting statistical information
@@ -3345,65 +3345,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
+* **Science 7**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
   * *presenting the outcomes of research using effective forms of representation of data or ideas and scientific language that is appropriate for the target audience*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
+* **HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
   * *using graphic representations (such as graphs, tables, spreadsheets and photographs) to present, supplement and clarify information contained in reports and other documents*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
   * *explaining how food preparation techniques impact on the sensory properties (flavour, appearance, texture, aroma) of food, for example the browning of cut fruit, the absorption of water when cooking rice*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
   * *developing and modifying digital solutions by implementing instructions contained in algorithms through programs*
-* **DT**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
+* **DT 7-8**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
   * *comparing the reliability and speed of transmitting data through wireless, wired and mobile networks*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **Hist**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
+* **Hist 7**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
   * *identifying different approaches to historical investigation such as the use of excavation and stratigraphy, oral history and use of data derived from radiocarbon dating*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 3**: collect record and display data as tables, diagrams, picture graphs and column graphs
@@ -3482,65 +3482,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
+* **Science 7**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
   * *presenting the outcomes of research using effective forms of representation of data or ideas and scientific language that is appropriate for the target audience*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
+* **HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
   * *using graphic representations (such as graphs, tables, spreadsheets and photographs) to present, supplement and clarify information contained in reports and other documents*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
   * *explaining how food preparation techniques impact on the sensory properties (flavour, appearance, texture, aroma) of food, for example the browning of cut fruit, the absorption of water when cooking rice*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
   * *developing and modifying digital solutions by implementing instructions contained in algorithms through programs*
-* **DT**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
+* **DT 7-8**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
   * *comparing the reliability and speed of transmitting data through wireless, wired and mobile networks*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **Hist**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
+* **Hist 7**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
   * *identifying different approaches to historical investigation such as the use of excavation and stratigraphy, oral history and use of data derived from radiocarbon dating*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 4**: collect, compare, describe and interpret data as 2-way tables, double column graphs and sector graphs, including from digital media
@@ -3616,65 +3616,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
+* **Science 7**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
   * *presenting the outcomes of research using effective forms of representation of data or ideas and scientific language that is appropriate for the target audience*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
+* **HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
   * *using graphic representations (such as graphs, tables, spreadsheets and photographs) to present, supplement and clarify information contained in reports and other documents*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
   * *explaining how food preparation techniques impact on the sensory properties (flavour, appearance, texture, aroma) of food, for example the browning of cut fruit, the absorption of water when cooking rice*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
   * *developing and modifying digital solutions by implementing instructions contained in algorithms through programs*
-* **DT**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
+* **DT 7-8**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
   * *comparing the reliability and speed of transmitting data through wireless, wired and mobile networks*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **Hist**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
+* **Hist 7**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
   * *identifying different approaches to historical investigation such as the use of excavation and stratigraphy, oral history and use of data derived from radiocarbon dating*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 5**: compare, interpret and assess the effectiveness of different data displays of the same information
@@ -3810,65 +3810,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
+* **Science 7**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
   * *presenting the outcomes of research using effective forms of representation of data or ideas and scientific language that is appropriate for the target audience*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
+* **HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
   * *using graphic representations (such as graphs, tables, spreadsheets and photographs) to present, supplement and clarify information contained in reports and other documents*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
   * *explaining how food preparation techniques impact on the sensory properties (flavour, appearance, texture, aroma) of food, for example the browning of cut fruit, the absorption of water when cooking rice*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
   * *developing and modifying digital solutions by implementing instructions contained in algorithms through programs*
-* **DT**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
+* **DT 7-8**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
   * *comparing the reliability and speed of transmitting data through wireless, wired and mobile networks*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **Hist**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
+* **Hist 7**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
   * *identifying different approaches to historical investigation such as the use of excavation and stratigraphy, oral history and use of data derived from radiocarbon dating*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 6**: evaluate media statistics and trends by linking claims to data displays, statistics and representative data
@@ -4020,65 +4020,65 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
+* **Science 7**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
   * *presenting the outcomes of research using effective forms of representation of data or ideas and scientific language that is appropriate for the target audience*
-* **HASS**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
  (ACHASSI153)
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
+* **HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
   * *using graphic representations (such as graphs, tables, spreadsheets and photographs) to present, supplement and clarify information contained in reports and other documents*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
   * *explaining how food preparation techniques impact on the sensory properties (flavour, appearance, texture, aroma) of food, for example the browning of cut fruit, the absorption of water when cooking rice*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
   * *developing and modifying digital solutions by implementing instructions contained in algorithms through programs*
-* **DT**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
+* **DT 7-8**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
   * *comparing the reliability and speed of transmitting data through wireless, wired and mobile networks*
-* **DT**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **Hist**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
+* **Hist 7**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
   * *identifying different approaches to historical investigation such as the use of excavation and stratigraphy, oral history and use of data derived from radiocarbon dating*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
   * *discussing the impact of housing density on the liveability of places*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **E&B**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **C&C**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 ### Interpret chance events
@@ -4228,29 +4228,29 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
+* **Maths 7**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
   * *applying the unitary method to identify ‘best buys’ situations, such as comparing the cost per 100g*
-* **Science**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
+* **Science 7**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
   * *investigating common situations where forces are balanced, such as stationary objects, and unbalanced, such as falling objects*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
 
 #### **Level 3**: estimate, measure and compare the length, temperature, volume, capacity and mass of everyday objects using metric units and scaled instruments
@@ -4293,29 +4293,29 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
+* **Maths 7**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
   * *applying the unitary method to identify ‘best buys’ situations, such as comparing the cost per 100g*
-* **Science**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
+* **Science 7**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
   * *investigating common situations where forces are balanced, such as stationary objects, and unbalanced, such as falling objects*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
 
 #### **Level 4**: choose and use appropriate metric units for length, area, volume, capacity and mass to solve everyday problems
@@ -4364,29 +4364,29 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
+* **Maths 7**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
   * *applying the unitary method to identify ‘best buys’ situations, such as comparing the cost per 100g*
-* **Science**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
+* **Science 7**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
   * *investigating common situations where forces are balanced, such as stationary objects, and unbalanced, such as falling objects*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
 
 #### **Level 5**: convert between common metric units for volume and capacity and use perimeter, area and volume formulas to solve authentic problems
@@ -4442,29 +4442,29 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
+* **Maths 7**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
   * *applying the unitary method to identify ‘best buys’ situations, such as comparing the cost per 100g*
-* **Science**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
+* **Science 7**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
   * *investigating common situations where forces are balanced, such as stationary objects, and unbalanced, such as falling objects*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
 
 #### **Level 6**: solve complex problems involving surface area and volume of prisms and cylinders and composite solids
@@ -4506,29 +4506,29 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
+* **Maths 7**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
   * *applying the unitary method to identify ‘best buys’ situations, such as comparing the cost per 100g*
-* **Science**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
+* **Science 7**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
   * *investigating common situations where forces are balanced, such as stationary objects, and unbalanced, such as falling objects*
-* **Music**: Perform and present a range of music, using techniques and expression appropriate to style
+* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
  (ACAMUM096)
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **D&T**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
  (ACTDEK032)
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
  (ACTDEK033)
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **HPE**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo**: The influence of environmental quality on the liveability of places (ACHGK045)
+* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
 
 ### Operate with clocks, calendars and timetables
@@ -4563,43 +4563,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
+* **Science 7**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
   * *considering timescales for regeneration of resources*
-* **Science**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
+* **Science 7**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
   * *researching developments in the understanding of astronomy, such as the predictions of eclipses and the calculation of the length of the solar year by Al‑Battani in the tenth century*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **HPE**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
+* **HPE 7-8**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
   * *accessing and assessing health information and services that support young people to effectively manage changes and transitions as they grow older*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
+* **Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
   * *investigating the main causes of rainfall and applying their knowledge to explain the seasonal rainfall patterns in their own place and in a place with either significantly higher or lower rainfall*
   * *interpreting the spatial distribution of rainfall in Australia and comparing it with the distribution of that of other continents*
   * *using the concept of the water balance to compare the effects of rainfall, run-off and evaporation on the availability of water in Australia and other continents*
-* **Geo**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
   * *investigating the causes of water scarcity (for example, an absolute shortage of water (physical), inadequate development of water resources (economic), or the ways water is used)*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
 
@@ -4622,43 +4622,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
+* **Science 7**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
   * *considering timescales for regeneration of resources*
-* **Science**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
+* **Science 7**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
   * *researching developments in the understanding of astronomy, such as the predictions of eclipses and the calculation of the length of the solar year by Al‑Battani in the tenth century*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **HPE**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
+* **HPE 7-8**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
   * *accessing and assessing health information and services that support young people to effectively manage changes and transitions as they grow older*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
+* **Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
   * *investigating the main causes of rainfall and applying their knowledge to explain the seasonal rainfall patterns in their own place and in a place with either significantly higher or lower rainfall*
   * *interpreting the spatial distribution of rainfall in Australia and comparing it with the distribution of that of other continents*
   * *using the concept of the water balance to compare the effects of rainfall, run-off and evaporation on the availability of water in Australia and other continents*
-* **Geo**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
   * *investigating the causes of water scarcity (for example, an absolute shortage of water (physical), inadequate development of water resources (economic), or the ways water is used)*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
 
@@ -4677,43 +4677,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
+* **Science 7**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
   * *considering timescales for regeneration of resources*
-* **Science**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
+* **Science 7**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
   * *researching developments in the understanding of astronomy, such as the predictions of eclipses and the calculation of the length of the solar year by Al‑Battani in the tenth century*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **HPE**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
+* **HPE 7-8**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
   * *accessing and assessing health information and services that support young people to effectively manage changes and transitions as they grow older*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
+* **Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
   * *investigating the main causes of rainfall and applying their knowledge to explain the seasonal rainfall patterns in their own place and in a place with either significantly higher or lower rainfall*
   * *interpreting the spatial distribution of rainfall in Australia and comparing it with the distribution of that of other continents*
   * *using the concept of the water balance to compare the effects of rainfall, run-off and evaporation on the availability of water in Australia and other continents*
-* **Geo**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
   * *investigating the causes of water scarcity (for example, an absolute shortage of water (physical), inadequate development of water resources (economic), or the ways water is used)*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
 
@@ -4746,43 +4746,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
+* **Science 7**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
   * *considering timescales for regeneration of resources*
-* **Science**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
+* **Science 7**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
   * *researching developments in the understanding of astronomy, such as the predictions of eclipses and the calculation of the length of the solar year by Al‑Battani in the tenth century*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **HPE**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
+* **HPE 7-8**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
   * *accessing and assessing health information and services that support young people to effectively manage changes and transitions as they grow older*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
+* **Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
   * *investigating the main causes of rainfall and applying their knowledge to explain the seasonal rainfall patterns in their own place and in a place with either significantly higher or lower rainfall*
   * *interpreting the spatial distribution of rainfall in Australia and comparing it with the distribution of that of other continents*
   * *using the concept of the water balance to compare the effects of rainfall, run-off and evaporation on the availability of water in Australia and other continents*
-* **Geo**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
   * *investigating the causes of water scarcity (for example, an absolute shortage of water (physical), inadequate development of water resources (economic), or the ways water is used)*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
 
@@ -4814,43 +4814,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
+* **Science 7**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
   * *considering timescales for regeneration of resources*
-* **Science**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
+* **Science 7**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
   * *researching developments in the understanding of astronomy, such as the predictions of eclipses and the calculation of the length of the solar year by Al‑Battani in the tenth century*
-* **Drama**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **Media**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **HPE**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
+* **HPE 7-8**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
   * *accessing and assessing health information and services that support young people to effectively manage changes and transitions as they grow older*
-* **HPE**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
  (ACDSEH044)
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
  (ACDSEH041)
   * *creating a graphic representation of the social structure of Chinese society*
-* **Geo**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
+* **Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
   * *investigating the main causes of rainfall and applying their knowledge to explain the seasonal rainfall patterns in their own place and in a place with either significantly higher or lower rainfall*
   * *interpreting the spatial distribution of rainfall in Australia and comparing it with the distribution of that of other continents*
   * *using the concept of the water balance to compare the effects of rainfall, run-off and evaporation on the availability of water in Australia and other continents*
-* **Geo**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
   * *investigating the causes of water scarcity (for example, an absolute shortage of water (physical), inadequate development of water resources (economic), or the ways water is used)*
-* **Geo**: Causes, impacts and responses to an atmospheric or hydrological hazard
+* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
  (ACHGK042)
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
 

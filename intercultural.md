@@ -118,80 +118,80 @@
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
+* **English 9**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
   * *investigating the use of symbols, for example the flag, the digger’s hat and the Southern Cross in images, films and picture books, and evaluating their contribution to viewers’ understanding of issues, for example national identity, recognising that visual and verbal symbols have different meanings for different groups*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
+* **English 10**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
   * *reflecting upon and asking questions about interpretations of texts relevant to a student’s cultural background*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *investigating the influence of Australian dance artists, companies and practices, including Australians who identify as Aboriginal and Torres Strait Islanders and those of Asian heritage*
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
   * *evaluating design and technology professions and their contributions to society locally, nationally, regionally and globally, for example Aboriginal designers collaborating with international craftspeople for local enterprises*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
+* **Hist 9**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
   * *investigating the rise of nationalist sentiment as well as the values and attitudes towards war in the period 1750–1918 (for example, idealistic notions of war; sense of adventure)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *studying the first and second referenda on conscription, including the division within the Labor Party over this issue*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
+* **Hist 10**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
   * *describing the drafting of the Universal Declaration of Human Rights and the contribution of Australia’s HV Evatt*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *placing in sequence the main events of the Freedom Rides campaigns in the United States and Australia and explaining the links between the two campaigns*
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
+* **Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
  (ACHGK080)
   * *researching spatial differences in the wellbeing of the Aboriginal and Torres Strait Islander population across Australia, and the extent to which these differences depend on how wellbeing is measured*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Reasons for spatial variations between countries in selected indicators of human wellbeing
+* **Geo 10**: Reasons for spatial variations between countries in selected indicators of human wellbeing
  (ACHGK077)
   * *examining differences in indicators by gender across countries and within selected countries*
   * *investigating the interrelationships between the rate of population growth and human wellbeing in countries*
-* **C&C**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
+* **C&C 9**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
   * *selecting key questions to investigate an aspect of Australia’s political and legal systems (for example, the role of juries)*
   * *posing questions which evaluate Australia’s democracy such as ‘how equal?’, ‘how representative?’ and ‘how accountable?’*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *investigating the activities of transnational corporations in supply chains and global business activities*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *using data to make predictions about future trends (for example, the way businesses operate in the global economy or trends in Australia’s trade with countries of the Asia region)*
-* **E&B**: The ways that governments manage economic performance to improve living standards
+* **E&B 10**: The ways that governments manage economic performance to improve living standards
  (ACHEK052)
   * *investigating how Australia supports economic growth in the Asia region through participating in the Asia-Pacific Economic Cooperation (APEC) forum*
 
@@ -243,80 +243,80 @@
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
+* **English 9**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
   * *investigating the use of symbols, for example the flag, the digger’s hat and the Southern Cross in images, films and picture books, and evaluating their contribution to viewers’ understanding of issues, for example national identity, recognising that visual and verbal symbols have different meanings for different groups*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
+* **English 10**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
   * *reflecting upon and asking questions about interpretations of texts relevant to a student’s cultural background*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *investigating the influence of Australian dance artists, companies and practices, including Australians who identify as Aboriginal and Torres Strait Islanders and those of Asian heritage*
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
   * *evaluating design and technology professions and their contributions to society locally, nationally, regionally and globally, for example Aboriginal designers collaborating with international craftspeople for local enterprises*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
+* **Hist 9**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
   * *investigating the rise of nationalist sentiment as well as the values and attitudes towards war in the period 1750–1918 (for example, idealistic notions of war; sense of adventure)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *studying the first and second referenda on conscription, including the division within the Labor Party over this issue*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
+* **Hist 10**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
   * *describing the drafting of the Universal Declaration of Human Rights and the contribution of Australia’s HV Evatt*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *placing in sequence the main events of the Freedom Rides campaigns in the United States and Australia and explaining the links between the two campaigns*
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
+* **Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
  (ACHGK080)
   * *researching spatial differences in the wellbeing of the Aboriginal and Torres Strait Islander population across Australia, and the extent to which these differences depend on how wellbeing is measured*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Reasons for spatial variations between countries in selected indicators of human wellbeing
+* **Geo 10**: Reasons for spatial variations between countries in selected indicators of human wellbeing
  (ACHGK077)
   * *examining differences in indicators by gender across countries and within selected countries*
   * *investigating the interrelationships between the rate of population growth and human wellbeing in countries*
-* **C&C**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
+* **C&C 9**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
   * *selecting key questions to investigate an aspect of Australia’s political and legal systems (for example, the role of juries)*
   * *posing questions which evaluate Australia’s democracy such as ‘how equal?’, ‘how representative?’ and ‘how accountable?’*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *investigating the activities of transnational corporations in supply chains and global business activities*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *using data to make predictions about future trends (for example, the way businesses operate in the global economy or trends in Australia’s trade with countries of the Asia region)*
-* **E&B**: The ways that governments manage economic performance to improve living standards
+* **E&B 10**: The ways that governments manage economic performance to improve living standards
  (ACHEK052)
   * *investigating how Australia supports economic growth in the Asia region through participating in the Asia-Pacific Economic Cooperation (APEC) forum*
 
@@ -353,80 +353,80 @@
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
+* **English 9**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
   * *investigating the use of symbols, for example the flag, the digger’s hat and the Southern Cross in images, films and picture books, and evaluating their contribution to viewers’ understanding of issues, for example national identity, recognising that visual and verbal symbols have different meanings for different groups*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
+* **English 10**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
   * *reflecting upon and asking questions about interpretations of texts relevant to a student’s cultural background*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *investigating the influence of Australian dance artists, companies and practices, including Australians who identify as Aboriginal and Torres Strait Islanders and those of Asian heritage*
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
   * *evaluating design and technology professions and their contributions to society locally, nationally, regionally and globally, for example Aboriginal designers collaborating with international craftspeople for local enterprises*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
+* **Hist 9**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
   * *investigating the rise of nationalist sentiment as well as the values and attitudes towards war in the period 1750–1918 (for example, idealistic notions of war; sense of adventure)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *studying the first and second referenda on conscription, including the division within the Labor Party over this issue*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
+* **Hist 10**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
   * *describing the drafting of the Universal Declaration of Human Rights and the contribution of Australia’s HV Evatt*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *placing in sequence the main events of the Freedom Rides campaigns in the United States and Australia and explaining the links between the two campaigns*
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
+* **Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
  (ACHGK080)
   * *researching spatial differences in the wellbeing of the Aboriginal and Torres Strait Islander population across Australia, and the extent to which these differences depend on how wellbeing is measured*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Reasons for spatial variations between countries in selected indicators of human wellbeing
+* **Geo 10**: Reasons for spatial variations between countries in selected indicators of human wellbeing
  (ACHGK077)
   * *examining differences in indicators by gender across countries and within selected countries*
   * *investigating the interrelationships between the rate of population growth and human wellbeing in countries*
-* **C&C**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
+* **C&C 9**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
   * *selecting key questions to investigate an aspect of Australia’s political and legal systems (for example, the role of juries)*
   * *posing questions which evaluate Australia’s democracy such as ‘how equal?’, ‘how representative?’ and ‘how accountable?’*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *investigating the activities of transnational corporations in supply chains and global business activities*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *using data to make predictions about future trends (for example, the way businesses operate in the global economy or trends in Australia’s trade with countries of the Asia region)*
-* **E&B**: The ways that governments manage economic performance to improve living standards
+* **E&B 10**: The ways that governments manage economic performance to improve living standards
  (ACHEK052)
   * *investigating how Australia supports economic growth in the Asia region through participating in the Asia-Pacific Economic Cooperation (APEC) forum*
 
@@ -662,80 +662,80 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
+* **English 9**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
   * *investigating the use of symbols, for example the flag, the digger’s hat and the Southern Cross in images, films and picture books, and evaluating their contribution to viewers’ understanding of issues, for example national identity, recognising that visual and verbal symbols have different meanings for different groups*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
+* **English 10**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
   * *reflecting upon and asking questions about interpretations of texts relevant to a student’s cultural background*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *investigating the influence of Australian dance artists, companies and practices, including Australians who identify as Aboriginal and Torres Strait Islanders and those of Asian heritage*
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
   * *evaluating design and technology professions and their contributions to society locally, nationally, regionally and globally, for example Aboriginal designers collaborating with international craftspeople for local enterprises*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
+* **Hist 9**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
   * *investigating the rise of nationalist sentiment as well as the values and attitudes towards war in the period 1750–1918 (for example, idealistic notions of war; sense of adventure)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *studying the first and second referenda on conscription, including the division within the Labor Party over this issue*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
+* **Hist 10**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
   * *describing the drafting of the Universal Declaration of Human Rights and the contribution of Australia’s HV Evatt*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *placing in sequence the main events of the Freedom Rides campaigns in the United States and Australia and explaining the links between the two campaigns*
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
+* **Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
  (ACHGK080)
   * *researching spatial differences in the wellbeing of the Aboriginal and Torres Strait Islander population across Australia, and the extent to which these differences depend on how wellbeing is measured*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Reasons for spatial variations between countries in selected indicators of human wellbeing
+* **Geo 10**: Reasons for spatial variations between countries in selected indicators of human wellbeing
  (ACHGK077)
   * *examining differences in indicators by gender across countries and within selected countries*
   * *investigating the interrelationships between the rate of population growth and human wellbeing in countries*
-* **C&C**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
+* **C&C 9**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
   * *selecting key questions to investigate an aspect of Australia’s political and legal systems (for example, the role of juries)*
   * *posing questions which evaluate Australia’s democracy such as ‘how equal?’, ‘how representative?’ and ‘how accountable?’*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *investigating the activities of transnational corporations in supply chains and global business activities*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *using data to make predictions about future trends (for example, the way businesses operate in the global economy or trends in Australia’s trade with countries of the Asia region)*
-* **E&B**: The ways that governments manage economic performance to improve living standards
+* **E&B 10**: The ways that governments manage economic performance to improve living standards
  (ACHEK052)
   * *investigating how Australia supports economic growth in the Asia region through participating in the Asia-Pacific Economic Cooperation (APEC) forum*
 
@@ -859,80 +859,80 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
+* **English 9**: Analyse and explain the use of symbols, icons and myth in still and moving images and how these augment meaning (ACELA1560)
   * *investigating the use of symbols, for example the flag, the digger’s hat and the Southern Cross in images, films and picture books, and evaluating their contribution to viewers’ understanding of issues, for example national identity, recognising that visual and verbal symbols have different meanings for different groups*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
-* **English**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
+* **English 10**: Reflect on, extend, endorse or refute others’ interpretations of and responses to literature (ACELT1640)
   * *reflecting upon and asking questions about interpretations of texts relevant to a student’s cultural background*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *investigating the influence of Australian dance artists, companies and practices, including Australians who identify as Aboriginal and Torres Strait Islanders and those of Asian heritage*
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Music**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
+* **Music 9-10**: Analyse a range of music from contemporary and past times to explore differing viewpoints and enrich their music making, starting with Australian music,including music of Aboriginal and Torres Strait Islander Peoples, and consider music in international contexts (ACAMUR105)
   * *discussing the influence of music on the development of personal and cultural identity*
-* **D&T**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
   * *evaluating design and technology professions and their contributions to society locally, nationally, regionally and globally, for example Aboriginal designers collaborating with international craftspeople for local enterprises*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **DT**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
+* **DT 9-10**: Design the user experience of a digital system by evaluating alternative designs against criteria including functionality, accessibility, usability, and aesthetics
  (ACTDIP039)
   * *evaluating aspects of the total user experience, that is, all aspects of the system as perceived by the users, for example, a user’s initial experience of setting up and using a system, or a user’s emotional or cultural response to using a digital system*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *investigating the role that extended family, kinship structures and broader community play in the lives of Aboriginal and Torres Strait Islander Peoples*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *examining how diversity and gender are represented in the media and communities, and investigating the influence these representations have on identities*
-* **HPE**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
+* **Hist 9**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
   * *investigating the rise of nationalist sentiment as well as the values and attitudes towards war in the period 1750–1918 (for example, idealistic notions of war; sense of adventure)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *studying the first and second referenda on conscription, including the division within the Labor Party over this issue*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
+* **Hist 10**: The origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration (ACDSEH023)
   * *describing the drafting of the Universal Declaration of Human Rights and the contribution of Australia’s HV Evatt*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *placing in sequence the main events of the Freedom Rides campaigns in the United States and Australia and explaining the links between the two campaigns*
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
+* **Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
  (ACHGK080)
   * *researching spatial differences in the wellbeing of the Aboriginal and Torres Strait Islander population across Australia, and the extent to which these differences depend on how wellbeing is measured*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Reasons for spatial variations between countries in selected indicators of human wellbeing
+* **Geo 10**: Reasons for spatial variations between countries in selected indicators of human wellbeing
  (ACHGK077)
   * *examining differences in indicators by gender across countries and within selected countries*
   * *investigating the interrelationships between the rate of population growth and human wellbeing in countries*
-* **C&C**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
+* **C&C 9**: Develop, select and evaluate a range of questions to investigate Australia's political and legal systems (ACHCS082)
   * *selecting key questions to investigate an aspect of Australia’s political and legal systems (for example, the role of juries)*
   * *posing questions which evaluate Australia’s democracy such as ‘how equal?’, ‘how representative?’ and ‘how accountable?’*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **E&B**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
   * *investigating the activities of transnational corporations in supply chains and global business activities*
-* **E&B**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
+* **E&B 9**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES045)
   * *using data to make predictions about future trends (for example, the way businesses operate in the global economy or trends in Australia’s trade with countries of the Asia region)*
-* **E&B**: The ways that governments manage economic performance to improve living standards
+* **E&B 10**: The ways that governments manage economic performance to improve living standards
  (ACHEK052)
   * *investigating how Australia supports economic growth in the Asia region through participating in the Asia-Pacific Economic Cooperation (APEC) forum*
 
@@ -994,84 +994,84 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and identifying how socio-cultural values, attitudes and beliefs are conveyed in texts, for example comparing and analysing perspectives about an Aboriginal and Torres Strait Islander issue reported in commercial media compared to public and Aboriginal and Torres Strait Islander media*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
   * *identifying and explaining satirical events, including events in other cultures, for example depictions in political cartoons*
   * *identifying and evaluating poetic, lyrical language in the depiction of people, culture, places, events, things and concepts in texts*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **Maths**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
+* **Maths 9**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
   * *comparing the annual rainfall in various parts of Australia, Pakistan, New Guinea and Malaysia*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *investigating contemporary science issues related to living in a Pacific country located near plate boundaries, for example Japan, Indonesia, New Zealand*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *manipulating the elements of dance in performance to interpret a choreographer’s style and intent in contemporary styles, such as Aboriginal hip hop*
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *undertaking functional, structural and aesthetic analyses of benefits and constraints of design ideas, for example to different communities and environments including those from the countries of Asia*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating and justifying the use and best combination of traditional, contemporary and emerging technologies during project development, including consideration of sustainability, for example farming methods in South-East Asia*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *investigating how cultural beliefs and practices surrounding transitions to adulthood differ between cultures*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *designing and critiquing a strategy to involve family, friends and members of the community in cultural celebrations to promote a sense of connection with and belonging to the community*
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
+* **Hist 9**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
   * *explaining the factors that contributed to federation and the development of democracy in Australia, including the role of key individuals, defence concerns, the 1890s depression, nationalist ideals and egalitarianism*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
 
@@ -1160,84 +1160,84 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and identifying how socio-cultural values, attitudes and beliefs are conveyed in texts, for example comparing and analysing perspectives about an Aboriginal and Torres Strait Islander issue reported in commercial media compared to public and Aboriginal and Torres Strait Islander media*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
   * *identifying and explaining satirical events, including events in other cultures, for example depictions in political cartoons*
   * *identifying and evaluating poetic, lyrical language in the depiction of people, culture, places, events, things and concepts in texts*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **Maths**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
+* **Maths 9**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
   * *comparing the annual rainfall in various parts of Australia, Pakistan, New Guinea and Malaysia*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *investigating contemporary science issues related to living in a Pacific country located near plate boundaries, for example Japan, Indonesia, New Zealand*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *manipulating the elements of dance in performance to interpret a choreographer’s style and intent in contemporary styles, such as Aboriginal hip hop*
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *undertaking functional, structural and aesthetic analyses of benefits and constraints of design ideas, for example to different communities and environments including those from the countries of Asia*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating and justifying the use and best combination of traditional, contemporary and emerging technologies during project development, including consideration of sustainability, for example farming methods in South-East Asia*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *investigating how cultural beliefs and practices surrounding transitions to adulthood differ between cultures*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *designing and critiquing a strategy to involve family, friends and members of the community in cultural celebrations to promote a sense of connection with and belonging to the community*
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
+* **Hist 9**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
   * *explaining the factors that contributed to federation and the development of democracy in Australia, including the role of key individuals, defence concerns, the 1890s depression, nationalist ideals and egalitarianism*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
 
@@ -1306,84 +1306,84 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and identifying how socio-cultural values, attitudes and beliefs are conveyed in texts, for example comparing and analysing perspectives about an Aboriginal and Torres Strait Islander issue reported in commercial media compared to public and Aboriginal and Torres Strait Islander media*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
   * *identifying and explaining satirical events, including events in other cultures, for example depictions in political cartoons*
   * *identifying and evaluating poetic, lyrical language in the depiction of people, culture, places, events, things and concepts in texts*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **Maths**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
+* **Maths 9**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
   * *comparing the annual rainfall in various parts of Australia, Pakistan, New Guinea and Malaysia*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *investigating contemporary science issues related to living in a Pacific country located near plate boundaries, for example Japan, Indonesia, New Zealand*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *manipulating the elements of dance in performance to interpret a choreographer’s style and intent in contemporary styles, such as Aboriginal hip hop*
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *undertaking functional, structural and aesthetic analyses of benefits and constraints of design ideas, for example to different communities and environments including those from the countries of Asia*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating and justifying the use and best combination of traditional, contemporary and emerging technologies during project development, including consideration of sustainability, for example farming methods in South-East Asia*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *investigating how cultural beliefs and practices surrounding transitions to adulthood differ between cultures*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *designing and critiquing a strategy to involve family, friends and members of the community in cultural celebrations to promote a sense of connection with and belonging to the community*
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
+* **Hist 9**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
   * *explaining the factors that contributed to federation and the development of democracy in Australia, including the role of key individuals, defence concerns, the 1890s depression, nationalist ideals and egalitarianism*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
 
@@ -1674,84 +1674,84 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and identifying how socio-cultural values, attitudes and beliefs are conveyed in texts, for example comparing and analysing perspectives about an Aboriginal and Torres Strait Islander issue reported in commercial media compared to public and Aboriginal and Torres Strait Islander media*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
   * *identifying and explaining satirical events, including events in other cultures, for example depictions in political cartoons*
   * *identifying and evaluating poetic, lyrical language in the depiction of people, culture, places, events, things and concepts in texts*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **Maths**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
+* **Maths 9**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
   * *comparing the annual rainfall in various parts of Australia, Pakistan, New Guinea and Malaysia*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *investigating contemporary science issues related to living in a Pacific country located near plate boundaries, for example Japan, Indonesia, New Zealand*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *manipulating the elements of dance in performance to interpret a choreographer’s style and intent in contemporary styles, such as Aboriginal hip hop*
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *undertaking functional, structural and aesthetic analyses of benefits and constraints of design ideas, for example to different communities and environments including those from the countries of Asia*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating and justifying the use and best combination of traditional, contemporary and emerging technologies during project development, including consideration of sustainability, for example farming methods in South-East Asia*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *investigating how cultural beliefs and practices surrounding transitions to adulthood differ between cultures*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *designing and critiquing a strategy to involve family, friends and members of the community in cultural celebrations to promote a sense of connection with and belonging to the community*
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
+* **Hist 9**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
   * *explaining the factors that contributed to federation and the development of democracy in Australia, including the role of key individuals, defence concerns, the 1890s depression, nationalist ideals and egalitarianism*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
 
@@ -1891,84 +1891,84 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and identifying how socio-cultural values, attitudes and beliefs are conveyed in texts, for example comparing and analysing perspectives about an Aboriginal and Torres Strait Islander issue reported in commercial media compared to public and Aboriginal and Torres Strait Islander media*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
   * *identifying and explaining satirical events, including events in other cultures, for example depictions in political cartoons*
   * *identifying and evaluating poetic, lyrical language in the depiction of people, culture, places, events, things and concepts in texts*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **Maths**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
+* **Maths 9**: Identify everyday questions and issues involving at least one numerical and at least one categorical variable, and collect data directly and from secondary sources (ACMSP228)
   * *comparing the annual rainfall in various parts of Australia, Pakistan, New Guinea and Malaysia*
-* **Science**: Values and needs of contemporary society can influence the focus of scientific research
+* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
  (ACSHE228)
   * *investigating contemporary science issues related to living in a Pacific country located near plate boundaries, for example Japan, Indonesia, New Zealand*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *manipulating the elements of dance in performance to interpret a choreographer’s style and intent in contemporary styles, such as Aboriginal hip hop*
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **D&T**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
   * *recognising real-world problems and understanding basic needs when considering designed solutions, for example Engineers Without Borders High School Outreach Program allows students to design solutions to problems in a country in Asia*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **D&T**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
   * *undertaking functional, structural and aesthetic analyses of benefits and constraints of design ideas, for example to different communities and environments including those from the countries of Asia*
-* **D&T**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
   * *evaluating and justifying the use and best combination of traditional, contemporary and emerging technologies during project development, including consideration of sustainability, for example farming methods in South-East Asia*
-* **HPE**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
+* **HPE 9-10**: Evaluate factors that shape identities and critically analyse how individuals impact the identities of others (ACPPS089)
   * *investigating how cultural beliefs and practices surrounding transitions to adulthood differ between cultures*
-* **HPE**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
   * *designing and critiquing a strategy to involve family, friends and members of the community in cultural celebrations to promote a sense of connection with and belonging to the community*
   * *investigating different approaches to managing environmental resources, including how Aboriginal and Torres Strait Islander communities demonstrate custodial responsibility for Country/Place*
-* **Hist**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
+* **Hist 9**: Key people, events and ideas in the development of Australian self-government and democracy, including, the role of founders, key features of constitutional development, the importance of British and Western influences in the formation of Australia’s system of government and women's voting rights (ACDSEH091)
   * *explaining the factors that contributed to federation and the development of democracy in Australia, including the role of key individuals, defence concerns, the 1890s depression, nationalist ideals and egalitarianism*
-* **Hist**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
   * *examining and comparing different perceptions of human wellbeing (for example, by comparing student rankings of selected indicators)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
 
@@ -2000,35 +2000,35 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **Hist**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
+* **Hist 9**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
   * *investigating the experiences of a specific group of arrivals to Australia (for example, convicts in Sydney, Hobart, Brisbane; or free settlers in Melbourne, Adelaide, Perth or Darwin)*
   * *describing the impact of this group on the Aboriginal and Torres Strait Islander Peoples of the region*
-* **Hist**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
+* **Hist 9**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
  (ACDSEH142)
   * *investigating the confrontation between Japan and Western powers (for example, the Russo-Japanese war) and the emergence of Japan as a major world power*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 3**: identify and discuss the significance of a range of cultural events, artefacts or stories recognised in the school, community or nation
@@ -2091,35 +2091,35 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **Hist**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
+* **Hist 9**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
   * *investigating the experiences of a specific group of arrivals to Australia (for example, convicts in Sydney, Hobart, Brisbane; or free settlers in Melbourne, Adelaide, Perth or Darwin)*
   * *describing the impact of this group on the Aboriginal and Torres Strait Islander Peoples of the region*
-* **Hist**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
+* **Hist 9**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
  (ACDSEH142)
   * *investigating the confrontation between Japan and Western powers (for example, the Russo-Japanese war) and the emergence of Japan as a major world power*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 4**: discuss opportunities that cultural diversity offers within Australia and the Asia-Pacific region
@@ -2165,35 +2165,35 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **Hist**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
+* **Hist 9**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
   * *investigating the experiences of a specific group of arrivals to Australia (for example, convicts in Sydney, Hobart, Brisbane; or free settlers in Melbourne, Adelaide, Perth or Darwin)*
   * *describing the impact of this group on the Aboriginal and Torres Strait Islander Peoples of the region*
-* **Hist**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
+* **Hist 9**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
  (ACDSEH142)
   * *investigating the confrontation between Japan and Western powers (for example, the Russo-Japanese war) and the emergence of Japan as a major world power*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 5**: understand the importance of maintaining and celebrating cultural traditions for the development of personal, group and national identities
@@ -2291,35 +2291,35 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **Hist**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
+* **Hist 9**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
   * *investigating the experiences of a specific group of arrivals to Australia (for example, convicts in Sydney, Hobart, Brisbane; or free settlers in Melbourne, Adelaide, Perth or Darwin)*
   * *describing the impact of this group on the Aboriginal and Torres Strait Islander Peoples of the region*
-* **Hist**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
+* **Hist 9**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
  (ACDSEH142)
   * *investigating the confrontation between Japan and Western powers (for example, the Russo-Japanese war) and the emergence of Japan as a major world power*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 6**: understand the importance of mutual respect in promoting cultural exchange and collaboration in an interconnected world
@@ -2364,35 +2364,35 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **Music**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
+* **Music 9-10**: Evaluate a range of music and compositions to inform and refine their own compositions and performances (ACAMUR104)
   * *comparing music from different styles to identify and describe stylistic, cultural and historical practices and inform their own composition and performance practice*
-* **HPE**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
+* **HPE 9-10**: Investigate how empathy and ethical decision making contribute to respectful relationships (ACPPS093)
   * *investigating how the balance of power influences the nature of relationships and proposing actions that can be taken when a relationship is not respectful*
-* **Hist**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
+* **Hist 9**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
   * *investigating the experiences of a specific group of arrivals to Australia (for example, convicts in Sydney, Hobart, Brisbane; or free settlers in Melbourne, Adelaide, Perth or Darwin)*
   * *describing the impact of this group on the Aboriginal and Torres Strait Islander Peoples of the region*
-* **Hist**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
+* **Hist 9**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
  (ACDSEH142)
   * *investigating the confrontation between Japan and Western powers (for example, the Russo-Japanese war) and the emergence of Japan as a major world power*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 ## Interacting and empathising with others
@@ -2459,26 +2459,26 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
 
 #### **Level 3**: recognise there are similarities and differences in the ways people communicate, both within and across cultural groups
@@ -2520,26 +2520,26 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
 
 #### **Level 4**: identify factors that contribute to understanding in intercultural communication and discuss some strategies to avoid misunderstanding
@@ -2562,26 +2562,26 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
 
 #### **Level 5**: explore ways that culture shapes the use of language in a wide range of contexts
@@ -2599,26 +2599,26 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
 
 #### **Level 6**: analyse the complex relationship between language, thought and context to understand and enhance communication
@@ -2636,26 +2636,26 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
+* **English 9**: Understand that roles and relationships are developed and challenged through language and interpersonal skills (ACELA1551)
   * *identifying the various communities to which students belong and how language reinforces membership of these communities (the intimate language of family members, the jargon of teenage groups, the technicality of some online communities, the language specific to recreational groups, the interaction patterns of the classroom, the commonalities in migrant and cultural groups)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Dance**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
+* **Dance 9-10**: Analyse a range of dance from contemporary and past times to explore differing viewpoints and enrich their dance making, starting with dance from Australia and including dance of Aboriginal and Torres Strait Islander Peoples, and consider dance in international contexts (ACADAR026)
   * *considering how global trends in dance influence the development of dance in Australia*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
 
 ### Consider and develop multiple perspectives
@@ -2677,91 +2677,91 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Maths**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
+* **Maths 9**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
   * *investigating a range of data and its sources, for example the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Japan and Timor-Leste*
-* **Maths**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
+* **Maths 10**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
   * *using parallel box plots to compare data about the age distribution of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Maths**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
+* **Maths 10**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
  (ACMSP253)
   * *investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region*
   * *evaluating statistical reports comparing the life expectancy of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
+* **Hist 9**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
   * *exploring the experiences of Aboriginal and Torres Strait Islander people during the war*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
+* **Hist 10**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
   * *examining different accounts of the first 1957 rock’n’roll tours of Australia and identifying the different perspectives based on age*
   * *explaining the enthusiasm of young people for the 1957 rock’n’roll tours of Australia and the opposition of older generations, as reflected in the sources*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **C&C**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
+* **C&C 9**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
   * *debating the concepts of ‘global identity’ and ‘global citizenship’ and their implications for Australian citizens*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
-* **E&B**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
+* **E&B 9**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
  (ACHEK038)
   * *identifying examples of global events that impact on economic activity (for example, environmental, financial, economic, political, technological, social, cultural, sporting events)*
 
@@ -2812,91 +2812,91 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Maths**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
+* **Maths 9**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
   * *investigating a range of data and its sources, for example the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Japan and Timor-Leste*
-* **Maths**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
+* **Maths 10**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
   * *using parallel box plots to compare data about the age distribution of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Maths**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
+* **Maths 10**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
  (ACMSP253)
   * *investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region*
   * *evaluating statistical reports comparing the life expectancy of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
+* **Hist 9**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
   * *exploring the experiences of Aboriginal and Torres Strait Islander people during the war*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
+* **Hist 10**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
   * *examining different accounts of the first 1957 rock’n’roll tours of Australia and identifying the different perspectives based on age*
   * *explaining the enthusiasm of young people for the 1957 rock’n’roll tours of Australia and the opposition of older generations, as reflected in the sources*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **C&C**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
+* **C&C 9**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
   * *debating the concepts of ‘global identity’ and ‘global citizenship’ and their implications for Australian citizens*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
-* **E&B**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
+* **E&B 9**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
  (ACHEK038)
   * *identifying examples of global events that impact on economic activity (for example, environmental, financial, economic, political, technological, social, cultural, sporting events)*
 
@@ -2947,91 +2947,91 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Maths**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
+* **Maths 9**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
   * *investigating a range of data and its sources, for example the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Japan and Timor-Leste*
-* **Maths**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
+* **Maths 10**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
   * *using parallel box plots to compare data about the age distribution of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Maths**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
+* **Maths 10**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
  (ACMSP253)
   * *investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region*
   * *evaluating statistical reports comparing the life expectancy of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
+* **Hist 9**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
   * *exploring the experiences of Aboriginal and Torres Strait Islander people during the war*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
+* **Hist 10**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
   * *examining different accounts of the first 1957 rock’n’roll tours of Australia and identifying the different perspectives based on age*
   * *explaining the enthusiasm of young people for the 1957 rock’n’roll tours of Australia and the opposition of older generations, as reflected in the sources*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **C&C**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
+* **C&C 9**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
   * *debating the concepts of ‘global identity’ and ‘global citizenship’ and their implications for Australian citizens*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
-* **E&B**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
+* **E&B 9**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
  (ACHEK038)
   * *identifying examples of global events that impact on economic activity (for example, environmental, financial, economic, political, technological, social, cultural, sporting events)*
 
@@ -3193,91 +3193,91 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Maths**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
+* **Maths 9**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
   * *investigating a range of data and its sources, for example the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Japan and Timor-Leste*
-* **Maths**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
+* **Maths 10**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
   * *using parallel box plots to compare data about the age distribution of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Maths**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
+* **Maths 10**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
  (ACMSP253)
   * *investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region*
   * *evaluating statistical reports comparing the life expectancy of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
+* **Hist 9**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
   * *exploring the experiences of Aboriginal and Torres Strait Islander people during the war*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
+* **Hist 10**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
   * *examining different accounts of the first 1957 rock’n’roll tours of Australia and identifying the different perspectives based on age*
   * *explaining the enthusiasm of young people for the 1957 rock’n’roll tours of Australia and the opposition of older generations, as reflected in the sources*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **C&C**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
+* **C&C 9**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
   * *debating the concepts of ‘global identity’ and ‘global citizenship’ and their implications for Australian citizens*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
-* **E&B**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
+* **E&B 9**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
  (ACHEK038)
   * *identifying examples of global events that impact on economic activity (for example, environmental, financial, economic, political, technological, social, cultural, sporting events)*
 
@@ -3373,91 +3373,91 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
   * *considering ethical positions across more than one culture as represented in text and consider the similarities and differences*
-* **English**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
   * *exploring models of sustained texts created for persuasive purposes about a challenging or complex issue from other cultures, including Asia*
-* **Maths**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
+* **Maths 9**: Investigate reports of surveys in digital media and elsewhere for information on how data were obtained to estimate population means and medians (ACMSP227)
   * *investigating a range of data and its sources, for example the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Japan and Timor-Leste*
-* **Maths**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
+* **Maths 10**: Construct and interpret box plots and use them to compare data sets (ACMSP249)
   * *using parallel box plots to compare data about the age distribution of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Maths**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
+* **Maths 10**: Evaluate statistical reports in the media and other places by linking claims to displays, statistics and representative data
  (ACMSP253)
   * *investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region*
   * *evaluating statistical reports comparing the life expectancy of Aboriginal and Torres Strait Islander people with that of the Australian population as a whole*
-* **Dance**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
  (ACADAM020)
   * *exploring use of elements of dance in different dance styles, including those from other cultures and times, as a stimulus for improvisation*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Music**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
   * *exploring use of elements of music in different music styles, including those from other cultures and times, as a stimulus for improvisation*
-* **D&T**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
+* **D&T 9-10**: Investigate and make judgements, within a range of technologies specialisations, on how technologies can be combined to create designed solutions (ACTDEK047)
   * *critiquing product manufacturing processes in relation to society, ethics, and sustainability factors, for example a mechanised entertainment system; an interactive multimedia product to teach a concept to a student in a country in Asia*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
-* **Hist**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
+* **Hist 9**: Living and working conditions in Australia around the turn of the twentieth century (that is 1900) (ACDSEH090)
   * *describing the impact of the gold rushes (hinterland) on the development of ‘Marvellous Melbourne’*
-* **Hist**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
+* **Hist 9**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
   * *exploring the experiences of Aboriginal and Torres Strait Islander people during the war*
-* **Hist**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
+* **Hist 9**: Identify and analyse different historical interpretations (including their own) (ACHHS173)
   * *examining different accounts of eighteenth-century journeys to Australia (for example, ships’ logs; diaries; recorded testimonies of male and female convicts, and officers; and explaining the variations in perspective which can lead to different historical interpretations*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
+* **Hist 10**: Continuity and change in beliefs and values that have influenced the Australian way of life (ACDSEH149)
   * *describing significant examples of continuity and change in beliefs and values, such as democratic ideals, religious beliefs, egalitarianism*
-* **Hist**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
+* **Hist 10**: Identify and analyse different historical interpretations (including their own) (ACHHS191)
   * *examining different accounts of the first 1957 rock’n’roll tours of Australia and identifying the different perspectives based on age*
   * *explaining the enthusiasm of young people for the 1957 rock’n’roll tours of Australia and the opposition of older generations, as reflected in the sources*
-* **Hist**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
   * *explaining the significance of the fall of Singapore (1942) in the changes in Australia’s military alliances and use of troops during World War II, using a range of sources (for example, accounts of prisoners of war, commanders such as General Gordon Bennett, politicians such as Prime Minister John Curtin, and Japanese and British sources)*
-* **Geo**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS064)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
  (ACHGS065)
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
  (ACHGS073)
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **C&C**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
+* **C&C 9**: How ideas about and experiences of Australian identity are influenced by global connectedness and mobility (ACHCK081)
   * *debating the concepts of ‘global identity’ and ‘global citizenship’ and their implications for Australian citizens*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that common issues may need to be seen through diverse cultural lenses*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
-* **E&B**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
+* **E&B 9**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
  (ACHEK038)
   * *identifying examples of global events that impact on economic activity (for example, environmental, financial, economic, political, technological, social, cultural, sporting events)*
 
@@ -3470,16 +3470,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
+* **Hist 9**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
   * *evaluating the effects of the movement of peoples on the indigenous and immigrant populations*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
 
 #### **Level 3**: imagine and describe the feelings of others in a range of contexts
@@ -3491,16 +3491,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
+* **Hist 9**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
   * *evaluating the effects of the movement of peoples on the indigenous and immigrant populations*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
 
 #### **Level 4**: imagine and describe the situations of others in local, national and global contexts
@@ -3510,16 +3510,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
+* **Hist 9**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
   * *evaluating the effects of the movement of peoples on the indigenous and immigrant populations*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
 
 #### **Level 5**: imagine and describe the feelings and motivations of people in challenging situations
@@ -3545,16 +3545,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
+* **Hist 9**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
   * *evaluating the effects of the movement of peoples on the indigenous and immigrant populations*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
 
 #### **Level 6**: recognise the effect that empathising with others has on their own feelings, motivations and actions
@@ -3566,16 +3566,16 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
   * *identifying appeals to shared cultural knowledge, values and beliefs*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
+* **Hist 9**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
   * *evaluating the effects of the movement of peoples on the indigenous and immigrant populations*
-* **C&C**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
  (ACHCK079)
   * *exploring the concept of ‘the common good’ using examples of how religious groups participate to foster interfaith understanding or social justice*
-* **C&C**: Account for different interpretations and points of view (ACHCS085)
+* **C&C 9**: Account for different interpretations and points of view (ACHCS085)
   * *taking on roles for a discussion to explore various points of view about a contemporary political or social issue*
 
 ## Reflecting on intercultural experiences and taking responsibility
@@ -3628,14 +3628,14 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
 
 #### **Level 3**: identify and describe what they have learnt about themselves and others from real, virtual and vicarious intercultural experiences
@@ -3657,14 +3657,14 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
 
 #### **Level 4**: explain what and how they have learnt from a wide range of intercultural interactions and experiences
@@ -3683,14 +3683,14 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
 
 #### **Level 5**: reflect critically on the representation of various cultural groups in texts and the media and how they respond
@@ -3707,14 +3707,14 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
 
 #### **Level 6**: reflect critically on the effect of intercultural experiences on their own attitudes and beliefs and those of others
@@ -3743,14 +3743,14 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
+* **English 9**: Reflect on, discuss and explore notions of literary value and how and why such notions vary according to context
  (ACELT1634)
   * *exploring the ways that context has shaped the representation of particular cultures, such as through the analysis of differing viewpoints in texts about different cultures or by comparing the ways texts from different periods reveal differences in viewpoints (for example differences in the portrayal of migrants in traditional and more contemporary literature)*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
 
 ### Challenge stereotypes and prejudices
@@ -3762,34 +3762,34 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 3**: explain the dangers of making generalisations about individuals and groups
@@ -3805,34 +3805,34 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 4**: explain the impact of stereotypes and prejudices on individuals and groups within Australia
@@ -3848,34 +3848,34 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 5**: identify and challenge stereotypes and prejudices in the representation of group, national and regional identities
@@ -3905,34 +3905,34 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 6**: critique the use of stereotypes and prejudices in texts and issues concerning specific cultural groups at national, regional and global levels
@@ -3974,34 +3974,34 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things and identifying how listeners and readers are positioned by these representations*
-* **English**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
   * *analysing and interpreting assumptions about groups that have shaped or influenced representations of people, places, events and things; identifying how listeners, viewers and readers are positioned by these representations, and supporting identified points with examples*
-* **English**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
+* **English 10**: Identify and explore the purposes and effects of different text structures and language features of spoken texts, and use this knowledge to create purposeful texts that inform, persuade and engage (ACELY1750)
   * *identifying stereotypes of people, cultures, places, events, and concepts and explaining why they are stereotypes*
-* **Media**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
   * *deconstructing film or television work that includes representation of Aboriginal and Torres Strait Islander Peoples*
-* **Visual**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
   * *applying ethical understandings to innovation and invention of theme, concept or subject matter when making their collection of visual artworks for display, and consider exhibitions that include Aboriginal and Torres Strait Islander artworks*
-* **Visual**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
   * *investigating the practices, techniques and viewpoints of artists from different cultural groups and their use of persuasive, communicative or expressive representation*
-* **HPE**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
   * *examining social, cultural and economic factors that influence the health behaviours of people in their community*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **Hist**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
+* **Hist 10**: Experiences of Australians during World War II (such as Prisoners of War (POWs), the Battle of Britain, Kokoda, the Fall of Singapore) (ACDSEH108)
   * *explaining the significance of Kokoda as the battle that halted the Japanese advance on Port Moresby and helped foster the Anzac legend*
-* **Hist**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **C&C**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
   * *exploring texts for stereotype, over-generalisation and misrepresentation (for example, how cultural groups are represented in the media)*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 ### Mediate cultural difference
@@ -4013,9 +4013,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 3**: identify ways of reaching understanding between culturally diverse groups
@@ -4025,9 +4025,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 4**: discuss ways of reconciling differing cultural values and perspectives in addressing common concerns
@@ -4037,9 +4037,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 5**: identify and address challenging issues in ways that respect cultural diversity and the right of all to be heard
@@ -4053,9 +4053,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
 #### **Level 6**: recognise the challenges and benefits of living and working in a culturally diverse society and the role that cultural mediation plays in learning to live together
@@ -4065,8 +4065,8 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **C&C**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
+* **C&C 9**: Recognise and consider multiple perspectives and ambiguities, and use strategies to negotiate and resolve contentious issues (ACHCS086)
   * *recognising that people will not always agree and using strategies to accommodate difference and accept compromise*
-* **C&C**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
+* **C&C 10**: The challenges to and ways of sustaining a resilient democracy and cohesive society (ACHCK094)
   * *investigating processes by which individuals and groups resolve differences in Australian communities (for example, negotiation, mediation and reconciliation)*
 
