@@ -12,14 +12,14 @@ $medium-breakpoint: 42em !default;
 
 
 // Headers
-$header-heading-color: {{ site.color.header | default: "#fff" }} !default;
-$header-bg-color: {{ site.color.gradient_right | default: "#159957" }} !default;
-$header-bg-color-secondary: {{ site.color.gradient_left | default: "#155799" }} !default;
+$header-heading-color: {{ site.colors.header | default: "#fff" }} !default;
+$header-bg-color: {{ site.colors.gradient_right | default: "#159957" }} !default;
+$header-bg-color-secondary: {{ site.colors.gradient_left | default: "#155799" }} !default;
 
 // Text
-$section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#159957" }} !default;
+$section-headings-color: {{ site.colors.section_title | default: site.color.gradient_right | default: "#159957" }} !default;
 $body-text-color: #606c71 !default;
-$body-link-color: {{ site.color.link | default: site.color.gradient_left | default: "#1e6bb8" }} !default;
+$body-link-color: {{ site.colors.link | default: site.color.gradient_left | default: "#1e6bb8" }} !default;
 $blockquote-text-color: #819198 !default;
 
 // Code
@@ -32,6 +32,34 @@ $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
 @import 'jekyll-theme-cayman';
+
+
+.page-header {
+    color: $header-heading-color;
+    text-align: center;
+    background-color: $header-bg-color;
+    background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+
+    @include large {
+      padding: 2rem 2rem;
+    }
+
+    @include medium {
+      padding: 2rem 2rem;
+    }
+
+    @include small {
+      padding: 1rem 1rem;
+    }
+}
+
+
+.main-content {
+    @include large {
+        max-width: none;
+    }
+}
+
 
 {% if site.logo_url %}
 .project-name::before {
@@ -54,4 +82,14 @@ $hr-border-color: #eff0f1 !default;
 
 li > em {
     font-size: small;
+}
+
+.main-content table td, .main-content table th {
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #000;
+    vertical-align: baseline;
+}
+
+.main-content .light {
+    color: #999;
 }
