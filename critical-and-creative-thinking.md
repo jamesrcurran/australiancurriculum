@@ -1,6 +1,35 @@
 # Critical and Creative Thinking
 
 
+## Learning Continuum
+
+<table style="table-layout: fixed; width: 100%">
+<thead>
+</thead>
+<tbody>
+<tr><th colspan="7" style="text-align: center"><a href="#inquiring--identifying-exploring-and-organising-information-and-ideas">Inquiring – identifying, exploring and organising information and ideas</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#pose-questions">Pose questions</a></th><td><a href="#level-1-pose-factual-and-exploratory-questions-based-on-personal-interests-and-experiences">pose factual and exploratory questions based on personal interests and experiences</a></td><td><a href="#level-2-pose-questions-to-identify-and-clarify-issues-and-compare-information-in-their-world">pose questions to identify and clarify issues, and compare information in their world</a></td><td><a href="#level-3-pose-questions-to-expand-their-knowledge-about-the-world">pose questions to expand their knowledge about the world</a></td><td></td><td></td><td></td></tr>
+<tr><th><a href="#identify-and-clarify-information-and-ideas">Identify and clarify information and ideas</a></th><td><a href="#level-1-identify-and-describe-familiar-information-and-ideas-during-a-discussion-or-investigation">identify and describe familiar information and ideas during a discussion or investigation</a></td><td><a href="#level-2-identify-and-explore-information-and-ideas-from-source-materials">identify and explore information and ideas from source materials</a></td><td><a href="#level-3-identify-main-ideas-and-select-and-clarify-information-from-a-range-of-sources">identify main ideas and select and clarify information from a range of sources</a></td><td></td><td></td><td></td></tr>
+<tr><th><a href="#organise-and-process-information">Organise and process information</a></th><td><a href="#level-1-gather-similar-information-or-depictions-from-given-sources">gather similar information or depictions from given sources</a></td><td><a href="#level-2-organise-information-based-on-similar-or-relevant-ideas-from-several-sources">organise information based on similar or relevant ideas from several sources</a></td><td><a href="#level-3-collect-compare-and-categorise-facts-and-opinions-found-in-a-widening-range-of-sources">collect, compare and categorise facts and opinions found in a widening range of sources</a></td><td></td><td></td><td></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#generating-ideas-possibilities-and-actions">Generating ideas, possibilities and actions</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#imagine-possibilities-and-connect-ideas">Imagine possibilities and connect ideas</a></th><td><a href="#level-1-use-imagination-to-view-or-create-things-in-new-ways-and-connect-two-things-that-seem-different">use imagination to view or create things in new ways and connect two things that seem different</a></td><td><a href="#level-2-build-on-what-they-know-to-create-ideas-and-possibilities-in-ways-that-are-new-to-them">build on what they know to create ideas and possibilities in ways that are new to them</a></td><td><a href="#level-3-expand-on-known-ideas-to-create-new-and-imaginative-combinations">expand on known ideas to create new and imaginative combinations</a></td><td></td><td></td><td></td></tr>
+<tr><th><a href="#consider-alternatives">Consider alternatives</a></th><td><a href="#level-1-suggest-alternative-and-creative-ways-to-approach-a-given-situation-or-task">suggest alternative and creative ways to approach a given situation or task</a></td><td><a href="#level-2-identify-and-compare-creative-ideas-to-think-broadly-about-a-given-situation-or-problem">identify and compare creative ideas to think broadly about a given situation or problem</a></td><td><a href="#level-3-explore-situations-using-creative-thinking-strategies-to-propose-a-range-of-alternatives">explore situations using creative thinking strategies to propose a range of alternatives</a></td><td></td><td></td><td></td></tr>
+<tr><th><a href="#seek-solutions-and-put-ideas-into-action">Seek solutions and put ideas into action</a></th><td><a href="#level-1-predict-what-might-happen-in-a-given-situation-and-when-putting-ideas-into-action">predict what might happen in a given situation and when putting ideas into action</a></td><td><a href="#level-2-investigate-options-and-predict-possible-outcomes-when-putting-ideas-into-action">investigate options and predict possible outcomes when putting ideas into action</a></td><td><a href="#level-3-experiment-with-a-range-of-options-when-seeking-solutions-and-putting-ideas-into-action">experiment with a range of options when seeking solutions and putting ideas into action</a></td><td></td><td></td><td></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#reflecting-on-thinking-and-processes">Reflecting on thinking and processes</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#think-about-thinking-metacognition">Think about thinking (metacognition)</a></th><td><a href="#level-1-describe-what-they-are-thinking-and-give-reasons-why">describe what they are thinking and give reasons why</a></td><td><a href="#level-2-describe-the-thinking-strategies-used-in-given-situations-and-tasks">describe the thinking strategies used in given situations and tasks</a></td><td><a href="#level-3-reflect-on-explain-and-check-the-processes-used-to-come-to-conclusions">reflect on, explain and check the processes used to come to conclusions</a></td><td><a href="#level-4-reflect-on-assumptions-made-consider-reasonable-criticism-and-adjust-their-thinking-if-necessary">reflect on assumptions made, consider reasonable criticism and adjust their thinking if necessary</a></td><td><a href="#level-5-assess-assumptions-in-their-thinking-and-invite-alternative-opinions">assess assumptions in their thinking and invite alternative opinions</a></td><td><a href="#level-6-give-reasons-to-support-their-thinking-and-address-opposing-viewpoints-and-possible-weaknesses-in-their-own-positions">give reasons to support their thinking, and address opposing viewpoints and possible weaknesses in their own positions</a></td></tr>
+<tr><th><a href="#reflect-on-processes">Reflect on processes</a></th><td><a href="#level-1-identify-the-main-elements-of-the-steps-in-a-thinking-process">identify the main elements of the steps in a thinking process</a></td><td><a href="#level-2-outline-the-details-and-sequence-in-a-whole-task-and-separate-it-into-workable-parts">outline the details and sequence in a whole task and separate it into workable parts</a></td><td><a href="#level-3-identify-pertinent-information-in-an-investigation-and-separate-into-smaller-parts-or-ideas">identify pertinent information in an investigation and separate into smaller parts or ideas</a></td><td><a href="#level-4-identify-and-justify-the-thinking-behind-choices-they-have-made">identify and justify the thinking behind choices they have made</a></td><td><a href="#level-5-evaluate-and-justify-the-reasons-behind-choosing-a-particular-problemsolving-strategy">evaluate and justify the reasons behind choosing a particular problem-solving strategy</a></td><td><a href="#level-6-balance-rational-and-irrational-components-of-a-complex-or-ambiguous-problem-to-evaluate-evidence">balance rational and irrational components of a complex or ambiguous problem to evaluate evidence</a></td></tr>
+<tr><th><a href="#transfer-knowledge-into-new-contexts">Transfer knowledge into new contexts</a></th><td><a href="#level-1-connect-information-from-one-setting-to-another">connect information from one setting to another</a></td><td><a href="#level-2-use-information-from-a-previous-experience-to-inform-a-new-idea">use information from a previous experience to inform a new idea</a></td><td><a href="#level-3-transfer-and-apply-information-in-one-setting-to-enrich-another">transfer and apply information in one setting to enrich another</a></td><td><a href="#level-4-apply-knowledge-gained-from-one-context-to-another-unrelated-context-and-identify-new-meaning">apply knowledge gained from one context to another unrelated context and identify new meaning</a></td><td><a href="#level-5-justify-reasons-for-decisions-when-transferring-information-to-similar-and-different-contexts">justify reasons for decisions when transferring information to similar and different contexts</a></td><td><a href="#level-6-identify-plan-and-justify-transference-of-knowledge-to-new-contexts">identify, plan and justify transference of knowledge to new contexts</a></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#analysing-synthesising-and-evaluating-reasoning-and-procedures">Analysing, synthesising and evaluating reasoning and procedures</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#apply-logic-and-reasoning">Apply logic and reasoning</a></th><td><a href="#level-1-identify-the-thinking-used-to-solve-problems-in-given-situations">identify the thinking used to solve problems in given situations</a></td><td><a href="#level-2-identify-reasoning-used-in-choices-or-actions-in-specific-situations">identify reasoning used in choices or actions in specific situations</a></td><td><a href="#level-3-identify-and-apply-appropriate-reasoning-and-thinking-strategies-for-particular-outcomes">identify and apply appropriate reasoning and thinking strategies for particular outcomes</a></td><td></td><td></td><td></td></tr>
+<tr><th><a href="#draw-conclusions-and-design-a-course-of-action">Draw conclusions and design a course of action</a></th><td><a href="#level-1-share-their-thinking-about-possible-courses-of-action">share their thinking about possible courses of action</a></td><td><a href="#level-2-identify-alternative-courses-of-action-or-possible-conclusions-when-presented-with-new-information">identify alternative courses of action or possible conclusions when presented with new information</a></td><td><a href="#level-3-draw-on-prior-knowledge-and-use-evidence-when-choosing-a-course-of-action-or-drawing-a-conclusion">draw on prior knowledge and use evidence when choosing a course of action or drawing a conclusion</a></td><td></td><td></td><td></td></tr>
+<tr><th><a href="#evaluate-procedures-and-outcomes">Evaluate procedures and outcomes</a></th><td><a href="#level-1-check-whether-they-are-satisfied-with-the-outcome-of-tasks-or-actions">check whether they are satisfied with the outcome of tasks or actions</a></td><td><a href="#level-2-evaluate-whether-they-have-accomplished-what-they-set-out-to-achieve">evaluate whether they have accomplished what they set out to achieve</a></td><td><a href="#level-3-explain-and-justify-ideas-and-outcomes">explain and justify ideas and outcomes</a></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
 ### Analysis by subject
 
 
@@ -9,14 +38,14 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#inquiring--identifying-exploring-and-organising-information-and-ideas">Inquiring – identifying, exploring and organising information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">375<br><em>11%</em><br>999<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">237<br><em>6%</em><br>640<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">54<br><br>806<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">356<br><br>1453<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">321<br><em>1%</em><br>551<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">154<br><br>489<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">98<br><br>278<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">88<br><br>305<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">29<br><br>189<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">30<br><br>206<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">41<br><br>227<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">49<br><br>251<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">89<br><br>455<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">103<br><br>526<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">144<br><br>491<br><em>30%</em></td></tr>
-<tr><td ><a href="#generating-ideas-possibilities-and-actions">Generating ideas, possibilities and actions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">210<br><em>9%</em><br>321<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">101<br><em>11%</em><br>73<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>34<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">54<br><br>84<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">48<br><br>155<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>126<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">16<br><br>62<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">23<br><br>62<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>82<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">20<br><br>116<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">38<br><br>138<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><br>152<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">68<br><br>278<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">63<br><br>323<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">77<br><br>270<br><em>58%</em></td></tr>
-<tr><td ><a href="#reflecting-on-thinking-and-processes">Reflecting on thinking and processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.50); text-align: right">137<br><em>12%</em><br>144<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">66<br><em>9%</em><br>73<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">12<br><em>17%</em><br>63<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>152<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><br>162<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">33<br><br>168<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">4<br><br>18<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">38<br><br>110<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">11<br><br>53<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">13<br><br>68<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">19<br><br>90<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">24<br><br>95<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>104<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">34<br><br>144<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">42<br><br>119<br><em>63%</em></td></tr>
-<tr><td ><a href="#analysing-synthesising-and-evaluating-reasoning-and-procedures">Analysing, synthesising and evaluating reasoning and procedures</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.45); text-align: right">102<br><em>10%</em><br>92<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">10<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">26<br><br>45<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">48<br><br>131<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>113<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">35<br><br>138<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">24<br><br>89<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">22<br><br>60<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>31<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">5<br><br>30<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>37<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">9<br><br>51<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>96<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">38<br><br>143<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">51<br><br>126<br><em>45%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">4069<br><em>3%</em><br>13425<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">824<br><em>10%</em><br>1556<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">414<br><em>8%</em><br>796<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">110<br><em>2%</em><br>948<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">494<br><br>1820<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">431<br><em>0%</em><br>981<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">240<br><br>921<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">142<br><br>447<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">171<br><br>537<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">65<br><br>355<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">68<br><br>420<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">106<br><br>492<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">133<br><br>549<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">223<br><br>933<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">238<br><br>1136<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">314<br><br>1006<br><em>44%</em></td></tr>
+<tr><td><a href="#inquiring--identifying-exploring-and-organising-information-and-ideas">Inquiring – identifying, exploring and organising information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">375<br><em>11%</em><br>999<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">237<br><em>6%</em><br>640<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">54<br><br>806<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">356<br><br>1453<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">321<br><em>1%</em><br>551<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">154<br><br>489<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">98<br><br>278<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">88<br><br>305<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">29<br><br>189<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">30<br><br>206<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">41<br><br>227<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">36<br><br>243<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">49<br><br>251<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">89<br><br>455<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">103<br><br>526<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">144<br><br>491<br><em>30%</em></td></tr>
+<tr><td><a href="#generating-ideas-possibilities-and-actions">Generating ideas, possibilities and actions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">210<br><em>9%</em><br>321<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">101<br><em>11%</em><br>73<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>34<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">54<br><br>84<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">48<br><br>155<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>126<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">16<br><br>62<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">23<br><br>62<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>82<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">20<br><br>116<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">38<br><br>138<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">34<br><br>151<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><br>152<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">68<br><br>278<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">63<br><br>323<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">77<br><br>270<br><em>58%</em></td></tr>
+<tr><td><a href="#reflecting-on-thinking-and-processes">Reflecting on thinking and processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.50); text-align: right">137<br><em>12%</em><br>144<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">66<br><em>9%</em><br>73<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">12<br><em>17%</em><br>63<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>152<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><br>162<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">33<br><br>168<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">4<br><br>18<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">38<br><br>110<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">11<br><br>53<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">13<br><br>68<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">19<br><br>90<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">16<br><br>86<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">24<br><br>95<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>104<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">34<br><br>144<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">42<br><br>119<br><em>63%</em></td></tr>
+<tr><td><a href="#analysing-synthesising-and-evaluating-reasoning-and-procedures">Analysing, synthesising and evaluating reasoning and procedures</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.45); text-align: right">102<br><em>10%</em><br>92<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">10<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">26<br><br>45<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">48<br><br>131<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>113<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">35<br><br>138<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">24<br><br>89<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">22<br><br>60<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>31<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">5<br><br>30<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>37<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">10<br><br>48<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">9<br><br>51<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>96<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">38<br><br>143<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">51<br><br>126<br><em>45%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">4069<br><em>3%</em><br>13425<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">824<br><em>10%</em><br>1556<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">414<br><em>8%</em><br>796<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">110<br><em>2%</em><br>948<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">494<br><br>1820<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">431<br><em>0%</em><br>981<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">240<br><br>921<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">142<br><br>447<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">171<br><br>537<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">65<br><br>355<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">68<br><br>420<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">106<br><br>492<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">96<br><br>528<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">133<br><br>549<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">223<br><br>933<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">238<br><br>1136<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">314<br><br>1006<br><em>44%</em></td></tr>
 </tbody>
 </table>
 
@@ -28,14 +57,14 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#inquiring--identifying-exploring-and-organising-information-and-ideas">Inquiring – identifying, exploring and organising information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">127<br><em>1%</em><br>566<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">228<br><em>2%</em><br>966<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">281<br><em>2%</em><br>1168<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">306<br><em>3%</em><br>1358<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.64); text-align: right; color: #fff">702<br><em>2%</em><br>2310<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">617<br><em>4%</em><br>2049<br><em>30%</em></td></tr>
-<tr><td ><a href="#generating-ideas-possibilities-and-actions">Generating ideas, possibilities and actions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><em>4%</em><br>226<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">100<br><em>2%</em><br>302<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">124<br><em>2%</em><br>342<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">144<br><em>5%</em><br>392<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">223<br><em>2%</em><br>652<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">251<br><em>5%</em><br>686<br><em>44%</em></td></tr>
-<tr><td ><a href="#reflecting-on-thinking-and-processes">Reflecting on thinking and processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">17<br><em>6%</em><br>73<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><em>3%</em><br>111<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">63<br><em>5%</em><br>147<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">72<br><br>226<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">159<br><em>5%</em><br>544<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.79); text-align: right; color: #fff">219<br><em>5%</em><br>598<br><em>55%</em></td></tr>
-<tr><td ><a href="#analysing-synthesising-and-evaluating-reasoning-and-procedures">Analysing, synthesising and evaluating reasoning and procedures</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">11<br><br>31<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">39<br><br>99<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">70<br><em>3%</em><br>168<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">122<br><em>2%</em><br>430<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.90); text-align: right; color: #fff">205<br><em>3%</em><br>509<br><em>54%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">4069<br><em>3%</em><br>13425<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">203<br><em>2%</em><br>877<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">371<br><em>2%</em><br>1410<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">507<br><em>2%</em><br>1756<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">592<br><em>3%</em><br>2144<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">1206<br><em>2%</em><br>3936<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.64); text-align: right; color: #fff">1292<br><em>4%</em><br>3842<br><em>40%</em></td></tr>
+<tr><td><a href="#inquiring--identifying-exploring-and-organising-information-and-ideas">Inquiring – identifying, exploring and organising information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">127<br><em>1%</em><br>566<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">228<br><em>2%</em><br>966<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">281<br><em>2%</em><br>1168<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">306<br><em>3%</em><br>1358<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.64); text-align: right; color: #fff">702<br><em>2%</em><br>2310<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">617<br><em>4%</em><br>2049<br><em>30%</em></td></tr>
+<tr><td><a href="#generating-ideas-possibilities-and-actions">Generating ideas, possibilities and actions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><em>4%</em><br>226<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">100<br><em>2%</em><br>302<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">124<br><em>2%</em><br>342<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">144<br><em>5%</em><br>392<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">223<br><em>2%</em><br>652<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">251<br><em>5%</em><br>686<br><em>44%</em></td></tr>
+<tr><td><a href="#reflecting-on-thinking-and-processes">Reflecting on thinking and processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">17<br><em>6%</em><br>73<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><em>3%</em><br>111<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">63<br><em>5%</em><br>147<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">72<br><br>226<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">159<br><em>5%</em><br>544<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.79); text-align: right; color: #fff">219<br><em>5%</em><br>598<br><em>55%</em></td></tr>
+<tr><td><a href="#analysing-synthesising-and-evaluating-reasoning-and-procedures">Analysing, synthesising and evaluating reasoning and procedures</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">11<br><br>31<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">39<br><br>99<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">70<br><em>3%</em><br>168<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">122<br><em>2%</em><br>430<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.90); text-align: right; color: #fff">205<br><em>3%</em><br>509<br><em>54%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">4069<br><em>3%</em><br>13425<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">203<br><em>2%</em><br>877<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">371<br><em>2%</em><br>1410<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">507<br><em>2%</em><br>1756<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">592<br><em>3%</em><br>2144<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">1206<br><em>2%</em><br>3936<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.64); text-align: right; color: #fff">1292<br><em>4%</em><br>3842<br><em>40%</em></td></tr>
 </tbody>
 </table>
 
@@ -49,13 +78,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#pose-questions">Pose questions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">140<br><br>440<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>39<br><em>95%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>5<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">13<br><br>12<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.46); text-align: right">32<br><br>88<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">12<br><br>36<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">10<br><br>81<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">10<br><br>20<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">12<br><br>29<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>3<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">9<br><br>33<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">13<br><br>34<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">17<br><br>58<br><em>67%</em></td></tr>
-<tr><td ><a href="#identify-and-clarify-information-and-ideas">Identify and clarify information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1058<br><em>3%</em><br>3991<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.37); text-align: right">197<br><em>11%</em><br>552<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">121<br><em>6%</em><br>314<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">22<br><br>435<br><em>93%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">162<br><br>698<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">156<br><em>1%</em><br>258<br><em>5%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">72<br><br>205<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">44<br><br>130<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">38<br><br>139<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">14<br><br>95<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">15<br><br>104<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">20<br><br>113<br><em>21%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">24<br><br>124<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">40<br><br>214<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">45<br><br>247<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">70<br><br>241<br><em>23%</em></td></tr>
-<tr><td ><a href="#organise-and-process-information">Organise and process information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1006<br><em>3%</em><br>3678<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">175<br><em>11%</em><br>408<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">111<br><em>7%</em><br>321<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>359<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">162<br><br>667<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">153<br><em>1%</em><br>257<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">72<br><br>203<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">44<br><br>128<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">38<br><br>137<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">14<br><br>94<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">15<br><br>102<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>113<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">24<br><br>124<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">40<br><br>208<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">45<br><br>245<br><em>5%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">57<br><br>192<br><em>28%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">375<br><em>11%</em><br>999<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">237<br><em>6%</em><br>640<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">54<br><br>806<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">356<br><br>1453<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">321<br><em>1%</em><br>551<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">154<br><br>489<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">98<br><br>278<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">88<br><br>305<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">29<br><br>189<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">30<br><br>206<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">41<br><br>227<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">49<br><br>251<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">89<br><br>455<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">103<br><br>526<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">144<br><br>491<br><em>30%</em></td></tr>
+<tr><td><a href="#pose-questions">Pose questions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">140<br><br>440<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>39<br><em>95%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>5<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">13<br><br>12<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.46); text-align: right">32<br><br>88<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">12<br><br>36<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">10<br><br>81<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">10<br><br>20<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">12<br><br>29<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>3<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">9<br><br>33<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">13<br><br>34<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">17<br><br>58<br><em>67%</em></td></tr>
+<tr><td><a href="#identify-and-clarify-information-and-ideas">Identify and clarify information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1058<br><em>3%</em><br>3991<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.37); text-align: right">197<br><em>11%</em><br>552<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">121<br><em>6%</em><br>314<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">22<br><br>435<br><em>93%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">162<br><br>698<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">156<br><em>1%</em><br>258<br><em>5%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">72<br><br>205<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">44<br><br>130<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">38<br><br>139<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">14<br><br>95<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">15<br><br>104<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">20<br><br>113<br><em>21%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">18<br><br>122<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">24<br><br>124<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">40<br><br>214<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">45<br><br>247<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">70<br><br>241<br><em>23%</em></td></tr>
+<tr><td><a href="#organise-and-process-information">Organise and process information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1006<br><em>3%</em><br>3678<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">175<br><em>11%</em><br>408<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">111<br><em>7%</em><br>321<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>359<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">162<br><br>667<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">153<br><em>1%</em><br>257<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">72<br><br>203<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">44<br><br>128<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">38<br><br>137<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">14<br><br>94<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">15<br><br>102<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>113<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>120<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">24<br><br>124<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">40<br><br>208<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">45<br><br>245<br><em>5%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">57<br><br>192<br><em>28%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">375<br><em>11%</em><br>999<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">237<br><em>6%</em><br>640<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">54<br><br>806<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">356<br><br>1453<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">321<br><em>1%</em><br>551<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">154<br><br>489<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">98<br><br>278<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">88<br><br>305<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">29<br><br>189<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">30<br><br>206<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">41<br><br>227<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">36<br><br>243<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">49<br><br>251<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">89<br><br>455<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">103<br><br>526<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">144<br><br>491<br><em>30%</em></td></tr>
 </tbody>
 </table>
 
@@ -67,13 +96,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#pose-questions">Pose questions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">140<br><br>440<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">11<br><br>29<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">15<br><br>31<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">20<br><br>53<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">18<br><br>63<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">41<br><br>138<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">38<br><br>135<br><em>60%</em></td></tr>
-<tr><td ><a href="#identify-and-clarify-information-and-ideas">Identify and clarify information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1058<br><em>3%</em><br>3991<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">63<br><em>2%</em><br>309<br><em>34%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">116<br><em>2%</em><br>531<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">134<br><em>2%</em><br>585<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">147<br><em>3%</em><br>668<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.63); text-align: right; color: #fff">331<br><em>2%</em><br>1102<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">294<br><em>4%</em><br>948<br><em>28%</em></td></tr>
-<tr><td ><a href="#organise-and-process-information">Organise and process information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1006<br><em>3%</em><br>3678<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">53<br><br>228<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">97<br><em>2%</em><br>404<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">127<br><em>2%</em><br>530<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">141<br><em>4%</em><br>627<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.66); text-align: right; color: #fff">330<br><em>2%</em><br>1070<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.57); text-align: right; color: #fff">285<br><em>4%</em><br>966<br><em>29%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">127<br><em>1%</em><br>566<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">228<br><em>2%</em><br>966<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">281<br><em>2%</em><br>1168<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">306<br><em>3%</em><br>1358<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.64); text-align: right; color: #fff">702<br><em>2%</em><br>2310<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">617<br><em>4%</em><br>2049<br><em>30%</em></td></tr>
+<tr><td><a href="#pose-questions">Pose questions</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">140<br><br>440<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">11<br><br>29<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">15<br><br>31<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">20<br><br>53<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">18<br><br>63<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">41<br><br>138<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">38<br><br>135<br><em>60%</em></td></tr>
+<tr><td><a href="#identify-and-clarify-information-and-ideas">Identify and clarify information and ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1058<br><em>3%</em><br>3991<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">63<br><em>2%</em><br>309<br><em>34%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">116<br><em>2%</em><br>531<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">134<br><em>2%</em><br>585<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">147<br><em>3%</em><br>668<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.63); text-align: right; color: #fff">331<br><em>2%</em><br>1102<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">294<br><em>4%</em><br>948<br><em>28%</em></td></tr>
+<tr><td><a href="#organise-and-process-information">Organise and process information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">1006<br><em>3%</em><br>3678<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">53<br><br>228<br><em>24%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">97<br><em>2%</em><br>404<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">127<br><em>2%</em><br>530<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">141<br><em>4%</em><br>627<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.66); text-align: right; color: #fff">330<br><em>2%</em><br>1070<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.57); text-align: right; color: #fff">285<br><em>4%</em><br>966<br><em>29%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">2204<br><em>3%</em><br>8109<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">127<br><em>1%</em><br>566<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">228<br><em>2%</em><br>966<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">281<br><em>2%</em><br>1168<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">306<br><em>3%</em><br>1358<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.64); text-align: right; color: #fff">702<br><em>2%</em><br>2310<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">617<br><em>4%</em><br>2049<br><em>30%</em></td></tr>
 </tbody>
 </table>
 
@@ -117,34 +146,34 @@
 
 ##### Elaborations only
 
-* **English 1**: Express preferences for specific texts and authors and listen to the opinions of others (ACELT1583)
+* <span class="light">**English 1**: Express preferences for specific texts and authors and listen to the opinions of others (ACELT1583)</span>
   * *sharing favourite texts and authors and some reasons for preferences*
-* **English 1**: Understand that there are different ways of asking for information, making offers and giving commands (ACELA1446)
+* <span class="light">**English 1**: Understand that there are different ways of asking for information, making offers and giving commands (ACELA1446)</span>
   * *learning the difference between questions and statements, requests and commands*
-* **English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)
+* <span class="light">**English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)</span>
   * *taking turns, asking and answering questions and attempting to involve others in discussions*
-* **English 2**: Use comprehension strategies to build literal and inferred meaning and begin to analyse texts by drawing on growing knowledge of context, language and visual features and print and multimodal text structures (ACELY1670)
+* <span class="light">**English 2**: Use comprehension strategies to build literal and inferred meaning and begin to analyse texts by drawing on growing knowledge of context, language and visual features and print and multimodal text structures (ACELY1670)</span>
   * *predicting, asking and answering questions as they read, and summarising and reviewing meaning*
-* **Science 1**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE021)
+* <span class="light">**Science 1**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE021)</span>
   * *jointly constructing questions about the events and features of the local environment with teacher guidance*
-* **HASS 1**: Interpret data and information displayed in pictures and texts and on maps (ACHASSI024)
+* <span class="light">**HASS 1**: Interpret data and information displayed in pictures and texts and on maps (ACHASSI024)</span>
   * *finding a hidden item using a map or plan that shows its location*
-* **HASS 1**: Activities in the local place and reasons for their location (ACHASSK033)
+* <span class="light">**HASS 1**: Activities in the local place and reasons for their location (ACHASSK033)</span>
   * *identifying which resources they can recycle, reduce, re-use or none of these, and what local spaces and systems (for example, rules, signs, waste collection truck routes) support these activities*
-* **D&T F-2**: Identify how people design and produce familiar products, services and environments and consider sustainability to meet personal and local community needs (ACTDEK001)
+* <span class="light">**D&T F-2**: Identify how people design and produce familiar products, services and environments and consider sustainability to meet personal and local community needs (ACTDEK001)</span>
   * *asking questions about natural and managed environments and impacts on them when selecting materials, tools and equipment when designing and making products, for example harvesting products from the school garden and using recycled clothing*
-* **D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)
+* <span class="light">**D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)</span>
   * *discussing possible designed solutions based on experience and some research, for example asking adults for advice*
   * *exploring which tools, equipment and techniques to use with selected materials*
-* **DT F-2**: Explore how people safely use common information systems to meet information, communication and recreation needs (ACTDIP005)
+* <span class="light">**DT F-2**: Explore how people safely use common information systems to meet information, communication and recreation needs (ACTDIP005)</span>
   * *recognising and discussing the need for cyber-safety when using online information systems, for example recognising that shared personal information can be used for undesirable purposes and that using a password is a means of protecting identity*
   * *discussing how a range of information systems support personal needs and impact on others, for example text to speech software for people with vision loss*
   * *sharing ideas about the ways information systems are being used by families and friends in everyday life, for example comparing current digital play equipment with play equipment of 20 years ago*
-* **DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)
+* <span class="light">**DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)</span>
   * *making ethical decisions when using images for public viewing and using the work of others, for example asking the question ‘What is fair and just?’ to compare images of events or activities and decide whether or not to publish*
-* **HPE 1-2**: Identify rules and fair play when participating in physical activities (ACPMP032)
+* <span class="light">**HPE 1-2**: Identify rules and fair play when participating in physical activities (ACPMP032)</span>
   * *explaining why rules are needed in games and physical activities*
-* **HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)
+* <span class="light">**HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)</span>
   * *comparing different types of movements and identifying which ones are easier and harder and why this might be the case*
 
 #### **Level 3**: pose questions to expand their knowledge about the world
@@ -203,60 +232,60 @@
 
 ##### Elaborations only
 
-* **English 3**: Draw connections between personal experiences and the worlds of texts, and share responses with others (ACELT1596)
+* <span class="light">**English 3**: Draw connections between personal experiences and the worlds of texts, and share responses with others (ACELT1596)</span>
   * *discussing relevant prior knowledge and past experiences to make meaningful connections to the people, places, events, issues and ideas in the text*
   * *exploring texts that highlight issues and problems in making moral decisions and discussing these with others*
-* **English 3**: Identify the point of view in a text and suggest alternative points of view
- (ACELY1675)
+* <span class="light">**English 3**: Identify the point of view in a text and suggest alternative points of view
+ (ACELY1675)</span>
   * *speculating about what other characters might think or feel and retelling the story from other perspectives (for example ‘Cinderella’ from the view of the ‘Ugly Sisters’)*
-* **English 3**: Use comprehension strategies to build literal and inferred meaning and begin to evaluate texts by drawing on a growing knowledge of context, text structures and language features
- (ACELY1680)
+* <span class="light">**English 3**: Use comprehension strategies to build literal and inferred meaning and begin to evaluate texts by drawing on a growing knowledge of context, text structures and language features
+ (ACELY1680)</span>
   * *making predictions and asking and answering questions about the text drawing on knowledge of the topic, subject-specific vocabulary and experience of texts on the same topic*
   * *determining important ideas, events or details in texts commenting on things learned or questions raised by reading, referring explicitly to the text for verification*
-* **English 3**: Understand that successful  cooperation with others depends on shared use of social conventions, including turn-taking patterns, and forms of address that vary according to the degree of formality in social situations (ACELA1476)
+* <span class="light">**English 3**: Understand that successful  cooperation with others depends on shared use of social conventions, including turn-taking patterns, and forms of address that vary according to the degree of formality in social situations (ACELA1476)</span>
   * *identifying roles and collaborative patterns in students’ own groups and pair work (for example initiating a topic, changing a topic through negotiation, affirming other speakers and building on their comments, asking relevant questions, providing useful feedback, prompting and checking individual and group understanding)*
-* **English 4**: Interpret ideas and information in spoken texts and listen for key points in order to carry out tasks and use information to share and extend ideas and information (ACELY1687)
+* <span class="light">**English 4**: Interpret ideas and information in spoken texts and listen for key points in order to carry out tasks and use information to share and extend ideas and information (ACELY1687)</span>
   * *making notes about a task, asking questions to clarify or follow up information, and seeking assistance if required*
-* **English 4**: Use comprehension strategies to build literal and inferred meaning to expand content knowledge, integrating and linking ideas and analysing  and evaluating texts (ACELY1692)
+* <span class="light">**English 4**: Use comprehension strategies to build literal and inferred meaning to expand content knowledge, integrating and linking ideas and analysing  and evaluating texts (ACELY1692)</span>
   * *asking and answering questions*
-* **English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
- (ACELT1603)
+* <span class="light">**English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
+ (ACELT1603)</span>
   * *drawing comparisons between multiple texts and students’ own experiences. Commenting orally, in written form and in digital reviews on aspects such as: 'Do I recognise this in my own world?'; 'How is this text similar to or different from other texts I’ve read?'; 'How common is it to human experience in the real world?'; 'What new ideas does it bring?'; ’How do they fit with what I believe?'*
-* **Maths 4**: Evaluate the effectiveness of different displays in illustrating data features including variability (ACMSP097)
+* <span class="light">**Maths 4**: Evaluate the effectiveness of different displays in illustrating data features including variability (ACMSP097)</span>
   * *suggesting questions that can be answered by a given data display and using the display to answer questions*
-* **HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)
+* <span class="light">**HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)</span>
   * *identifying and discussing the historical origins of an important Australian celebration or commemoration*
   * *examining the symbolism of flags (for example, the Australian, Aboriginal and Torres Strait Islander flags) and recognising special occasions when they are flown (for example, all three flags are flown during NAIDOC Week, National Reconciliation Week, National Sorry Day and Mabo Day) and the roles, rights and responsibilities the community has when observing protocols around flag flying*
-* **HASS 4**: Examine information to identify different points of view and distinguish facts from opinions (ACHASSI077)
+* <span class="light">**HASS 4**: Examine information to identify different points of view and distinguish facts from opinions (ACHASSI077)</span>
   * *exploring different points of view about a familiar event (for example, Australia Day, National Sorry Day) or issue (for example, a school issue, an environmental issue)*
-* **HASS 4**: The journey(s) of AT LEAST ONE world navigator, explorer or trader up to the late eighteenth century, including their contacts with other societies and any impacts (ACHASSK084)
+* <span class="light">**HASS 4**: The journey(s) of AT LEAST ONE world navigator, explorer or trader up to the late eighteenth century, including their contacts with other societies and any impacts (ACHASSK084)</span>
   * *identifying key individuals and groups who established contacts with Africa, the Americas, Asia and Oceania during the European age of discovery*
   * *investigating what motivated countries to explore and colonise*
-* **D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)
+* <span class="light">**D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)</span>
   * *investigating materials, components, tools and equipment, including by using digital technologies, to discover their characteristics and properties, how they can be used more sustainably and their impact in the future*
-* **DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)
+* <span class="light">**DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)</span>
   * *explaining what the problem is and some features of the problem, such as what need is associated with the problem, who has the problem and why*
-* **DT 3-4**: Implement simple digital solutions as visual programs with algorithms involving branching (decisions) and user input
- (ACTDIP011)
+* <span class="light">**DT 3-4**: Implement simple digital solutions as visual programs with algorithms involving branching (decisions) and user input
+ (ACTDIP011)</span>
   * *implementing programs that make decisions on the basis of user input or choices such as through selecting a button, pushing a key or moving a mouse to ‘branch’ to a different segment of the solution*
-* **DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)
+* <span class="light">**DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)</span>
   * *investigating how information systems are used in communities and explaining what needs are being met, for example students jointly creating a short survey and collecting data about how many community residents use the online library borrowing system to download e-books and why they do or do not*
-* **DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
- (ACTDIP013)
+* <span class="light">**DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
+ (ACTDIP013)</span>
   * *discussing digital citizenship rules and behaviours for participating in an online environment, for example not using all capital letters when expressing a strong viewpoint about a contentious matter and ensuring that the audience is aware of your identity*
-* **HPE 3-4**: Identify and practise strategies to promote health, safety and wellbeing
- (ACPPS036)
+* <span class="light">**HPE 3-4**: Identify and practise strategies to promote health, safety and wellbeing
+ (ACPPS036)</span>
   * *proposing changes they can make to their daily routines to reduce sedentary behaviour and increase physical activity levels*
-* **HPE 3-4**: Examine the benefits of physical activity to health and wellbeing
- (ACPMP046)
+* <span class="light">**HPE 3-4**: Examine the benefits of physical activity to health and wellbeing
+ (ACPMP046)</span>
   * *collecting, recording and organising information to investigate which physical activities people engage in to maintain health, wellbeing and fitness*
   * *exploring physical activity and screen-usage time recommendations for children and proposing how they can meet these recommendations*
-* **HPE 3-4**: Apply innovative and creative thinking in solving movement challenges
- (ACPMP049)
+* <span class="light">**HPE 3-4**: Apply innovative and creative thinking in solving movement challenges
+ (ACPMP049)</span>
   * *posing questions to others as a strategy for solving movement challenges*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *using a surface dive and propelling the body underwater to recover an object*
-* **HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)
+* <span class="light">**HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)</span>
   * *collaborating to decide rules for a new game*
 
 ### Identify and clarify information and ideas
@@ -743,90 +772,90 @@
 
 ##### Elaborations only
 
-* **English 1**: Recreate texts imaginatively using drawing, writing, performance and digital forms of communication (ACELT1586)
+* <span class="light">**English 1**: Recreate texts imaginatively using drawing, writing, performance and digital forms of communication (ACELT1586)</span>
   * *creating visual representations of literary texts from Aboriginal, Torres Strait Islander or Asian cultures*
   * *writing character descriptions drawn from illustrations in stories*
   * *retelling key events in stories using oral language, arts, digital technologies and performance media*
-* **English 1**: Understand that people use different systems of communication to cater to different needs and purposes and that many people may use sign systems to communicate with others (ACELA1443)
+* <span class="light">**English 1**: Understand that people use different systems of communication to cater to different needs and purposes and that many people may use sign systems to communicate with others (ACELA1443)</span>
   * *recognising how and where signs and symbols are used and placed in students’ school and community*
   * *learning some signs in Auslan and finding out about ‘Hear a Book’ and Braille technologies for hearing and visually impaired people*
-* **English 1**: Understand that language is used in combination with other means of communication, for example facial expressions and gestures to interact with others (ACELA1444)
+* <span class="light">**English 1**: Understand that language is used in combination with other means of communication, for example facial expressions and gestures to interact with others (ACELA1444)</span>
   * *recognising the effect of words, symbols, gestures and body language on the way communications are received by others*
-* **English 1**: Understand that there are different ways of asking for information, making offers and giving commands (ACELA1446)
+* <span class="light">**English 1**: Understand that there are different ways of asking for information, making offers and giving commands (ACELA1446)</span>
   * *learning the difference between questions and statements, requests and commands*
   * *learning about the difference between closed questions, for example 'Are you ready?', 'Did they enjoy their holidays?' and open questions, for example 'What made this text so exciting?'*
-* **English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)
+* <span class="light">**English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)</span>
   * *discussing and comparing the purposes of familiar texts drawn from local contexts and interests*
   * *becoming familiar with the typical stages of types of text including recount and procedure*
-* **English 1**: Understand patterns of repetition and contrast in simple texts (ACELA1448)
+* <span class="light">**English 1**: Understand patterns of repetition and contrast in simple texts (ACELA1448)</span>
   * *discussing different types of texts and identifying some characteristic features and elements (for example language patterns and repetition) in stories and poetry*
-* **English 1**: Recognise that different types of punctuation, including full stops, question marks and exclamation marks, signal sentences that make statements, ask questions, express emotion or give commands (ACELA1449)
+* <span class="light">**English 1**: Recognise that different types of punctuation, including full stops, question marks and exclamation marks, signal sentences that make statements, ask questions, express emotion or give commands (ACELA1449)</span>
   * *using intonation and pauses in response to punctuation when reading*
   * *reading texts and identifying different sentence-level punctuation*
   * *writing different types of sentences, for example statements and questions, and discussing appropriate punctuation*
-* **English 1**: Understand concepts about print and screen, including how different types of texts are organised using page numbering, tables of content, headings and titles, navigation buttons, bars and links (ACELA1450)
+* <span class="light">**English 1**: Understand concepts about print and screen, including how different types of texts are organised using page numbering, tables of content, headings and titles, navigation buttons, bars and links (ACELA1450)</span>
   * *learning about how books and digital texts are organised including page numbers, table of contents, headings, images with captions and the use of scrolling to access digital texts*
-* **English 1**: Understand the use of vocabulary in everyday contexts as well as a growing number of school contexts, including appropriate use of formal and informal terms of address in different contexts (ACELA1454)
+* <span class="light">**English 1**: Understand the use of vocabulary in everyday contexts as well as a growing number of school contexts, including appropriate use of formal and informal terms of address in different contexts (ACELA1454)</span>
   * *learning forms of address for visitors and how to use language appropriately to ask directions and for information, for example on excursions*
-* **English 1**: Recognise and know how to use simple grammatical morphemes to create word families (ACELA1455)
+* <span class="light">**English 1**: Recognise and know how to use simple grammatical morphemes to create word families (ACELA1455)</span>
   * *using morphemes to read words, for example by recognising the base word in words such as ‘walk-ed’*
-* **English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)
+* <span class="light">**English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)</span>
   * *identifying turn-taking patterns in group and pair work (for example initiating a topic, changing a topic when appropriate, staying on task, supporting other speakers, eliciting responses, being supportive and attentive listeners, asking relevant questions, providing useful feedback, prompting, checking understanding, 'sharing the talking space')*
   * *participating in pair, group and class speaking and listening situations, including informal conversations and class discussions, contributing ideas and listening to the contributions of others*
   * *demonstrating active listening behaviour and responding to what others say in pair, group and class discussions*
   * *experimenting with voice volume and pace for particular purposes including making presentations, retelling stories and reciting rhymes and poems*
-* **English 1**: Make short presentations using some introduced text structures and language, for example opening statements (ACELY1657)
+* <span class="light">**English 1**: Make short presentations using some introduced text structures and language, for example opening statements (ACELY1657)</span>
   * *providing simple explanations about how to do or make something*
   * *giving short oral presentations about areas of interest or content area topics, speaking clearly and with appropriate volume and using extended vocabulary and a growing knowledge of content-specific words*
-* **English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)
+* <span class="light">**English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)</span>
   * *using contextual and semantic knowledge to make predictions about a text’s purpose and content*
   * *combining knowledge of context, meaning, grammar and phonics to decode text*
   * *recognising most high frequency sight words when reading text*
-* **English 2**: Create events and characters using different media that develop key events and characters from literary texts (ACELT1593)
+* <span class="light">**English 2**: Create events and characters using different media that develop key events and characters from literary texts (ACELT1593)</span>
   * *telling known stories from a different point of view*
   * *orally, in writing or using digital media, constructing a sequel to a known story*
-* **English 2**: Rehearse and deliver short presentations on familiar and new topics (ACELY1667)
+* <span class="light">**English 2**: Rehearse and deliver short presentations on familiar and new topics (ACELY1667)</span>
   * *adjusting presentation for different audiences*
   * *preparing and giving oral presentations, including reports of group discussions, using more formal speech and specific vocabulary about content area topics*
   * *listening and responding to presentations, including those using multimedia, on familiar and learned topics, recording key information, and connecting new and existing knowledge about a topic*
-* **English 2**: Understand that spoken, visual and written forms of language are different modes of communication with different features and their use varies according to the audience, purpose, context and cultural background (ACELA1460)
+* <span class="light">**English 2**: Understand that spoken, visual and written forms of language are different modes of communication with different features and their use varies according to the audience, purpose, context and cultural background (ACELA1460)</span>
   * *identifying examples and features of different kinds of spoken, non-verbal, written and visual communication from Aboriginal and Torres Strait Islander communities and from several Asian cultures within Australia, and associating those features with particular communities*
   * *recognising some phrases in the languages of the class and community, for example greetings and expressions of politeness*
-* **English 2**: Understand that language varies when people take on different roles in social and classroom interactions and how the use of key interpersonal language resources varies depending on context
- (ACELA1461)
+* <span class="light">**English 2**: Understand that language varies when people take on different roles in social and classroom interactions and how the use of key interpersonal language resources varies depending on context
+ (ACELA1461)</span>
   * *exploring how terms of address are used to signal different kinds of relationships*
   * *exploring the differences between giving a presentation and talking to friends*
   * *exploring culturally specific greetings and expressions of politeness*
-* **English 2**: Identify language that can be used for appreciating texts and the qualities of people and things (ACELA1462)
+* <span class="light">**English 2**: Identify language that can be used for appreciating texts and the qualities of people and things (ACELA1462)</span>
   * *exploring how language is used to express feelings including learning vocabulary to express a gradation of feeling, for example ‘happy’, ‘joyful’, ‘pleased’, ‘contented’*
   * *exploring in stories, everyday and media texts moral and social dilemmas; such as right and wrong, fairness/unfairness, inclusion and exclusion; learning to use language to describe actions and consider consequences*
   * *exploring how language is used to construct characters and settings in narratives, including choice of nouns such as ‘girl’, ‘princess’ or ‘orphan’, and choice of adjectives such as ‘gentle’, ‘timid’ or ‘frightened’*
-* **English 2**: Understand that different types of texts have identifiable text structures and language features that help the text serve its purpose (ACELA1463)
+* <span class="light">**English 2**: Understand that different types of texts have identifiable text structures and language features that help the text serve its purpose (ACELA1463)</span>
   * *identifying the topic and type of a text through its visual presentation, for example cover design, packaging, title/subtitle and images*
   * *becoming familiar with the typical stages of text types, for example simple narratives, instructions and expositions*
-* **English 2**: Understand how texts are made cohesive through language features, including word associations, synonyms, and antonyms (ACELA1464)
+* <span class="light">**English 2**: Understand how texts are made cohesive through language features, including word associations, synonyms, and antonyms (ACELA1464)</span>
   * *exploring how texts develop their themes and ideas, building information through connecting similar and contrasting dissimilar things*
   * *mapping examples of word associations in texts, for example words that refer to the main character*
-* **English 2**: Know some features of text organisation including page and screen layouts, alphabetical order, and different types of diagrams, for example timelines (ACELA1466)
+* <span class="light">**English 2**: Know some features of text organisation including page and screen layouts, alphabetical order, and different types of diagrams, for example timelines (ACELA1466)</span>
   * *recognising how chapters and table of contents, alphabetical order of index and glossary operate to guide access to information*
   * *learning about features of screen texts including menu buttons, drop down menus, links and live connections*
-* **English 2**: Understand that simple connections can be made between ideas by using a compound sentence with two or more clauses usually linked by a coordinating conjunction
- (ACELA1467)
+* <span class="light">**English 2**: Understand that simple connections can be made between ideas by using a compound sentence with two or more clauses usually linked by a coordinating conjunction
+ (ACELA1467)</span>
   * *learning how to express ideas using compound sentences*
   * *learning how to join simple sentences with conjunctions, for example ‘and’, ‘but’ or ‘so’, to construct compound sentences*
-* **English 2**: Understand that nouns represent people, places, concrete objects and abstract concepts; that there are three types of nouns: common, proper and pronouns; and that noun groups/phrases can be expanded using articles and adjectives (ACELA1468)
+* <span class="light">**English 2**: Understand that nouns represent people, places, concrete objects and abstract concepts; that there are three types of nouns: common, proper and pronouns; and that noun groups/phrases can be expanded using articles and adjectives (ACELA1468)</span>
   * *exploring texts and identifying nouns that refer to characters, elements of the setting, and ideas*
   * *exploring illustrations and noun groups/phrases in picture books to identify how the participants have been represented by an illustrator*
   * *exploring names of people and places and how to write them using capital letters*
   * *building extended noun groups/phrases that provide a clear description of an item*
-* **English 2**: Understand the use of vocabulary about familiar and new topics and experiment with and begin to make conscious choices of vocabulary to suit audience and purpose (ACELA1470)
+* <span class="light">**English 2**: Understand the use of vocabulary about familiar and new topics and experiment with and begin to make conscious choices of vocabulary to suit audience and purpose (ACELA1470)</span>
   * *interpreting new terminology drawing on prior knowledge, analogies and connections with known words*
-* **English 2**: Build morphemic word families using knowledge of prefixes and suffixes (ACELA1472)
+* <span class="light">**English 2**: Build morphemic word families using knowledge of prefixes and suffixes (ACELA1472)</span>
   * *discussing how a prefix or suffix affects meaning, for example in the word ‘paint-er’ the suffix ‘er’ means ‘one who’, so a painter is ‘one who paints’*
-* **English 2**: Use knowledge of letter patterns and morphemes to read and write high-frequency words and words whose spelling is not predictable from their sounds (ACELA1823)
+* <span class="light">**English 2**: Use knowledge of letter patterns and morphemes to read and write high-frequency words and words whose spelling is not predictable from their sounds (ACELA1823)</span>
   * *using known words in writing and spelling unknown words using morphemic knowledge of letter patterns and morphemes, for example the words ‘sometimes’, ‘something’ and ‘anything’*
   * *using known words in writing and spelling unknown words using morphemic knowledge of letter patterns and morphemes, for example the words ‘one’, ‘once’, ‘only’ and ‘lone’*
-* **English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)
+* <span class="light">**English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)</span>
   * *discussing appropriate conventions to use in group discussions*
   * *exploring ways to comment on what others say, including using sentence starters such as ‘I like the way you…’, ‘I agree that …’, ‘I have a different thought…’, ‘I’d like to say something different…’*
   * *participating in pair, group and class speaking and listening situations, including informal conversations, class discussions and presentations*
@@ -835,188 +864,188 @@
   * *brainstorming topics, contributing ideas and acknowledging the ideas of others*
   * *understanding how to disagree with a point of view or offer an alternative idea courteously*
   * *experimenting with presentation strategies such as pitch, volume and intonation*
-* **English 2**: Read less predictable texts with phrasing and fluency by combining contextual, semantic, grammatical and phonic knowledge using text processing strategies, for example monitoring meaning, predicting, rereading and self-correcting (ACELY1669)
+* <span class="light">**English 2**: Read less predictable texts with phrasing and fluency by combining contextual, semantic, grammatical and phonic knowledge using text processing strategies, for example monitoring meaning, predicting, rereading and self-correcting (ACELY1669)</span>
   * *using prior and learned knowledge and vocabulary to make and confirm predictions when reading text*
   * *using grammatical knowledge to predict likely sentence patterns when reading more complex narratives and informative texts*
   * *using knowledge of sound–letter relationships and high frequency sight words when decoding text*
   * *monitoring own reading and self-correcting when reading does not make sense, using illustrations, context, phonics, grammar knowledge and prior and learned topic knowledge*
   * *using grammar and meaning to read aloud with fluency and intonation*
-* **Maths 1**: Recognise, model, read, write and order numbers to at least 100.  Locate these numbers on a number line
- (ACMNA013)
+* <span class="light">**Maths 1**: Recognise, model, read, write and order numbers to at least 100.  Locate these numbers on a number line
+ (ACMNA013)</span>
   * *identifying numbers that are represented on a number line and placing numbers on a prepared number line*
-* **Maths 1**: Recognise and describe one-half as one of two equal parts of a whole. (ACMNA016)
+* <span class="light">**Maths 1**: Recognise and describe one-half as one of two equal parts of a whole. (ACMNA016)</span>
   * *splitting an object into two equal pieces and describing how the pieces are equal*
-* **Maths 1**: Recognise, describe and order Australian coins according to their value (ACMNA017)
+* <span class="light">**Maths 1**: Recognise, describe and order Australian coins according to their value (ACMNA017)</span>
   * *showing that coins are different in other countries by comparing Asian coins to Australian coins*
   * *describing the features of coins that make it possible to identify them*
-* **Maths 1**: Investigate and describe number patterns formed by skip-counting and patterns with objects (ACMNA018)
+* <span class="light">**Maths 1**: Investigate and describe number patterns formed by skip-counting and patterns with objects (ACMNA018)</span>
   * *using place-value patterns beyond the teens to generalise the number sequence and predict the next number*
   * *investigating patterns in the number system, such as the occurrence of a particular digit in the numbers to 100*
-* **Maths 1**: Measure and compare the lengths and capacities of pairs of objects using uniform informal units (ACMMG019)
+* <span class="light">**Maths 1**: Measure and compare the lengths and capacities of pairs of objects using uniform informal units (ACMMG019)</span>
   * *understanding that in order to compare objects, the unit of measurement must be the same size*
-* **Maths 1**: Give and follow directions to familiar locations (ACMMG023)
+* <span class="light">**Maths 1**: Give and follow directions to familiar locations (ACMMG023)</span>
   * *interpreting and following directions around familiar locations*
-* **Maths 2**: Recognise, model, represent and order numbers to at least 1000 (ACMNA027)
+* <span class="light">**Maths 2**: Recognise, model, represent and order numbers to at least 1000 (ACMNA027)</span>
   * *recognising there are different ways of representing numbers and identifying patterns going beyond 100*
-* **Maths 2**: Explore the connection between addition and subtraction (ACMNA029)
+* <span class="light">**Maths 2**: Explore the connection between addition and subtraction (ACMNA029)</span>
   * *becoming fluent with partitioning numbers to understand the connection between addition and subtraction*
-* **Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)
+* <span class="light">**Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)</span>
   * *representing array problems with available materials and explaining reasoning*
-* **Maths 2**: Count and order small collections of Australian coins and notes according to their value (ACMNA034)
+* <span class="light">**Maths 2**: Count and order small collections of Australian coins and notes according to their value (ACMNA034)</span>
   * *identifying equivalent values in collections of coins or notes, such as two five-cent coins having the same value as one 10-cent coin*
-* **Maths 2**: Tell time to the quarter-hour, using the language of 'past' and 'to' (ACMMG039)
+* <span class="light">**Maths 2**: Tell time to the quarter-hour, using the language of 'past' and 'to' (ACMMG039)</span>
   * *describing the characteristics of quarter-past times on an analogue clock, and identifying that the small hand is pointing just past the number and the big hand is pointing to the three*
-* **Maths 2**: Name and order months and seasons (ACMMG040)
+* <span class="light">**Maths 2**: Name and order months and seasons (ACMMG040)</span>
   * *investigating the seasons used by Aboriginal people, comparing them to those used in Western society and recognising the connection to weather patterns.*
-* **Maths 2**: Use a calendar to identify the date and determine the number of days in each month (ACMMG041)
+* <span class="light">**Maths 2**: Use a calendar to identify the date and determine the number of days in each month (ACMMG041)</span>
   * *using calendars to locate specific information, such as finding a given date on a calendar and saying what day it is, and identifying personally or culturally specific days*
-* **Maths 2**: Describe and draw two-dimensional shapes, with and without digital technologies (ACMMG042)
+* <span class="light">**Maths 2**: Describe and draw two-dimensional shapes, with and without digital technologies (ACMMG042)</span>
   * *identifying key features of squares, rectangles, triangles, kites, rhombuses and circles, such as straight lines or curved lines, and counting the edges and corners*
-* **Maths 2**: Describe the features of three-dimensional objects (ACMMG043)
+* <span class="light">**Maths 2**: Describe the features of three-dimensional objects (ACMMG043)</span>
   * *identifying geometric features such as the number of faces, corners or edges*
-* **Science 1**: Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions (ACSIS027)
+* <span class="light">**Science 1**: Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions (ACSIS027)</span>
   * *using matching activities, including identifying similar things, odd-one-out and opposites*
   * *discussing original predictions and, with guidance, comparing these to their observations*
   * *exploring ways of recording and sharing information through class discussion*
-* **Science 1**: Compare observations with those of others (ACSIS213)
+* <span class="light">**Science 1**: Compare observations with those of others (ACSIS213)</span>
   * *discussing observations as a whole class to identify similarities and differences in their observations*
-* **Science 1**: Represent and communicate observations and ideas in a variety of ways (ACSIS029)
+* <span class="light">**Science 1**: Represent and communicate observations and ideas in a variety of ways (ACSIS029)</span>
   * *engaging in whole class or guided small group discussions to share observations and ideas*
-* **Science 1**: Living things have a variety of external features (ACSSU017)
+* <span class="light">**Science 1**: Living things have a variety of external features (ACSSU017)</span>
   * *recognising common features of animals such as head, legs and wings*
   * *describing the use of animal body parts for particular purposes such as moving and feeding*
   * *identifying common features of plants such as leaves and roots*
   * *describing the use of plant parts for particular purposes such as making food and obtaining water*
-* **Science 1**: Living things live in different places where their needs are met (ACSSU211)
+* <span class="light">**Science 1**: Living things live in different places where their needs are met (ACSSU211)</span>
   * *exploring different habitats in the local environment such as the beach, bush and backyard*
   * *recognising that different living things live in different places such as land and water*
   * *exploring what happens when habitats change and some living things can no longer have their needs met*
-* **Science 1**: Everyday materials can be physically changed in a variety of ways (ACSSU018)
+* <span class="light">**Science 1**: Everyday materials can be physically changed in a variety of ways (ACSSU018)</span>
   * *predicting and comparing how the shapes of objects made from different materials can be physically changed through actions such as bending, stretching and twisting*
   * *exploring how materials such as water, chocolate or play dough change when warmed or cooled*
-* **Science 1**: Observable changes occur in the sky and landscape (ACSSU019)
+* <span class="light">**Science 1**: Observable changes occur in the sky and landscape (ACSSU019)</span>
   * *exploring the local environment to identify and describe natural, managed and constructed features*
   * *recording short and longer term patterns of events that occur on Earth and in the sky, such as the appearance of the moon and stars at night, the weather and the seasons*
-* **Science 1**: Light and sound are produced by a range of sources and can be sensed (ACSSU020)
+* <span class="light">**Science 1**: Light and sound are produced by a range of sources and can be sensed (ACSSU020)</span>
   * *recognising senses are used to learn about the world around us: our eyes to detect light, our ears to detect sound, and touch to feel vibrations*
   * *identifying the sun as a source of light*
   * *recognising that objects can be seen when light from sources is available to illuminate them*
   * *exploring different ways to produce sound using familiar objects and actions such as striking, blowing, scraping and shaking*
   * *comparing sounds made by musical instruments using characteristics such as loudness, pitch and actions used to make the sound*
-* **Science 1**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE021)
+* <span class="light">**Science 1**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE021)</span>
   * *jointly constructing questions about the events and features of the local environment with teacher guidance*
   * *recognising that descriptions of what we observe are used by people to help identify change*
-* **Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)
+* <span class="light">**Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)</span>
   * *considering that technologies used by Aboriginal and Torres Strait Islander Peoples require an understanding of how materials can be sustainably sourced to make tools and weapons, musical instruments, clothing, cosmetics and artworks (OI.2, OI.3)*
   * *considering how science is used in activities such as cooking, fishing, transport, sport, medicine and caring for plants and animals*
   * *exploring how musical instruments can be used to produce different sounds*
   * *comparing how different light sources are used in daily life*
   * *identifying ways that science knowledge is used in the care of the local environment such as animal habitats, and suggesting changes to parks and gardens to better meet the needs of native animals*
-* **Science 2**: Compare observations with those of others (ACSIS041)
+* <span class="light">**Science 2**: Compare observations with those of others (ACSIS041)</span>
   * *discussing observations with other students to see similarities and differences in results*
-* **Science 2**: Living things grow, change and have offspring similar to themselves (ACSSU030)
+* <span class="light">**Science 2**: Living things grow, change and have offspring similar to themselves (ACSSU030)</span>
   * *representing personal growth and changes from birth*
   * *recognising that living things have predictable characteristics at different stages of development*
   * *exploring different characteristics of life stages in animals such as egg, caterpillar and butterfly*
   * *observing that all animals have offspring, usually with two parents*
-* **Science 2**: Different materials can be combined for a particular purpose (ACSSU031)
+* <span class="light">**Science 2**: Different materials can be combined for a particular purpose (ACSSU031)</span>
   * *exploring the local environment to observe a variety of materials, and describing ways in which materials are used*
   * *investigating the effects of mixing materials together*
   * *identifying materials such as paper that can be changed and remade or recycled into new products*
-* **Science 2**: Earth’s resources are used in a variety of ways (ACSSU032)
+* <span class="light">**Science 2**: Earth’s resources are used in a variety of ways (ACSSU032)</span>
   * *identifying the Earth’s resources including water, soil and minerals, and describing how they are used in the school*
   * *describing how a resource such as water is transferred from its source to its point of use*
   * *identifying actions at school such as turning off dripping taps, that can conserve resources*
-* **Science 2**: A push or a pull affects how an object moves or changes shape (ACSSU033)
+* <span class="light">**Science 2**: A push or a pull affects how an object moves or changes shape (ACSSU033)</span>
   * *exploring ways that objects move on land, through water and in the air*
   * *exploring how different strengths of pushes and pulls affect the movement of objects*
   * *identifying toys from different cultures that use the forces of push or pull*
   * *considering the effects of objects being pulled towards the Earth*
-* **Science 2**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE034)
+* <span class="light">**Science 2**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE034)</span>
   * *identifying and describing sources of water*
-* **Science 2**: People use science in their daily lives, including when caring for their environment and living things (ACSHE035)
+* <span class="light">**Science 2**: People use science in their daily lives, including when caring for their environment and living things (ACSHE035)</span>
   * *investigating how Aboriginal and Torres Strait Islander Peoples use science to meet their needs, such as food supply (OI.2, OI.3, OI.5)*
   * *monitoring information about the environment and Earth’s resources, such as rainfall, water levels and temperature*
   * *exploring how different cultures have made inks, pigments and paints by mixing materials*
   * *identifying the ways humans manage and protect resources, such as reducing waste and caring for water supplies*
   * *recognising that many living things rely on resources that may be threatened, and that science understanding can contribute to the preservation of such resources*
-* **HASS 1**: Sequence familiar objects and events (ACHASSI021)
+* <span class="light">**HASS 1**: Sequence familiar objects and events (ACHASSI021)</span>
   * *using visual representations such as a ‘days of the week’ chart, a class timetable or a calendar to sequence events or tasks*
   * *describing what they see as they move from one point to another (for example, going from home to school, from the classroom to the library)*
-* **HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)
+* <span class="light">**HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)</span>
   * *recalling information about a place or a site and giving reasons why it should be cared for and commemorated or celebrated*
   * *describing features of a space or place (such as a chicken coop, a play area, their bedroom, the reading corner, the beach) that is important to them and explaining what they could do to care for it*
   * *discussing how their behaviours reflect what they have learnt about caring for important places and significant sites (for example, taking care around school wildlife, turning off taps and lights, following etiquettes in special sites)*
   * *imagining how a local feature or place might change in the future and proposing action they could take to improve a place or influence a positive future*
-* **HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)
+* <span class="light">**HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)</span>
   * *creating shared texts (for example, pictorial charts, calendars, lists, recounts, wall murals/collages, big books) to record observations or report findings*
   * *retelling stories about life in the past through spoken narratives and the use of pictures, role-plays or photographs*
   * *using terms to denote the sequence of time (for example, ‘then’, ‘now’, ‘yesterday’, ‘today’, ‘past’, ‘present’, ‘later on’, ‘before I was born’, ‘in the future’ and ‘generations’)*
   * *explaining to classmates where places are, and the directions to be followed when moving from one place to another, with the use of appropriate terms for direction and location (for example, terms such as ‘beside’, ‘forward’, ‘up’, ‘down’, ‘by’, ‘near’, ‘further’, ‘close to’, ‘before’, ‘after’, ‘here’, ‘there’, ‘at’)*
-* **HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)
+* <span class="light">**HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)</span>
   * *sharing with their teacher, other students and members of their family what they know and have learnt about connections with other places, and explaining the significance of these connections*
   * *using their knowledge about a familiar place or site to imagine how it might change in the future and how they can influence a positive future for it*
-* **HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)
+* <span class="light">**HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)</span>
   * *conveying information about the past and familiar places by representing ideas in written, spoken, pictorial or performance modes and by creating imaginative responses*
   * *composing reports with multimedia to share findings (for example, findings of a comparison of past and present daily life, a report on how access to and use of a place has changed over time, or recommendations on a building of significance)*
   * *describing a significant person from their community’s past in a short report or biography or through a fictional journal based on facts*
   * *using terms in speech and writing to denote the passing of time (for example, ‘in the past’, ‘years ago’, ‘the olden days’, ‘in the future’) and to describe direction and location (for example, north, south, opposite, near, far)*
-* **HASS 2**: The way the world is represented in geographic divisions and the location of Australia in relation to these divisions (ACHASSK047)
+* <span class="light">**HASS 2**: The way the world is represented in geographic divisions and the location of Australia in relation to these divisions (ACHASSK047)</span>
   * *investigating the definition of a continent and the seven-continent and six-continent models*
   * *using geographical tools (for example, a globe and world map) or digital applications such as Google Earth to locate and name the continents, oceans, equator, North and South Poles, tropics and hemispheres and then labelling an outline map*
   * *describing the location of continents and oceans relative to Australia, using terms such as north, south, opposite, near, far*
-* **Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)
+* <span class="light">**Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)</span>
   * *Considering viewpoints – meanings and interpretations: For example – How are you communicating the ideas or intention in this dance? forms and elements: Which levels are you using in your dance?*
   * *recognising and accepting a teacher’s or classmates’ constructive feedback*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *Considering viewpoints – meanings and interpretations: For example – What did this dance make you think about? Did the dance movements remind you of anything? How are you communicating the ideas or intention in this dance?*
   * *exploring the movements in dances with representatives of the Aboriginal and Torres Strait Islander community, for example, creating movements that represent animals from their region*
   * *using expressive skills to engage the audience, for example, looking out to audience and using facial expression*
   * *presenting their dance in a digital format*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *communicating verbally by using the voice to explore and show role and situation*
   * *communicating non-verbally by using facial expression and movement to explore and show role and situation*
   * *manipulating objects, puppets, 2D images and available technologies to create stories*
-* **Drama F-2**: Present drama that communicates ideas, including stories from their community, to an audience
- (ACADRM029)
+* <span class="light">**Drama F-2**: Present drama that communicates ideas, including stories from their community, to an audience
+ (ACADRM029)</span>
   * *Considering viewpoints – meanings and interpretations: For example – What do you want your audience to think about your drama? What did this drama make you think about? How did you feel when making/watching the drama? evaluations: What did you like best in the drama? Why?*
-* **Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)
+* <span class="light">**Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)</span>
   * *experimenting with and managing a digital camera to capture still or moving images, for example, reviewing captured images, zooming in and out and deleting unwanted images*
   * *experimenting with sound recording technology and found objects to create and record sound effects to support a story*
   * *trialling the selection and arrangement of images, sounds and text to organise important features of an idea or story*
-* **Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)
+* <span class="light">**Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)</span>
   * *practising techniques for singing songs and playing classroom instruments*
   * *singing and playing music to explore the expressive possibilities of their voices and instruments*
   * *Considering viewpoints – meanings and interpretations: For example – What did this music make you think about and why?*
   * *practising and performing music using accessible technologies*
   * *learning a song used by groups in the local community, such as Aboriginal songs or Torres Strait Islander songs from their community, respecting cultural protocols*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *using and playing with everyday materials in new ways or re-using discarded materials, for example using discarded materials to design, make and model a constructed environment*
   * *assembling components of systems and checking they function as planned, for example when making a musical instrument*
-* **DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)
+* <span class="light">**DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)</span>
   * *using different types of data to create information for sharing online, for example creating a multimedia class profile that includes a photo of each student, a personal audio recording and a written message*
   * *planning and creating text, drawings and sound files to share online, for example jointly creating a photo story to illustrate a fable or fairy-tale from the Asia region or a local Aboriginal and Torres Strait Islander community story*
   * *making ethical decisions when using images for public viewing and using the work of others, for example asking the question ‘What is fair and just?’ to compare images of events or activities and decide whether or not to publish*
   * *participating in safe online environments, for example sharing ideas and information through intranets, messaging only to people they know, bookmarked websites and moderated online spaces*
-* **HPE 1-2**: Practise strategies they can use when they feel uncomfortable, unsafe or need help with a task, problem or situation (ACPPS017)
+* <span class="light">**HPE 1-2**: Practise strategies they can use when they feel uncomfortable, unsafe or need help with a task, problem or situation (ACPPS017)</span>
   * *identifying and rehearsing strategies they can use when requiring assistance, such as asking an adult, reading basic signs and solving a problem with friends*
-* **HPE 1-2**: Recognise situations and opportunities to promote health, safety and wellbeing
- (ACPPS018)
+* <span class="light">**HPE 1-2**: Recognise situations and opportunities to promote health, safety and wellbeing
+ (ACPPS018)</span>
   * *exploring how eating healthy foods can influence health and wellbeing*
   * *exploring benefits of regular physical activity and identifying opportunities when they can be active at school, at home and in the community*
   * *describing actions to stay safe in a range of environments, including water, road, nature and outdoors*
-* **HPE 1-2**: Describe ways to include others to make them feel they belong (ACPPS019)
+* <span class="light">**HPE 1-2**: Describe ways to include others to make them feel they belong (ACPPS019)</span>
   * *identifying and appreciating similarities and differences in people and groups*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *performing fundamental movement skills involving controlling objects with equipment and different parts of the body*
   * *demonstrating balances and describing what helps to maintain stable positions*
   * *demonstrating changes in speed, direction and level of movement in response to changes in music tempo*
   * *creating, following, repeating and altering movement sequences and games in response to rhythm, music or words*
-* **HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)
+* <span class="light">**HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)</span>
   * *comparing different types of movements and identifying which ones are easier and harder and why this might be the case*
   * *performing movements under, over, through and between objects, people and equipment*
-* **HPE 1-2**: Use strategies to work in group situations when participating in physical activities (ACPMP030)
+* <span class="light">**HPE 1-2**: Use strategies to work in group situations when participating in physical activities (ACPMP030)</span>
   * *suggesting and trialling how a game can be changed so that everyone can be involved*
 
 #### **Level 3**: identify main ideas and select and clarify information from a range of sources
@@ -1588,222 +1617,222 @@
 
 ##### Elaborations only
 
-* **English 3**: Understand that languages have different written and visual communication systems, different oral traditions and different ways of constructing meaning (ACELA1475)
+* <span class="light">**English 3**: Understand that languages have different written and visual communication systems, different oral traditions and different ways of constructing meaning (ACELA1475)</span>
   * *learning that a word or sign can carry different weight in different cultural contexts, for example that particular respect is due to some people and creatures and that stories can be passed on to teach us how to live appropriately*
-* **English 3**: Understand that successful  cooperation with others depends on shared use of social conventions, including turn-taking patterns, and forms of address that vary according to the degree of formality in social situations (ACELA1476)
+* <span class="light">**English 3**: Understand that successful  cooperation with others depends on shared use of social conventions, including turn-taking patterns, and forms of address that vary according to the degree of formality in social situations (ACELA1476)</span>
   * *identifying roles and collaborative patterns in students’ own groups and pair work (for example initiating a topic, changing a topic through negotiation, affirming other speakers and building on their comments, asking relevant questions, providing useful feedback, prompting and checking individual and group understanding)*
-* **English 3**: Examine how evaluative language can be varied to be more or less forceful (ACELA1477)
+* <span class="light">**English 3**: Examine how evaluative language can be varied to be more or less forceful (ACELA1477)</span>
   * *exploring how modal verbs, for example ‘must’, ‘might’,’ or ‘could’ indicate degrees of probability or obligation*
   * *distinguishing how choice of adverbs, nouns and verbs present different evaluations of characters in texts*
-* **English 3**: Understand how different types of texts vary in use of language choices, depending on their purpose and context (for example, tense and types of sentences) (ACELA1478)
+* <span class="light">**English 3**: Understand how different types of texts vary in use of language choices, depending on their purpose and context (for example, tense and types of sentences) (ACELA1478)</span>
   * *becoming familiar with typical structural stages and language features of various types of text, for example narratives, procedures, reports, reviews and expositions*
-* **English 3**: Understand that paragraphs are a key organisational feature of written texts (ACELA1479)
+* <span class="light">**English 3**: Understand that paragraphs are a key organisational feature of written texts (ACELA1479)</span>
   * *noticing how longer texts are organised into paragraphs, each beginning with a topic sentence/paragraph opener which predicts how the paragraph will develop and is then elaborated in various ways*
-* **English 3**: Know that word contractions are a feature of informal language and that apostrophes of contraction are used to signal missing letters (ACELA1480)
+* <span class="light">**English 3**: Know that word contractions are a feature of informal language and that apostrophes of contraction are used to signal missing letters (ACELA1480)</span>
   * *recognising both grammatically accurate and inaccurate usage of the apostrophe in everyday texts such as signs in the community and newspaper advertisements*
-* **English 3**: Understand that a clause is a unit of grammar usually containing a subject and a verb and that these need to be in agreement (ACELA1481)
+* <span class="light">**English 3**: Understand that a clause is a unit of grammar usually containing a subject and a verb and that these need to be in agreement (ACELA1481)</span>
   * *knowing that a clause is basically a group of words that contains a verb*
   * *knowing that, in terms of meaning, a basic clause represents: what is happening; what state is being described; who or what is involved; and the surrounding circumstances*
-* **English 3**: Understand that verbs represent different processes, for example doing, thinking, saying, and relating and that these processes are anchored in time through tense
- (ACELA1482)
+* <span class="light">**English 3**: Understand that verbs represent different processes, for example doing, thinking, saying, and relating and that these processes are anchored in time through tense
+ (ACELA1482)</span>
   * *identifying different types of verbs and the way they add meaning to a sentence*
   * *exploring 'doing' and 'saying' verbs in narrative texts to show how they give information about what characters do and say*
   * *exploring the use of sensing verbs and how they allow readers to know what characters think and feel*
   * *exploring the use of relating verbs in constructing definitions and descriptions*
   * *learning how time is represented through the tense of a verb, for example 'She arrived’, ‘She is arriving’ and adverbials of time, for example ‘She arrived yesterday’, ‘She is arriving in the morning’*
-* **English 3**: Learn extended and technical vocabulary and ways of expressing opinion including modal verbs and adverbs (ACELA1484)
+* <span class="light">**English 3**: Learn extended and technical vocabulary and ways of expressing opinion including modal verbs and adverbs (ACELA1484)</span>
   * *exploring examples of language which demonstrate a range of feelings and positions, and building a vocabulary to express judgements about characters or events, acknowledging that language and judgements might differ depending on the cultural context*
-* **English 3**: Know how to use common prefixes and suffixes, and generalisations for adding a suffix to a base word
- (ACELA1827)
+* <span class="light">**English 3**: Know how to use common prefixes and suffixes, and generalisations for adding a suffix to a base word
+ (ACELA1827)</span>
   * *exploring generalisations for adding a suffix to a base word to form a plural or past tense, for example to make a word plural when it ends in ‘ss’, ‘sh’, ‘ch’ or ‘z’, add ‘es’*
-* **English 3**: Discuss the nature and effects of some language devices used to enhance meaning and shape the reader’s reaction, including rhythm and onomatopoeia in poetry and prose (ACELT1600)
+* <span class="light">**English 3**: Discuss the nature and effects of some language devices used to enhance meaning and shape the reader’s reaction, including rhythm and onomatopoeia in poetry and prose (ACELT1600)</span>
   * *identifying the effect of imagery in texts, for example the use of imagery related to nature in haiku poems*
   * *exploring how rhythm, onomatopoeia and alliteration give momentum to poetry and prose read aloud, and enhance enjoyment*
-* **English 3**: Listen to and contribute to conversations and discussions to share information and ideas and negotiate in collaborative situations (ACELY1676)
+* <span class="light">**English 3**: Listen to and contribute to conversations and discussions to share information and ideas and negotiate in collaborative situations (ACELY1676)</span>
   * *participating in collaborative discussions, building on and connecting ideas and opinions expressed by others, and checking students’ own understanding against group views*
-* **English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)
+* <span class="light">**English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)</span>
   * *participating in pair, group and class speaking and listening situations, including informal conversations, class discussions and presentations*
   * *listening actively including listening for specific information, recognising the value of others’ contributions and responding through comments, recounts and summaries of information*
   * *learning the specific speaking or listening skills of different group roles, for example group leader, note taker and reporter*
   * *acquiring new vocabulary in all curriculum areas through listening, reading, viewing and discussion and using this vocabulary in specific ways such as describing people, places, things and processes*
   * *using language appropriately in different situations such as making a request of a teacher, explaining a procedure to a classmate, engaging in a game with friends*
   * *experimenting with voice effects in formal presentations such as tone, volume and pace*
-* **English 4**: Understand that social interactions influence the way people engage with ideas and respond to others for example when exploring and clarifying the ideas of others, summarising their own views and reporting them to a larger group (ACELA1488)
+* <span class="light">**English 4**: Understand that social interactions influence the way people engage with ideas and respond to others for example when exploring and clarifying the ideas of others, summarising their own views and reporting them to a larger group (ACELA1488)</span>
   * *recognising that we can use language differently with our friends and families, but that Standard Australian English is typically used in written school texts and more formal contexts*
   * *recognising that language is adjusted in different contexts, for example in degree of formality when moving between group discussions and presenting a group report*
   * *understanding how age, status, expertise and familiarity influence the ways in which we interact with people and how these codes and conventions vary across cultures*
   * *recognising the importance of using inclusive language*
-* **English 4**: Understand how texts vary in complexity and technicality depending on the approach to the topic, the purpose and the intended audience
- (ACELA1490)
+* <span class="light">**English 4**: Understand how texts vary in complexity and technicality depending on the approach to the topic, the purpose and the intended audience
+ (ACELA1490)</span>
   * *becoming familiar with the typical stages and language features of such text types as: simple narrative, procedure, simple persuasion texts and information reports*
-* **English 4**: Understand how texts are made cohesive through the use of linking devices including pronoun reference and text connectives (ACELA1491)
+* <span class="light">**English 4**: Understand how texts are made cohesive through the use of linking devices including pronoun reference and text connectives (ACELA1491)</span>
   * *knowing how authors construct texts that are cohesive and coherent through the use of: pronouns that link to something previously mentioned; determiners (for example ‘this’, ‘that’, ‘these’, ‘those’, ‘the’,); text connectives that create links between sentences (for example ‘however’, ‘therefore’, ‘nevertheless’, ‘in addition’, ‘by contrast’, ‘in summary’)*
   * *identifying how participants are tracked through a text by, for example, using pronouns to refer back to noun groups/phrases*
   * *describing how text connectives link sections of a text providing sequences through time, for example ‘firstly’, ‘then’, ‘next’, and ‘finally’*
-* **English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)
+* <span class="light">**English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)</span>
   * *exploring texts to identify the use of quotation marks*
   * *experimenting with the use of quotation marks in students’ own writing*
-* **English 4**: Understand that the meaning of sentences can be enriched through the use of noun groups/phrases and verb groups/phrases and prepositional phrases (ACELA1493)
+* <span class="light">**English 4**: Understand that the meaning of sentences can be enriched through the use of noun groups/phrases and verb groups/phrases and prepositional phrases (ACELA1493)</span>
   * *creating richer, more specific descriptions through the use of noun groups/phrases (for example, in narrative texts, ‘their very old Siamese cat’; in reports, 'its extremely high mountain ranges')*
-* **English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)
+* <span class="light">**English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)</span>
   * *investigating in texts how adverb group/phrases and prepositional phrases can provide details of the circumstances surrounding a happening or state (for example, ‘At midnight (time) he rose slowly (manner) from the chair (place) and went upstairs (place)’*
-* **English 4**: Read and write a large core of high frequency words including homophones and know how to use context to identify correct spelling (ACELA1780)
+* <span class="light">**English 4**: Read and write a large core of high frequency words including homophones and know how to use context to identify correct spelling (ACELA1780)</span>
   * *using meaning and context to determine the spelling of homophones, for example ‘there’ and ‘their’; ‘no’ and ‘know’*
-* **English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
- (ACELT1603)
+* <span class="light">**English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
+ (ACELT1603)</span>
   * *sharing and discussing students’ own and others’ understanding of the effects of particular literary techniques on their appreciation of texts*
-* **English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)
+* <span class="light">**English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
   * *sharing views using appropriate metalanguage (for example ‘The use of the adjectives in describing the character really helps to create images for the reader’)*
-* **English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)
+* <span class="light">**English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
   * *identifying pivotal points in the plot where characters are faced with choices and commenting on how the author makes us care about their decisions and consequences*
-* **English 4**: Use interaction skills such as acknowledging another’s point of view and linking students’ response to the topic, using familiar and new vocabulary and a range of vocal effects such as tone, pace, pitch and volume to speak clearly and coherently (ACELY1688)
+* <span class="light">**English 4**: Use interaction skills such as acknowledging another’s point of view and linking students’ response to the topic, using familiar and new vocabulary and a range of vocal effects such as tone, pace, pitch and volume to speak clearly and coherently (ACELY1688)</span>
   * *participating in pair, group, class and school speaking and listening situations, including informal conversations, class discussions and presentations*
   * *developing appropriate speaking and listening behaviours including acknowledging and extending others’ contributions, presenting ideas and opinions clearly and coherently*
   * *choosing a variety of appropriate words and prepositional phrases, including descriptive words and some technical vocabulary, to communicate meaning accurately*
   * *exploring the effects of changing voice tone, volume, pitch and pace in formal and informal contexts*
-* **Maths 3**: Recognise, model, represent and order numbers to at least 10 000 (ACMNA052)
+* <span class="light">**Maths 3**: Recognise, model, represent and order numbers to at least 10 000 (ACMNA052)</span>
   * *placing four-digit numbers on a number line using an appropriate scale*
-* **Maths 3**: Recall addition facts for single-digit numbers and related subtraction facts to develop increasingly efficient mental strategies for computation
- (ACMNA055)
+* <span class="light">**Maths 3**: Recall addition facts for single-digit numbers and related subtraction facts to develop increasingly efficient mental strategies for computation
+ (ACMNA055)</span>
   * *recognising that certain single-digit number combinations always result in the same answer for addition and subtraction, and using this knowledge for addition and subtraction of larger numbers*
   * *combining knowledge of addition and subtraction facts and partitioning to aid computation (for example 57 + 19 = 57 + 20 – 1)*
-* **Maths 3**: Model and represent unit fractions including 1/2, 1/4, 1/3, 1/5 and their multiples to a complete whole (ACMNA058)
+* <span class="light">**Maths 3**: Model and represent unit fractions including 1/2, 1/4, 1/3, 1/5 and their multiples to a complete whole (ACMNA058)</span>
   * *partitioning areas, lengths and collections to create halves, thirds, quarters and fifths, such as folding the same sized sheets of paper to illustrate different unit fractions and comparing the number of parts with their sizes*
   * *recognising that in English the term ‘one third’ is used (order: numerator, denominator) but that in other languages this concept may be expressed as ‘three parts, one of them’ (order: denominator, numerator) for example Japanese*
-* **Maths 3**: Measure, order and compare objects using familiar metric units of length, mass and capacity
- (ACMMG061)
+* <span class="light">**Maths 3**: Measure, order and compare objects using familiar metric units of length, mass and capacity
+ (ACMMG061)</span>
   * *recognising the importance of using common units of measurement*
   * *recognising and using centimetres and metres, grams and kilograms, and millilitres and litres*
-* **Maths 3**: Tell time to the minute and investigate the relationship between units of time (ACMMG062)
+* <span class="light">**Maths 3**: Tell time to the minute and investigate the relationship between units of time (ACMMG062)</span>
   * *recognising there are 60 minutes in an hour and 60 seconds in a minute*
-* **Maths 3**: Make models of three-dimensional objects and describe key features (ACMMG063)
+* <span class="light">**Maths 3**: Make models of three-dimensional objects and describe key features (ACMMG063)</span>
   * *exploring the creation of three-dimensional objects using origami, including prisms and pyramids*
-* **Maths 3**: Identify symmetry in the environment (ACMMG066)
+* <span class="light">**Maths 3**: Identify symmetry in the environment (ACMMG066)</span>
   * *identifying symmetry in Aboriginal rock carvings or art*
   * *identifying symmetry in the natural and built environment*
-* **Maths 4**: Investigate and use the properties of odd and even numbers (ACMNA071)
+* <span class="light">**Maths 4**: Investigate and use the properties of odd and even numbers (ACMNA071)</span>
   * *using the four operations with pairs of odd or even numbers or one odd and one even number, then using the relationships established to check the accuracy of calculations*
-* **Maths 4**: Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9 (ACMNA074)
+* <span class="light">**Maths 4**: Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9 (ACMNA074)</span>
   * *recognising that number sequences can be extended indefinitely, and determining any patterns in the sequences*
-* **Maths 4**: Count by quarters halves and thirds, including with mixed numerals. Locate and represent these fractions on a number line
- (ACMNA078)
+* <span class="light">**Maths 4**: Count by quarters halves and thirds, including with mixed numerals. Locate and represent these fractions on a number line
+ (ACMNA078)</span>
   * *converting mixed numbers to improper fractions and vice versa*
   * *investigating the use of fractions and sharing as a way of managing Country: for example taking no more than half the eggs from a nest to protect future bird populations*
-* **Maths 4**: Find unknown quantities in number sentences involving addition and subtraction and identify equivalent number sentences involving addition and subtraction (ACMNA083)
+* <span class="light">**Maths 4**: Find unknown quantities in number sentences involving addition and subtraction and identify equivalent number sentences involving addition and subtraction (ACMNA083)</span>
   * *writing number sentences to represent and answer questions such as: ‘When a number is added to 23 the answer is the same as 57 minus 19. What is the number?’*
-* **Maths 4**: Use ‘am’ and ‘pm’ notation and solve simple time problems (ACMMG086)
+* <span class="light">**Maths 4**: Use ‘am’ and ‘pm’ notation and solve simple time problems (ACMMG086)</span>
   * *calculating the time spent at school during a normal school day*
   * *calculating the time required to travel between two locations*
   * *determining arrival time given departure time*
-* **Maths 4**: Compare the areas of regular and irregular shapes  by informal means (ACMMG087)
+* <span class="light">**Maths 4**: Compare the areas of regular and irregular shapes  by informal means (ACMMG087)</span>
   * *comparing areas using metric units, such as counting the number of square centimetres required to cover two areas by overlaying the areas with a grid of centimetre squares*
-* **Maths 4**: Construct suitable data displays, with and without the use of digital technologies, from given or collected data. Include tables, column graphs and picture graphs where one picture can represent many data values (ACMSP096)
+* <span class="light">**Maths 4**: Construct suitable data displays, with and without the use of digital technologies, from given or collected data. Include tables, column graphs and picture graphs where one picture can represent many data values (ACMSP096)</span>
   * *exploring ways of presenting data and showing the results of investigations*
   * *investigating data displays using many-to-one correspondence*
-* **Science 3**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS057)
+* <span class="light">**Science 3**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS057)</span>
   * *identifying and discussing numerical and visual patterns in data collected from students' own investigations and from secondary sources*
-* **Science 3**: Living things can be grouped on the basis of observable features and can be distinguished from non-living things (ACSSU044)
+* <span class="light">**Science 3**: Living things can be grouped on the basis of observable features and can be distinguished from non-living things (ACSSU044)</span>
   * *recognising characteristics of living things such as growing, moving, sensitivity and reproducing*
   * *recognising the range of different living things*
   * *sorting living and non-living things based on characteristics*
   * *exploring differences between living, once living and products of living things*
-* **Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)
+* <span class="light">**Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)</span>
   * *investigating how liquids and solids respond to changes in temperature, for example water changing to ice, or melting chocolate*
   * *exploring how changes from solid to liquid and liquid to solid can help us recycle materials*
   * *predicting the effect of heat on different materials*
-* **Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)
+* <span class="light">**Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)</span>
   * *recognising the sun as a source of light*
   * *constructing sundials and investigating how they work*
   * *describing timescales for the rotation of the Earth*
-* **Science 3**: Heat can be produced in many ways and can move from one object to another (ACSSU049)
+* <span class="light">**Science 3**: Heat can be produced in many ways and can move from one object to another (ACSSU049)</span>
   * *describing how heat can be produced such as through friction or motion, electricity or chemically (burning)*
   * *exploring how heat can be transferred through conduction*
   * *recognising that we can feel heat and measure its effects using a thermometer*
-* **Science 3**: Science involves making predictions and describing patterns and relationships (ACSHE050)
+* <span class="light">**Science 3**: Science involves making predictions and describing patterns and relationships (ACSHE050)</span>
   * *researching how knowledge of astronomy has been used by some Aboriginal and Torres Strait Islander Peoples (OI.3, OI.5)*
   * *making predictions about change and events in our environment*
-* **Science 3**: Science knowledge helps people to understand the effect of their actions (ACSHE051)
+* <span class="light">**Science 3**: Science knowledge helps people to understand the effect of their actions (ACSHE051)</span>
   * *researching Aboriginal and Torres Strait Islander Peoples’ knowledge of the local natural environment, such as the characteristics of plants and animals (OI.2, OI.3, OI.5)*
   * *considering how heating affects materials used in everyday life*
   * *considering how materials including solids and liquids affect the environment in different ways*
-* **Science 4**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS068)
+* <span class="light">**Science 4**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS068)</span>
   * *identifying and discussing numerical and visual patterns in data collected from students' investigations and from other sources*
-* **Science 4**: Living things have life cycles (ACSSU072)
+* <span class="light">**Science 4**: Living things have life cycles (ACSSU072)</span>
   * *making and recording observations of living things as they develop through their life cycles*
   * *describing the stages of life cycles of different living things such as insects, birds, frogs and flowering plants*
-* **Science 4**: Living things depend on each other and the environment to survive (ACSSU073)
+* <span class="light">**Science 4**: Living things depend on each other and the environment to survive (ACSSU073)</span>
   * *investigating how plants provide shelter for animals*
   * *investigating the roles of living things in a habitat, for instance producers, consumers or decomposers*
   * *observing and describing predator-prey relationships*
   * *predicting the effects when living things in feeding relationships are removed or die out in an area*
   * *recognising that interactions between living things may be competitive or mutually beneficial*
-* **Science 4**: Natural and processed materials have a range of physical properties that can influence their use (ACSSU074)
+* <span class="light">**Science 4**: Natural and processed materials have a range of physical properties that can influence their use (ACSSU074)</span>
   * *describing a range of common materials, such as metals or plastics, and their uses*
   * *investigating a particular property across a range of materials*
   * *considering how the properties of materials affect the management of waste or can lead to pollution*
-* **Science 4**: Earth’s surface changes over time as a result of natural processes and human activity (ACSSU075)
+* <span class="light">**Science 4**: Earth’s surface changes over time as a result of natural processes and human activity (ACSSU075)</span>
   * *collecting evidence of change from local landforms, rocks or fossils*
   * *exploring a local area that has changed as a result of natural processes, such as an eroded gully, sand dunes or river banks*
   * *investigating the characteristics of soils*
   * *considering how different human activities cause erosion of the Earth’s surface*
   * *considering the effect of events such as floods and extreme weather on the landscape, both in Australia and in the Asia region*
-* **Science 4**: Forces can be exerted by one object on another through direct contact or from a distance (ACSSU076)
+* <span class="light">**Science 4**: Forces can be exerted by one object on another through direct contact or from a distance (ACSSU076)</span>
   * *observing qualitatively how speed is affected by the size of a force*
   * *exploring how non-contact forces are similar to contact forces in terms of objects pushing and pulling another object*
   * *comparing and contrasting the effect of friction on different surfaces, such as tyres and shoes on a range of surfaces*
   * *investigating the effect of forces on the behaviour of an object through actions such as throwing, dropping, bouncing and rolling*
   * *exploring the forces of attraction and repulsion between magnets*
-* **Science 4**: Science involves making predictions and describing patterns and relationships (ACSHE061)
+* <span class="light">**Science 4**: Science involves making predictions and describing patterns and relationships (ACSHE061)</span>
   * *exploring ways in which scientists gather evidence for their ideas and develop explanations*
-* **Science 4**: Science knowledge helps people to understand the effect of their actions (ACSHE062)
+* <span class="light">**Science 4**: Science knowledge helps people to understand the effect of their actions (ACSHE062)</span>
   * *investigating how a range of people, such as clothing designers, builders or engineers use science to select appropriate materials for their work*
   * *considering methods of waste management and how they can affect the environment*
   * *exploring how science has contributed to a discussion about an issue such as loss of habitat for living things or how human activity has changed the local environment*
   * *considering how to minimise the effects of erosion caused by human activity*
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *making and recording measurements using familiar formal units and appropriate abbreviations, such as seconds (s), grams (g), centimetres (cm) and millilitres (mL)*
   * *recognising the elements of a fair test and using these when planning the steps and processes of an investigation*
-* **HASS 3**: Interact with others with respect to share points of view (ACHASSI059)
+* <span class="light">**HASS 3**: Interact with others with respect to share points of view (ACHASSI059)</span>
   * *sharing and listening to others’ stories about their community and place (for example, Aboriginal or Torres Strait Islander oral histories of an area, park ranger recounts, speakers from commemorative organisations, personal experiences of celebrations)*
   * *understanding their roles, rights and responsibilities in group situations*
   * *respecting ways to ensure others’ points of view are shared in group situations (for example, adhering to and defending strategies that enable turn-taking and eliminate talking over others)*
   * *valuing for and against arguments when making personal and group decisions*
-* **HASS 3**: Celebrations and commemorations in places around the world (for example, Chinese New Year in countries of the Asia region, Bastille Day in France, Independence Day in the USA), including those that are observed in Australia (for example, Christmas Day, Diwali, Easter, Hanukkah, the Moon Festival and Ramadan) (ACHASSK065)
+* <span class="light">**HASS 3**: Celebrations and commemorations in places around the world (for example, Chinese New Year in countries of the Asia region, Bastille Day in France, Independence Day in the USA), including those that are observed in Australia (for example, Christmas Day, Diwali, Easter, Hanukkah, the Moon Festival and Ramadan) (ACHASSK065)</span>
   * *comparing the significance of national days in different countries, looking at why they developed and elements they have in common*
   * *exploring through secondary sources significant events of cultures or countries around the world, including national days, and discussing whether they are celebrations or commemorations*
   * *investigating the origins and significance of some international celebrations or commemorations (for example, the International Day of Peace)*
   * *investigating the origins and significance of celebrations important to particular cultural groups in Australia and in other places of the world*
-* **HASS 3**: The representation of Australia as states and territories and as Countries/Places of Aboriginal and Torres Strait Islander Peoples; and major places in Australia, both natural and human (ACHASSK066)
+* <span class="light">**HASS 3**: The representation of Australia as states and territories and as Countries/Places of Aboriginal and Torres Strait Islander Peoples; and major places in Australia, both natural and human (ACHASSK066)</span>
   * *using geographical tools (for example, a globe, wall map or digital application such as Google Earth) to locate and name significant places such as the states, territories, major cities and regional centres in Australia*
   * *identifying and describing the major natural features of Australia (for example, rivers, deserts, rainforests, the Great Dividing Range, the Great Barrier Reef and islands of the Torres Strait) and describing them with annotations on a map*
   * *comparing the boundaries of Aboriginal Countries with the surveyed boundaries between Australian states and territories to gain an appreciation about the different ways Australia can be represented*
   * *describing how the territory of Aboriginal and Torres Strait Islander Peoples contains the Country/Places of many individuals and language groups*
   * *exploring how oral traditions of Aboriginal and Torres Strait Islander Peoples were used to map landscapes*
-* **HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)
+* <span class="light">**HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)</span>
   * *using a globe to locate the Pacific Island nations, New Zealand, Papua New Guinea, Timor-Leste and Indonesia and countries relevant to students, labelling them on a map, and identifying the direction of each country from Australia*
   * *describing the similarities and differences between their local place and places in neighbouring countries (for example, Indonesia, Pacific Island nations) in their natural and human characteristics*
-* **HASS 4**: Sequence information about people’s lives and events (ACHASSI076)
+* <span class="light">**HASS 4**: Sequence information about people’s lives and events (ACHASSI076)</span>
   * *recounting and sequencing events associated with a particular history (for example, developing an annotated map to describe the sea route of the First Fleet and the timing of its passage)*
-* **HASS 4**: Interact with others with respect to share points of view (ACHASSI080)
+* <span class="light">**HASS 4**: Interact with others with respect to share points of view (ACHASSI080)</span>
   * *participating in role-plays and simple debates which allow for equal presentation of viewpoints*
   * *exploring and sharing, through a facilitated role-play, the experiences and/or feelings of different people involved in a past event (for example, the points of view of Aboriginal People, convicts, guards, women and children on settling at Botany Bay) or the different views about a current event (for example, the views of farmers, activists and government decision-makers about a road going through an endangered habitat)*
   * *participating in cooperative strategies that enable decision-making about roles and responsibilities (for example, using de Bonos’ hats)*
-* **HASS 4**: The main characteristics of the continents of Africa and South America and the location of their major countries in relation to Australia (ACHASSK087)
+* <span class="light">**HASS 4**: The main characteristics of the continents of Africa and South America and the location of their major countries in relation to Australia (ACHASSK087)</span>
   * *using geographical tools (for example, a globe, a wall map or digital application such as Google Earth) to identify the major countries of Africa and South America and their relative locations*
   * *using a globe to investigate the Great Circle routes of aeroplane travel between Australia and the major countries of Africa and South America*
   * *researching the main types of natural vegetation and native animals in a climate zone in Australia, and comparing them with those found in a similar climate in Africa or South America*
   * *using a printed or electronic atlas to identify the main characteristics of the continents of Africa and South America (for example, topographic features, environments, cities)*
-* **HASS 4**: The role of local government and the decisions it makes on behalf of the community (ACHASSK091)
+* <span class="light">**HASS 4**: The role of local government and the decisions it makes on behalf of the community (ACHASSK091)</span>
   * *examining how local government is chosen and by whom*
   * *exploring what local government does, including the services it provides (for example, environment and waste, libraries, health, parks, cultural events, pools and sport, arts and pet management)*
   * *describing how local government services impact on the lives of students*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)
+* <span class="light">**Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)</span>
   * *exploring roles and situations by trialling the use of language, such as choice of words, expressions and tone*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *applying story structures in their drama, including roles and events linked through cause and effect and dramatic tension*
   * *Considering viewpoints – meanings and interpretations: For example – What are the stories and the ideas in the drama you watch and listen to? Which of the characters do you identify with? What relationships and situations do you recognise (or not recognise) in the drama you watch and listen to?*
   * *sharing with others dramatic action that is structured through dramatic tension, in real or virtual spaces*
@@ -1811,47 +1840,47 @@
   * *planning and rehearsing their drama for a live or virtual performance*
   * *exploring Aboriginal and Torres Strait Islander stories and how they are dramatically portrayed as a reference for shaping their own drama*
   * *exploring dramatic traditions and practices from one or more Asian societies in their drama*
-* **Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)
+* <span class="light">**Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)</span>
   * *experimenting with the camera and framing the subject, using basic shot types, angles and lighting to control picture space*
   * *experimenting with applying text to accompany still or moving images, such as credits in a title sequence, and selecting appropriate fonts, colour and length of time for display suitable to the purpose of the artwork*
   * *experimenting with ways of formatting and laying out a story using available software and appropriate text conventions for a front page news story*
-* **Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)
+* <span class="light">**Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)</span>
   * *singing learnt pitch and rhythm patterns and varying elements of music within them to create different effects, for example, singing softer or louder, faster or slower, repeating phrases*
   * *exploring and varying instrumental timbres in isolation and combination, for example, playing softer or louder, faster or slower, repeating phrases*
   * *identifying and explaining features in music using terminology and a range of notation*
   * *Considering viewpoints – forms and elements:  For example – How did the music change? How many different sections are there in the music?*
   * *using movement to demonstrate an understanding of musical form, changing actions as the music changes*
-* **Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)
+* <span class="light">**Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)</span>
   * *Considering viewpoints – meanings and interpretations: For example – Why was this music written?*
   * *rehearsing and performing music in unison and with accompaniment patterns*
   * *experimenting with ways of singing and playing expressively, such as learning and practising a song with different dynamics and tempo*
   * *rehearsing and performing music using a range of technologies*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *using appropriate technologies terms to confidently describe and share with others procedures and techniques for making, for example cutting and joining materials*
   * *exploring ways of joining, connecting and assembling components that ensure success, and the impact digital technologies have had on these processes*
   * *using tools and equipment accurately when measuring, marking and cutting; and explaining the importance of accuracy when designing and making, for example creating a template, measuring ingredients in a recipe, sowing seeds*
   * *selecting and using materials, components, tools, equipment and processes with consideration of the environmental impact at each stage of the production process*
   * *demonstrating safe, responsible and cooperative work practices when making designed solutions*
-* **DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
- (ACTDIP013)
+* <span class="light">**DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
+ (ACTDIP013)</span>
   * *considering ways of managing the use of social media to maintain privacy needs, for example activating privacy settings to avoid divulging personal data such as photographs, addresses, and names and recognising that all digital interactions are difficult to erase (digital footprints)*
   * *using a range of online tools to share information and being aware that information may be received at different times, for example adding entries to a class blog, participating in a web conference or online chat with an author, or participating in a forum on a specific topic*
   * *organising and creating different types of information for sharing and collaborating online, for example planning the sequence and appearance of an animation, and sharing it online with students from another school*
   * *managing a project that involves students working together to publish online, for example identifying how group members can help each other to avoid delays in finishing the project*
   * *discussing digital citizenship rules and behaviours for participating in an online environment, for example not using all capital letters when expressing a strong viewpoint about a contentious matter and ensuring that the audience is aware of your identity*
   * *making ethical decisions when faced with reporting inappropriate online behaviour or acknowledging digital products created by others, for example making a decision based on how individuals would like to be treated by others*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *exploring and practising different techniques to propel objects towards a target*
   * *performing tumbling routines using rolling actions, incline, weight transfer, flight and balances*
   * *performing routines incorporating different jumping techniques and connecting movements*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *planning and performing strategies to be successful in tag and dodge games*
   * *exploring centre of gravity and stability as they perform balance activities*
   * *participating in physical activities which require problem-solving to achieve a goal*
   * *using different equipment to create an original game or movement challenge*
-* **HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)
+* <span class="light">**HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)</span>
   * *using the body to demonstrate an understanding of symmetry, shapes and angles when performing movement skills, balances or movement sequences*
-* **HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)
+* <span class="light">**HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)</span>
   * *collaborating to decide rules for a new game*
   * *recognising unfairness and exclusion in a game situation, and proposing strategies to overcome these issues*
 
@@ -2262,187 +2291,187 @@
 
 ##### Elaborations only
 
-* **English 1**: Identify the parts of a simple sentence that represent ‘What’s happening?’, ‘What state is being described?’, ‘Who or what is involved?’ and the surrounding circumstances (ACELA1451)
+* <span class="light">**English 1**: Identify the parts of a simple sentence that represent ‘What’s happening?’, ‘What state is being described?’, ‘Who or what is involved?’ and the surrounding circumstances (ACELA1451)</span>
   * *understanding that a simple sentence expresses a single idea, represented grammatically by a single independent clause (for example 'A kangaroo is a mammal. A mammal suckles its young')*
-* **English 1**: Discuss features of plot, character and setting in different types of  literature and explore some features of characters in different texts (ACELT1584)
+* <span class="light">**English 1**: Discuss features of plot, character and setting in different types of  literature and explore some features of characters in different texts (ACELT1584)</span>
   * *examining different types of literature including traditional tales, humorous stories and poetry*
-* **English 1**: Recreate texts imaginatively using drawing, writing, performance and digital forms of communication (ACELT1586)
+* <span class="light">**English 1**: Recreate texts imaginatively using drawing, writing, performance and digital forms of communication (ACELT1586)</span>
   * *retelling key events in stories using oral language, arts, digital technologies and performance media*
-* **English 1**: Describe some differences between imaginative informative  and persuasive texts (ACELY1658)
+* <span class="light">**English 1**: Describe some differences between imaginative informative  and persuasive texts (ACELY1658)</span>
   * *comparing and discussing texts identifying some features that distinguish those that ‘tell stories’ from those that ‘give opinions’*
-* **English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)
+* <span class="light">**English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)</span>
   * *discussing and comparing the purposes of familiar texts drawn from local contexts and interests*
   * *using different types of texts, for example procedures (including recipes) and discussing the text structure*
-* **English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)
+* <span class="light">**English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)</span>
   * *experimenting with voice volume and pace for particular purposes including making presentations, retelling stories and reciting rhymes and poems*
-* **English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)
+* <span class="light">**English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)</span>
   * *using contextual and semantic knowledge to make predictions about a text’s purpose and content*
   * *combining knowledge of context, meaning, grammar and phonics to decode text*
-* **English 2**: Create events and characters using different media that develop key events and characters from literary texts (ACELT1593)
+* <span class="light">**English 2**: Create events and characters using different media that develop key events and characters from literary texts (ACELT1593)</span>
   * *orally, in writing or using digital media, constructing a sequel to a known story*
-* **English 2**: Understand that spoken, visual and written forms of language are different modes of communication with different features and their use varies according to the audience, purpose, context and cultural background (ACELA1460)
+* <span class="light">**English 2**: Understand that spoken, visual and written forms of language are different modes of communication with different features and their use varies according to the audience, purpose, context and cultural background (ACELA1460)</span>
   * *identifying examples and features of different kinds of spoken, non-verbal, written and visual communication from Aboriginal and Torres Strait Islander communities and from several Asian cultures within Australia, and associating those features with particular communities*
-* **English 2**: Understand the use of vocabulary about familiar and new topics and experiment with and begin to make conscious choices of vocabulary to suit audience and purpose (ACELA1470)
+* <span class="light">**English 2**: Understand the use of vocabulary about familiar and new topics and experiment with and begin to make conscious choices of vocabulary to suit audience and purpose (ACELA1470)</span>
   * *interpreting new terminology drawing on prior knowledge, analogies and connections with known words*
-* **English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)
+* <span class="light">**English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)</span>
   * *discussing appropriate conventions to use in group discussions*
   * *exploring ways to comment on what others say, including using sentence starters such as ‘I like the way you…’, ‘I agree that …’, ‘I have a different thought…’, ‘I’d like to say something different…’*
   * *asking relevant questions and making connections with personal experiences and the contributions of others*
   * *brainstorming topics, contributing ideas and acknowledging the ideas of others*
   * *understanding how to disagree with a point of view or offer an alternative idea courteously*
   * *experimenting with presentation strategies such as pitch, volume and intonation*
-* **English 2**: Read less predictable texts with phrasing and fluency by combining contextual, semantic, grammatical and phonic knowledge using text processing strategies, for example monitoring meaning, predicting, rereading and self-correcting (ACELY1669)
+* <span class="light">**English 2**: Read less predictable texts with phrasing and fluency by combining contextual, semantic, grammatical and phonic knowledge using text processing strategies, for example monitoring meaning, predicting, rereading and self-correcting (ACELY1669)</span>
   * *using prior and learned knowledge and vocabulary to make and confirm predictions when reading text*
   * *using grammatical knowledge to predict likely sentence patterns when reading more complex narratives and informative texts*
   * *using knowledge of sound–letter relationships and high frequency sight words when decoding text*
   * *monitoring own reading and self-correcting when reading does not make sense, using illustrations, context, phonics, grammar knowledge and prior and learned topic knowledge*
   * *using grammar and meaning to read aloud with fluency and intonation*
-* **Maths 1**: Recognise, model, read, write and order numbers to at least 100.  Locate these numbers on a number line
- (ACMNA013)
+* <span class="light">**Maths 1**: Recognise, model, read, write and order numbers to at least 100.  Locate these numbers on a number line
+ (ACMNA013)</span>
   * *identifying numbers that are represented on a number line and placing numbers on a prepared number line*
-* **Maths 1**: Recognise and describe one-half as one of two equal parts of a whole. (ACMNA016)
+* <span class="light">**Maths 1**: Recognise and describe one-half as one of two equal parts of a whole. (ACMNA016)</span>
   * *splitting an object into two equal pieces and describing how the pieces are equal*
-* **Maths 1**: Recognise, describe and order Australian coins according to their value (ACMNA017)
+* <span class="light">**Maths 1**: Recognise, describe and order Australian coins according to their value (ACMNA017)</span>
   * *showing that coins are different in other countries by comparing Asian coins to Australian coins*
   * *describing the features of coins that make it possible to identify them*
-* **Maths 1**: Investigate and describe number patterns formed by skip-counting and patterns with objects (ACMNA018)
+* <span class="light">**Maths 1**: Investigate and describe number patterns formed by skip-counting and patterns with objects (ACMNA018)</span>
   * *using place-value patterns beyond the teens to generalise the number sequence and predict the next number*
   * *investigating patterns in the number system, such as the occurrence of a particular digit in the numbers to 100*
-* **Maths 2**: Recognise, model, represent and order numbers to at least 1000 (ACMNA027)
+* <span class="light">**Maths 2**: Recognise, model, represent and order numbers to at least 1000 (ACMNA027)</span>
   * *recognising there are different ways of representing numbers and identifying patterns going beyond 100*
-* **Maths 2**: Explore the connection between addition and subtraction (ACMNA029)
+* <span class="light">**Maths 2**: Explore the connection between addition and subtraction (ACMNA029)</span>
   * *becoming fluent with partitioning numbers to understand the connection between addition and subtraction*
-* **Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)
+* <span class="light">**Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)</span>
   * *representing array problems with available materials and explaining reasoning*
-* **Maths 2**: Count and order small collections of Australian coins and notes according to their value (ACMNA034)
+* <span class="light">**Maths 2**: Count and order small collections of Australian coins and notes according to their value (ACMNA034)</span>
   * *identifying equivalent values in collections of coins or notes, such as two five-cent coins having the same value as one 10-cent coin*
-* **Maths 2**: Compare and order several shapes and objects based on length, area, volume and capacity using appropriate uniform informal units (ACMMG037)
+* <span class="light">**Maths 2**: Compare and order several shapes and objects based on length, area, volume and capacity using appropriate uniform informal units (ACMMG037)</span>
   * *comparing lengths using finger length, hand span or a piece of string*
   * *comparing areas using the palm of the hand or a stone*
   * *comparing capacities using a range of containers*
-* **Maths 2**: Tell time to the quarter-hour, using the language of 'past' and 'to' (ACMMG039)
+* <span class="light">**Maths 2**: Tell time to the quarter-hour, using the language of 'past' and 'to' (ACMMG039)</span>
   * *describing the characteristics of quarter-past times on an analogue clock, and identifying that the small hand is pointing just past the number and the big hand is pointing to the three*
-* **Maths 2**: Name and order months and seasons (ACMMG040)
+* <span class="light">**Maths 2**: Name and order months and seasons (ACMMG040)</span>
   * *investigating the seasons used by Aboriginal people, comparing them to those used in Western society and recognising the connection to weather patterns.*
-* **Maths 2**: Use a calendar to identify the date and determine the number of days in each month (ACMMG041)
+* <span class="light">**Maths 2**: Use a calendar to identify the date and determine the number of days in each month (ACMMG041)</span>
   * *using calendars to locate specific information, such as finding a given date on a calendar and saying what day it is, and identifying personally or culturally specific days*
-* **Maths 2**: Describe and draw two-dimensional shapes, with and without digital technologies (ACMMG042)
+* <span class="light">**Maths 2**: Describe and draw two-dimensional shapes, with and without digital technologies (ACMMG042)</span>
   * *identifying key features of squares, rectangles, triangles, kites, rhombuses and circles, such as straight lines or curved lines, and counting the edges and corners*
-* **Maths 2**: Describe the features of three-dimensional objects (ACMMG043)
+* <span class="light">**Maths 2**: Describe the features of three-dimensional objects (ACMMG043)</span>
   * *identifying geometric features such as the number of faces, corners or edges*
-* **Science 1**: Participate in guided investigations to explore and answer questions (ACSIS025)
+* <span class="light">**Science 1**: Participate in guided investigations to explore and answer questions (ACSIS025)</span>
   * *sorting information and classifying objects based on easily observable characteristics with teacher guidance*
-* **Science 1**: Living things have a variety of external features (ACSSU017)
+* <span class="light">**Science 1**: Living things have a variety of external features (ACSSU017)</span>
   * *recognising common features of animals such as head, legs and wings*
   * *describing the use of animal body parts for particular purposes such as moving and feeding*
   * *identifying common features of plants such as leaves and roots*
   * *describing the use of plant parts for particular purposes such as making food and obtaining water*
-* **Science 1**: Observable changes occur in the sky and landscape (ACSSU019)
+* <span class="light">**Science 1**: Observable changes occur in the sky and landscape (ACSSU019)</span>
   * *exploring the local environment to identify and describe natural, managed and constructed features*
-* **Science 1**: Light and sound are produced by a range of sources and can be sensed (ACSSU020)
+* <span class="light">**Science 1**: Light and sound are produced by a range of sources and can be sensed (ACSSU020)</span>
   * *comparing sounds made by musical instruments using characteristics such as loudness, pitch and actions used to make the sound*
-* **Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)
+* <span class="light">**Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)</span>
   * *considering that technologies used by Aboriginal and Torres Strait Islander Peoples require an understanding of how materials can be sustainably sourced to make tools and weapons, musical instruments, clothing, cosmetics and artworks (OI.2, OI.3)*
   * *considering how science is used in activities such as cooking, fishing, transport, sport, medicine and caring for plants and animals*
   * *exploring how musical instruments can be used to produce different sounds*
   * *comparing how different light sources are used in daily life*
   * *identifying ways that science knowledge is used in the care of the local environment such as animal habitats, and suggesting changes to parks and gardens to better meet the needs of native animals*
-* **Science 2**: Participate in guided investigations to explore and answer questions (ACSIS038)
+* <span class="light">**Science 2**: Participate in guided investigations to explore and answer questions (ACSIS038)</span>
   * *researching with the use of simple information sources*
   * *sorting objects and events based on easily identified characteristics*
-* **Science 2**: Living things grow, change and have offspring similar to themselves (ACSSU030)
+* <span class="light">**Science 2**: Living things grow, change and have offspring similar to themselves (ACSSU030)</span>
   * *recognising that living things have predictable characteristics at different stages of development*
   * *observing that all animals have offspring, usually with two parents*
-* **Science 2**: Different materials can be combined for a particular purpose (ACSSU031)
+* <span class="light">**Science 2**: Different materials can be combined for a particular purpose (ACSSU031)</span>
   * *exploring the local environment to observe a variety of materials, and describing ways in which materials are used*
   * *investigating the effects of mixing materials together*
   * *identifying materials such as paper that can be changed and remade or recycled into new products*
-* **Science 2**: Earth’s resources are used in a variety of ways (ACSSU032)
+* <span class="light">**Science 2**: Earth’s resources are used in a variety of ways (ACSSU032)</span>
   * *identifying the Earth’s resources including water, soil and minerals, and describing how they are used in the school*
   * *identifying actions at school such as turning off dripping taps, that can conserve resources*
-* **Science 2**: A push or a pull affects how an object moves or changes shape (ACSSU033)
+* <span class="light">**Science 2**: A push or a pull affects how an object moves or changes shape (ACSSU033)</span>
   * *exploring ways that objects move on land, through water and in the air*
   * *exploring how different strengths of pushes and pulls affect the movement of objects*
   * *considering the effects of objects being pulled towards the Earth*
-* **Science 2**: People use science in their daily lives, including when caring for their environment and living things (ACSHE035)
+* <span class="light">**Science 2**: People use science in their daily lives, including when caring for their environment and living things (ACSHE035)</span>
   * *investigating how Aboriginal and Torres Strait Islander Peoples use science to meet their needs, such as food supply (OI.2, OI.3, OI.5)*
   * *monitoring information about the environment and Earth’s resources, such as rainfall, water levels and temperature*
   * *exploring how different cultures have made inks, pigments and paints by mixing materials*
   * *identifying the ways humans manage and protect resources, such as reducing waste and caring for water supplies*
   * *recognising that many living things rely on resources that may be threatened, and that science understanding can contribute to the preservation of such resources*
-* **Science 2**: Represent and communicate observations and ideas in a variety of ways (ACSIS042)
+* <span class="light">**Science 2**: Represent and communicate observations and ideas in a variety of ways (ACSIS042)</span>
   * *presenting ideas to other students, both one-to-one and in small groups*
-* **HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)
+* <span class="light">**HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)</span>
   * *recalling information about a place or a site and giving reasons why it should be cared for and commemorated or celebrated*
   * *imagining how a local feature or place might change in the future and proposing action they could take to improve a place or influence a positive future*
-* **HASS 1**: Differences in family structures and roles today, and how these have changed or remained the same over time (ACHASSK028)
+* <span class="light">**HASS 1**: Differences in family structures and roles today, and how these have changed or remained the same over time (ACHASSK028)</span>
   * *considering a range of family structures (for example, nuclear families, one-child families, large families, single parent families, extended families, blended (step) families, adoptive parent families and grandparent families) as well as kinship groups, tribes and villages*
   * *comparing families in the present with those from the recent past (the families of parents, grandparents or familiar older person) in terms of their size and structure (for example, the different types of family such as nuclear, single parent, blended)*
   * *examining and commenting on the roles of family members over time (for example, listening to stories about the roles of mothers, fathers, caregivers and children in the past) and comparing these with family roles today (for example, work at home, work outside the home, child care, gender roles, children’s responsibilities, pocket money)*
-* **HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)
+* <span class="light">**HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)</span>
   * *creating shared texts (for example, pictorial charts, calendars, lists, recounts, wall murals/collages, big books) to record observations or report findings*
   * *retelling stories about life in the past through spoken narratives and the use of pictures, role-plays or photographs*
   * *explaining to classmates where places are, and the directions to be followed when moving from one place to another, with the use of appropriate terms for direction and location (for example, terms such as ‘beside’, ‘forward’, ‘up’, ‘down’, ‘by’, ‘near’, ‘further’, ‘close to’, ‘before’, ‘after’, ‘here’, ‘there’, ‘at’)*
-* **HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)
+* <span class="light">**HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)</span>
   * *sharing with their teacher, other students and members of their family what they know and have learnt about connections with other places, and explaining the significance of these connections*
   * *using their knowledge about a familiar place or site to imagine how it might change in the future and how they can influence a positive future for it*
-* **HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)
+* <span class="light">**HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)</span>
   * *conveying information about the past and familiar places by representing ideas in written, spoken, pictorial or performance modes and by creating imaginative responses*
   * *composing reports with multimedia to share findings (for example, findings of a comparison of past and present daily life, a report on how access to and use of a place has changed over time, or recommendations on a building of significance)*
   * *using terms in speech and writing to denote the passing of time (for example, ‘in the past’, ‘years ago’, ‘the olden days’, ‘in the future’) and to describe direction and location (for example, north, south, opposite, near, far)*
-* **HASS 2**: The way the world is represented in geographic divisions and the location of Australia in relation to these divisions (ACHASSK047)
+* <span class="light">**HASS 2**: The way the world is represented in geographic divisions and the location of Australia in relation to these divisions (ACHASSK047)</span>
   * *investigating the definition of a continent and the seven-continent and six-continent models*
   * *using geographical tools (for example, a globe and world map) or digital applications such as Google Earth to locate and name the continents, oceans, equator, North and South Poles, tropics and hemispheres and then labelling an outline map*
   * *describing the location of continents and oceans relative to Australia, using terms such as north, south, opposite, near, far*
-* **Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)
+* <span class="light">**Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)</span>
   * *Considering viewpoints – meanings and interpretations: For example – How are you communicating the ideas or intention in this dance? forms and elements: Which levels are you using in your dance?*
   * *recognising and accepting a teacher’s or classmates’ constructive feedback*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *Considering viewpoints – meanings and interpretations: For example – What did this dance make you think about? Did the dance movements remind you of anything? How are you communicating the ideas or intention in this dance?*
   * *exploring the movements in dances with representatives of the Aboriginal and Torres Strait Islander community, for example, creating movements that represent animals from their region*
   * *using expressive skills to engage the audience, for example, looking out to audience and using facial expression*
   * *presenting their dance in a digital format*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *manipulating objects, puppets, 2D images and available technologies to create stories*
-* **Drama F-2**: Present drama that communicates ideas, including stories from their community, to an audience
- (ACADRM029)
+* <span class="light">**Drama F-2**: Present drama that communicates ideas, including stories from their community, to an audience
+ (ACADRM029)</span>
   * *Considering viewpoints – meanings and interpretations: For example – What do you want your audience to think about your drama? What did this drama make you think about? How did you feel when making/watching the drama? evaluations: What did you like best in the drama? Why?*
-* **Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)
+* <span class="light">**Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)</span>
   * *experimenting with and managing a digital camera to capture still or moving images, for example, reviewing captured images, zooming in and out and deleting unwanted images*
   * *experimenting with sound recording technology and found objects to create and record sound effects to support a story*
   * *trialling the selection and arrangement of images, sounds and text to organise important features of an idea or story*
-* **Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)
+* <span class="light">**Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)</span>
   * *practising techniques for singing songs and playing classroom instruments*
   * *singing and playing music to explore the expressive possibilities of their voices and instruments*
   * *Considering viewpoints – meanings and interpretations: For example – What did this music make you think about and why?*
   * *practising and performing music using accessible technologies*
   * *learning a song used by groups in the local community, such as Aboriginal songs or Torres Strait Islander songs from their community, respecting cultural protocols*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *using and playing with everyday materials in new ways or re-using discarded materials, for example using discarded materials to design, make and model a constructed environment*
   * *assembling components of systems and checking they function as planned, for example when making a musical instrument*
-* **DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)
+* <span class="light">**DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)</span>
   * *using different types of data to create information for sharing online, for example creating a multimedia class profile that includes a photo of each student, a personal audio recording and a written message*
   * *planning and creating text, drawings and sound files to share online, for example jointly creating a photo story to illustrate a fable or fairy-tale from the Asia region or a local Aboriginal and Torres Strait Islander community story*
-* **HPE 1-2**: Describe their own strengths and achievements and those of others, and identify how these contribute to personal identities
- (ACPPS015)
+* <span class="light">**HPE 1-2**: Describe their own strengths and achievements and those of others, and identify how these contribute to personal identities
+ (ACPPS015)</span>
   * *accessing stories where characters demonstrate strengths, sharing how these strengths helped the character be successful and recognising which of these strengths they possess*
-* **HPE 1-2**: Describe physical and social changes that occur as children grow older and discuss how family and community acknowledge these (ACPPS016)
+* <span class="light">**HPE 1-2**: Describe physical and social changes that occur as children grow older and discuss how family and community acknowledge these (ACPPS016)</span>
   * *identifying and describing significant relationships in their lives and how these have evolved or changed over time*
-* **HPE 1-2**: Practise strategies they can use when they feel uncomfortable, unsafe or need help with a task, problem or situation (ACPPS017)
+* <span class="light">**HPE 1-2**: Practise strategies they can use when they feel uncomfortable, unsafe or need help with a task, problem or situation (ACPPS017)</span>
   * *identifying and rehearsing strategies they can use when requiring assistance, such as asking an adult, reading basic signs and solving a problem with friends*
-* **HPE 1-2**: Recognise situations and opportunities to promote health, safety and wellbeing
- (ACPPS018)
+* <span class="light">**HPE 1-2**: Recognise situations and opportunities to promote health, safety and wellbeing
+ (ACPPS018)</span>
   * *exploring how eating healthy foods can influence health and wellbeing*
   * *exploring benefits of regular physical activity and identifying opportunities when they can be active at school, at home and in the community*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *performing fundamental movement skills involving controlling objects with equipment and different parts of the body*
   * *demonstrating balances and describing what helps to maintain stable positions*
   * *demonstrating changes in speed, direction and level of movement in response to changes in music tempo*
   * *selecting and implementing different movement skills to be successful in a game*
-* **HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)
+* <span class="light">**HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)</span>
   * *performing movements under, over, through and between objects, people and equipment*
-* **HPE 1-2**: Use strategies to work in group situations when participating in physical activities (ACPMP030)
+* <span class="light">**HPE 1-2**: Use strategies to work in group situations when participating in physical activities (ACPMP030)</span>
   * *suggesting and trialling how a game can be changed so that everyone can be involved*
 
 #### **Level 3**: collect, compare and categorise facts and opinions found in a widening range of sources
@@ -2968,204 +2997,204 @@
 
 ##### Elaborations only
 
-* **English 3**: Identify the effect on audiences of techniques, for example shot size, vertical camera angle and layout in picture books, advertisements and film segments (ACELA1483)
+* <span class="light">**English 3**: Identify the effect on audiences of techniques, for example shot size, vertical camera angle and layout in picture books, advertisements and film segments (ACELA1483)</span>
   * *observing how images construct a relationship with the viewer through such strategies as: direct gaze into the viewer's eyes, inviting involvement and how close ups are more engaging than distanced images, which can suggest alienation or loneliness*
-* **English 3**: Discuss texts in which characters, events and settings are portrayed in different ways, and speculate on the authors’ reasons (ACELT1594)
+* <span class="light">**English 3**: Discuss texts in which characters, events and settings are portrayed in different ways, and speculate on the authors’ reasons (ACELT1594)</span>
   * *reading texts in which Aboriginal and Torres Strait Islander children/young people are the central characters/protagonists and making links to students’ own lives, noting similarities*
   * *exploring the ways that the same story can be told in many cultures, identifying variations in the storyline and in music (for example ‘The Ramayana’ story which is told to children in India, Indonesia, Thailand, Cambodia, Burma, Laos, Tibet and Malaysia)*
-* **English 3**: Examine how evaluative language can be varied to be more or less forceful (ACELA1477)
+* <span class="light">**English 3**: Examine how evaluative language can be varied to be more or less forceful (ACELA1477)</span>
   * *distinguishing how choice of adverbs, nouns and verbs present different evaluations of characters in texts*
-* **English 3**: Understand that a clause is a unit of grammar usually containing a subject and a verb and that these need to be in agreement (ACELA1481)
+* <span class="light">**English 3**: Understand that a clause is a unit of grammar usually containing a subject and a verb and that these need to be in agreement (ACELA1481)</span>
   * *knowing that a clause is basically a group of words that contains a verb*
   * *knowing that, in terms of meaning, a basic clause represents: what is happening; what state is being described; who or what is involved; and the surrounding circumstances*
-* **English 3**: Understand that verbs represent different processes, for example doing, thinking, saying, and relating and that these processes are anchored in time through tense
- (ACELA1482)
+* <span class="light">**English 3**: Understand that verbs represent different processes, for example doing, thinking, saying, and relating and that these processes are anchored in time through tense
+ (ACELA1482)</span>
   * *learning how time is represented through the tense of a verb, for example 'She arrived’, ‘She is arriving’ and adverbials of time, for example ‘She arrived yesterday’, ‘She is arriving in the morning’*
-* **English 3**: Know how to use common prefixes and suffixes, and generalisations for adding a suffix to a base word
- (ACELA1827)
+* <span class="light">**English 3**: Know how to use common prefixes and suffixes, and generalisations for adding a suffix to a base word
+ (ACELA1827)</span>
   * *exploring generalisations for adding a suffix to a base word to form a plural or past tense, for example to make a word plural when it ends in ‘ss’, ‘sh’, ‘ch’ or ‘z’, add ‘es’*
-* **English 3**: Discuss the nature and effects of some language devices used to enhance meaning and shape the reader’s reaction, including rhythm and onomatopoeia in poetry and prose (ACELT1600)
+* <span class="light">**English 3**: Discuss the nature and effects of some language devices used to enhance meaning and shape the reader’s reaction, including rhythm and onomatopoeia in poetry and prose (ACELT1600)</span>
   * *identifying the effect of imagery in texts, for example the use of imagery related to nature in haiku poems*
   * *exploring how rhythm, onomatopoeia and alliteration give momentum to poetry and prose read aloud, and enhance enjoyment*
-* **English 3**: Listen to and contribute to conversations and discussions to share information and ideas and negotiate in collaborative situations (ACELY1676)
+* <span class="light">**English 3**: Listen to and contribute to conversations and discussions to share information and ideas and negotiate in collaborative situations (ACELY1676)</span>
   * *participating in collaborative discussions, building on and connecting ideas and opinions expressed by others, and checking students’ own understanding against group views*
-* **English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)
+* <span class="light">**English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)</span>
   * *participating in pair, group and class speaking and listening situations, including informal conversations, class discussions and presentations*
   * *listening actively including listening for specific information, recognising the value of others’ contributions and responding through comments, recounts and summaries of information*
   * *learning the specific speaking or listening skills of different group roles, for example group leader, note taker and reporter*
   * *acquiring new vocabulary in all curriculum areas through listening, reading, viewing and discussion and using this vocabulary in specific ways such as describing people, places, things and processes*
   * *using language appropriately in different situations such as making a request of a teacher, explaining a procedure to a classmate, engaging in a game with friends*
-* **English 4**: Understand that social interactions influence the way people engage with ideas and respond to others for example when exploring and clarifying the ideas of others, summarising their own views and reporting them to a larger group (ACELA1488)
+* <span class="light">**English 4**: Understand that social interactions influence the way people engage with ideas and respond to others for example when exploring and clarifying the ideas of others, summarising their own views and reporting them to a larger group (ACELA1488)</span>
   * *understanding how age, status, expertise and familiarity influence the ways in which we interact with people and how these codes and conventions vary across cultures*
-* **English 4**: Understand how texts are made cohesive through the use of linking devices including pronoun reference and text connectives (ACELA1491)
+* <span class="light">**English 4**: Understand how texts are made cohesive through the use of linking devices including pronoun reference and text connectives (ACELA1491)</span>
   * *knowing how authors construct texts that are cohesive and coherent through the use of: pronouns that link to something previously mentioned; determiners (for example ‘this’, ‘that’, ‘these’, ‘those’, ‘the’,); text connectives that create links between sentences (for example ‘however’, ‘therefore’, ‘nevertheless’, ‘in addition’, ‘by contrast’, ‘in summary’)*
-* **English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)
+* <span class="light">**English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)</span>
   * *exploring texts to identify the use of quotation marks*
   * *experimenting with the use of quotation marks in students’ own writing*
-* **English 4**: Understand that the meaning of sentences can be enriched through the use of noun groups/phrases and verb groups/phrases and prepositional phrases (ACELA1493)
+* <span class="light">**English 4**: Understand that the meaning of sentences can be enriched through the use of noun groups/phrases and verb groups/phrases and prepositional phrases (ACELA1493)</span>
   * *creating richer, more specific descriptions through the use of noun groups/phrases (for example, in narrative texts, ‘their very old Siamese cat’; in reports, 'its extremely high mountain ranges')*
-* **English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)
+* <span class="light">**English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)</span>
   * *investigating in texts how adverb group/phrases and prepositional phrases can provide details of the circumstances surrounding a happening or state (for example, ‘At midnight (time) he rose slowly (manner) from the chair (place) and went upstairs (place)’*
-* **English 4**: Read and write a large core of high frequency words including homophones and know how to use context to identify correct spelling (ACELA1780)
+* <span class="light">**English 4**: Read and write a large core of high frequency words including homophones and know how to use context to identify correct spelling (ACELA1780)</span>
   * *using meaning and context to determine the spelling of homophones, for example ‘there’ and ‘their’; ‘no’ and ‘know’*
-* **English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
- (ACELT1603)
+* <span class="light">**English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
+ (ACELT1603)</span>
   * *sharing and discussing students’ own and others’ understanding of the effects of particular literary techniques on their appreciation of texts*
   * *drawing comparisons between multiple texts and students’ own experiences. Commenting orally, in written form and in digital reviews on aspects such as: 'Do I recognise this in my own world?'; 'How is this text similar to or different from other texts I’ve read?'; 'How common is it to human experience in the real world?'; 'What new ideas does it bring?'; ’How do they fit with what I believe?'*
-* **English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)
+* <span class="light">**English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
   * *sharing views using appropriate metalanguage (for example ‘The use of the adjectives in describing the character really helps to create images for the reader’)*
-* **English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)
+* <span class="light">**English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
   * *identifying pivotal points in the plot where characters are faced with choices and commenting on how the author makes us care about their decisions and consequences*
-* **English 4**: Use interaction skills such as acknowledging another’s point of view and linking students’ response to the topic, using familiar and new vocabulary and a range of vocal effects such as tone, pace, pitch and volume to speak clearly and coherently (ACELY1688)
+* <span class="light">**English 4**: Use interaction skills such as acknowledging another’s point of view and linking students’ response to the topic, using familiar and new vocabulary and a range of vocal effects such as tone, pace, pitch and volume to speak clearly and coherently (ACELY1688)</span>
   * *participating in pair, group, class and school speaking and listening situations, including informal conversations, class discussions and presentations*
   * *developing appropriate speaking and listening behaviours including acknowledging and extending others’ contributions, presenting ideas and opinions clearly and coherently*
   * *choosing a variety of appropriate words and prepositional phrases, including descriptive words and some technical vocabulary, to communicate meaning accurately*
   * *exploring the effects of changing voice tone, volume, pitch and pace in formal and informal contexts*
-* **Maths 3**: Recognise, model, represent and order numbers to at least 10 000 (ACMNA052)
+* <span class="light">**Maths 3**: Recognise, model, represent and order numbers to at least 10 000 (ACMNA052)</span>
   * *placing four-digit numbers on a number line using an appropriate scale*
-* **Maths 3**: Recall addition facts for single-digit numbers and related subtraction facts to develop increasingly efficient mental strategies for computation
- (ACMNA055)
+* <span class="light">**Maths 3**: Recall addition facts for single-digit numbers and related subtraction facts to develop increasingly efficient mental strategies for computation
+ (ACMNA055)</span>
   * *recognising that certain single-digit number combinations always result in the same answer for addition and subtraction, and using this knowledge for addition and subtraction of larger numbers*
   * *combining knowledge of addition and subtraction facts and partitioning to aid computation (for example 57 + 19 = 57 + 20 – 1)*
-* **Maths 3**: Model and represent unit fractions including 1/2, 1/4, 1/3, 1/5 and their multiples to a complete whole (ACMNA058)
+* <span class="light">**Maths 3**: Model and represent unit fractions including 1/2, 1/4, 1/3, 1/5 and their multiples to a complete whole (ACMNA058)</span>
   * *partitioning areas, lengths and collections to create halves, thirds, quarters and fifths, such as folding the same sized sheets of paper to illustrate different unit fractions and comparing the number of parts with their sizes*
   * *recognising that in English the term ‘one third’ is used (order: numerator, denominator) but that in other languages this concept may be expressed as ‘three parts, one of them’ (order: denominator, numerator) for example Japanese*
-* **Maths 3**: Measure, order and compare objects using familiar metric units of length, mass and capacity
- (ACMMG061)
+* <span class="light">**Maths 3**: Measure, order and compare objects using familiar metric units of length, mass and capacity
+ (ACMMG061)</span>
   * *recognising the importance of using common units of measurement*
   * *recognising and using centimetres and metres, grams and kilograms, and millilitres and litres*
-* **Maths 3**: Tell time to the minute and investigate the relationship between units of time (ACMMG062)
+* <span class="light">**Maths 3**: Tell time to the minute and investigate the relationship between units of time (ACMMG062)</span>
   * *recognising there are 60 minutes in an hour and 60 seconds in a minute*
-* **Maths 3**: Make models of three-dimensional objects and describe key features (ACMMG063)
+* <span class="light">**Maths 3**: Make models of three-dimensional objects and describe key features (ACMMG063)</span>
   * *exploring the creation of three-dimensional objects using origami, including prisms and pyramids*
-* **Maths 3**: Identify symmetry in the environment (ACMMG066)
+* <span class="light">**Maths 3**: Identify symmetry in the environment (ACMMG066)</span>
   * *identifying symmetry in Aboriginal rock carvings or art*
   * *identifying symmetry in the natural and built environment*
-* **Maths 4**: Investigate and use the properties of odd and even numbers (ACMNA071)
+* <span class="light">**Maths 4**: Investigate and use the properties of odd and even numbers (ACMNA071)</span>
   * *using the four operations with pairs of odd or even numbers or one odd and one even number, then using the relationships established to check the accuracy of calculations*
-* **Maths 4**: Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9 (ACMNA074)
+* <span class="light">**Maths 4**: Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9 (ACMNA074)</span>
   * *recognising that number sequences can be extended indefinitely, and determining any patterns in the sequences*
-* **Maths 4**: Recall multiplication facts up to 10 × 10 and related division facts (ACMNA075)
+* <span class="light">**Maths 4**: Recall multiplication facts up to 10 × 10 and related division facts (ACMNA075)</span>
   * *using known multiplication facts to calculate related division facts*
-* **Maths 4**: Develop efficient mental and written strategies and use appropriate digital technologies for multiplication and for division where there is no remainder
- (ACMNA076)
+* <span class="light">**Maths 4**: Develop efficient mental and written strategies and use appropriate digital technologies for multiplication and for division where there is no remainder
+ (ACMNA076)</span>
   * *using known facts and strategies, such as commutativity, doubling and halving for multiplication, and connecting division to multiplication when there is no remainder*
-* **Maths 4**: Count by quarters halves and thirds, including with mixed numerals. Locate and represent these fractions on a number line
- (ACMNA078)
+* <span class="light">**Maths 4**: Count by quarters halves and thirds, including with mixed numerals. Locate and represent these fractions on a number line
+ (ACMNA078)</span>
   * *converting mixed numbers to improper fractions and vice versa*
   * *investigating the use of fractions and sharing as a way of managing Country: for example taking no more than half the eggs from a nest to protect future bird populations*
-* **Maths 4**: Compare objects using familiar metric units of area and volume
- (ACMMG290)
+* <span class="light">**Maths 4**: Compare objects using familiar metric units of area and volume
+ (ACMMG290)</span>
   * *comparing volume using centicubes*
   * *recognising that metric units are not the only units used throughout the world, for example measuring the area of floor space using tatami mats (Japan), using squares for room and house area (Australia)*
-* **Maths 4**: Use ‘am’ and ‘pm’ notation and solve simple time problems (ACMMG086)
+* <span class="light">**Maths 4**: Use ‘am’ and ‘pm’ notation and solve simple time problems (ACMMG086)</span>
   * *calculating the time spent at school during a normal school day*
   * *calculating the time required to travel between two locations*
   * *determining arrival time given departure time*
-* **Maths 4**: Compare the areas of regular and irregular shapes  by informal means (ACMMG087)
+* <span class="light">**Maths 4**: Compare the areas of regular and irregular shapes  by informal means (ACMMG087)</span>
   * *comparing areas using metric units, such as counting the number of square centimetres required to cover two areas by overlaying the areas with a grid of centimetre squares*
-* **Maths 4**: Construct suitable data displays, with and without the use of digital technologies, from given or collected data. Include tables, column graphs and picture graphs where one picture can represent many data values (ACMSP096)
+* <span class="light">**Maths 4**: Construct suitable data displays, with and without the use of digital technologies, from given or collected data. Include tables, column graphs and picture graphs where one picture can represent many data values (ACMSP096)</span>
   * *exploring ways of presenting data and showing the results of investigations*
   * *investigating data displays using many-to-one correspondence*
-* **Science 3**: Living things can be grouped on the basis of observable features and can be distinguished from non-living things (ACSSU044)
+* <span class="light">**Science 3**: Living things can be grouped on the basis of observable features and can be distinguished from non-living things (ACSSU044)</span>
   * *recognising characteristics of living things such as growing, moving, sensitivity and reproducing*
   * *sorting living and non-living things based on characteristics*
   * *exploring differences between living, once living and products of living things*
-* **Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)
+* <span class="light">**Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)</span>
   * *exploring how changes from solid to liquid and liquid to solid can help us recycle materials*
-* **Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)
+* <span class="light">**Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)</span>
   * *modelling the relative sizes and movement of the sun, Earth and moon*
-* **Science 3**: Heat can be produced in many ways and can move from one object to another (ACSSU049)
+* <span class="light">**Science 3**: Heat can be produced in many ways and can move from one object to another (ACSSU049)</span>
   * *describing how heat can be produced such as through friction or motion, electricity or chemically (burning)*
   * *exploring how heat can be transferred through conduction*
-* **Science 3**: Science involves making predictions and describing patterns and relationships (ACSHE050)
+* <span class="light">**Science 3**: Science involves making predictions and describing patterns and relationships (ACSHE050)</span>
   * *researching how knowledge of astronomy has been used by some Aboriginal and Torres Strait Islander Peoples (OI.3, OI.5)*
-* **Science 3**: Science knowledge helps people to understand the effect of their actions (ACSHE051)
+* <span class="light">**Science 3**: Science knowledge helps people to understand the effect of their actions (ACSHE051)</span>
   * *considering how heating affects materials used in everyday life*
   * *considering how materials including solids and liquids affect the environment in different ways*
   * *deciding what characteristics make a material a pollutant*
-* **Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)
+* <span class="light">**Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)</span>
   * *exploring different ways to show processes and relationships through diagrams, models and role play*
-* **Science 4**: With guidance, identify questions in familiar contexts that can be investigated scientifically and make predictions based on prior knowledge (ACSIS064)
+* <span class="light">**Science 4**: With guidance, identify questions in familiar contexts that can be investigated scientifically and make predictions based on prior knowledge (ACSIS064)</span>
   * *considering familiar situations in order to think about possible areas for investigation*
-* **Science 4**: Living things have life cycles (ACSSU072)
+* <span class="light">**Science 4**: Living things have life cycles (ACSSU072)</span>
   * *comparing life cycles of animals and plants*
-* **Science 4**: Living things depend on each other and the environment to survive (ACSSU073)
+* <span class="light">**Science 4**: Living things depend on each other and the environment to survive (ACSSU073)</span>
   * *investigating how plants provide shelter for animals*
   * *investigating the roles of living things in a habitat, for instance producers, consumers or decomposers*
   * *observing and describing predator-prey relationships*
   * *recognising that interactions between living things may be competitive or mutually beneficial*
-* **Science 4**: Natural and processed materials have a range of physical properties that can influence their use (ACSSU074)
+* <span class="light">**Science 4**: Natural and processed materials have a range of physical properties that can influence their use (ACSSU074)</span>
   * *investigating a particular property across a range of materials*
   * *considering how the properties of materials affect the management of waste or can lead to pollution*
-* **Science 4**: Earth’s surface changes over time as a result of natural processes and human activity (ACSSU075)
+* <span class="light">**Science 4**: Earth’s surface changes over time as a result of natural processes and human activity (ACSSU075)</span>
   * *investigating the characteristics of soils*
   * *considering how different human activities cause erosion of the Earth’s surface*
-* **Science 4**: Forces can be exerted by one object on another through direct contact or from a distance (ACSSU076)
+* <span class="light">**Science 4**: Forces can be exerted by one object on another through direct contact or from a distance (ACSSU076)</span>
   * *observing qualitatively how speed is affected by the size of a force*
   * *exploring how non-contact forces are similar to contact forces in terms of objects pushing and pulling another object*
   * *comparing and contrasting the effect of friction on different surfaces, such as tyres and shoes on a range of surfaces*
   * *investigating the effect of forces on the behaviour of an object through actions such as throwing, dropping, bouncing and rolling*
-* **Science 4**: Science involves making predictions and describing patterns and relationships (ACSHE061)
+* <span class="light">**Science 4**: Science involves making predictions and describing patterns and relationships (ACSHE061)</span>
   * *exploring ways in which scientists gather evidence for their ideas and develop explanations*
-* **Science 4**: Science knowledge helps people to understand the effect of their actions (ACSHE062)
+* <span class="light">**Science 4**: Science knowledge helps people to understand the effect of their actions (ACSHE062)</span>
   * *considering methods of waste management and how they can affect the environment*
   * *exploring how science has contributed to a discussion about an issue such as loss of habitat for living things or how human activity has changed the local environment*
   * *considering how to minimise the effects of erosion caused by human activity*
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *making and recording measurements using familiar formal units and appropriate abbreviations, such as seconds (s), grams (g), centimetres (cm) and millilitres (mL)*
   * *recognising the elements of a fair test and using these when planning the steps and processes of an investigation*
-* **HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)
+* <span class="light">**HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)</span>
   * *generating a list of local, state and national symbols and emblems (for example, club emblems, school logos, flags, floral emblems, the Commonwealth Coat of Arms) and discussing their origins, use and significance*
   * *examining the symbolism of flags (for example, the Australian, Aboriginal and Torres Strait Islander flags) and recognising special occasions when they are flown (for example, all three flags are flown during NAIDOC Week, National Reconciliation Week, National Sorry Day and Mabo Day) and the roles, rights and responsibilities the community has when observing protocols around flag flying*
   * *recognising the significance of other days or weeks (including the anniversary of the national Apology to Australia’s Indigenous Peoples of 2008, National Reconciliation Week, International Women’s Day, Labour Day and Harmony Day)*
-* **HASS 3**: The importance of making decisions democratically (ACHASSK070)
+* <span class="light">**HASS 3**: The importance of making decisions democratically (ACHASSK070)</span>
   * *building empathy by reflecting on how it feels to be included or excluded from making decisions and identifying situations when it is fair for decisions to be made without taking a majority vote (for example, by teachers or parents)*
   * *identifying places and situations in communities where decisions are made democratically*
-* **HASS 3**: Interact with others with respect to share points of view (ACHASSI059)
+* <span class="light">**HASS 3**: Interact with others with respect to share points of view (ACHASSI059)</span>
   * *sharing and listening to others’ stories about their community and place (for example, Aboriginal or Torres Strait Islander oral histories of an area, park ranger recounts, speakers from commemorative organisations, personal experiences of celebrations)*
   * *understanding their roles, rights and responsibilities in group situations*
   * *respecting ways to ensure others’ points of view are shared in group situations (for example, adhering to and defending strategies that enable turn-taking and eliminate talking over others)*
   * *valuing for and against arguments when making personal and group decisions*
-* **HASS 3**: Celebrations and commemorations in places around the world (for example, Chinese New Year in countries of the Asia region, Bastille Day in France, Independence Day in the USA), including those that are observed in Australia (for example, Christmas Day, Diwali, Easter, Hanukkah, the Moon Festival and Ramadan) (ACHASSK065)
+* <span class="light">**HASS 3**: Celebrations and commemorations in places around the world (for example, Chinese New Year in countries of the Asia region, Bastille Day in France, Independence Day in the USA), including those that are observed in Australia (for example, Christmas Day, Diwali, Easter, Hanukkah, the Moon Festival and Ramadan) (ACHASSK065)</span>
   * *comparing the significance of national days in different countries, looking at why they developed and elements they have in common*
   * *exploring through secondary sources significant events of cultures or countries around the world, including national days, and discussing whether they are celebrations or commemorations*
   * *investigating the origins and significance of some international celebrations or commemorations (for example, the International Day of Peace)*
   * *investigating the origins and significance of celebrations important to particular cultural groups in Australia and in other places of the world*
-* **HASS 3**: The representation of Australia as states and territories and as Countries/Places of Aboriginal and Torres Strait Islander Peoples; and major places in Australia, both natural and human (ACHASSK066)
+* <span class="light">**HASS 3**: The representation of Australia as states and territories and as Countries/Places of Aboriginal and Torres Strait Islander Peoples; and major places in Australia, both natural and human (ACHASSK066)</span>
   * *using geographical tools (for example, a globe, wall map or digital application such as Google Earth) to locate and name significant places such as the states, territories, major cities and regional centres in Australia*
   * *identifying and describing the major natural features of Australia (for example, rivers, deserts, rainforests, the Great Dividing Range, the Great Barrier Reef and islands of the Torres Strait) and describing them with annotations on a map*
   * *comparing the boundaries of Aboriginal Countries with the surveyed boundaries between Australian states and territories to gain an appreciation about the different ways Australia can be represented*
   * *describing how the territory of Aboriginal and Torres Strait Islander Peoples contains the Country/Places of many individuals and language groups*
   * *exploring how oral traditions of Aboriginal and Torres Strait Islander Peoples were used to map landscapes*
-* **HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)
+* <span class="light">**HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)</span>
   * *using a globe to locate the Pacific Island nations, New Zealand, Papua New Guinea, Timor-Leste and Indonesia and countries relevant to students, labelling them on a map, and identifying the direction of each country from Australia*
   * *describing the similarities and differences between their local place and places in neighbouring countries (for example, Indonesia, Pacific Island nations) in their natural and human characteristics*
-* **HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)
+* <span class="light">**HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)</span>
   * *reflecting on learning with the assistance of tools such as a KWL chart (what they know, what they want to know and what they have learned) when evaluating responses to an issue*
   * *forecasting a probable future and a preferred future relating to an environmental, local government or cultural issue (for example, developing a futures scenario of what oceans will be like if humans continue to allow waste plastic to enter waterways, and a preferred scenario of what oceans would be like if plastics were to be replaced by degradable materials)*
   * *reflecting on personal behaviours and identifying attitudes that may affect aspects of the environment at a local or global level (for example, pouring paints down the sink; using products sourced from cleared rainforests) and proposing awareness-raising strategies to reduce impacts on the environment*
   * *proposing possible actions that could be taken to address an issue (for example, improving the management of waste in the school; choosing products not made from endangered species such as elephants) and identifying resources needed to support the actions and likely outcomes (for example, composting lunch waste and using it on the school garden; making socially responsible decisions)*
-* **HASS 4**: Interact with others with respect to share points of view (ACHASSI080)
+* <span class="light">**HASS 4**: Interact with others with respect to share points of view (ACHASSI080)</span>
   * *participating in role-plays and simple debates which allow for equal presentation of viewpoints*
   * *exploring and sharing, through a facilitated role-play, the experiences and/or feelings of different people involved in a past event (for example, the points of view of Aboriginal People, convicts, guards, women and children on settling at Botany Bay) or the different views about a current event (for example, the views of farmers, activists and government decision-makers about a road going through an endangered habitat)*
   * *participating in cooperative strategies that enable decision-making about roles and responsibilities (for example, using de Bonos’ hats)*
-* **HASS 4**: The main characteristics of the continents of Africa and South America and the location of their major countries in relation to Australia (ACHASSK087)
+* <span class="light">**HASS 4**: The main characteristics of the continents of Africa and South America and the location of their major countries in relation to Australia (ACHASSK087)</span>
   * *using geographical tools (for example, a globe, a wall map or digital application such as Google Earth) to identify the major countries of Africa and South America and their relative locations*
   * *using a globe to investigate the Great Circle routes of aeroplane travel between Australia and the major countries of Africa and South America*
   * *researching the main types of natural vegetation and native animals in a climate zone in Australia, and comparing them with those found in a similar climate in Africa or South America*
   * *using a printed or electronic atlas to identify the main characteristics of the continents of Africa and South America (for example, topographic features, environments, cities)*
-* **HASS 4**: The role of local government and the decisions it makes on behalf of the community (ACHASSK091)
+* <span class="light">**HASS 4**: The role of local government and the decisions it makes on behalf of the community (ACHASSK091)</span>
   * *examining how local government is chosen and by whom*
   * *exploring what local government does, including the services it provides (for example, environment and waste, libraries, health, parks, cultural events, pools and sport, arts and pet management)*
   * *describing how local government services impact on the lives of students*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)
+* <span class="light">**Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)</span>
   * *exploring roles and situations by trialling the use of language, such as choice of words, expressions and tone*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *applying story structures in their drama, including roles and events linked through cause and effect and dramatic tension*
   * *Considering viewpoints – meanings and interpretations: For example – What are the stories and the ideas in the drama you watch and listen to? Which of the characters do you identify with? What relationships and situations do you recognise (or not recognise) in the drama you watch and listen to?*
   * *sharing with others dramatic action that is structured through dramatic tension, in real or virtual spaces*
@@ -3173,51 +3202,51 @@
   * *planning and rehearsing their drama for a live or virtual performance*
   * *exploring Aboriginal and Torres Strait Islander stories and how they are dramatically portrayed as a reference for shaping their own drama*
   * *exploring dramatic traditions and practices from one or more Asian societies in their drama*
-* **Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)
+* <span class="light">**Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)</span>
   * *creating a sequence of images, sounds and text or a combination of these to clearly establish the beginning, middle and end of a story or event*
   * *taking a series of photographs that show themselves and their friends as comic superheroes and villains through setting, costume and body language*
   * *constructing realistic representations of the classroom or other community locations and then constructing fictional versions of the same space*
   * *experimenting with tension to create meaning and sustain representations*
   * *Considering viewpoints – forms and elements:  For example – What images will I use and in what order?*
-* **Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)
+* <span class="light">**Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)</span>
   * *experimenting with the camera and framing the subject, using basic shot types, angles and lighting to control picture space*
   * *experimenting with applying text to accompany still or moving images, such as credits in a title sequence, and selecting appropriate fonts, colour and length of time for display suitable to the purpose of the artwork*
   * *experimenting with ways of formatting and laying out a story using available software and appropriate text conventions for a front page news story*
-* **Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)
+* <span class="light">**Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)</span>
   * *singing learnt pitch and rhythm patterns and varying elements of music within them to create different effects, for example, singing softer or louder, faster or slower, repeating phrases*
   * *exploring and varying instrumental timbres in isolation and combination, for example, playing softer or louder, faster or slower, repeating phrases*
   * *identifying and explaining features in music using terminology and a range of notation*
   * *Considering viewpoints – forms and elements:  For example – How did the music change? How many different sections are there in the music?*
   * *using movement to demonstrate an understanding of musical form, changing actions as the music changes*
-* **Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)
+* <span class="light">**Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)</span>
   * *Considering viewpoints – meanings and interpretations: For example – Why was this music written?*
   * *rehearsing and performing music in unison and with accompaniment patterns*
   * *experimenting with ways of singing and playing expressively, such as learning and practising a song with different dynamics and tempo*
   * *rehearsing and performing music using a range of technologies*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *using appropriate technologies terms to confidently describe and share with others procedures and techniques for making, for example cutting and joining materials*
   * *exploring ways of joining, connecting and assembling components that ensure success, and the impact digital technologies have had on these processes*
   * *using tools and equipment accurately when measuring, marking and cutting; and explaining the importance of accuracy when designing and making, for example creating a template, measuring ingredients in a recipe, sowing seeds*
   * *selecting and using materials, components, tools, equipment and processes with consideration of the environmental impact at each stage of the production process*
   * *demonstrating safe, responsible and cooperative work practices when making designed solutions*
-* **DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
- (ACTDIP013)
+* <span class="light">**DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
+ (ACTDIP013)</span>
   * *considering ways of managing the use of social media to maintain privacy needs, for example activating privacy settings to avoid divulging personal data such as photographs, addresses, and names and recognising that all digital interactions are difficult to erase (digital footprints)*
   * *using a range of online tools to share information and being aware that information may be received at different times, for example adding entries to a class blog, participating in a web conference or online chat with an author, or participating in a forum on a specific topic*
   * *organising and creating different types of information for sharing and collaborating online, for example planning the sequence and appearance of an animation, and sharing it online with students from another school*
   * *managing a project that involves students working together to publish online, for example identifying how group members can help each other to avoid delays in finishing the project*
   * *discussing digital citizenship rules and behaviours for participating in an online environment, for example not using all capital letters when expressing a strong viewpoint about a contentious matter and ensuring that the audience is aware of your identity*
   * *making ethical decisions when faced with reporting inappropriate online behaviour or acknowledging digital products created by others, for example making a decision based on how individuals would like to be treated by others*
-* **HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)
+* <span class="light">**HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)</span>
   * *creating an online connection with another school and identifying similarities and differences between students*
   * *predicting and reflecting on how other students might feel in a range of challenging situations, and discussing what they can do to support them*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *exploring and practising different techniques to propel objects towards a target*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *planning and performing strategies to be successful in tag and dodge games*
   * *exploring centre of gravity and stability as they perform balance activities*
   * *using different equipment to create an original game or movement challenge*
-* **HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)
+* <span class="light">**HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)</span>
   * *recognising unfairness and exclusion in a game situation, and proposing strategies to overcome these issues*
 
 ## Generating ideas, possibilities and actions
@@ -3230,13 +3259,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#imagine-possibilities-and-connect-ideas">Imagine possibilities and connect ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">132<br><em>2%</em><br>408<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">41<br><em>5%</em><br>46<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">13<br><em>8%</em><br>11<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">3<br><br>49<br><em>96%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">4<br><br>9<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>19<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>14<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">3<br><br>20<br><em>80%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">9<br><br>25<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">12<br><br>19<br></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">14<br><br>54<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">6<br><br>49<br><em>80%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">14<br><br>48<br><em>73%</em></td></tr>
-<tr><td ><a href="#consider-alternatives">Consider alternatives</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">431<br><em>4%</em><br>1171<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">120<br><em>10%</em><br>192<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">47<br><em>11%</em><br>30<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">2<br><br>12<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">36<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">31<br><br>115<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>67<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">10<br><br>32<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">17<br><br>37<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">10<br><br>49<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">12<br><br>54<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">16<br><br>69<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">21<br><br>80<br><em>14%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">29<br><br>115<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">30<br><br>129<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">24<br><br>90<br><em>66%</em></td></tr>
-<tr><td ><a href="#seek-solutions-and-put-ideas-into-action">Seek solutions and put ideas into action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">295<br><em>3%</em><br>848<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">49<br><em>8%</em><br>83<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">41<br><em>12%</em><br>32<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">16<br><br>15<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">15<br><br>14<br><em>14%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">13<br><br>31<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">10<br><br>40<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">6<br><br>28<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">6<br><br>18<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">4<br><br>19<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">5<br><br>42<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">13<br><br>44<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">18<br><br>53<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">25<br><br>109<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">27<br><br>145<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">39<br><br>132<br><em>48%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">210<br><em>9%</em><br>321<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">101<br><em>11%</em><br>73<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>34<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">54<br><br>84<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">48<br><br>155<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>126<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">16<br><br>62<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">23<br><br>62<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>82<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">20<br><br>116<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">38<br><br>138<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><br>152<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">68<br><br>278<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">63<br><br>323<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">77<br><br>270<br><em>58%</em></td></tr>
+<tr><td><a href="#imagine-possibilities-and-connect-ideas">Imagine possibilities and connect ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">132<br><em>2%</em><br>408<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">41<br><em>5%</em><br>46<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">13<br><em>8%</em><br>11<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">3<br><br>49<br><em>96%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">4<br><br>9<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>19<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>14<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">3<br><br>20<br><em>80%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">9<br><br>25<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><br>29<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">12<br><br>19<br></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">14<br><br>54<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">6<br><br>49<br><em>80%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">14<br><br>48<br><em>73%</em></td></tr>
+<tr><td><a href="#consider-alternatives">Consider alternatives</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">431<br><em>4%</em><br>1171<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">120<br><em>10%</em><br>192<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">47<br><em>11%</em><br>30<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">2<br><br>12<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">36<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">31<br><br>115<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>67<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">10<br><br>32<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">17<br><br>37<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">10<br><br>49<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">12<br><br>54<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">16<br><br>69<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">18<br><br>79<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">21<br><br>80<br><em>14%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">29<br><br>115<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">30<br><br>129<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">24<br><br>90<br><em>66%</em></td></tr>
+<tr><td><a href="#seek-solutions-and-put-ideas-into-action">Seek solutions and put ideas into action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">295<br><em>3%</em><br>848<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">49<br><em>8%</em><br>83<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">41<br><em>12%</em><br>32<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">16<br><br>15<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">15<br><br>14<br><em>14%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">13<br><br>31<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">10<br><br>40<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">6<br><br>28<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">6<br><br>18<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">4<br><br>19<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">5<br><br>42<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">13<br><br>44<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">8<br><br>43<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">18<br><br>53<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">25<br><br>109<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">27<br><br>145<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">39<br><br>132<br><em>48%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">210<br><em>9%</em><br>321<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">101<br><em>11%</em><br>73<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>34<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">54<br><br>84<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">48<br><br>155<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">18<br><br>126<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">16<br><br>62<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">23<br><br>62<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">19<br><br>82<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">20<br><br>116<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">38<br><br>138<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">34<br><br>151<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><br>152<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">68<br><br>278<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">63<br><br>323<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">77<br><br>270<br><em>58%</em></td></tr>
 </tbody>
 </table>
 
@@ -3248,13 +3277,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#imagine-possibilities-and-connect-ideas">Imagine possibilities and connect ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">132<br><em>2%</em><br>408<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">12<br><br>53<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">19<br><br>75<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">23<br><br>55<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">22<br><em>5%</em><br>73<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">35<br><br>99<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">31<br><em>6%</em><br>92<br><em>61%</em></td></tr>
-<tr><td ><a href="#consider-alternatives">Consider alternatives</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">431<br><em>4%</em><br>1171<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">23<br><em>4%</em><br>83<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">51<br><em>2%</em><br>126<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">50<br><em>2%</em><br>134<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">70<br><em>6%</em><br>163<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">117<br><em>3%</em><br>359<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.61); text-align: right; color: #fff">132<br><em>5%</em><br>370<br><em>39%</em></td></tr>
-<tr><td ><a href="#seek-solutions-and-put-ideas-into-action">Seek solutions and put ideas into action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">295<br><em>3%</em><br>848<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">16<br><em>6%</em><br>90<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">30<br><em>3%</em><br>101<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">51<br><em>2%</em><br>153<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">52<br><em>4%</em><br>156<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.48); text-align: right">71<br><em>1%</em><br>194<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">88<br><em>3%</em><br>224<br><em>47%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><em>4%</em><br>226<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">100<br><em>2%</em><br>302<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">124<br><em>2%</em><br>342<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">144<br><em>5%</em><br>392<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">223<br><em>2%</em><br>652<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">251<br><em>5%</em><br>686<br><em>44%</em></td></tr>
+<tr><td><a href="#imagine-possibilities-and-connect-ideas">Imagine possibilities and connect ideas</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">132<br><em>2%</em><br>408<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">12<br><br>53<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">19<br><br>75<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">23<br><br>55<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">22<br><em>5%</em><br>73<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">35<br><br>99<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">31<br><em>6%</em><br>92<br><em>61%</em></td></tr>
+<tr><td><a href="#consider-alternatives">Consider alternatives</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">431<br><em>4%</em><br>1171<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">23<br><em>4%</em><br>83<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">51<br><em>2%</em><br>126<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">50<br><em>2%</em><br>134<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">70<br><em>6%</em><br>163<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">117<br><em>3%</em><br>359<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.61); text-align: right; color: #fff">132<br><em>5%</em><br>370<br><em>39%</em></td></tr>
+<tr><td><a href="#seek-solutions-and-put-ideas-into-action">Seek solutions and put ideas into action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">295<br><em>3%</em><br>848<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">16<br><em>6%</em><br>90<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">30<br><em>3%</em><br>101<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">51<br><em>2%</em><br>153<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">52<br><em>4%</em><br>156<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.48); text-align: right">71<br><em>1%</em><br>194<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">88<br><em>3%</em><br>224<br><em>47%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">858<br><em>3%</em><br>2427<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">51<br><em>4%</em><br>226<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">100<br><em>2%</em><br>302<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">124<br><em>2%</em><br>342<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">144<br><em>5%</em><br>392<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">223<br><em>2%</em><br>652<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">251<br><em>5%</em><br>686<br><em>44%</em></td></tr>
 </tbody>
 </table>
 
@@ -3322,80 +3351,80 @@
 
 ##### Elaborations only
 
-* **English 1**: Respond to texts drawn from a range of cultures and experiences (ACELY1655)
+* <span class="light">**English 1**: Respond to texts drawn from a range of cultures and experiences (ACELY1655)</span>
   * *using drawing and writing to depict and comment on people and places beyond their immediate experience*
-* **English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)
+* <span class="light">**English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)</span>
   * *experimenting with voice volume and pace for particular purposes including making presentations, retelling stories and reciting rhymes and poems*
-* **English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)
+* <span class="light">**English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)</span>
   * *drawing, writing and using digital technologies to capture and communicate favourite characters and events*
-* **English 2**: Innovate on familiar texts by experimenting with character, setting or plot (ACELT1833)
+* <span class="light">**English 2**: Innovate on familiar texts by experimenting with character, setting or plot (ACELT1833)</span>
   * *inventing some speech, dialogue or behaviour of favourite or humorous characters through imagining an alternative event or outcome in the original text*
-* **Maths 2**: Identify and describe half and quarter turns (ACMMG046)
+* <span class="light">**Maths 2**: Identify and describe half and quarter turns (ACMMG046)</span>
   * *predicting and reproducing a pattern based around half and quarter turns of a shape and sketching the next element in the pattern*
-* **Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)
+* <span class="light">**Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)</span>
   * *identifying ways that science knowledge is used in the care of the local environment such as animal habitats, and suggesting changes to parks and gardens to better meet the needs of native animals*
-* **Science 2**: Different materials can be combined for a particular purpose (ACSSU031)
+* <span class="light">**Science 2**: Different materials can be combined for a particular purpose (ACSSU031)</span>
   * *suggesting why different parts of everyday objects such as toys and clothes are made from different materials*
-* **Science 2**: Earth’s resources are used in a variety of ways (ACSSU032)
+* <span class="light">**Science 2**: Earth’s resources are used in a variety of ways (ACSSU032)</span>
   * *considering what might happen to humans if there were a change in a familiar available resource, such as water*
-* **HASS 1**: Sort and record information and data, including location, in tables and on plans and labelled maps (ACHASSI020)
+* <span class="light">**HASS 1**: Sort and record information and data, including location, in tables and on plans and labelled maps (ACHASSI020)</span>
   * *creating and sharing concept maps to show personal understanding of their world (for example, a web of family relationships and connections, or a mental map of their place and its important features or spaces)*
   * *making artefact and photo displays to show the features of a place (for example, collections of natural and constructed things from the environment) or to show the passing of time (for example, collections of things used when growing older, toys used by different generations) and labelling the display with simple captions*
   * *developing a pictorial table to categorise information (for example, matching clothes with seasons, activities with the weather, features and places, places with the work done)*
-* **HASS 1**: Sequence familiar objects and events (ACHASSI021)
+* <span class="light">**HASS 1**: Sequence familiar objects and events (ACHASSI021)</span>
   * *using visual representations such as a ‘days of the week’ chart, a class timetable or a calendar to sequence events or tasks*
-* **HASS 1**: Explore a point of view
- (ACHASSI022)
+* <span class="light">**HASS 1**: Explore a point of view
+ (ACHASSI022)</span>
   * *comparing students’ daily lives and those of their parents, grandparents, elders or familiar older person, and representing the similarities and differences in graphic form (for example, in a Venn diagram or Y-chart)*
   * *sharing personal preferences about their world (for example, their favourite weather, activities, places, celebrations) and explaining why they are favoured*
-* **HASS 1**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI025)
+* <span class="light">**HASS 1**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI025)</span>
   * *imagining what the future may hold based on what they know of the past and present (for example, envisioning what the town they live in might look like in the near future by comparing photographs of the past with their observation of the present) or envisaging how an environment might change due to human activity (such as when a new planting of street trees grow)*
-* **HASS 1**: The natural, managed and constructed features of places, their location, how they change and how they can be cared for (ACHASSK031)
+* <span class="light">**HASS 1**: The natural, managed and constructed features of places, their location, how they change and how they can be cared for (ACHASSK031)</span>
   * *using observations and/or photographs to identify changes in natural, managed and constructed features in their place (for example, recent erosion, revegetated areas, planted crops or new buildings)*
-* **HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)
+* <span class="light">**HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)</span>
   * *creating shared texts (for example, pictorial charts, calendars, lists, recounts, wall murals/collages, big books) to record observations or report findings*
   * *retelling stories about life in the past through spoken narratives and the use of pictures, role-plays or photographs*
   * *using terms to denote the sequence of time (for example, ‘then’, ‘now’, ‘yesterday’, ‘today’, ‘past’, ‘present’, ‘later on’, ‘before I was born’, ‘in the future’ and ‘generations’)*
-* **HASS 2**: Sort and record information and data, including location, in tables and on plans and labelled maps (ACHASSI036)
+* <span class="light">**HASS 2**: Sort and record information and data, including location, in tables and on plans and labelled maps (ACHASSI036)</span>
   * *sorting and recording written or pictorial information or survey results in tables under headings such as ‘then/now’, ‘past/present/future’, ‘places near/far’, ‘places visited’, ‘purpose’, ‘frequency’, ‘distance’*
   * *locating the places they are connected to (such as through family, travel, friends), or the places they visit for shopping, recreation or other reasons on a print, electronic or wall map*
   * *making a map or plan of significant places in the community, incorporating symbols to show location of objects or significant features*
-* **HASS 2**: Compare objects from the past with those from the present and consider how places have changed over time (ACHASSI039)
+* <span class="light">**HASS 2**: Compare objects from the past with those from the present and consider how places have changed over time (ACHASSI039)</span>
   * *examining a historical site (for example, a home, a school) to explore how technology has changed life over time (for example, how and where food was obtained and prepared, how people travelled, how people stayed warm or cool, how sewerage was managed, types of work, the roles of men, women, boys and girls)*
-* **HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)
+* <span class="light">**HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)</span>
   * *reflecting on their increasing knowledge of special places and natural systems in their local area and, whether their ideas about and behaviours have changed as a result of greater understanding*
   * *using their knowledge about a familiar place or site to imagine how it might change in the future and how they can influence a positive future for it*
-* **HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)
+* <span class="light">**HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)</span>
   * *composing reports with multimedia to share findings (for example, findings of a comparison of past and present daily life, a report on how access to and use of a place has changed over time, or recommendations on a building of significance)*
-* **Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)
+* <span class="light">**Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)</span>
   * *recognising patterns of movement in dances they make, perform and view using their own words and learnt dance terminology*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *exploring the movements in dances with representatives of the Aboriginal and Torres Strait Islander community, for example, creating movements that represent animals from their region*
   * *using expressive skills to engage the audience, for example, looking out to audience and using facial expression*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *communicating verbally by using the voice to explore and show role and situation*
   * *communicating non-verbally by using facial expression and movement to explore and show role and situation*
-* **Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)
+* <span class="light">**Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)</span>
   * *singing and playing music to explore the expressive possibilities of their voices and instruments*
-* **D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)
+* <span class="light">**D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)</span>
   * *identifying, and playing and experimenting with, components such as wheels, balls, slides, springs and available local materials, tools and equipment to solve problems requiring movement*
   * *combining materials and using forces in design, for example designing the door on a cage or a simple conveyor belt to move materials short distances*
-* **D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)
+* <span class="light">**D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)</span>
   * *exploring materials, components, tools and equipment through play to discover potential uses when making products or modelling services and environments, for example when designing and making clothes, toys and shelters*
   * *experimenting with techniques to combine or alter materials to satisfy a function*
-* **D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)
+* <span class="light">**D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)</span>
   * *identifying, gathering and playing with materials, components, tools and equipment to generate personal design ideas, for example designing a greeting card for a friend*
   * *exploring opportunities around the school for designing solutions, for example how school play areas could be improved; how the school removes classroom waste and identifying opportunities to reduce, recycle and re-use materials; reviewing the school canteen menu to identify healthy food options and suggesting changes to promote future good health*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *using and playing with everyday materials in new ways or re-using discarded materials, for example using discarded materials to design, make and model a constructed environment*
-* **DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)
+* <span class="light">**DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)</span>
   * *experimenting with very simple, step-by-step procedures to explore programmable devices, for example providing instructions to physical or virtual objects or robotic devices to move in an intended manner, such as following a path around the classroom*
-* **HPE 1-2**: Examine health messages and how they relate to health decisions and behaviours (ACPPS021)
+* <span class="light">**HPE 1-2**: Examine health messages and how they relate to health decisions and behaviours (ACPPS021)</span>
   * *creating their own positive health message and sharing it with the class*
-* **HPE 1-2**: Explore actions that help make the classroom a healthy, safe and active place (ACPPS022)
+* <span class="light">**HPE 1-2**: Explore actions that help make the classroom a healthy, safe and active place (ACPPS022)</span>
   * *creating a bank of movement games and physical activity cards students can select from and play during lesson breaks and before or after school*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *creating, following, repeating and altering movement sequences and games in response to rhythm, music or words*
   * *selecting and implementing different movement skills to be successful in a game*
 
@@ -3459,61 +3488,61 @@
 
 ##### Elaborations only
 
-* **English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)
+* <span class="light">**English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)</span>
   * *experimenting with voice effects in formal presentations such as tone, volume and pace*
-* **English 4**: Understand that the meaning of sentences can be enriched through the use of noun groups/phrases and verb groups/phrases and prepositional phrases (ACELA1493)
+* <span class="light">**English 4**: Understand that the meaning of sentences can be enriched through the use of noun groups/phrases and verb groups/phrases and prepositional phrases (ACELA1493)</span>
   * *creating richer, more specific descriptions through the use of noun groups/phrases (for example, in narrative texts, ‘their very old Siamese cat’; in reports, 'its extremely high mountain ranges')*
-* **Maths 4**: Compare and describe two dimensional shapes that result from combining and splitting common shapes, with and without the use of digital technologies  (ACMMG088)
+* <span class="light">**Maths 4**: Compare and describe two dimensional shapes that result from combining and splitting common shapes, with and without the use of digital technologies  (ACMMG088)</span>
   * *identifying common two-dimensional shapes that are part of a composite shape by re-creating it from these shapes*
-* **HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)
+* <span class="light">**HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)</span>
   * *composing different types of texts to report findings of an investigation (for example, reporting on a historical investigation and its researched facts and findings by writing a biography about a noteworthy individual or group, a narrative account of a significant event, a report about a celebration, an explanation of the multicultural character of the community)*
-* **HASS 3**: The importance of Country/Place to Aboriginal and/or Torres Strait Islander Peoples who belong to a local area
- (ACHASSK062)
+* <span class="light">**HASS 3**: The importance of Country/Place to Aboriginal and/or Torres Strait Islander Peoples who belong to a local area
+ (ACHASSK062)</span>
   * *discussing when to use ‘Acknowledgement of Country’ and ‘Welcome to Country’ at ceremonies and events to respectfully recognise the Country/Place and traditional custodians of the land, sea, waterways and sky*
-* **HASS 3**: The representation of Australia as states and territories and as Countries/Places of Aboriginal and Torres Strait Islander Peoples; and major places in Australia, both natural and human (ACHASSK066)
+* <span class="light">**HASS 3**: The representation of Australia as states and territories and as Countries/Places of Aboriginal and Torres Strait Islander Peoples; and major places in Australia, both natural and human (ACHASSK066)</span>
   * *comparing the boundaries of Aboriginal Countries with the surveyed boundaries between Australian states and territories to gain an appreciation about the different ways Australia can be represented*
-* **HASS 4**: Record, sort and represent data and the location of places and their characteristics in different formats, including simple graphs, tables and maps, using discipline-appropriate conventions
- (ACHASSI075)
+* <span class="light">**HASS 4**: Record, sort and represent data and the location of places and their characteristics in different formats, including simple graphs, tables and maps, using discipline-appropriate conventions
+ (ACHASSI075)</span>
   * *showing historical and geographic information on maps (for example, collaboratively creating a large class map of world exploration by projecting a world map on a mural, and completing it with relevant geographical and historical details including compass points, sea routes, legends, dates, pictorial details, annotations and captions)*
-* **HASS 4**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI082)
+* <span class="light">**HASS 4**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI082)</span>
   * *composing, in a range of different text types, information to communicate findings and conclusions (for example, information presented as imaginative recounts, biographies, journals, reports)*
   * *selecting appropriate representations to suit and enhance their communication, including graphs, tables, timelines, photographs and pictures, in digital and non-digital modes*
-* **HASS 4**: The nature of contact between Aboriginal and Torres Strait Islander Peoples and others, for example, the Macassans and the Europeans, and the effects of these interactions on, for example, people and environments (ACHASSK086)
+* <span class="light">**HASS 4**: The nature of contact between Aboriginal and Torres Strait Islander Peoples and others, for example, the Macassans and the Europeans, and the effects of these interactions on, for example, people and environments (ACHASSK086)</span>
   * *examining paintings and accounts (by observers such as Watkin Tench and David Collins) to determine the impact of early British colonisation on Aboriginal Peoples' Country*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *planning and rehearsing their drama for a live or virtual performance*
-* **Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)
+* <span class="light">**Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)</span>
   * *experimenting with the camera and framing the subject, using basic shot types, angles and lighting to control picture space*
   * *experimenting with applying text to accompany still or moving images, such as credits in a title sequence, and selecting appropriate fonts, colour and length of time for display suitable to the purpose of the artwork*
   * *experimenting with ways of formatting and laying out a story using available software and appropriate text conventions for a front page news story*
-* **Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)
+* <span class="light">**Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)</span>
   * *singing learnt pitch and rhythm patterns and varying elements of music within them to create different effects, for example, singing softer or louder, faster or slower, repeating phrases*
   * *exploring and varying instrumental timbres in isolation and combination, for example, playing softer or louder, faster or slower, repeating phrases*
-* **D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)
+* <span class="light">**D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)</span>
   * *exploring, playing with and testing materials for their appropriateness, for example materials for a new sun-shade product*
   * *exploring and testing factors that impact on design decisions, for example considering the demographics of an area or the impact of natural disasters on design of constructed environments such as the structural design of buildings in Japan to withstand earthquakes*
-* **D&T 3-4**: Investigate how forces and the properties of materials affect the behaviour of a product or system
- (ACTDEK011)
+* <span class="light">**D&T 3-4**: Investigate how forces and the properties of materials affect the behaviour of a product or system
+ (ACTDEK011)</span>
   * *exploring through play how movement can be initiated by combining materials and using forces, for example releasing a wound rubber band to propel a model boat*
   * *experimenting with available local materials, tools and equipment to solve problems requiring forces including identifying inputs (what goes in to the system), processes (what happens within the system) and outputs (what comes out of the system), for example designing and testing a container or parachute that will keep an egg intact when dropped from a height*
-* **D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)
+* <span class="light">**D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)</span>
   * *conducting experiments and tests to understand the properties of materials, for example strength, durability, warmth, elasticity*
-* **DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)
+* <span class="light">**DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)</span>
   * *experimenting with different ways of describing a set of instructions, for example writing two versions of the same simple set of instructions for a programmable robotic device*
-* **DT 3-4**: Implement simple digital solutions as visual programs with algorithms involving branching (decisions) and user input
- (ACTDIP011)
+* <span class="light">**DT 3-4**: Implement simple digital solutions as visual programs with algorithms involving branching (decisions) and user input
+ (ACTDIP011)</span>
   * *designing and implementing a simple interactive digital solution using a visual programming language, for example preparing the content and design of a simple guessing game that provides options in English and an Asian language*
   * *creating options for users to make choices in solutions, for example a user input and branching mechanism such as buttons in a slideshow*
-* **HPE 3-4**: Explore how success, challenge and failure strengthen identities
- (ACPPS033)
+* <span class="light">**HPE 3-4**: Explore how success, challenge and failure strengthen identities
+ (ACPPS033)</span>
   * *talking about how overcoming a challenge or adversity can unite a group of diverse people*
-* **HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)
+* <span class="light">**HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)</span>
   * *creating an online connection with another school and identifying similarities and differences between students*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *using different equipment to create an original game or movement challenge*
-* **HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)
+* <span class="light">**HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)</span>
   * *using the body to demonstrate an understanding of symmetry, shapes and angles when performing movement skills, balances or movement sequences*
 
 ### Consider alternatives
@@ -3644,113 +3673,113 @@
 
 ##### Elaborations only
 
-* **English 1**: Use comprehension strategies to build literal and inferred meaning about key events, ideas and information in texts that they listen to, view and read by drawing on growing knowledge of context, text structures and language features
- (ACELY1660)
+* <span class="light">**English 1**: Use comprehension strategies to build literal and inferred meaning about key events, ideas and information in texts that they listen to, view and read by drawing on growing knowledge of context, text structures and language features
+ (ACELY1660)</span>
   * *building knowledge about the topic of the text and learning new vocabulary before and during reading*
-* **English 1**: Understand that there are different ways of asking for information, making offers and giving commands (ACELA1446)
+* <span class="light">**English 1**: Understand that there are different ways of asking for information, making offers and giving commands (ACELA1446)</span>
   * *learning about the difference between closed questions, for example 'Are you ready?', 'Did they enjoy their holidays?' and open questions, for example 'What made this text so exciting?'*
-* **English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)
+* <span class="light">**English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)</span>
   * *discussing and comparing the purposes of familiar texts drawn from local contexts and interests*
-* **English 1**: Understand concepts about print and screen, including how different types of texts are organised using page numbering, tables of content, headings and titles, navigation buttons, bars and links (ACELA1450)
+* <span class="light">**English 1**: Understand concepts about print and screen, including how different types of texts are organised using page numbering, tables of content, headings and titles, navigation buttons, bars and links (ACELA1450)</span>
   * *learning about how books and digital texts are organised including page numbers, table of contents, headings, images with captions and the use of scrolling to access digital texts*
-* **English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)
+* <span class="light">**English 1**: Use interaction skills including turn-taking, recognising the contributions of others, speaking clearly and using appropriate volume and pace (ACELY1788)</span>
   * *participating in pair, group and class speaking and listening situations, including informal conversations and class discussions, contributing ideas and listening to the contributions of others*
   * *demonstrating active listening behaviour and responding to what others say in pair, group and class discussions*
-* **English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)
+* <span class="light">**English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)</span>
   * *using contextual and semantic knowledge to make predictions about a text’s purpose and content*
   * *combining knowledge of context, meaning, grammar and phonics to decode text*
-* **English 2**: Discuss how depictions of characters in print, sound and images reflect the contexts in which they were created (ACELT1587)
+* <span class="light">**English 2**: Discuss how depictions of characters in print, sound and images reflect the contexts in which they were created (ACELT1587)</span>
   * *discussing moral and teaching stories from varied cultures, identifying and comparing their central messages*
-* **English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)
+* <span class="light">**English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)</span>
   * *connecting the feelings and behaviours of animals in anthropomorphic stories with human emotions and relationships*
   * *drawing, writing and using digital technologies to capture and communicate favourite characters and events*
-* **English 2**: Rehearse and deliver short presentations on familiar and new topics (ACELY1667)
+* <span class="light">**English 2**: Rehearse and deliver short presentations on familiar and new topics (ACELY1667)</span>
   * *adjusting presentation for different audiences*
-* **English 2**: Construct texts featuring print, visual and audio elements using software, including word processing programs (ACELY1674)
+* <span class="light">**English 2**: Construct texts featuring print, visual and audio elements using software, including word processing programs (ACELY1674)</span>
   * *experimenting with and combining elements of software programs to create texts*
-* **English 2**: Understand that spoken, visual and written forms of language are different modes of communication with different features and their use varies according to the audience, purpose, context and cultural background (ACELA1460)
+* <span class="light">**English 2**: Understand that spoken, visual and written forms of language are different modes of communication with different features and their use varies according to the audience, purpose, context and cultural background (ACELA1460)</span>
   * *identifying examples and features of different kinds of spoken, non-verbal, written and visual communication from Aboriginal and Torres Strait Islander communities and from several Asian cultures within Australia, and associating those features with particular communities*
-* **English 2**: Understand the use of vocabulary about familiar and new topics and experiment with and begin to make conscious choices of vocabulary to suit audience and purpose (ACELA1470)
+* <span class="light">**English 2**: Understand the use of vocabulary about familiar and new topics and experiment with and begin to make conscious choices of vocabulary to suit audience and purpose (ACELA1470)</span>
   * *interpreting new terminology drawing on prior knowledge, analogies and connections with known words*
-* **English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)
+* <span class="light">**English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)</span>
   * *participating in pair, group and class speaking and listening situations, including informal conversations, class discussions and presentations*
   * *demonstrating appropriate listening behaviour, responding to and paraphrasing a partner’s contribution to a discussion, such as think/pair/share activities*
   * *understanding how to disagree with a point of view or offer an alternative idea courteously*
   * *experimenting with presentation strategies such as pitch, volume and intonation*
-* **English 2**: Read less predictable texts with phrasing and fluency by combining contextual, semantic, grammatical and phonic knowledge using text processing strategies, for example monitoring meaning, predicting, rereading and self-correcting (ACELY1669)
+* <span class="light">**English 2**: Read less predictable texts with phrasing and fluency by combining contextual, semantic, grammatical and phonic knowledge using text processing strategies, for example monitoring meaning, predicting, rereading and self-correcting (ACELY1669)</span>
   * *using prior and learned knowledge and vocabulary to make and confirm predictions when reading text*
   * *using grammatical knowledge to predict likely sentence patterns when reading more complex narratives and informative texts*
   * *using knowledge of sound–letter relationships and high frequency sight words when decoding text*
   * *using grammar and meaning to read aloud with fluency and intonation*
-* **Maths 1**: Recognise, describe and order Australian coins according to their value (ACMNA017)
+* <span class="light">**Maths 1**: Recognise, describe and order Australian coins according to their value (ACMNA017)</span>
   * *showing that coins are different in other countries by comparing Asian coins to Australian coins*
-* **Science 1**: Pose and respond to questions, and make predictions about familiar objects and events (ACSIS024)
+* <span class="light">**Science 1**: Pose and respond to questions, and make predictions about familiar objects and events (ACSIS024)</span>
   * *thinking about "What will happen if……?" type questions about everyday objects and events*
   * *using the senses to explore the local environment to pose interesting questions and making predictions about what will happen*
-* **Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)
+* <span class="light">**Science 1**: People use science in their daily lives, including when caring for their environment and living things (ACSHE022)</span>
   * *identifying ways that science knowledge is used in the care of the local environment such as animal habitats, and suggesting changes to parks and gardens to better meet the needs of native animals*
-* **Science 2**: Pose and respond to questions, and make predictions about familiar objects and events (ACSIS037)
+* <span class="light">**Science 2**: Pose and respond to questions, and make predictions about familiar objects and events (ACSIS037)</span>
   * *using the senses to explore the local environment to pose interesting questions, make inferences and predictions*
   * *thinking about ‘What will happen if...?’ type questions about everyday objects and events*
-* **Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
- (ACADAM001)
+* <span class="light">**Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
+ (ACADAM001)</span>
   * *exploring movement possibilities in response to a stimulus, such as imagery, music and shared stories*
   * *experimenting with the elements of space, time, dynamics and relationships through movement, for example, considering levels, tempo and dynamics*
   * *taking photos or videoing dance sequences to view and extend their dance ideas*
-* **Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)
+* <span class="light">**Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)</span>
   * *exploring and responding to dances they make and view, for example, considering what the dance made them think about or how the dance made them feel*
-* **Drama F-2**: Explore role and dramatic action in dramatic play, improvisation and process drama
- (ACADRM027)
+* <span class="light">**Drama F-2**: Explore role and dramatic action in dramatic play, improvisation and process drama
+ (ACADRM027)</span>
   * *exploring possibilities for role and situation when participating in whole group teacher-led process drama and roleplay*
   * *taking photos or videoing drama they devise to view and extend their drama ideas*
-* **Drama F-2**: Respond to drama and consider where and why people make drama, starting with Australian drama including drama of Aboriginal and Torres Strait Islander Peoples (ACADRR030)
+* <span class="light">**Drama F-2**: Respond to drama and consider where and why people make drama, starting with Australian drama including drama of Aboriginal and Torres Strait Islander Peoples (ACADRR030)</span>
   * *connecting to and sharing drama experiences through available digital access*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *manipulating objects, puppets, 2D images and available technologies to create stories*
-* **Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)
+* <span class="light">**Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)</span>
   * *experimenting with image, for example, retelling a story of the school day in a series of captioned images*
   * *experimenting with technologies to capture images, sounds and text*
   * *exploring composition by selecting and editing images and/or sounds to create the characters in well-known stories or songs*
-* **Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)
+* <span class="light">**Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)</span>
   * *experimenting with and managing a digital camera to capture still or moving images, for example, reviewing captured images, zooming in and out and deleting unwanted images*
   * *experimenting with sound recording technology and found objects to create and record sound effects to support a story*
   * *trialling the selection and arrangement of images, sounds and text to organise important features of an idea or story*
-* **Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)
+* <span class="light">**Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)</span>
   * *singing and playing music to explore the expressive possibilities of their voices and instruments*
-* **D&T F-2**: Explore how plants and animals are grown for food, clothing and shelter and how food is selected and prepared for healthy eating
- (ACTDEK003)
+* <span class="light">**D&T F-2**: Explore how plants and animals are grown for food, clothing and shelter and how food is selected and prepared for healthy eating
+ (ACTDEK003)</span>
   * *considering the suitability of a range of tools when cultivating gardens, mulching and building garden structures and preparing and cooking food from recipes*
-* **D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)
+* <span class="light">**D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)</span>
   * *developing new meanings for objects and action during play, for example exploring how household packaging can be used to represent other objects*
   * *exploring systems used in the classroom or community for creatively dealing with problems and needs, for example storage systems for equipment, traffic system flow for drop and go zones, the use of hoists and ramps to facilitate access*
   * *experimenting with techniques to combine or alter materials to satisfy a function*
-* **D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)
+* <span class="light">**D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)</span>
   * *exploring opportunities around the school for designing solutions, for example how school play areas could be improved; how the school removes classroom waste and identifying opportunities to reduce, recycle and re-use materials; reviewing the school canteen menu to identify healthy food options and suggesting changes to promote future good health*
   * *discussing possible designed solutions based on experience and some research, for example asking adults for advice*
   * *considering the importance of sustainability in designed solutions, for example comparing the durability of materials for a selected solution*
   * *exploring which tools, equipment and techniques to use with selected materials*
-* **D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)
+* <span class="light">**D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)</span>
   * *comparing and contrasting features of existing products to provide new ideas, for example exploring toys with several movable parts with the view to designing and making a simple puppet with one movable part*
   * *identifying one common testing method, and recording results, for example taste-testing comparisons of a food product and recording results in a digital form*
-* **D&T F-2**: Use personal preferences to evaluate the success of design ideas, processes and solutions including their care for environment
- (ACTDEP008)
+* <span class="light">**D&T F-2**: Use personal preferences to evaluate the success of design ideas, processes and solutions including their care for environment
+ (ACTDEP008)</span>
   * *reflecting on the processes and challenges of designing and producing a solution and sharing these reflections using digital technologies, for example when growing a food product, designing a structure to take a load or making a nutritious snack*
   * *suggesting areas for design improvement*
-* **DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)
+* <span class="light">**DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)</span>
   * *sorting objects and events based on easily identified characteristics and using digital systems to represent patterns in data, for example sorting birthdates and presenting the patterns using seasonal symbols*
   * *making generalisations about data sets, for example comparing different ways of travelling to and from school using classroom data, discussing results and finding patterns in modes of travel*
   * *experimenting with different ways of representing patterns, for example using materials, sounds, movements or drawing*
   * *exploring with patterns of objects or symbols to represent data, for example the symbol 12 may represent different data to 21, or that an email address has a name followed by an @ symbol followed by another type of name*
   * *creating different patterns using the same elements, for example using patterns of coloured counters to communicate and give meaning such as a response of ‘yes’ or ‘no’*
-* **DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)
+* <span class="light">**DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)</span>
   * *experimenting with very simple, step-by-step procedures to explore programmable devices, for example providing instructions to physical or virtual objects or robotic devices to move in an intended manner, such as following a path around the classroom*
-* **HPE 1-2**: Explore actions that help make the classroom a healthy, safe and active place (ACPPS022)
+* <span class="light">**HPE 1-2**: Explore actions that help make the classroom a healthy, safe and active place (ACPPS022)</span>
   * *creating a bank of movement games and physical activity cards students can select from and play during lesson breaks and before or after school*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *creating, following, repeating and altering movement sequences and games in response to rhythm, music or words*
   * *selecting and implementing different movement skills to be successful in a game*
-* **HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)
+* <span class="light">**HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)</span>
   * *comparing different types of movements and identifying which ones are easier and harder and why this might be the case*
 
 #### **Level 3**: explore situations using creative thinking strategies to propose a range of alternatives
@@ -3896,104 +3925,104 @@
 
 ##### Elaborations only
 
-* **English 3**: Develop criteria for establishing personal preferences for literature (ACELT1598)
+* <span class="light">**English 3**: Develop criteria for establishing personal preferences for literature (ACELT1598)</span>
   * *building a conscious understanding of preference regarding topics and genres of personal interest (for example humorous short stories, school and family stories, mysteries, fantasy and quest, series books)*
   * *selecting and discussing favourite texts and explaining their reasons for assigning greater or lesser merit to particular texts or types of texts*
-* **English 3**: Examine how evaluative language can be varied to be more or less forceful (ACELA1477)
+* <span class="light">**English 3**: Examine how evaluative language can be varied to be more or less forceful (ACELA1477)</span>
   * *distinguishing how choice of adverbs, nouns and verbs present different evaluations of characters in texts*
-* **English 4**: Explore the effect of choices when framing an image, placement of elements in the image, and salience on composition of still and moving images in a range of types of texts
- (ACELA1496)
+* <span class="light">**English 4**: Explore the effect of choices when framing an image, placement of elements in the image, and salience on composition of still and moving images in a range of types of texts
+ (ACELA1496)</span>
   * *examining visual and multimodal texts, building a vocabulary to describe visual elements and techniques such as framing, composition and visual point of view and beginning to understand how these choices impact on viewer response*
-* **English 4**: Understand, interpret and experiment with a range of devices and deliberate word play in poetry and other literary texts, for example nonsense words, spoonerisms, neologisms and puns (ACELT1606)
+* <span class="light">**English 4**: Understand, interpret and experiment with a range of devices and deliberate word play in poetry and other literary texts, for example nonsense words, spoonerisms, neologisms and puns (ACELT1606)</span>
   * *discussing poetic language, including unusual adjectival use and how it engages us emotionally and brings to life the poet’s subject matter, for example ‘He grasps the crag with crooked hands’ (Alfred, Lord Tennyson); ‘Wee ... tim’rous beastie’ (Robert Burns)*
-* **English 4**: Create literary texts that explore students’ own experiences and imagining (ACELT1607)
+* <span class="light">**English 4**: Create literary texts that explore students’ own experiences and imagining (ACELT1607)</span>
   * *drawing upon literary texts students have encountered and experimenting with changing particular aspects, for example the time or place of the setting, adding characters or changing their personalities, or offering an alternative point of view on key ideas*
-* **English 4**: Use a range of software including word processing programs to construct, edit and publish written text, and select, edit and place visual, print and audio elements (ACELY1697)
+* <span class="light">**English 4**: Use a range of software including word processing programs to construct, edit and publish written text, and select, edit and place visual, print and audio elements (ACELY1697)</span>
   * *identifying and selecting appropriate software programs for constructing text*
-* **English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)
+* <span class="light">**English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)</span>
   * *experimenting with the use of quotation marks in students’ own writing*
-* **English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)
+* <span class="light">**English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)</span>
   * *investigating in texts how adverb group/phrases and prepositional phrases can provide details of the circumstances surrounding a happening or state (for example, ‘At midnight (time) he rose slowly (manner) from the chair (place) and went upstairs (place)’*
-* **English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
- (ACELT1603)
+* <span class="light">**English 4**: Discuss literary experiences with others, sharing responses and expressing a point of view
+ (ACELT1603)</span>
   * *sharing and discussing students’ own and others’ understanding of the effects of particular literary techniques on their appreciation of texts*
   * *drawing comparisons between multiple texts and students’ own experiences. Commenting orally, in written form and in digital reviews on aspects such as: 'Do I recognise this in my own world?'; 'How is this text similar to or different from other texts I’ve read?'; 'How common is it to human experience in the real world?'; 'What new ideas does it bring?'; ’How do they fit with what I believe?'*
-* **HASS 4**: Interact with others with respect to share points of view (ACHASSI080)
+* <span class="light">**HASS 4**: Interact with others with respect to share points of view (ACHASSI080)</span>
   * *exploring and sharing, through a facilitated role-play, the experiences and/or feelings of different people involved in a past event (for example, the points of view of Aboriginal People, convicts, guards, women and children on settling at Botany Bay) or the different views about a current event (for example, the views of farmers, activists and government decision-makers about a road going through an endangered habitat)*
   * *participating in cooperative strategies that enable decision-making about roles and responsibilities (for example, using de Bonos’ hats)*
-* **Dance 3-4**: Improvise and structure movement ideas for dance sequences using the elements of dance and choreographic devices
- (ACADAM005)
+* <span class="light">**Dance 3-4**: Improvise and structure movement ideas for dance sequences using the elements of dance and choreographic devices
+ (ACADAM005)</span>
   * *altering movements in a set, teacher-directed or student-devised dance using the elements of space, time, dynamics and relationships to express ideas, for example, increasing the size of a movement to represent growth*
   * *selecting and combining movements using choreographic devices such as contrast and repetition, for example, combining movements learned in a dance from Asia with other dance movements, or repeating movement to show emphasis*
-* **Dance 3-4**: Identify how the elements of dance and production elements express ideas in dance they make, perform and experience as audience, including exploration of Aboriginal and Torres Strait Islander dance (ACADAR008)
+* <span class="light">**Dance 3-4**: Identify how the elements of dance and production elements express ideas in dance they make, perform and experience as audience, including exploration of Aboriginal and Torres Strait Islander dance (ACADAR008)</span>
   * *identifying meaning and describing purposes in dances from different social, cultural or historical contexts such as dances that include digital, visual or theatrical elements*
   * *comparing the expectations and requirements of performers and audience in different cultural settings*
   * *examining dances in their community and comparing them to other dances of different peoples, times and cultures*
   * *writing about and discussing with others the meaning and intended purposes of their own dance using dance terminology*
-* **Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)
+* <span class="light">**Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)</span>
   * *experimenting with tension, and creating dramatic meaning to sustain improvisations and process dramas*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *sharing with others dramatic action that is structured through dramatic tension, in real or virtual spaces*
   * *exploring dramatic traditions and practices from one or more Asian societies in their drama*
-* **Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)
+* <span class="light">**Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)</span>
   * *experimenting with the camera and framing the subject, using basic shot types, angles and lighting to control picture space*
   * *experimenting with applying text to accompany still or moving images, such as credits in a title sequence, and selecting appropriate fonts, colour and length of time for display suitable to the purpose of the artwork*
   * *experimenting with ways of formatting and laying out a story using available software and appropriate text conventions for a front page news story*
-* **Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)
+* <span class="light">**Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)</span>
   * *singing learnt pitch and rhythm patterns and varying elements of music within them to create different effects, for example, singing softer or louder, faster or slower, repeating phrases*
   * *exploring and varying instrumental timbres in isolation and combination, for example, playing softer or louder, faster or slower, repeating phrases*
   * *identifying and explaining features in music using terminology and a range of notation*
   * *using movement to demonstrate an understanding of musical form, changing actions as the music changes*
-* **Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)
+* <span class="light">**Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)</span>
   * *experimenting with ways of singing and playing expressively, such as learning and practising a song with different dynamics and tempo*
-* **Visual 3-4**: Present artworks and describe how they have used visual conventions to represent their ideas (ACAVAM112)
+* <span class="light">**Visual 3-4**: Present artworks and describe how they have used visual conventions to represent their ideas (ACAVAM112)</span>
   * *making decisions about how their artwork could be displayed, for example, mounted and framed, in public spaces, on the internet, and in the media*
   * *comparing the visual conventions in artworks made for specific purposes, for example, how the artist represents an idea to show the audience a particular viewpoint*
-* **D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)
+* <span class="light">**D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)</span>
   * *exploring, playing with and testing materials for their appropriateness, for example materials for a new sun-shade product*
   * *examining the suitability of a service or everyday system and proposing improvements, for example a water saving system for a bathroom at home*
   * *investigating materials, components, tools and equipment, including by using digital technologies, to discover their characteristics and properties, how they can be used more sustainably and their impact in the future*
   * *exploring and testing factors that impact on design decisions, for example considering the demographics of an area or the impact of natural disasters on design of constructed environments such as the structural design of buildings in Japan to withstand earthquakes*
   * *critiquing designed products, services and environments to establish the factors that influence the design and use of common technologies, for example the characteristics that contribute to energy-efficient cooking such as wok cooking; the suitability and sustainable use of particular timbers*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *selecting and using materials, components, tools, equipment and processes with consideration of the environmental impact at each stage of the production process*
-* **DT 3-4**: Identify and explore a range of digital systems with peripheral devices for different purposes, and transmit different types of data
- (ACTDIK007)
+* <span class="light">**DT 3-4**: Identify and explore a range of digital systems with peripheral devices for different purposes, and transmit different types of data
+ (ACTDIK007)</span>
   * *using different peripheral devices to display information to others, for example using a mobile device, interactive whiteboard or a data projector to present information*
   * *using specific peripheral devices to capture different types of data, for example using a digital microscope to capture images of living and non-living things*
   * *experimenting with different types of digital system components and peripheral devices to perform input, output and storage functions, for example a keyboard, stylus, touch screen, switch scan device or joystick to input instructions; a monitor, printer or tablet to display information; a USB flash drive and external hard drive as storage peripheral devices*
-* **DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)
+* <span class="light">**DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)</span>
   * *selecting appropriate formats or layout styles to present data as information depending on the type of data and the audience, for example lists, tables, graphs, animations, info graphics and presentations*
   * *improving the appearance and usability of data, for example using colour, headings and labelling of images to organise and accurately identify data*
   * *using software to sort and calculate data when solving problems, for example sorting numerical and categorical data in ascending or descending order and automating simple arithmetic calculations using nearby cells and summing cell ranges in spreadsheet or database software*
-* **DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)
+* <span class="light">**DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)</span>
   * *describing, using drawings, pictures and text, the sequence of steps and decisions in a solution, for example to show the order of events in a game and the decisions that a player must make*
   * *experimenting with different ways of describing a set of instructions, for example writing two versions of the same simple set of instructions for a programmable robotic device*
   * *defining and describing the sequence of steps needed to incorporate multiple types of data in a solution, for example sequencing the steps in selecting and downloading images and audio to create a book trailer*
-* **DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
- (ACTDIP013)
+* <span class="light">**DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
+ (ACTDIP013)</span>
   * *considering ways of managing the use of social media to maintain privacy needs, for example activating privacy settings to avoid divulging personal data such as photographs, addresses, and names and recognising that all digital interactions are difficult to erase (digital footprints)*
   * *using a range of online tools to share information and being aware that information may be received at different times, for example adding entries to a class blog, participating in a web conference or online chat with an author, or participating in a forum on a specific topic*
   * *organising and creating different types of information for sharing and collaborating online, for example planning the sequence and appearance of an animation, and sharing it online with students from another school*
-* **HPE 3-4**: Identify and practise strategies to promote health, safety and wellbeing
- (ACPPS036)
+* <span class="light">**HPE 3-4**: Identify and practise strategies to promote health, safety and wellbeing
+ (ACPPS036)</span>
   * *proposing changes they can make to their daily routines to reduce sedentary behaviour and increase physical activity levels*
-* **HPE 3-4**: Describe strategies to make the classroom and playground healthy, safe and active spaces (ACPPS040)
+* <span class="light">**HPE 3-4**: Describe strategies to make the classroom and playground healthy, safe and active spaces (ACPPS040)</span>
   * *creating promotional posters to display around the school containing positive health and physical activity messages*
-* **HPE 3-4**: Examine the benefits of physical activity to health and wellbeing
- (ACPMP046)
+* <span class="light">**HPE 3-4**: Examine the benefits of physical activity to health and wellbeing
+ (ACPMP046)</span>
   * *exploring physical activity and screen-usage time recommendations for children and proposing how they can meet these recommendations*
-* **HPE 3-4**: Apply innovative and creative thinking in solving movement challenges
- (ACPMP049)
+* <span class="light">**HPE 3-4**: Apply innovative and creative thinking in solving movement challenges
+ (ACPMP049)</span>
   * *testing alternative responses to movement challenges and predicting the success or effectiveness of each*
   * *drawing on prior knowledge to solve movement challenges*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *performing tumbling routines using rolling actions, incline, weight transfer, flight and balances*
   * *performing routines incorporating different jumping techniques and connecting movements*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *participating in physical activities which require problem-solving to achieve a goal*
   * *using different equipment to create an original game or movement challenge*
-* **HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)
+* <span class="light">**HPE 3-4**: Apply basic rules and scoring systems, and demonstrate fair play when participating in physical activities (ACPMP050)</span>
   * *recognising unfairness and exclusion in a game situation, and proposing strategies to overcome these issues*
 
 ### Seek solutions and put ideas into action
@@ -4089,91 +4118,91 @@
 
 ##### Elaborations only
 
-* **English 1**: Innovate on familiar texts by using similar characters, repetitive patterns or vocabulary (ACELT1832)
+* <span class="light">**English 1**: Innovate on familiar texts by using similar characters, repetitive patterns or vocabulary (ACELT1832)</span>
   * *imitating a characteristic piece of speech or dialogue, or the attitude or expression of favourite or humorous characters in texts*
-* **English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)
+* <span class="light">**English 1**: Understand that the purposes texts serve shape their structure in predictable ways (ACELA1447)</span>
   * *using different types of texts, for example procedures (including recipes) and discussing the text structure*
-* **English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)
+* <span class="light">**English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)</span>
   * *drawing, writing and using digital technologies to capture and communicate favourite characters and events*
-* **English 2**: Discuss the characters and settings of different texts and explore how language is used to present these features in different ways (ACELT1591)
+* <span class="light">**English 2**: Discuss the characters and settings of different texts and explore how language is used to present these features in different ways (ACELT1591)</span>
   * *investigating Aboriginal stories, found from online sources, that explain physical features of the landscape and identify and describe the common features of language used*
-* **English 2**: Create short imaginative, informative and persuasive texts using growing knowledge of text structures and language features for familiar and some less familiar audiences, selecting print and multimodal elements appropriate to the audience and purpose (ACELY1671)
+* <span class="light">**English 2**: Create short imaginative, informative and persuasive texts using growing knowledge of text structures and language features for familiar and some less familiar audiences, selecting print and multimodal elements appropriate to the audience and purpose (ACELY1671)</span>
   * *using appropriate simple and compound sentence to express and combine ideas*
   * *using vocabulary, including technical vocabulary, appropriate to text type and purpose*
-* **English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)
+* <span class="light">**English 2**: Use interaction skills including initiating topics, making positive statements and voicing disagreement in an appropriate manner, speaking clearly and varying tone, volume and pace appropriately (ACELY1789)</span>
   * *experimenting with presentation strategies such as pitch, volume and intonation*
-* **Maths 1**: Investigate and describe number patterns formed by skip-counting and patterns with objects (ACMNA018)
+* <span class="light">**Maths 1**: Investigate and describe number patterns formed by skip-counting and patterns with objects (ACMNA018)</span>
   * *using place-value patterns beyond the teens to generalise the number sequence and predict the next number*
-* **Science 1**: Everyday materials can be physically changed in a variety of ways (ACSSU018)
+* <span class="light">**Science 1**: Everyday materials can be physically changed in a variety of ways (ACSSU018)</span>
   * *predicting and comparing how the shapes of objects made from different materials can be physically changed through actions such as bending, stretching and twisting*
-* **Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
- (ACADAM001)
+* <span class="light">**Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
+ (ACADAM001)</span>
   * *experimenting with the elements of space, time, dynamics and relationships through movement, for example, considering levels, tempo and dynamics*
   * *taking photos or videoing dance sequences to view and extend their dance ideas*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *exploring the movements in dances with representatives of the Aboriginal and Torres Strait Islander community, for example, creating movements that represent animals from their region*
   * *using expressive skills to engage the audience, for example, looking out to audience and using facial expression*
   * *presenting their dance in a digital format*
-* **Drama F-2**: Explore role and dramatic action in dramatic play, improvisation and process drama
- (ACADRM027)
+* <span class="light">**Drama F-2**: Explore role and dramatic action in dramatic play, improvisation and process drama
+ (ACADRM027)</span>
   * *taking part in purposeful dramatic play focusing on experiencing the roles and situations they create*
   * *taking turns in offering and accepting ideas, and staying in role in short improvisations*
   * *taking photos or videoing drama they devise to view and extend their drama ideas*
-* **Drama F-2**: Respond to drama and consider where and why people make drama, starting with Australian drama including drama of Aboriginal and Torres Strait Islander Peoples (ACADRR030)
+* <span class="light">**Drama F-2**: Respond to drama and consider where and why people make drama, starting with Australian drama including drama of Aboriginal and Torres Strait Islander Peoples (ACADRR030)</span>
   * *connecting to and sharing drama experiences through available digital access*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *communicating verbally by using the voice to explore and show role and situation*
   * *communicating non-verbally by using facial expression and movement to explore and show role and situation*
   * *manipulating objects, puppets, 2D images and available technologies to create stories*
-* **Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)
+* <span class="light">**Music F-2**: Sing and play instruments to improvise, practise a repertoire of chants, songs and rhymes, including songs used by cultural groups in the community (ACAMUM081)</span>
   * *practising techniques for singing songs and playing classroom instruments*
   * *singing and playing music to explore the expressive possibilities of their voices and instruments*
   * *practising and performing music using accessible technologies*
   * *learning a song used by groups in the local community, such as Aboriginal songs or Torres Strait Islander songs from their community, respecting cultural protocols*
-* **D&T F-2**: Identify how people design and produce familiar products, services and environments and consider sustainability to meet personal and local community needs (ACTDEK001)
+* <span class="light">**D&T F-2**: Identify how people design and produce familiar products, services and environments and consider sustainability to meet personal and local community needs (ACTDEK001)</span>
   * *making design decisions based on personal and family needs, for example downloading and comparing recipes to suit available cooking facilities such as cooking in the bush compared to cooking in a kitchen*
-* **D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)
+* <span class="light">**D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)</span>
   * *identifying, and playing and experimenting with, components such as wheels, balls, slides, springs and available local materials, tools and equipment to solve problems requiring movement*
   * *selecting materials to demonstrate how material properties are appropriate for particular designed solutions, for example materials that enable sliding or floating*
   * *exploring a system such as a marionette or Indonesian wayang kulit shadow puppet to see that by combining materials with forces movement can be created*
   * *combining materials and using forces in design, for example designing the door on a cage or a simple conveyor belt to move materials short distances*
   * *exploring how to manipulate materials using a range of tools, equipment and techniques to create movement, for example when constructing a toy boat that floats and moves*
-* **D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)
+* <span class="light">**D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)</span>
   * *exploring designed solutions to meet individual, family and community needs with a focus on materials, for example fabrics used for sports clothing, soft fall for play spaces*
   * *developing new meanings for objects and action during play, for example exploring how household packaging can be used to represent other objects*
   * *exploring systems used in the classroom or community for creatively dealing with problems and needs, for example storage systems for equipment, traffic system flow for drop and go zones, the use of hoists and ramps to facilitate access*
   * *experimenting with techniques to combine or alter materials to satisfy a function*
-* **D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)
+* <span class="light">**D&T F-2**: Explore needs or opportunities for designing, and the technologies needed to realise designed solutions (ACTDEP005)</span>
   * *identifying, gathering and playing with materials, components, tools and equipment to generate personal design ideas, for example designing a greeting card for a friend*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *using and playing with everyday materials in new ways or re-using discarded materials, for example using discarded materials to design, make and model a constructed environment*
   * *assembling components of systems and checking they function as planned, for example when making a musical instrument*
-* **DT F-2**: Recognise and explore digital systems (hardware and software components) for a purpose (ACTDIK001)
+* <span class="light">**DT F-2**: Recognise and explore digital systems (hardware and software components) for a purpose (ACTDIK001)</span>
   * *constructing a model of a real or imaginary digital systems device for use in role-play scenarios and explaining the features of the device to an adult*
-* **DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)
+* <span class="light">**DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)</span>
   * *experimenting with different ways of representing patterns, for example using materials, sounds, movements or drawing*
-* **DT F-2**: Explore how people safely use common information systems to meet information, communication and recreation needs (ACTDIP005)
+* <span class="light">**DT F-2**: Explore how people safely use common information systems to meet information, communication and recreation needs (ACTDIP005)</span>
   * *recognising and discussing the need for cyber-safety when using online information systems, for example recognising that shared personal information can be used for undesirable purposes and that using a password is a means of protecting identity*
   * *discussing how a range of information systems support personal needs and impact on others, for example text to speech software for people with vision loss*
-* **DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)
+* <span class="light">**DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)</span>
   * *using different types of data to create information for sharing online, for example creating a multimedia class profile that includes a photo of each student, a personal audio recording and a written message*
   * *planning and creating text, drawings and sound files to share online, for example jointly creating a photo story to illustrate a fable or fairy-tale from the Asia region or a local Aboriginal and Torres Strait Islander community story*
   * *making ethical decisions when using images for public viewing and using the work of others, for example asking the question ‘What is fair and just?’ to compare images of events or activities and decide whether or not to publish*
   * *participating in safe online environments, for example sharing ideas and information through intranets, messaging only to people they know, bookmarked websites and moderated online spaces*
-* **HPE 1-2**: Examine health messages and how they relate to health decisions and behaviours (ACPPS021)
+* <span class="light">**HPE 1-2**: Examine health messages and how they relate to health decisions and behaviours (ACPPS021)</span>
   * *creating their own positive health message and sharing it with the class*
-* **HPE 1-2**: Practise strategies they can use when they feel uncomfortable, unsafe or need help with a task, problem or situation (ACPPS017)
+* <span class="light">**HPE 1-2**: Practise strategies they can use when they feel uncomfortable, unsafe or need help with a task, problem or situation (ACPPS017)</span>
   * *identifying and rehearsing strategies they can use when requiring assistance, such as asking an adult, reading basic signs and solving a problem with friends*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *performing fundamental movement skills involving controlling objects with equipment and different parts of the body*
   * *demonstrating balances and describing what helps to maintain stable positions*
   * *demonstrating changes in speed, direction and level of movement in response to changes in music tempo*
   * *creating, following, repeating and altering movement sequences and games in response to rhythm, music or words*
-* **HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)
+* <span class="light">**HPE 1-2**: Incorporate elements of effort, space, time, objects and people in performing simple movement sequences (ACPMP029)</span>
   * *performing movements under, over, through and between objects, people and equipment*
   * *demonstrating how they can balance on different parts of the body and make different shapes*
-* **HPE 1-2**: Use strategies to work in group situations when participating in physical activities (ACPMP030)
+* <span class="light">**HPE 1-2**: Use strategies to work in group situations when participating in physical activities (ACPMP030)</span>
   * *suggesting and trialling how a game can be changed so that everyone can be involved*
 
 #### **Level 3**: experiment with a range of options when seeking solutions and putting ideas into action
@@ -4339,94 +4368,94 @@
 
 ##### Elaborations only
 
-* **English 3**: Use comprehension strategies to build literal and inferred meaning and begin to evaluate texts by drawing on a growing knowledge of context, text structures and language features
- (ACELY1680)
+* <span class="light">**English 3**: Use comprehension strategies to build literal and inferred meaning and begin to evaluate texts by drawing on a growing knowledge of context, text structures and language features
+ (ACELY1680)</span>
   * *making connections between the text and students own experience and other texts*
   * *making connections between the information in print and images*
   * *making predictions and asking and answering questions about the text drawing on knowledge of the topic, subject-specific vocabulary and experience of texts on the same topic*
   * *using text features and search tools to locate information in written and digital texts efficiently*
   * *making considered inferences taking into account topic knowledge or a character’s likely actions and feelings*
-* **English 3**: Re-read and edit texts for meaning, appropriate structure, grammatical choices and punctuation (ACELY1683)
+* <span class="light">**English 3**: Re-read and edit texts for meaning, appropriate structure, grammatical choices and punctuation (ACELY1683)</span>
   * *using glossaries, print and digital dictionaries and spell check to edit spelling, realising that spell check accuracy depends on understanding the word function, for example there/their; rain/reign*
-* **English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)
+* <span class="light">**English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)</span>
   * *participating in pair, group and class speaking and listening situations, including informal conversations, class discussions and presentations*
   * *using language appropriately in different situations such as making a request of a teacher, explaining a procedure to a classmate, engaging in a game with friends*
-* **English 4**: Identify features of online texts that enhance readability including text, navigation, links, graphics and layout
- (ACELA1793)
+* <span class="light">**English 4**: Identify features of online texts that enhance readability including text, navigation, links, graphics and layout
+ (ACELA1793)</span>
   * *participating in online searches for information using navigation tools and discussing similarities and differences between print and digital information*
-* **English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)
+* <span class="light">**English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
   * *sharing views using appropriate metalanguage (for example ‘The use of the adjectives in describing the character really helps to create images for the reader’)*
-* **English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)
+* <span class="light">**English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
-* **English 4**: Use interaction skills such as acknowledging another’s point of view and linking students’ response to the topic, using familiar and new vocabulary and a range of vocal effects such as tone, pace, pitch and volume to speak clearly and coherently (ACELY1688)
+* <span class="light">**English 4**: Use interaction skills such as acknowledging another’s point of view and linking students’ response to the topic, using familiar and new vocabulary and a range of vocal effects such as tone, pace, pitch and volume to speak clearly and coherently (ACELY1688)</span>
   * *participating in pair, group, class and school speaking and listening situations, including informal conversations, class discussions and presentations*
-* **Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)
+* <span class="light">**Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)</span>
   * *predicting the effect of heat on different materials*
-* **Science 3**: Science involves making predictions and describing patterns and relationships (ACSHE050)
+* <span class="light">**Science 3**: Science involves making predictions and describing patterns and relationships (ACSHE050)</span>
   * *making predictions about change and events in our environment*
-* **Science 4**: Living things depend on each other and the environment to survive (ACSSU073)
+* <span class="light">**Science 4**: Living things depend on each other and the environment to survive (ACSSU073)</span>
   * *predicting the effects when living things in feeding relationships are removed or die out in an area*
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *recognising the elements of a fair test and using these when planning the steps and processes of an investigation*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)
+* <span class="light">**Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)</span>
   * *making improvisations that explore issues and ideas using empathy*
   * *using elements of drama and the principles of stories to shape improvisations to communicate their intentions as drama makers, for example, establishing time and place and the roles and characters in the drama*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *applying story structures in their drama, including roles and events linked through cause and effect and dramatic tension*
   * *sharing with others dramatic action that is structured through dramatic tension, in real or virtual spaces*
   * *planning and rehearsing their drama for a live or virtual performance*
-* **Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)
+* <span class="light">**Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)</span>
   * *experimenting with the camera and framing the subject, using basic shot types, angles and lighting to control picture space*
   * *experimenting with applying text to accompany still or moving images, such as credits in a title sequence, and selecting appropriate fonts, colour and length of time for display suitable to the purpose of the artwork*
   * *experimenting with ways of formatting and laying out a story using available software and appropriate text conventions for a front page news story*
-* **Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)
+* <span class="light">**Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)</span>
   * *using movement to demonstrate an understanding of musical form, changing actions as the music changes*
-* **Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)
+* <span class="light">**Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)</span>
   * *rehearsing and performing music in unison and with accompaniment patterns*
   * *rehearsing and performing music using a range of technologies*
-* **D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)
+* <span class="light">**D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)</span>
   * *exploring, playing with and testing materials for their appropriateness, for example materials for a new sun-shade product*
   * *examining the suitability of a service or everyday system and proposing improvements, for example a water saving system for a bathroom at home*
   * *investigating materials, components, tools and equipment, including by using digital technologies, to discover their characteristics and properties, how they can be used more sustainably and their impact in the future*
   * *exploring and testing factors that impact on design decisions, for example considering the demographics of an area or the impact of natural disasters on design of constructed environments such as the structural design of buildings in Japan to withstand earthquakes*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *using appropriate technologies terms to confidently describe and share with others procedures and techniques for making, for example cutting and joining materials*
   * *exploring ways of joining, connecting and assembling components that ensure success, and the impact digital technologies have had on these processes*
   * *using tools and equipment accurately when measuring, marking and cutting; and explaining the importance of accuracy when designing and making, for example creating a template, measuring ingredients in a recipe, sowing seeds*
   * *selecting and using materials, components, tools, equipment and processes with consideration of the environmental impact at each stage of the production process*
   * *demonstrating safe, responsible and cooperative work practices when making designed solutions*
-* **DT 3-4**: Identify and explore a range of digital systems with peripheral devices for different purposes, and transmit different types of data
- (ACTDIK007)
+* <span class="light">**DT 3-4**: Identify and explore a range of digital systems with peripheral devices for different purposes, and transmit different types of data
+ (ACTDIK007)</span>
   * *using different peripheral devices to display information to others, for example using a mobile device, interactive whiteboard or a data projector to present information*
   * *using specific peripheral devices to capture different types of data, for example using a digital microscope to capture images of living and non-living things*
   * *experimenting with different types of digital system components and peripheral devices to perform input, output and storage functions, for example a keyboard, stylus, touch screen, switch scan device or joystick to input instructions; a monitor, printer or tablet to display information; a USB flash drive and external hard drive as storage peripheral devices*
-* **DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
- (ACTDIP013)
+* <span class="light">**DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
+ (ACTDIP013)</span>
   * *considering ways of managing the use of social media to maintain privacy needs, for example activating privacy settings to avoid divulging personal data such as photographs, addresses, and names and recognising that all digital interactions are difficult to erase (digital footprints)*
   * *using a range of online tools to share information and being aware that information may be received at different times, for example adding entries to a class blog, participating in a web conference or online chat with an author, or participating in a forum on a specific topic*
   * *organising and creating different types of information for sharing and collaborating online, for example planning the sequence and appearance of an animation, and sharing it online with students from another school*
   * *managing a project that involves students working together to publish online, for example identifying how group members can help each other to avoid delays in finishing the project*
   * *discussing digital citizenship rules and behaviours for participating in an online environment, for example not using all capital letters when expressing a strong viewpoint about a contentious matter and ensuring that the audience is aware of your identity*
   * *making ethical decisions when faced with reporting inappropriate online behaviour or acknowledging digital products created by others, for example making a decision based on how individuals would like to be treated by others*
-* **HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)
+* <span class="light">**HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)</span>
   * *creating an online connection with another school and identifying similarities and differences between students*
   * *predicting and reflecting on how other students might feel in a range of challenging situations, and discussing what they can do to support them*
-* **HPE 3-4**: Discuss and interpret health information and messages in the media and internet (ACPPS039)
+* <span class="light">**HPE 3-4**: Discuss and interpret health information and messages in the media and internet (ACPPS039)</span>
   * *accessing different sources of health information and examining the accuracy of these sources*
-* **HPE 3-4**: Describe strategies to make the classroom and playground healthy, safe and active spaces (ACPPS040)
+* <span class="light">**HPE 3-4**: Describe strategies to make the classroom and playground healthy, safe and active spaces (ACPPS040)</span>
   * *creating promotional posters to display around the school containing positive health and physical activity messages*
   * *exploring and developing responsible and sustainable classroom practices such as recycling, composting and energy saving*
-* **HPE 3-4**: Research own heritage and cultural identities, and explore strategies to respect and value diversity
- (ACPPS042)
+* <span class="light">**HPE 3-4**: Research own heritage and cultural identities, and explore strategies to respect and value diversity
+ (ACPPS042)</span>
   * *planning a day that celebrates the cultural diversity of students in their class by sharing food, stories and games from their cultural background*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *exploring and practising different techniques to propel objects towards a target*
   * *performing tumbling routines using rolling actions, incline, weight transfer, flight and balances*
   * *performing routines incorporating different jumping techniques and connecting movements*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *planning and performing strategies to be successful in tag and dodge games*
   * *participating in physical activities which require problem-solving to achieve a goal*
   * *using different equipment to create an original game or movement challenge*
@@ -4441,13 +4470,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#think-about-thinking-metacognition">Think about thinking (metacognition)</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">67<br><em>3%</em><br>283<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">11<br><em>9%</em><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>6<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><em>50%</em><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">8<br><br>57<br><em>81%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">5<br><br>31<br><em>90%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">9<br><br>39<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">8<br><br>15<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>22<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>19<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">7<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>20<br><em>100%</em></td></tr>
-<tr><td ><a href="#reflect-on-processes">Reflect on processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">348<br><em>5%</em><br>869<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">92<br><em>12%</em><br>70<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">53<br><em>11%</em><br>46<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">8<br><em>12%</em><br>34<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">23<br><br>49<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">22<br><br>89<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">12<br><br>94<br><em>77%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">4<br><br>11<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">14<br><br>62<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>34<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>44<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">13<br><br>58<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">16<br><br>59<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">14<br><br>34<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">25<br><br>76<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">33<br><br>64<br><em>41%</em></td></tr>
-<tr><td ><a href="#transfer-knowledge-into-new-contexts">Transfer knowledge into new contexts</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">138<br><em>3%</em><br>497<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">34<br><em>12%</em><br>70<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">10<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>46<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>42<br><em>90%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">12<br><br>35<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">16<br><br>33<br><em>21%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>15<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">6<br><br>20<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">4<br><br>17<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>14<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">19<br><br>51<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>49<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><br>35<br><em>83%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.50); text-align: right">137<br><em>12%</em><br>144<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">66<br><em>9%</em><br>73<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">12<br><em>17%</em><br>63<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>152<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><br>162<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">33<br><br>168<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">4<br><br>18<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">38<br><br>110<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">11<br><br>53<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">13<br><br>68<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">19<br><br>90<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">24<br><br>95<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>104<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">34<br><br>144<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">42<br><br>119<br><em>63%</em></td></tr>
+<tr><td><a href="#think-about-thinking-metacognition">Think about thinking (metacognition)</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">67<br><em>3%</em><br>283<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">11<br><em>9%</em><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>6<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><em>50%</em><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">8<br><br>57<br><em>81%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">5<br><br>31<br><em>90%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">9<br><br>39<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">8<br><br>15<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">4<br><br>16<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>22<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>19<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">7<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>20<br><em>100%</em></td></tr>
+<tr><td><a href="#reflect-on-processes">Reflect on processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">348<br><em>5%</em><br>869<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">92<br><em>12%</em><br>70<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">53<br><em>11%</em><br>46<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">8<br><em>12%</em><br>34<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">23<br><br>49<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">22<br><br>89<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">12<br><br>94<br><em>77%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">4<br><br>11<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">14<br><br>62<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>34<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>44<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">13<br><br>58<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">7<br><br>45<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">16<br><br>59<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">14<br><br>34<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">25<br><br>76<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">33<br><br>64<br><em>41%</em></td></tr>
+<tr><td><a href="#transfer-knowledge-into-new-contexts">Transfer knowledge into new contexts</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">138<br><em>3%</em><br>497<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">34<br><em>12%</em><br>70<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">10<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>46<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>42<br><em>90%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">12<br><br>35<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">16<br><br>33<br><em>21%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>15<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">6<br><br>20<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">4<br><br>17<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>25<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>14<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">19<br><br>51<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>49<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><br>35<br><em>83%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.50); text-align: right">137<br><em>12%</em><br>144<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">66<br><em>9%</em><br>73<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">12<br><em>17%</em><br>63<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>152<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><br>162<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">33<br><br>168<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">4<br><br>18<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">38<br><br>110<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">11<br><br>53<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">13<br><br>68<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">19<br><br>90<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">16<br><br>86<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">24<br><br>95<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">36<br><br>104<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">34<br><br>144<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">42<br><br>119<br><em>63%</em></td></tr>
 </tbody>
 </table>
 
@@ -4459,13 +4488,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#think-about-thinking-metacognition">Think about thinking (metacognition)</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">67<br><em>3%</em><br>283<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">7<br><em>14%</em><br>26<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">8<br><br>31<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">17<br><br>88<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.90); text-align: right; color: #fff">30<br><em>3%</em><br>115<br><em>69%</em></td></tr>
-<tr><td ><a href="#reflect-on-processes">Reflect on processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">348<br><em>5%</em><br>869<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">7<br><br>24<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">16<br><em>6%</em><br>27<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">39<br><em>5%</em><br>62<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">47<br><br>120<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.63); text-align: right; color: #fff">109<br><em>6%</em><br>333<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.77); text-align: right; color: #fff">134<br><em>6%</em><br>321<br><em>48%</em></td></tr>
-<tr><td ><a href="#transfer-knowledge-into-new-contexts">Transfer knowledge into new contexts</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">138<br><em>3%</em><br>497<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><em>12%</em><br>41<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">13<br><br>68<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><br>59<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><br>75<br><em>80%</em></td><td style="background-color: rgba(21, 153, 87, 0.48); text-align: right">33<br><em>3%</em><br>123<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.80); text-align: right; color: #fff">55<br><em>4%</em><br>162<br><em>60%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">17<br><em>6%</em><br>73<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><em>3%</em><br>111<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">63<br><em>5%</em><br>147<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">72<br><br>226<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">159<br><em>5%</em><br>544<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.79); text-align: right; color: #fff">219<br><em>5%</em><br>598<br><em>55%</em></td></tr>
+<tr><td><a href="#think-about-thinking-metacognition">Think about thinking (metacognition)</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">67<br><em>3%</em><br>283<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">7<br><em>14%</em><br>26<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">8<br><br>31<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">17<br><br>88<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.90); text-align: right; color: #fff">30<br><em>3%</em><br>115<br><em>69%</em></td></tr>
+<tr><td><a href="#reflect-on-processes">Reflect on processes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">348<br><em>5%</em><br>869<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">7<br><br>24<br><em>79%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">16<br><em>6%</em><br>27<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">39<br><em>5%</em><br>62<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">47<br><br>120<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.63); text-align: right; color: #fff">109<br><em>6%</em><br>333<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.77); text-align: right; color: #fff">134<br><em>6%</em><br>321<br><em>48%</em></td></tr>
+<tr><td><a href="#transfer-knowledge-into-new-contexts">Transfer knowledge into new contexts</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">138<br><em>3%</em><br>497<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><em>12%</em><br>41<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">13<br><br>68<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><br>59<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><br>75<br><em>80%</em></td><td style="background-color: rgba(21, 153, 87, 0.48); text-align: right">33<br><em>3%</em><br>123<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.80); text-align: right; color: #fff">55<br><em>4%</em><br>162<br><em>60%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">553<br><em>4%</em><br>1649<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">17<br><em>6%</em><br>73<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">32<br><em>3%</em><br>111<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">63<br><em>5%</em><br>147<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">72<br><br>226<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">159<br><em>5%</em><br>544<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.79); text-align: right; color: #fff">219<br><em>5%</em><br>598<br><em>55%</em></td></tr>
 </tbody>
 </table>
 
@@ -4484,31 +4513,31 @@
 
 ##### Elaborations only
 
-* **Maths 1**: Identify outcomes of familiar events involving chance and describe them using everyday language such as ‘will happen’, ‘won’t happen’ or ‘might happen’ (ACMSP024)
+* <span class="light">**Maths 1**: Identify outcomes of familiar events involving chance and describe them using everyday language such as ‘will happen’, ‘won’t happen’ or ‘might happen’ (ACMSP024)</span>
   * *justifying that some events are certain or impossible*
-* **Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)
+* <span class="light">**Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)</span>
   * *representing array problems with available materials and explaining reasoning*
-* **HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)
+* <span class="light">**HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)</span>
   * *describing features of a space or place (such as a chicken coop, a play area, their bedroom, the reading corner, the beach) that is important to them and explaining what they could do to care for it*
   * *discussing how their behaviours reflect what they have learnt about caring for important places and significant sites (for example, taking care around school wildlife, turning off taps and lights, following etiquettes in special sites)*
-* **HASS 1**: How the present, past and future are signified by terms indicating time, as well as by dates and changes that may have personal significance, such as birthdays, celebrations and seasons (ACHASSK029)
+* <span class="light">**HASS 1**: How the present, past and future are signified by terms indicating time, as well as by dates and changes that may have personal significance, such as birthdays, celebrations and seasons (ACHASSK029)</span>
   * *predicting, using knowledge of the past and present (for example, what happened yesterday, what is likely to happen tomorrow, upcoming birthdays, celebrations and seasons) and ordering these references to time in sequence using terms such as ‘before’, ‘after’, ‘next’, ‘then’, ‘a long time ago’, and ‘then and now’*
-* **HASS 1**: Activities in the local place and reasons for their location (ACHASSK033)
+* <span class="light">**HASS 1**: Activities in the local place and reasons for their location (ACHASSK033)</span>
   * *exploring activities in the local rivers, lakes and coastal waters and identifying constructed features (for example, Aboriginal eel traps, jetties, shark nets, fish farms)*
   * *describing how they rearrange the space within the classroom for different activities (for example, reading time or a drama)*
-* **HASS 2**: How changing technology affected people’s lives (at home and in the ways they worked, travelled, communicated and played in the past) (ACHASSK046)
+* <span class="light">**HASS 2**: How changing technology affected people’s lives (at home and in the ways they worked, travelled, communicated and played in the past) (ACHASSK046)</span>
   * *creating models of toys used by children who lived when electricity was not available*
-* **HASS 2**: The idea that places are parts of Earth’s surface that have been named by people, and how places can be defined at a variety of scales (ACHASSK048)
+* <span class="light">**HASS 2**: The idea that places are parts of Earth’s surface that have been named by people, and how places can be defined at a variety of scales (ACHASSK048)</span>
   * *describing the scale of places, from the personal (home), the local (their suburb, town or district), the regional (state) to the national (country)*
-* **HASS 2**: The ways in which Aboriginal and Torres Strait Islander Peoples maintain special connections to particular Country/Place
- (ACHASSK049)
+* <span class="light">**HASS 2**: The ways in which Aboriginal and Torres Strait Islander Peoples maintain special connections to particular Country/Place
+ (ACHASSK049)</span>
   * *explaining that some Aboriginal and Torres Strait Islander people have special connections to many Countries/Places (for example, through marriage, birth, residence and chosen or forced movement)*
   * *discussing how some people are connected to one Country (for example, because it is “mother’s” Country or “father’s” Country)*
-* **HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)
+* <span class="light">**HASS 2**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI043)</span>
   * *conveying information about the past and familiar places by representing ideas in written, spoken, pictorial or performance modes and by creating imaginative responses*
   * *describing a significant person from their community’s past in a short report or biography or through a fictional journal based on facts*
   * *using terms in speech and writing to denote the passing of time (for example, ‘in the past’, ‘years ago’, ‘the olden days’, ‘in the future’) and to describe direction and location (for example, north, south, opposite, near, far)*
-* **DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)
+* <span class="light">**DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)</span>
   * *learning about how data are represented by changing pixel density (resolution) in a photograph with support and noting the change in file size to successfully email to a friend*
 
 #### **Level 3**: reflect on, explain and check the processes used to come to conclusions
@@ -4533,40 +4562,40 @@
 
 ##### Elaborations only
 
-* **Maths 3**: Apply place value to partition, rearrange and regroup numbers to at least 10 000 to assist calculations and solve problems (ACMNA053)
+* <span class="light">**Maths 3**: Apply place value to partition, rearrange and regroup numbers to at least 10 000 to assist calculations and solve problems (ACMNA053)</span>
   * *justifying choices about partitioning and regrouping numbers in terms of their usefulness for particular calculations*
-* **Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)
+* <span class="light">**Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)</span>
   * *communicating with other students carrying out similar investigations to share experiences and improve investigation skill*
-* **Science 4**: With guidance, plan and conduct scientific investigations to find answers to questions, considering the safe use of appropriate materials and equipment (ACSIS065)
+* <span class="light">**Science 4**: With guidance, plan and conduct scientific investigations to find answers to questions, considering the safe use of appropriate materials and equipment (ACSIS065)</span>
   * *exploring different ways to conduct investigations and connecting these to the types of questions asked with teacher guidance*
-* **Science 4**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS068)
+* <span class="light">**Science 4**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS068)</span>
   * *discussing with teacher guidance which graphic organisers will be most useful in sorting or organising data arising from investigations*
-* **Science 4**: Compare results with predictions, suggesting possible reasons for findings (ACSIS216)
+* <span class="light">**Science 4**: Compare results with predictions, suggesting possible reasons for findings (ACSIS216)</span>
   * *discussing how well predictions matched results from an investigation and proposing reasons for findings*
   * *comparing, in small groups, proposed reasons for findings and explaining their reasoning*
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *making and recording measurements using familiar formal units and appropriate abbreviations, such as seconds (s), grams (g), centimetres (cm) and millilitres (mL)*
-* **Science 4**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS071)
+* <span class="light">**Science 4**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS071)</span>
   * *communicating with other students carrying out similar investigations to share experiences and improve investigation skills*
-* **HASS 3**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI060)
+* <span class="light">**HASS 3**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI060)</span>
   * *recalling what they know when contributing ideas to a group response to a community challenge (for example, planning how to celebrate a unrecognised cultural event; such as how local Aboriginal or Torres Strait Islander Peoples celebrate their Country/Place or how to retell a historical event from a silent or unfamiliar voice)*
   * *reflecting on anticipated effects of actions designed to protect and improve places that people perceive as important (for example, places of environmental value, cultural value or historic significance)*
-* **HASS 3**: Interact with others with respect to share points of view (ACHASSI059)
+* <span class="light">**HASS 3**: Interact with others with respect to share points of view (ACHASSI059)</span>
   * *sharing and listening to others’ stories about their community and place (for example, Aboriginal or Torres Strait Islander oral histories of an area, park ranger recounts, speakers from commemorative organisations, personal experiences of celebrations)*
-* **HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)
+* <span class="light">**HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)</span>
   * *describing the similarities and differences between their local place and places in neighbouring countries (for example, Indonesia, Pacific Island nations) in their natural and human characteristics*
-* **HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)
+* <span class="light">**HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)</span>
   * *forecasting a probable future and a preferred future relating to an environmental, local government or cultural issue (for example, developing a futures scenario of what oceans will be like if humans continue to allow waste plastic to enter waterways, and a preferred scenario of what oceans would be like if plastics were to be replaced by degradable materials)*
-* **Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)
+* <span class="light">**Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)</span>
   * *experimenting with tension to create meaning and sustain representations*
-* **Visual 3-4**: Explore ideas and artworks from different cultures and times, including artwork by Aboriginal and Torres Strait Islander artists, to use as inspiration for their own representations (ACAVAM110)
+* <span class="light">**Visual 3-4**: Explore ideas and artworks from different cultures and times, including artwork by Aboriginal and Torres Strait Islander artists, to use as inspiration for their own representations (ACAVAM110)</span>
   * *identifying and explaining choices in art making, including forms, styles and visual conventions in their artworks, and influences of other artists on their artworks*
-* **D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)
+* <span class="light">**D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)</span>
   * *critiquing designed products, services and environments to establish the factors that influence the design and use of common technologies, for example the characteristics that contribute to energy-efficient cooking such as wok cooking; the suitability and sustainable use of particular timbers*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *performing tumbling routines using rolling actions, incline, weight transfer, flight and balances*
   * *performing routines incorporating different jumping techniques and connecting movements*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *participating in physical activities which require problem-solving to achieve a goal*
 
 #### **Level 4**: reflect on assumptions made, consider reasonable criticism and adjust their thinking if necessary
@@ -4595,47 +4624,47 @@
 
 ##### Elaborations only
 
-* **Science 5**: Reflect on and suggest improvements to scientific investigations (ACSIS091)
+* <span class="light">**Science 5**: Reflect on and suggest improvements to scientific investigations (ACSIS091)</span>
   * *working collaboratively to identify where methods could be improved, including where testing was not fair and practices could be improved*
-* **HASS 6**: Locate and collect relevant information and data from primary sources and secondary sources
- (ACHASSI123)
+* <span class="light">**HASS 6**: Locate and collect relevant information and data from primary sources and secondary sources
+ (ACHASSI123)</span>
   * *applying ethical research methods when conducting inquiries with people and communities, including using accepted protocols for consultation with local Aboriginal/Torres Strait Islander communities, and conforming with respectful behaviours in sacred or significant sites*
-* **HASS 6**: Examine primary sources and secondary sources to determine their origin and purpose (ACHASSI126)
+* <span class="light">**HASS 6**: Examine primary sources and secondary sources to determine their origin and purpose (ACHASSI126)</span>
   * *proposing reasons why stereotypes and over-generalisations are evident in sources and media of the past and discussing whether the underlying attitudes and values have changed or might have changed over time*
-* **HASS 6**: Interpret data and information displayed in a range of formats to identify, describe and compare distributions, patterns and trends, and to infer relationships (ACHASSI128)
+* <span class="light">**HASS 6**: Interpret data and information displayed in a range of formats to identify, describe and compare distributions, patterns and trends, and to infer relationships (ACHASSI128)</span>
   * *analysing sources to identify the causes and effects of past events, developments and achievements (for example, the causes and effects of the struggles for democratic rights such as the Wave Hill walk-off, the Wik decision; of technological advancements such as the advent of television, the internet and the bionic ear; of health policies)*
   * *using graphic organisers, maps and concept maps to identify patterns (for example, patterns of settlement in regional agricultural areas), trends (for example, changes in Australian immigration statistics) and cause-effect relationships (for example, relationships between war and the movement of refugees, the correlation of low income and poor health, the effects of consumer decisions on the individual, the broader community and on environmental sustainability)*
-* **HASS 6**: Use criteria to make decisions and judgements and consider advantages and disadvantages of preferring one decision over others (ACHASSI131)
+* <span class="light">**HASS 6**: Use criteria to make decisions and judgements and consider advantages and disadvantages of preferring one decision over others (ACHASSI131)</span>
   * *examining the trade-offs they might consider when developing criteria for evaluating choices (for example, considering the opportunity cost of choosing one leisure activity over another or considering the trade-offs involved when making a purchasing decision such as a phone)*
-* **HASS 6**: Australia’s connections with other countries and how these change people and places (ACHASSK141)
+* <span class="light">**HASS 6**: Australia’s connections with other countries and how these change people and places (ACHASSK141)</span>
   * *exploring the provision of Australian government or non-government aid to a country in the Asia and Pacific region or elsewhere in the world and analysing its effects on places in that country*
-* **Dance 5-6**: Explore movement and choreographic devices using the elements of dance to choreograph dances that communicate meaning (ACADAM009)
+* <span class="light">**Dance 5-6**: Explore movement and choreographic devices using the elements of dance to choreograph dances that communicate meaning (ACADAM009)</span>
   * *exploring stimulus or analysing other dances to devise a variety of movement possibilities, for example, different ways to jump and land, roll and stand or spiral down to the ground*
-* **Media 5-6**: Explain how the elements of media arts and story principles communicate meaning by comparing media artworks from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander media artworks (ACAMAR065)
+* <span class="light">**Media 5-6**: Explain how the elements of media arts and story principles communicate meaning by comparing media artworks from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander media artworks (ACAMAR065)</span>
   * *researching and comparing historical and contemporary media representations and explaining how context influences the characters, stories and values portrayed in the media artworks; for example, comparing TV representations of family*
-* **Music 5-6**: Explore dynamics and expression, using aural skills to identify and perform rhythm and pitch patterns (ACAMUM088)
+* <span class="light">**Music 5-6**: Explore dynamics and expression, using aural skills to identify and perform rhythm and pitch patterns (ACAMUM088)</span>
   * *manipulating the timbre of a range of instruments and voices to create and vary mood or atmosphere*
   * *interpreting dynamics and expression in a range of notated music by singing, playing and improvising*
-* **Visual 5-6**: Explore ideas and practices used by artists, including practices of Aboriginal and Torres Strait Islander artists, to represent different views, beliefs and opinions (ACAVAM114)
+* <span class="light">**Visual 5-6**: Explore ideas and practices used by artists, including practices of Aboriginal and Torres Strait Islander artists, to represent different views, beliefs and opinions (ACAVAM114)</span>
   * *selecting and manipulating combinations of materials and techniques*
-* **Visual 5-6**: Plan the display of artworks to enhance their meaning for an audience
- (ACAVAM116)
+* <span class="light">**Visual 5-6**: Plan the display of artworks to enhance their meaning for an audience
+ (ACAVAM116)</span>
   * *reflecting critically on how effectively their ideas or feelings have been expressed in their own artworks, and that of others*
-* **D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)
+* <span class="light">**D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)</span>
   * *evaluating the sustainability implications of materials, systems, components, tools and equipment, for example materials can be recycled or re-used to reduce waste; systems may benefit some, but disadvantage others*
-* **D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)
+* <span class="light">**D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)</span>
   * *evaluating the functional properties of a specific-purpose household system, for example a security system*
   * *evaluating the use of computer-aided manufacturing in terms of cost and impacts on local and regional designers, producers and enterprises*
-* **DT 5-6**: Define problems in terms of data and functional requirements drawing on previously solved problems (ACTDIP017)
+* <span class="light">**DT 5-6**: Define problems in terms of data and functional requirements drawing on previously solved problems (ACTDIP017)</span>
   * *using and interpreting data, establishing the root cause of a problem, for example using an annotated diagram to identify omissions, duplications or mismatches of data*
-* **HPE 5-6**: Investigate community resources and ways to seek help about health, safety and wellbeing
- (ACPPS053)
+* <span class="light">**HPE 5-6**: Investigate community resources and ways to seek help about health, safety and wellbeing
+ (ACPPS053)</span>
   * *applying criteria to online information to assess the credibility of the information and its relevance to peers*
-* **HPE 5-6**: Practise skills to establish and manage relationships (ACPPS055)
+* <span class="light">**HPE 5-6**: Practise skills to establish and manage relationships (ACPPS055)</span>
   * *assessing the impact of different relationships on personal health and wellbeing*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *performing activities that involve a transition from one skill to another, such as from dribbling to shooting or from leaping to balancing*
-* **HPE 5-6**: Propose and apply movement concepts and strategies with and without equipment (ACPMP063)
+* <span class="light">**HPE 5-6**: Propose and apply movement concepts and strategies with and without equipment (ACPMP063)</span>
   * *proposing and applying movement concepts and strategies to perform movement sequences at different levels using different types of equipment*
   * *proposing and applying movement concepts and strategies to safely traverse a natural environment*
 
@@ -4700,113 +4729,113 @@
 
 ##### Elaborations only
 
-* **Science 7**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS124)
+* <span class="light">**Science 7**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS124)</span>
   * *working collaboratively to identify a problem to investigate*
-* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
- (ACHASSI153)
+* <span class="light">**HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+ (ACHASSI153)</span>
   * *using a range of methods, including digital applications, to plan and conduct an information search, and to refine a search for specific or relevant information/images (for example, using ‘image search’ and ‘advanced search’ functions)*
   * *compiling a list of different primary and secondary sources that might contribute relevant information to an investigation of the past (for example, papyrus scrolls, coins, statues, human remains for an archaeological study) or to an investigation of an environmental issue (for example, recorded observations, annotated field sketches, surveys, interviews, and photographs of changes or events)*
   * *applying ethical research methods to conduct research with people and communities, including applying protocols for consultation with local Aboriginal and Torres Strait Islander communities, demonstrating respectful behaviours in sacred or significant sites, and giving consideration to sensitive issues when seeking information from people*
-* **HASS 7**: Examine primary sources and secondary sources to determine their origin, purpose and reliability (ACHASSI156)
+* <span class="light">**HASS 7**: Examine primary sources and secondary sources to determine their origin, purpose and reliability (ACHASSI156)</span>
   * *considering relevance and validity when choosing sources and gathering data and information about historical, geographical, social, economic and business issues or events (for example, the relevance of documents written at the time of an event; the validity of personal observations made during fieldwork)*
   * *differentiating between primary sources in history (those from the time of the event/person/site being investigated) and secondary sources (those that represent later interpretations)*
   * *comparing the different types of primary sources appropriate to history, geography, civics and citizenship, and economics and business, and explaining reasons for the differences*
   * *identifying who in a source is conveying information about a past or present event and suggesting whose voice may be absent (for example, women, children, Aboriginal and/or Torres Strait Islander Peoples, slaves, religious leaders)*
   * *using a range of methods to determine the origin, purpose and reliability of different sources, such as determining when the source was written, why it was written and by whom*
   * *discussing the difficulties in identifying the origin and purpose of some sources (for example, the Kimberley Bradshaw paintings)*
-* **HASS 7**: Evaluate and synthesise evidence to draw conclusions (ACHASSI159)
+* <span class="light">**HASS 7**: Evaluate and synthesise evidence to draw conclusions (ACHASSI159)</span>
   * *evaluating and connecting information from various sources to draw evidence-based conclusions*
-* **HASS 7**: Collaborate to generate alternatives in response to an issue or challenge, and compare the potential costs and benefits of each (ACHASSI160)
+* <span class="light">**HASS 7**: Collaborate to generate alternatives in response to an issue or challenge, and compare the potential costs and benefits of each (ACHASSI160)</span>
   * *identifying where there is a common understanding in a discussion and using points of agreement as a basis for resolving a conflict or differences, recognising their own emotional reactions when interacting with people who are different from themselves or who disagree with their views*
-* **HASS 7**: Reflect on learning to propose personal and/or collective action in response to an issue or challenge, taking into account different perspectives, and describe the expected effects (ACHASSI162)
+* <span class="light">**HASS 7**: Reflect on learning to propose personal and/or collective action in response to an issue or challenge, taking into account different perspectives, and describe the expected effects (ACHASSI162)</span>
   * *applying a process approach to respond to an issue or challenge (for example, conducting an analysis using processes such as a SWOT analysis; developing a plan of action that incorporates a consultation process that ensures a range of views are heard and people are given opportunities to respond)*
   * *explaining different perspectives on an issue or challenge (for example, sustainability, intercultural behaviour) and proposing action after considering these perspectives and the possible outcomes for different groups*
   * *deciding when consensus is an effective process for a collective action and when it is not*
   * *discussing the consequences of decisions (for example, economic, business, civic or personal decisions), considering alternative responses and predicting the potential effect of those responses*
   * *using knowledge of the past to inform views on probable and preferred (individual or collective) futures, explaining reasoning to justify futures scenarios*
-* **HASS 7**: The nature of the sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources
- (ACHASSK170)
+* <span class="light">**HASS 7**: The nature of the sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources
+ (ACHASSK170)</span>
   * *Comprehending texts through listening, reading and viewing
                             
 
 Interpret and analyse learning area texts*
-* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* <span class="light">**Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)</span>
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Drama 7-8**: Combine the elements of drama in devised and scripted drama to explore and develop issues, ideas and themes (ACADRM040)
+* <span class="light">**Drama 7-8**: Combine the elements of drama in devised and scripted drama to explore and develop issues, ideas and themes (ACADRM040)</span>
   * *experimenting with linear and non-linear narrative to focus dramatic action and tension*
-* **Drama 7-8**: Perform devised and scripted drama maintaining commitment to role (ACADRM044)
+* <span class="light">**Drama 7-8**: Perform devised and scripted drama maintaining commitment to role (ACADRM044)</span>
   * *using audience feedback to enhance future performance, for example, adjusting performance based on audience responses to characters’ portrayal of emotions and empathy*
-* **Media 7-8**: Develop media representations to show familiar or shared social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM067)
+* <span class="light">**Media 7-8**: Develop media representations to show familiar or shared social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM067)</span>
   * *manipulating combinations of technical and symbolic elements (composition, time, space, sound, movement, lighting) to represent ideas and feelings in their media artworks*
   * *exploring media artworks that provide different ideas and concepts based on points of view and institutional practice, including viewing and experimenting with the depiction of cultural groups and social values in Australian film and television*
-* **Media 7-8**: Develop and refine media production skills to shape the technical and symbolic elements of images, sounds and text for a specific purpose and meaning (ACAMAM068)
+* <span class="light">**Media 7-8**: Develop and refine media production skills to shape the technical and symbolic elements of images, sounds and text for a specific purpose and meaning (ACAMAM068)</span>
   * *analysing and evaluating the structural choices made in their media artworks by documenting their process in records such as journals, blogs, and video or audio recording*
-* **Media 7-8**: Identify specific features and purposes of media artworks from contemporary and past times to explore viewpoints and enrich their media arts making, starting with Australian media artworks including of Aboriginal and Torres Strait Islander media artworks (ACAMAR072)
+* <span class="light">**Media 7-8**: Identify specific features and purposes of media artworks from contemporary and past times to explore viewpoints and enrich their media arts making, starting with Australian media artworks including of Aboriginal and Torres Strait Islander media artworks (ACAMAR072)</span>
   * *analysing the role of media artworks and media artists in transmitting cultural information and creating awareness of contemporary issues, such as water quality*
-* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
- (ACAMUM092)
+* <span class="light">**Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
+ (ACAMUM092)</span>
   * *manipulating sound quality by exploring how sounds are produced by different instruments and voice types, for example, manipulating dynamics and timbre in voice or acoustic or digital instruments*
   * *using aural skills to evaluate and improve interpretation of music they read and perform*
-* **Music 7-8**: Identify and connect specific features and purposes of music from different eras to explore viewpoints and enrich their music making, starting with Australian music including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR098)
+* <span class="light">**Music 7-8**: Identify and connect specific features and purposes of music from different eras to explore viewpoints and enrich their music making, starting with Australian music including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR098)</span>
   * *making judgements about music as audience members and articulating the reasons for them*
-* **Music 7-8**: Practise and rehearse a variety of music, including Australian music to develop technical and expressive skills
- (ACAMUM094)
+* <span class="light">**Music 7-8**: Practise and rehearse a variety of music, including Australian music to develop technical and expressive skills
+ (ACAMUM094)</span>
   * *exploring and manipulating the elements of music within given parameters to create new music, and reflecting upon musical ideas used by Australian composers, including Aboriginal and Torres Strait Islander artists*
-* **Visual 7-8**: Develop ways to enhance their intentions as artists through exploration of how artists use materials, techniques, technologies and processes (ACAVAM119)
+* <span class="light">**Visual 7-8**: Develop ways to enhance their intentions as artists through exploration of how artists use materials, techniques, technologies and processes (ACAVAM119)</span>
   * *researching artworks that provide different ideas and concepts based on ideological views and institutional theories of design and art practice, for example, the Bauhaus, Chinese social realist painting, Greek classical sculpture*
-* **Visual 7-8**: Practise techniques and processes to enhance representation of ideas in their art-making (ACAVAM121)
+* <span class="light">**Visual 7-8**: Practise techniques and processes to enhance representation of ideas in their art-making (ACAVAM121)</span>
   * *researching widely to find the most appropriate sources of information about visual arts skills, use of materials, traditional and contemporary styles, display options, and sources for ideas when developing their own artwork*
-* **Visual 7-8**: Present artwork demonstrating consideration of how the artwork is displayed to enhance the artist’s intention to an audience
- (ACAVAM122)
+* <span class="light">**Visual 7-8**: Present artwork demonstrating consideration of how the artwork is displayed to enhance the artist’s intention to an audience
+ (ACAVAM122)</span>
   * *justifying their choices for display or presentation of ideas in artworks or designs appropriate for a particular audience, for example, mounted and framed exhibition, a website, or as a children’s book*
   * *researching ideas for display or presentation, reflecting on different times, places and cultures, and considering how these can be options for display of their own artworks*
-* **Visual 7-8**: Identify and connect specific features and purposes of visual artworks from contemporary and past times to explore viewpoints and enrich their art-making, starting with Australian artworks including those of Aboriginal and Torres Strait Islander Peoples (ACAVAR124)
+* <span class="light">**Visual 7-8**: Identify and connect specific features and purposes of visual artworks from contemporary and past times to explore viewpoints and enrich their art-making, starting with Australian artworks including those of Aboriginal and Torres Strait Islander Peoples (ACAVAR124)</span>
   * *respecting cultural practices and sensitivities as they research, analyse and examine the way an artist’s cultural experiences have influenced the representation of their artworks*
   * *analysing how visual arts practices and processes and use of available technologies shape the practices of art, craft and design*
-* **D&T 7-8**: Analyse ways to produce designed solutions through selecting and combining characteristics and properties of materials, systems, components, tools and equipment
- (ACTDEK034)
+* <span class="light">**D&T 7-8**: Analyse ways to produce designed solutions through selecting and combining characteristics and properties of materials, systems, components, tools and equipment
+ (ACTDEK034)</span>
   * *evaluating products and services for the individual and the community considering ethics and social factors, for example a short video encouraging individuals to increase their use of public transport in the local area*
   * *evaluating environments that have been designed in consultation with community groups, for example a bush tucker community garden developed in consultation with local Elders*
-* **D&T 7-8**: Critique needs or opportunities for designing and investigate, analyse and select from a range of materials, components, tools, equipment and processes to develop design ideas (ACTDEP035)
+* <span class="light">**D&T 7-8**: Critique needs or opportunities for designing and investigate, analyse and select from a range of materials, components, tools, equipment and processes to develop design ideas (ACTDEP035)</span>
   * *examining, testing and evaluating a variety of suitable materials, components, tools and equipment for each design project, for example the differences between natural hardwood and plantation softwood timbers, which determine their suitability for particular uses related to durability, for example interior or exterior use*
   * *evaluating the viability of using different techniques and materials in remote, isolated areas, or less developed countries*
-* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* <span class="light">**DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)</span>
   * *querying an existing database to extract data for analysis, for example devising multiple selection criteria or using simple structured query language (SQL) SELECT statements to select records and retrieve specified fields*
-* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* <span class="light">**DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)</span>
   * *developing a digital game that manipulates models of real-world objects*
-* **DT 7-8**: Plan and manage projects that create and communicate ideas and information collaboratively online, taking safety and social contexts into account (ACTDIP032)
+* <span class="light">**DT 7-8**: Plan and manage projects that create and communicate ideas and information collaboratively online, taking safety and social contexts into account (ACTDIP032)</span>
   * *documenting and sequencing the tasks that need to be done, and the resources that are needed to collaboratively create solutions including organising the timeline, devising file naming conventions and planning backup measures*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **Hist 7**: Use historical terms and concepts (ACHHS206)
+* <span class="light">**Hist 7**: Use historical terms and concepts (ACHHS206)</span>
   * *defining and using terms such as BC (Before Christ), AD (anno Domini), BCE (Before Common Era), and CE (Common Era); prehistory (before the period of textual recording) and history (the period beginning with named individuals and textual recording)*
   * *defining and using concepts such as slavery, divine right, source (where a historian finds information) and evidence (the information that is used by the historian)*
-* **Hist 8**: The way Polynesian societies used environmental resources (sustainably and unsustainably), including the extinction of the moa in New Zealand, the use of religious/supernatural threats to conserve resources, and the exploitation of Easter Island’s palm trees (ACDSEH068)
+* <span class="light">**Hist 8**: The way Polynesian societies used environmental resources (sustainably and unsustainably), including the extinction of the moa in New Zealand, the use of religious/supernatural threats to conserve resources, and the exploitation of Easter Island’s palm trees (ACDSEH068)</span>
   * *evaluating the evidence for theories about the deforestation of Easter Island (Rapa Nui)*
-* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* <span class="light">**Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)</span>
   * *discussing the advantages and disadvantages of strategies to overcome water scarcity (for example, recycling (‘grey water’), stormwater harvesting and re-use, desalination, inter-regional transfer of water and trade in virtual water, and reducing water consumption)*
-* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* <span class="light">**Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)</span>
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo 7**: The influence of social connectedness and community identity on the liveability of place
- (ACHGK046)
+* <span class="light">**Geo 7**: The influence of social connectedness and community identity on the liveability of place
+ (ACHGK046)</span>
   * *discussing the different types of places where people can feel included or excluded, safe or threatened, and evaluating how this affects perceptions about liveability of places*
-* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* <span class="light">**Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)</span>
   * *discussing the impact of housing density on the liveability of places*
-* **Geo 7**: Apply geographical concepts to draw conclusions based on the analysis of the data and information collected (ACHGS052)
+* <span class="light">**Geo 7**: Apply geographical concepts to draw conclusions based on the analysis of the data and information collected (ACHGS052)</span>
   * *reviewing the results of an analysis to propose an answer to an inquiry question, using as an organiser at least one of the concepts of place, space, environment, interconnection, sustainability, scale or change*
-* **Geo 8**: Spiritual, aesthetic and cultural value of landscapes and landforms for people, including Aboriginal and Torres Strait Islander Peoples  (ACHGK049)
+* <span class="light">**Geo 8**: Spiritual, aesthetic and cultural value of landscapes and landforms for people, including Aboriginal and Torres Strait Islander Peoples  (ACHGK049)</span>
   * *discussing the representation of landscapes in literature, song/music, film and art*
-* **Geo 8**: Causes, impacts and responses to a geomorphological hazard
- (ACHGK053)
+* <span class="light">**Geo 8**: Causes, impacts and responses to a geomorphological hazard
+ (ACHGK053)</span>
   * *discussing the extent to which human alteration of environments has contributed to the occurrence of the geomorphological hazard*
-* **Geo 8**: Causes and consequences of urbanisation, drawing on a study from Indonesia, or another country of the Asia region
- (ACHGK054)
+* <span class="light">**Geo 8**: Causes and consequences of urbanisation, drawing on a study from Indonesia, or another country of the Asia region
+ (ACHGK054)</span>
   * *discussing urbanisation as a shift in where, how and why people live where they do*
-* **Geo 8**: Apply geographical concepts to draw conclusions based on the analysis of data and information collected (ACHGS060)
+* <span class="light">**Geo 8**: Apply geographical concepts to draw conclusions based on the analysis of data and information collected (ACHGS060)</span>
   * *reviewing the results of an analysis to propose and defend answers to an inquiry question, emphasising at least one of the geographical concepts of place, space, environment, interconnection, sustainability, scale or change*
-* **E&B 8**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES036)
+* <span class="light">**E&B 8**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES036)</span>
   * *demonstrating an understanding of their rights as consumers when buying an item or returning it to the store*
 
 #### **Level 6**: give reasons to support their thinking, and address opposing viewpoints and possible weaknesses in their own positions
@@ -4890,149 +4919,149 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)
+* <span class="light">**English 10**: Analyse and evaluate how people, cultures, places, events, objects and concepts are represented in texts, including media texts, through language, structural and/or visual choices (ACELY1749)</span>
   * *questioning the representation of stereotypes of people, cultures, places, events and concepts, and expressing views on the appropriateness of these representations*
   * *analysing the ways socio-cultural values, attitudes and beliefs are presented in texts by comparing the ways news is reported in commercial media and Aboriginal and Torres Strait Islander media*
-* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* <span class="light">**Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)</span>
   * *documenting their creative process, including use of analysis and evaluation strategies, in reflective records*
-* **Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)
+* <span class="light">**Media 9-10**: Experiment with ideas and stories that manipulate media conventions and genres to construct new and alternative points of view through images, sounds and text (ACAMAM073)</span>
   * *constructing characters for a computer game that appeals to diverse audiences and who use it for different purposes*
-* **Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)
+* <span class="light">**Media 9-10**: Evaluate how technical and symbolic elements are manipulated in media artworks to create and challenge representations framed by media conventions, social beliefs and values for a range of audiences (ACAMAR078)</span>
   * *discussing film work they have made and viewed to identify and explain how technical and symbolic elements, such as camera techniques, editing, sound rhythm and mise-en-scène, evoke a personal response such as excitement or fear, or convey an issue or idea such as differing opinions about climate change*
-* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* <span class="light">**Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)</span>
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
- (ACAMUM102)
+* <span class="light">**Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+ (ACAMUM102)</span>
   * *combining and manipulating the elements of music using repetition, variation and contrast to shape compositions*
   * *composing and arranging music using the elements of music to communicate style and genre, and considering contemporary Australian styles and emerging genres such as Aboriginal hip hop and mash up and classical fusion of instrumentation such as symphonic orchestra and didgeridoo*
   * *exploring and manipulating combinations of electronic and acoustic sounds to create new works, using technology as a composition tool and sound source*
-* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* <span class="light">**Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)</span>
   * *developing an individual focus for a series of artworks based on a given theme, concept or subject matter*
   * *being imaginative when applying a personal aesthetic, for example, when planning to manipulate and/or appropriate images, objects and spaces into new contexts and meanings*
-* **Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)
+* <span class="light">**Visual 9-10**: Evaluate how representations communicate artistic intentions in artworks they make and view to inform their future art making (ACAVAR130)</span>
   * *experimenting with, reflecting on and refining the connections in their own work between viewpoints, materials, techniques, technologies practices and processes*
-* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* <span class="light">**Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)</span>
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* <span class="light">**D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)</span>
   * *evaluating design and technology professions and their contributions to society locally, nationally, regionally and globally, for example Aboriginal designers collaborating with international craftspeople for local enterprises*
-* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* <span class="light">**D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)</span>
   * *examining relationships of properties for complementary materials for products, for example examining compressive and tensile strengths of materials*
   * *identifying appropriate tools, equipment, techniques and safety procedures for each process and evaluating production processes for accuracy, quality, safety and efficiency*
-* **DT 9-10**: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems (ACTDIK034)
+* <span class="light">**DT 9-10**: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems (ACTDIK034)</span>
   * *explaining how an operating system manages the relationship between hardware, applications and system software*
   * *explaining the role of hardware and software components in allowing people to interact with digital systems, for example using a mouse or touch pad or screen, speech, accelerometer*
   * *explaining encryption of data as a means of protecting data, for example secret keys and ‘exclusive or’ (XOR) and hashing algorithms to digitally sign data*
-* **DT 9-10**: Analyse simple compression of data and how content data are separated from presentation (ACTDIK035)
+* <span class="light">**DT 9-10**: Analyse simple compression of data and how content data are separated from presentation (ACTDIK035)</span>
   * *explaining how simple compression schemes reduce the size of repetitive data, for example how run length encoding reduces the size of images*
   * *explaining the difference between lossy and lossless compression, for example the difference between JPEG and PNG images*
   * *explaining codecs for audio-visual compression, for example common codecs for video formats*
-* **DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
- (ACTDIP037)
+* <span class="light">**DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
+ (ACTDIP037)</span>
   * *using visualisation software tools to identify patterns and relationships between sets of data and information, and support abstract reasoning, for example representing data using histograms, network diagrams and maps*
   * *summarising data using advanced filtering and grouping techniques, for example pivot tables in spreadsheets and aggregation functions in databases*
-* **HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)
+* <span class="light">**HPE 9-10**: Plan, rehearse and evaluate options (including CPR and first aid) for managing situations where their own or others’ health, safety and wellbeing may be at short or long term risk (ACPPS091)</span>
   * *critiquing the appropriateness and effectiveness of help and support services available for young people in the local community*
-* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* <span class="light">**HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)</span>
   * *critiquing images and messages in the media that portray what it means to have a good time and be fun to be around, and evaluating how these images can be interpreted*
-* **HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)
+* <span class="light">**HPE 9-10**: Critique behaviours and contextual factors that influence health and wellbeing of diverse communities (ACPPS098)</span>
   * *critically analysing messages about being male or female in popular culture and considering the impact these might have on individual and community health and wellbeing*
   * *critiquing media representations of diverse people and analysing what makes (or could make) the representations inclusive*
-* **HPE 9-10**: Design, implement and evaluate personalised plans for improving or maintaining their own and others’ physical activity and fitness levels (ACPMP102)
+* <span class="light">**HPE 9-10**: Design, implement and evaluate personalised plans for improving or maintaining their own and others’ physical activity and fitness levels (ACPMP102)</span>
   * *using ICT to design, implement and monitor a personal fitness plan which includes a timeframe, goals and a variety of specific activities that meet the needs of different people*
   * *justifying the selection of physical activities included in a personalised plan linked to the components of health- and skill-related fitness they wish to improve or maintain*
   * *using non-specialised equipment to develop health- or skill-related fitness circuits that can be used by family or community members*
-* **HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)
+* <span class="light">**HPE 9-10**: Devise, implement and refine strategies demonstrating leadership and collaboration skills when working in groups or teams (ACPMP105)</span>
   * *evaluating the contribution they make as an individual to teamwork, leadership and enjoyable participation for all*
   * *identifying and critiquing leadership styles and group/team dynamics through collaboratively solving initiative games*
-* **HPE 9-10**: Transfer understanding from previous movement experiences to create solutions to movement challenges
- (ACPMP106)
+* <span class="light">**HPE 9-10**: Transfer understanding from previous movement experiences to create solutions to movement challenges
+ (ACPMP106)</span>
   * *drawing parallels between successful movement strategies in one sporting situation and how similar strategies could be used effectively in a different sport*
-* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* <span class="light">**HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)</span>
   * *responding to teacher and peer feedback to enhance performance*
-* **Hist 9**: The emergence and nature of key ideas in the period, with a particular focus on ONE of the following: capitalism, socialism, egalitarianism, nationalism, imperialism, Darwinism, Chartism (ACDSEH019)
+* <span class="light">**Hist 9**: The emergence and nature of key ideas in the period, with a particular focus on ONE of the following: capitalism, socialism, egalitarianism, nationalism, imperialism, Darwinism, Chartism (ACDSEH019)</span>
   * *explaining why an idea emerged and the basis of that idea (for example, egalitarianism — being judged on merit rather than by birth or past deeds)*
-* **Hist 9**: The influence of the Industrial Revolution on the movement of peoples throughout the world, including the transatlantic slave trade and convict transportation (ACDSEH018)
+* <span class="light">**Hist 9**: The influence of the Industrial Revolution on the movement of peoples throughout the world, including the transatlantic slave trade and convict transportation (ACDSEH018)</span>
   * *explaining the role of the Industrial Revolution in creating a growing need for labour and transportation*
-* **Hist 9**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)
+* <span class="light">**Hist 9**: The short and long-term impacts of the movement of peoples during this period (ACDSEH085)</span>
   * *evaluating the effects of the movement of peoples on the indigenous and immigrant populations*
-* **Hist 9**: The extension of settlement, including the effects of contact (intended and unintended) between European settlers in Australia and Aboriginal and Torres Strait Islander Peoples (ACDSEH020)
+* <span class="light">**Hist 9**: The extension of settlement, including the effects of contact (intended and unintended) between European settlers in Australia and Aboriginal and Torres Strait Islander Peoples (ACDSEH020)</span>
   * *explaining the effects of contact (for example, the massacres of Aboriginal and Torres Strait Islander people; their killing of sheep; the spread of European diseases) and categorising these effects as either intended or unintended*
-* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* <span class="light">**Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)</span>
   * *explaining the treatment of people of German descent during the war (for example, their classification as ‘enemy aliens’ and placement in internment camps, as well as their depiction in government propaganda)*
-* **Hist 9**: Identify and select different kinds of questions about the past to inform historical inquiry
- (ACHHS166)
+* <span class="light">**Hist 9**: Identify and select different kinds of questions about the past to inform historical inquiry
+ (ACHHS166)</span>
   * *assembling, as part of the planning process, a range of sources that would be useful for researching the causes of World War I*
-* **Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)
+* <span class="light">**Hist 9**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS174)</span>
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view with consistent reference to the evidence available*
-* **Hist 9**: Use historical terms and concepts (ACHHS165)
+* <span class="light">**Hist 9**: Use historical terms and concepts (ACHHS165)</span>
   * *defining and using concepts such as ‘imperialism’, ‘nationalism’, ‘evolution’, ‘evidence’*
-* **Hist 9**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS175)
+* <span class="light">**Hist 9**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS175)</span>
   * *using online conferencing and other forms of ICT to discuss historical questions and issues*
   * *creating a travel brochure (incorporating written text and graphics) to advertise the achievements and opportunities available to an immigrant to nineteenth-century Brisbane*
-* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* <span class="light">**Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)</span>
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist 10**: The significance of World War II to Australia’s international relationships in the twentieth century, with particular reference to the United Nations, Britain, the USA and Asia
- (ACDSEH110)
+* <span class="light">**Hist 10**: The significance of World War II to Australia’s international relationships in the twentieth century, with particular reference to the United Nations, Britain, the USA and Asia
+ (ACDSEH110)</span>
   * *evaluating the impact of World War II on the emergence of the United States as a major world power and on Australia’s alliance with the US (for example, the threat of Japan)*
-* **Hist 10**: Methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander Peoples, and the role of ONE individual or group in the struggle (ACDSEH134)
+* <span class="light">**Hist 10**: Methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander Peoples, and the role of ONE individual or group in the struggle (ACDSEH134)</span>
   * *investigating the role of Charles Perkins in the Freedom Ride of 1965 and the efficacy of television in bringing the struggle for rights and freedoms to national attention*
-* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* <span class="light">**Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)</span>
   * *investigating the legacy of children’s experiences in ‘care’ (their placement in orphanages, Children’s Homes, foster care and other forms of out-of-home care), and the significance of the United Nations Convention on the Rights of the Child (1990)*
-* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* <span class="light">**Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)</span>
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
-* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* <span class="light">**Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)</span>
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* <span class="light">**Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)</span>
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* <span class="light">**Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)</span>
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* <span class="light">**Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)</span>
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* <span class="light">**Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)</span>
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
-* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* <span class="light">**Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)</span>
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist 10**: Identify and select different kinds of questions about the past to inform historical inquiry
- (ACHHS184)
+* <span class="light">**Hist 10**: Identify and select different kinds of questions about the past to inform historical inquiry
+ (ACHHS184)</span>
   * *identifying, planning and investigating (individually and as part of a team) specific historical questions or issues*
-* **Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)
+* <span class="light">**Hist 10**: Develop texts, particularly descriptions and discussions that use evidence from a range of sources that are referenced (ACHHS192)</span>
   * *developing a historical argument that identifies different possibilities in interpretation and argues a particular point of view, with consistent and specific reference to the evidence available*
-* **Hist 10**: Use historical terms and concepts (ACHHS183)
+* <span class="light">**Hist 10**: Use historical terms and concepts (ACHHS183)</span>
   * *defining and using terms and concepts such as ‘liberation’, ‘human rights’, ‘popular culture’ and ‘contestability’*
-* **Geo 9**: The perceptions people have of place, and how these influence their connections to different places (ACHGK065)
+* <span class="light">**Geo 9**: The perceptions people have of place, and how these influence their connections to different places (ACHGK065)</span>
   * *comparing students' perceptions and use of places and spaces in their local area, particularly at different times of day, between males and females, different age groups, people with and without disability, and people from diverse cultures including Indigenous and non-Indigenous peoples, and reflecting on the differences*
-* **Geo 9**: The effects of the production and consumption of goods on places and environments throughout the world and including a country from North-East Asia (ACHGK068)
+* <span class="light">**Geo 9**: The effects of the production and consumption of goods on places and environments throughout the world and including a country from North-East Asia (ACHGK068)</span>
   * *evaluating the effects of international demand for food products on biodiversity throughout the world, in the places of their production*
-* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* <span class="light">**Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)</span>
   * *discussing the effects of people's cultural and leisure choices on towns and cities (for example, predicting how changing choices may affect these and other places in the future)*
-* **Geo 9**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)
+* <span class="light">**Geo 9**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS070)</span>
   * *presenting an oral response, supported by visual aids including maps, to communicate a reasoned argument about a contemporary geographical issue, and responding to questions*
-* **Geo 10**: Human-induced environmental changes that challenge sustainability
- (ACHGK070)
+* <span class="light">**Geo 10**: Human-induced environmental changes that challenge sustainability
+ (ACHGK070)</span>
   * *discussing the concept of sustainability in relation to environmental functions*
-* **Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)
+* <span class="light">**Geo 10**: Environmental world views of people and their implications for environmental management (ACHGK071)</span>
   * *comparing the differences in people’s views about the causes of environmental issues in Australia and across the world*
   * *discussing whether environmental change is necessarily a problem that should be managed and explaining people’s choices of methods for managing or responding to environmental changes*
-* **Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
+* <span class="light">**Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)</span>
   * *describing the nature of the environmental change and its effect on the sustainability of environmental functions*
-* **Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)
+* <span class="light">**Geo 10**: The application of geographical concepts and methods to the management of the environmental change being investigated (ACHGK074)</span>
   * *discussing the influence of people’s world views on programs for the management of the environmental change being investigated*
   * *proposing geographical management strategies for the environmental change being investigated (for example, establishing reserves and corridors to preserve biodiversity (a spatial strategy), ecosystem-based management (an environmental strategy), urban planning to reduce energy consumption (a spatial strategy), and addressing underlying as well as immediate causes of environmental change (holistic thinking))*
   * *comparing strategies in Australia and another country to manage the environmental change being investigated*
-* **Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)
+* <span class="light">**Geo 10**: The application of environmental economic and social criteria in evaluating management responses to the change (ACHGK075)</span>
   * *discussing the extent to which achieving sustainability in one place should take account of the effects on environmental conditions in other places in the context of the environmental change being investigated*
   * *debating the practical and ethical dilemmas of national and international conservation programs aimed at the environmental change being investigated*
-* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* <span class="light">**Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)</span>
   * *examining a national, state or community program to reduce regional inequalities in wellbeing in a country (for example, India)*
   * *discussing the objectives and outcomes of an Australian Government overseas economic and social development program or a non-government overseas aid program in a specific country or region within a country*
-* **Geo 10**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS079)
+* <span class="light">**Geo 10**: Present findings, arguments and explanations in a range of appropriate communication forms, selected for their effectiveness and to suit audience and purpose; using relevant geographical terminology, and digital technologies as appropriate (ACHGS079)</span>
   * *constructing a logical argument, supported by evidence (for example, accounting for observed patterns in wellbeing at the local, national and global scales), and responding to questions*
-* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* <span class="light">**E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)</span>
   * *using strategies to determine the reliability of information collected (for example, taking into account the author, purpose, audience, medium)*
-* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* <span class="light">**E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)</span>
   * *discussing the responsibilities of government in improving the conditions of workers (for example, work health and safety, equal employment opportunity, anti-discrimination laws)*
-* **E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)
+* <span class="light">**E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)</span>
   * *representing data and information in a format to aid interpretation and analysis (for example, providing a timeline of events and/or providing a graph showing changes in data)*
 
 ### Reflect on processes
@@ -5072,37 +5101,37 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 1**: Understand the use of vocabulary in everyday contexts as well as a growing number of school contexts, including appropriate use of formal and informal terms of address in different contexts (ACELA1454)
+* <span class="light">**English 1**: Understand the use of vocabulary in everyday contexts as well as a growing number of school contexts, including appropriate use of formal and informal terms of address in different contexts (ACELA1454)</span>
   * *learning forms of address for visitors and how to use language appropriately to ask directions and for information, for example on excursions*
-* **English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)
+* <span class="light">**English 1**: Read decodable and predictable texts using developing phrasing, fluency, contextual, semantic, grammatical and phonic knowledge and emerging text processing strategies, for example prediction, monitoring meaning and re-reading (ACELY1659)</span>
   * *self-correcting when reading does not make sense, using pictures, context, meaning, phonics and grammatical knowledge*
-* **Maths 1**: Identify outcomes of familiar events involving chance and describe them using everyday language such as ‘will happen’, ‘won’t happen’ or ‘might happen’ (ACMSP024)
+* <span class="light">**Maths 1**: Identify outcomes of familiar events involving chance and describe them using everyday language such as ‘will happen’, ‘won’t happen’ or ‘might happen’ (ACMSP024)</span>
   * *justifying that some events are certain or impossible*
-* **Science 1**: Participate in guided investigations to explore and answer questions (ACSIS025)
+* <span class="light">**Science 1**: Participate in guided investigations to explore and answer questions (ACSIS025)</span>
   * *exploring different ways of solving science questions through guided discussion*
-* **Science 1**: Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions (ACSIS027)
+* <span class="light">**Science 1**: Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions (ACSIS027)</span>
   * *exploring ways of recording and sharing information through class discussion*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *manipulating objects, puppets, 2D images and available technologies to create stories*
-* **Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)
+* <span class="light">**Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)</span>
   * *experimenting with image, for example, retelling a story of the school day in a series of captioned images*
   * *experimenting with technologies to capture images, sounds and text*
   * *exploring composition by selecting and editing images and/or sounds to create the characters in well-known stories or songs*
-* **Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)
+* <span class="light">**Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)</span>
   * *experimenting with and managing a digital camera to capture still or moving images, for example, reviewing captured images, zooming in and out and deleting unwanted images*
   * *experimenting with sound recording technology and found objects to create and record sound effects to support a story*
   * *trialling the selection and arrangement of images, sounds and text to organise important features of an idea or story*
-* **D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)
+* <span class="light">**D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)</span>
   * *recording a judgement about design ideas with teacher guidance, for example expressing own likes and dislikes about a design idea*
   * *describing how design ideas meet the needs of those who will use the solution*
-* **D&T F-2**: Use personal preferences to evaluate the success of design ideas, processes and solutions including their care for environment
- (ACTDEP008)
+* <span class="light">**D&T F-2**: Use personal preferences to evaluate the success of design ideas, processes and solutions including their care for environment
+ (ACTDEP008)</span>
   * *recording a judgement about design ideas with teacher guidance, for example expressing own likes and dislikes about a design idea*
   * *reflecting on the processes and challenges of designing and producing a solution and sharing these reflections using digital technologies, for example when growing a food product, designing a structure to take a load or making a nutritious snack*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *assembling components of systems and checking they function as planned, for example when making a musical instrument*
-* **DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)
+* <span class="light">**DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)</span>
   * *creating different patterns using the same elements, for example using patterns of coloured counters to communicate and give meaning such as a response of ‘yes’ or ‘no’*
 
 #### **Level 3**: identify pertinent information in an investigation and separate into smaller parts or ideas
@@ -5184,74 +5213,74 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 4**: Understand, interpret and experiment with a range of devices and deliberate word play in poetry and other literary texts, for example nonsense words, spoonerisms, neologisms and puns (ACELT1606)
+* <span class="light">**English 4**: Understand, interpret and experiment with a range of devices and deliberate word play in poetry and other literary texts, for example nonsense words, spoonerisms, neologisms and puns (ACELT1606)</span>
   * *discussing poetic language, including unusual adjectival use and how it engages us emotionally and brings to life the poet’s subject matter, for example ‘He grasps the crag with crooked hands’ (Alfred, Lord Tennyson); ‘Wee ... tim’rous beastie’ (Robert Burns)*
-* **English 4**: Interpret ideas and information in spoken texts and listen for key points in order to carry out tasks and use information to share and extend ideas and information (ACELY1687)
+* <span class="light">**English 4**: Interpret ideas and information in spoken texts and listen for key points in order to carry out tasks and use information to share and extend ideas and information (ACELY1687)</span>
   * *discussing levels of language — slang, colloquial (everyday) and formal language — and how their appropriateness changes with the situation and audience. Presenting ideas and opinions at levels of formality appropriate to the context and audience*
-* **Science 3**: With guidance, plan and conduct scientific investigations to find answers to questions, considering the safe use of appropriate materials and equipment (ACSIS054)
+* <span class="light">**Science 3**: With guidance, plan and conduct scientific investigations to find answers to questions, considering the safe use of appropriate materials and equipment (ACSIS054)</span>
   * *working with teacher guidance to plan investigations to test simple cause-and-effect relationships*
   * *discussing as a whole class ways to investigate questions and evaluating which ways might be most successful*
-* **Science 3**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS057)
+* <span class="light">**Science 3**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS057)</span>
   * *discussing how to graph data presented in a table*
-* **Science 3**: Compare results with predictions, suggesting possible reasons for findings (ACSIS215)
+* <span class="light">**Science 3**: Compare results with predictions, suggesting possible reasons for findings (ACSIS215)</span>
   * *discussing how well predictions matched results from an investigation and sharing ideas about what was learnt*
-* **Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)
+* <span class="light">**Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)</span>
   * *communicating with other students carrying out similar investigations to share experiences and improve investigation skill*
-* **Science 4**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS068)
+* <span class="light">**Science 4**: Use a range of methods including tables and simple column graphs to represent data and to identify patterns and trends (ACSIS068)</span>
   * *discussing with teacher guidance which graphic organisers will be most useful in sorting or organising data arising from investigations*
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *recognising the elements of a fair test and using these when planning the steps and processes of an investigation*
-* **Science 4**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS071)
+* <span class="light">**Science 4**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS071)</span>
   * *communicating with other students carrying out similar investigations to share experiences and improve investigation skills*
-* **HASS 3**: How the community has changed and remained the same over time and the role that people of diverse backgrounds have played in the development and character of the local community (ACHASSK063)
+* <span class="light">**HASS 3**: How the community has changed and remained the same over time and the role that people of diverse backgrounds have played in the development and character of the local community (ACHASSK063)</span>
   * *identifying individuals and groups from the past of diverse backgrounds (for example, gender, culture, ability, age, socioeconomic circumstance) who have contributed to the community’s development (for example, economic, social, cultural, civic or environmental contributions) and character (for example, culturally diverse, multi-faith, prosperous, helpful)*
-* **HASS 3**: The similarities and differences between places in terms of their type of settlement, demographic characteristics and the lives of the people who live there, and people’s perceptions of these places (ACHASSK069)
+* <span class="light">**HASS 3**: The similarities and differences between places in terms of their type of settlement, demographic characteristics and the lives of the people who live there, and people’s perceptions of these places (ACHASSK069)</span>
   * *exploring different types of settlement, and classifying them into hierarchical categories (for example, isolated dwellings, outstations, villages, towns, regional centres and large cities)*
   * *examining the similarities and differences between their daily lives and those of people in another place in Australia or neighbouring country, and inferring what it would be like to live in these places*
-* **HASS 4**: Record, sort and represent data and the location of places and their characteristics in different formats, including simple graphs, tables and maps, using discipline-appropriate conventions
- (ACHASSI075)
+* <span class="light">**HASS 4**: Record, sort and represent data and the location of places and their characteristics in different formats, including simple graphs, tables and maps, using discipline-appropriate conventions
+ (ACHASSI075)</span>
   * *annotating maps using the appropriate cartographic conventions including map symbols, scale and north point to show places and their features, in Australia, and in selected countries of Africa and South America*
-* **HASS 4**: Examine information to identify different points of view and distinguish facts from opinions (ACHASSI077)
+* <span class="light">**HASS 4**: Examine information to identify different points of view and distinguish facts from opinions (ACHASSI077)</span>
   * *identifying stereotypes presented in texts and pictures, such as generalisations about gender roles, and talking about who is advantaged by stereotypes and who is disadvantaged*
-* **HASS 4**: The importance of environments, including natural vegetation, to animals and people (ACHASSK088)
+* <span class="light">**HASS 4**: The importance of environments, including natural vegetation, to animals and people (ACHASSK088)</span>
   * *explaining how people’s connections with their environment can also be aesthetic, emotional and spiritual*
   * *explaining the significance of vegetation endemic in the local area to survival of Aboriginal and/or Torres Strait Islander Peoples (for example, as a source of food, shelter, medicine, tools and weapons)*
-* **Dance 3-4**: Identify how the elements of dance and production elements express ideas in dance they make, perform and experience as audience, including exploration of Aboriginal and Torres Strait Islander dance (ACADAR008)
+* <span class="light">**Dance 3-4**: Identify how the elements of dance and production elements express ideas in dance they make, perform and experience as audience, including exploration of Aboriginal and Torres Strait Islander dance (ACADAR008)</span>
   * *examining dances in their community and comparing them to other dances of different peoples, times and cultures*
-* **Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)
+* <span class="light">**Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)</span>
   * *experimenting with tension, and creating dramatic meaning to sustain improvisations and process dramas*
-* **Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)
+* <span class="light">**Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)</span>
   * *experimenting with the camera and framing the subject, using basic shot types, angles and lighting to control picture space*
   * *experimenting with applying text to accompany still or moving images, such as credits in a title sequence, and selecting appropriate fonts, colour and length of time for display suitable to the purpose of the artwork*
   * *experimenting with ways of formatting and laying out a story using available software and appropriate text conventions for a front page news story*
-* **Music 3-4**: Create, perform and record compositions by selecting and organising sounds, silence, tempo and volume (ACAMUM086)
+* <span class="light">**Music 3-4**: Create, perform and record compositions by selecting and organising sounds, silence, tempo and volume (ACAMUM086)</span>
   * *experimenting with ways of using voices and instruments, combining sounds, silence, tempo and volume to create and perform music*
-* **Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)
+* <span class="light">**Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)</span>
   * *experimenting with ways of singing and playing expressively, such as learning and practising a song with different dynamics and tempo*
-* **Visual 3-4**: Explore ideas and artworks from different cultures and times, including artwork by Aboriginal and Torres Strait Islander artists, to use as inspiration for their own representations (ACAVAM110)
+* <span class="light">**Visual 3-4**: Explore ideas and artworks from different cultures and times, including artwork by Aboriginal and Torres Strait Islander artists, to use as inspiration for their own representations (ACAVAM110)</span>
   * *researching artworks of different styles and artists from different times and cultures to inspire their own representations in forms such as printmaking and drawing, and styles such as realistic or expressive*
-* **D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)
+* <span class="light">**D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)</span>
   * *investigating materials, components, tools and equipment, including by using digital technologies, to discover their characteristics and properties, how they can be used more sustainably and their impact in the future*
-* **D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
- (ACTDEP017)
+* <span class="light">**D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
+ (ACTDEP017)</span>
   * *evaluating, revising and selecting design ideas, based on criteria for success and including consideration of ethics, social values and sustainability*
   * *reflecting on the sustainability implications of selected designed solutions*
   * *reflecting on designed solutions to critique and assess suitability, sustainability and enterprise opportunities and determine how well they meet success criteria*
-* **DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)
+* <span class="light">**DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)</span>
   * *investigating how information systems are used in communities and explaining what needs are being met, for example students jointly creating a short survey and collecting data about how many community residents use the online library borrowing system to download e-books and why they do or do not*
   * *testing the adequacy of student solutions, for example asking a classmate to review a digital solution and provide feedback*
-* **DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
- (ACTDIP013)
+* <span class="light">**DT 3-4**: Plan, create and communicate ideas and information independently and with others, applying agreed ethical and social protocols
+ (ACTDIP013)</span>
   * *considering ways of managing the use of social media to maintain privacy needs, for example activating privacy settings to avoid divulging personal data such as photographs, addresses, and names and recognising that all digital interactions are difficult to erase (digital footprints)*
-* **HPE 3-4**: Describe and apply strategies that can be used in situations that make them feel uncomfortable or unsafe (ACPPS035)
+* <span class="light">**HPE 3-4**: Describe and apply strategies that can be used in situations that make them feel uncomfortable or unsafe (ACPPS035)</span>
   * *examining protective behaviours to stay safe in different situations, including near water or roads, in the park or when someone makes them feel uncomfortable or unsafe*
-* **HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)
+* <span class="light">**HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)</span>
   * *creating an online connection with another school and identifying similarities and differences between students*
   * *predicting and reflecting on how other students might feel in a range of challenging situations, and discussing what they can do to support them*
-* **HPE 3-4**: Participate in outdoor games and activities to examine how participation promotes a connection between the community, natural and built environments, and health and wellbeing
- (ACPPS041)
+* <span class="light">**HPE 3-4**: Participate in outdoor games and activities to examine how participation promotes a connection between the community, natural and built environments, and health and wellbeing
+ (ACPPS041)</span>
   * *participating in physical activities in natural environments in the local area and reflecting on the enjoyable components of participation*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *participating in physical activities which require problem-solving to achieve a goal*
 
 #### **Level 4**: identify and justify the thinking behind choices they have made
@@ -5374,122 +5403,122 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 5**: Create literary texts using realistic and fantasy settings and characters that draw on the worlds represented in texts students have experienced (ACELT1612)
+* <span class="light">**English 5**: Create literary texts using realistic and fantasy settings and characters that draw on the worlds represented in texts students have experienced (ACELT1612)</span>
   * *using texts with computer-based graphics, animation and 2D qualities, consider how and why particular traits for a character have been chosen*
-* **English 5**: Clarify understanding of content as it unfolds in formal and informal situations, connecting ideas to students’ own experiences and present and justify a point of view
- (ACELY1699)
+* <span class="light">**English 5**: Clarify understanding of content as it unfolds in formal and informal situations, connecting ideas to students’ own experiences and present and justify a point of view
+ (ACELY1699)</span>
   * *asking specific questions to clarify a speaker’s meaning, making constructive comments that keep conversation moving, reviewing ideas expressed and conveying tentative conclusions*
-* **English 5**: Re-read and edit student’s own and others’ work using agreed criteria for text structures and language features
- (ACELY1705)
+* <span class="light">**English 5**: Re-read and edit student’s own and others’ work using agreed criteria for text structures and language features
+ (ACELY1705)</span>
   * *editing for flow and sense, organisation of ideas and choice of language, revising and trying new approaches if an element is not having the desired impact*
-* **English 5**: Understand that patterns of language interaction vary across social contexts and types of texts and that they help to signal social roles and relationships (ACELA1501)
+* <span class="light">**English 5**: Understand that patterns of language interaction vary across social contexts and types of texts and that they help to signal social roles and relationships (ACELA1501)</span>
   * *identifying ways in which cultures differ in making and responding to common requests, for example periods of silence, degrees of formality*
-* **English 5**: Understand how the grammatical category of possessives is signalled through apostrophes and how to use apostrophes with common and proper nouns (ACELA1506)
+* <span class="light">**English 5**: Understand how the grammatical category of possessives is signalled through apostrophes and how to use apostrophes with common and proper nouns (ACELA1506)</span>
   * *learning that in Standard Australian English regular plural nouns ending in ‘s’ form the possessive by adding just the apostrophe, for example ‘my parents' car’*
   * *learning that in Standard Australian English for proper nouns the regular possessive form is always possible but a variant form without the second ‘s’ is sometimes found, for example ‘James’s house’ or ‘James’ house’*
-* **English 5**: Understand how noun groups/phrases and adjective groups/phrases can be expanded in a variety of ways to provide a fuller description of the person, place, thing or idea (ACELA1508)
+* <span class="light">**English 5**: Understand how noun groups/phrases and adjective groups/phrases can be expanded in a variety of ways to provide a fuller description of the person, place, thing or idea (ACELA1508)</span>
   * *learning how to expand a description by combining a related set of nouns and adjectives – ‘Two old brown cattle dogs sat on the ruined front veranda of the deserted house’*
-* **English 5**: Explore less common plurals, and understand how a suffix changes the meaning or grammatical form of a word
- (ACELA1514)
+* <span class="light">**English 5**: Explore less common plurals, and understand how a suffix changes the meaning or grammatical form of a word
+ (ACELA1514)</span>
   * *Using knowledge of word origins and roots and related words to interpret and spell unfamiliar words, and learning about how these roots impact on plurals, for example ‘cactus’ and ‘cacti’, ‘louse’ and ‘lice’*
-* **English 5**: Recognise that ideas in literary texts can be conveyed from different viewpoints, which can lead to different kinds of interpretations and responses (ACELT1610)
+* <span class="light">**English 5**: Recognise that ideas in literary texts can be conveyed from different viewpoints, which can lead to different kinds of interpretations and responses (ACELT1610)</span>
   * *examining texts written from different narrative points of view and discussing what information the audience can access, how this impacts on the audience’s sympathies, and why an author might choose a particular narrative point of view*
   * *examining the narrative voice in texts from Aboriginal and Torres Strait Islander traditions, which include perspectives of animals and spirits, about how we should care for the Earth, for example reflecting on how this affects significance, interpretation and response*
-* **English 5**: Use interaction skills, for example paraphrasing, questioning and interpreting non-verbal cues and choose vocabulary and vocal effects appropriate for different audiences and purposes (ACELY1796)
+* <span class="light">**English 5**: Use interaction skills, for example paraphrasing, questioning and interpreting non-verbal cues and choose vocabulary and vocal effects appropriate for different audiences and purposes (ACELY1796)</span>
   * *experimenting with voice effects in formal presentations such as tone, volume, pitch and pace, recognising the effects these have on audience understanding*
-* **English 6**: Select, navigate and read texts for a range of purposes, applying appropriate text processing strategies and interpreting structural features, for example table of contents, glossary, chapters, headings and subheadings (ACELY1712)
+* <span class="light">**English 6**: Select, navigate and read texts for a range of purposes, applying appropriate text processing strategies and interpreting structural features, for example table of contents, glossary, chapters, headings and subheadings (ACELY1712)</span>
   * *using word identification, self-monitoring and self-correcting strategies*
   * *using research skills including identifying research purpose, locating texts, gathering and organising information, evaluating and using information*
-* **English 6**: Understand how authors often innovate on text structures and play with language features to achieve particular aesthetic, humorous and persuasive purposes and effects (ACELA1518)
+* <span class="light">**English 6**: Understand how authors often innovate on text structures and play with language features to achieve particular aesthetic, humorous and persuasive purposes and effects (ACELA1518)</span>
   * *examining different works by an author who specialises in humour or pathos to identify strategies such as exaggeration and character embarrassment to amuse and to offer insights into characters’ feelings, so building empathy with their points of view and concern for their welfare*
-* **English 6**: Use interaction skills, varying conventions of spoken interactions such as voice volume, tone, pitch and pace, according to group size, formality of interaction and needs and expertise of the audience
- (ACELY1816)
+* <span class="light">**English 6**: Use interaction skills, varying conventions of spoken interactions such as voice volume, tone, pitch and pace, according to group size, formality of interaction and needs and expertise of the audience
+ (ACELY1816)</span>
   * *experimenting with voice effects for different audiences and purposes, such as tone, volume, pitch and pace, recognising the effects these have on audience understanding and engagement*
-* **Maths 5**: Investigate strategies to solve problems involving addition and subtraction of fractions with the same denominator
- (ACMNA103)
+* <span class="light">**Maths 5**: Investigate strategies to solve problems involving addition and subtraction of fractions with the same denominator
+ (ACMNA103)</span>
   * *modelling and solving addition and subtraction problems involving fractions by using jumps on a number line, or making diagrams of fractions as parts of shapes*
-* **Maths 5**: Describe and interpret different data sets in context (ACMSP120)
+* <span class="light">**Maths 5**: Describe and interpret different data sets in context (ACMSP120)</span>
   * *using and comparing data representations for different data sets to help decision making*
-* **Maths 5**: List outcomes of chance experiments involving equally likely outcomes and represent probabilities of those outcomes using fractions (ACMSP116)
+* <span class="light">**Maths 5**: List outcomes of chance experiments involving equally likely outcomes and represent probabilities of those outcomes using fractions (ACMSP116)</span>
   * *commenting on the likelihood of winning simple games of chance by considering the number of possible outcomes and the consequent chance of winning in simple games of chance such as jan-ken-pon (rock-paper-scissors)*
-* **Maths 5**: Construct displays, including column graphs, dot plots and tables,  appropriate for data type, with and without the use of digital technologies (ACMSP119)
+* <span class="light">**Maths 5**: Construct displays, including column graphs, dot plots and tables,  appropriate for data type, with and without the use of digital technologies (ACMSP119)</span>
   * *identifying the best methods of presenting data to illustrate the results of investigations and justifying the choice of representations*
-* **Maths 6**: Investigate everyday situations that use integers. Locate and represent these numbers on a number line
- (ACMNA124)
+* <span class="light">**Maths 6**: Investigate everyday situations that use integers. Locate and represent these numbers on a number line
+ (ACMNA124)</span>
   * *understanding that integers are ...-3, -2, -1, 0, 1, 2, 3,.....*
-* **Science 5**: Compare data with predictions and use as evidence in developing explanations (ACSIS218)
+* <span class="light">**Science 5**: Compare data with predictions and use as evidence in developing explanations (ACSIS218)</span>
   * *sharing ideas as to whether observations match predictions, and discussing possible reasons for predictions being incorrect*
-* **Science 6**: Identify, plan and apply the elements of scientific investigations to answer questions and solve problems using equipment and materials safely and identifying potential risks (ACSIS103)
+* <span class="light">**Science 6**: Identify, plan and apply the elements of scientific investigations to answer questions and solve problems using equipment and materials safely and identifying potential risks (ACSIS103)</span>
   * *following a procedure to design an experimental or field investigation*
   * *discussing methods chosen with other students, and refining methods accordingly*
-* **Science 6**: Compare data with predictions and use as evidence in developing explanations (ACSIS221)
+* <span class="light">**Science 6**: Compare data with predictions and use as evidence in developing explanations (ACSIS221)</span>
   * *sharing ideas as to whether observations match predictions, and discussing possible reasons for predictions being incorrect*
-* **Science 6**: Reflect on and suggest improvements to scientific investigations (ACSIS108)
+* <span class="light">**Science 6**: Reflect on and suggest improvements to scientific investigations (ACSIS108)</span>
   * *discussing improvements to the methods used, and how these methods would improve the quality of the data obtained*
-* **Science 6**: Communicate ideas, explanations and processes using scientific representations in a variety of ways, including multi-modal texts (ACSIS110)
+* <span class="light">**Science 6**: Communicate ideas, explanations and processes using scientific representations in a variety of ways, including multi-modal texts (ACSIS110)</span>
   * *discussing the best way to communicate science ideas and what should be considered when planning a text*
-* **HASS 5**: Why regulations and laws are enforced and the personnel involved (ACHASSK117)
+* <span class="light">**HASS 5**: Why regulations and laws are enforced and the personnel involved (ACHASSK117)</span>
   * *categorising the different types of laws and regulations in their community and who enforces them (road laws – police; health laws – public health department; pollution laws – environmental protection officer)*
-* **HASS 6**: Stories of groups of people who migrated to Australia since Federation (including from ONE country of the Asia region) and reasons they migrated (ACHASSK136)
+* <span class="light">**HASS 6**: Stories of groups of people who migrated to Australia since Federation (including from ONE country of the Asia region) and reasons they migrated (ACHASSK136)</span>
   * *describing cultural practices related to family life, beliefs and customs of newly arrived migrant groups and comparing these with those of the communities in which they settled within Australia*
-* **Drama 5-6**: Explain how the elements of drama and production elements communicate meaning by comparing drama from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander drama (ACADRR038)
+* <span class="light">**Drama 5-6**: Explain how the elements of drama and production elements communicate meaning by comparing drama from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander drama (ACADRR038)</span>
   * *reviewing their own drama, outlining how they used elements of drama and narrative structures and the consequences of collaborative processes*
   * *identifying and discussing different performance styles and the portrayal of different roles and relationships in the drama*
   * *identifying the features of drama from other contexts, including investigating traditional and contemporary drama from Asia*
   * *understanding that the drama of Aboriginal and Torres Strait Islander Peoples is unique to the Country and/or Place of a particular group or groups, while also considering the protocols for particular performance styles and traditions such as Aboriginal and Torres Strait Islander customary practices*
-* **Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
- (ACADRM037)
+* <span class="light">**Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
+ (ACADRM037)</span>
   * *showing understanding of the purpose of rehearsing drama and the need for collaboration and group work*
   * *using props, costumes, instruments and available technologies such as light, sound and multimedia to create dramatic symbols and enhance dramatic action*
   * *planning and designing elements of their performance, for example, creating a stage design and interpreting diagrams and locations and using proximity and directional stage language in performance spaces during rehearsal*
-* **Media 5-6**: Explore representations, characterisations and points of view of people in their community, including themselves, using settings, ideas, story principles and genre conventions in images, sounds and text (ACAMAM062)
+* <span class="light">**Media 5-6**: Explore representations, characterisations and points of view of people in their community, including themselves, using settings, ideas, story principles and genre conventions in images, sounds and text (ACAMAM062)</span>
   * *applying the conventions of an established genre to an ordinary everyday event to create humour, for example, a visit to the library as an action movie or lunch as a sports commentary on the radio*
-* **Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)
+* <span class="light">**Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)</span>
   * *designing a storyboard that reflects a key scene in a sequence; for example, an opening scene of a film that shows the important camera angles, transitions, edits, voice and soundtrack*
   * *designing a navigational plan for a game, using multiple levels and obstacles; for example, creating and designing problems to be solved in order to progress to a new level*
-* **Media 5-6**: Explain how the elements of media arts and story principles communicate meaning by comparing media artworks from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander media artworks (ACAMAR065)
+* <span class="light">**Media 5-6**: Explain how the elements of media arts and story principles communicate meaning by comparing media artworks from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander media artworks (ACAMAR065)</span>
   * *researching and comparing historical and contemporary media representations and explaining how context influences the characters, stories and values portrayed in the media artworks; for example, comparing TV representations of family*
-* **Media 5-6**: Develop skills with media technologies to shape space, time, movement and lighting within images, sounds and text (ACAMAM063)
+* <span class="light">**Media 5-6**: Develop skills with media technologies to shape space, time, movement and lighting within images, sounds and text (ACAMAM063)</span>
   * *designing and creating an animated sequence that personifies inanimate objects and creates smooth action*
   * *identifying and applying the conventions  and layout of web page design to engage and interact with a particular audience*
   * *editing a chase sequence, adding music to heighten the action and tension*
-* **Music 5-6**: Explore dynamics and expression, using aural skills to identify and perform rhythm and pitch patterns (ACAMUM088)
+* <span class="light">**Music 5-6**: Explore dynamics and expression, using aural skills to identify and perform rhythm and pitch patterns (ACAMUM088)</span>
   * *experimenting with elements of music by improvising patterns, phrases and melodies*
   * *manipulating the timbre of a range of instruments and voices to create and vary mood or atmosphere*
   * *interpreting dynamics and expression in a range of notated music by singing, playing and improvising*
-* **Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
- (ACAMUM090)
+* <span class="light">**Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
+ (ACAMUM090)</span>
   * *improvising and experimenting with combinations of sounds and technologies to create moods and atmospheres*
   * *organising, developing and refining ideas by experimenting with structure*
-* **Music 5-6**: Develop technical and expressive skills in singing and playing instruments with understanding of rhythm, pitch and form in a range of pieces, including in music from the community (ACAMUM089)
+* <span class="light">**Music 5-6**: Develop technical and expressive skills in singing and playing instruments with understanding of rhythm, pitch and form in a range of pieces, including in music from the community (ACAMUM089)</span>
   * *rehearsing and refining performances in an expressive manner to communicate meaning, for example, songs from the community*
-* **Visual 5-6**: Explore ideas and practices used by artists, including practices of Aboriginal and Torres Strait Islander artists, to represent different views, beliefs and opinions (ACAVAM114)
+* <span class="light">**Visual 5-6**: Explore ideas and practices used by artists, including practices of Aboriginal and Torres Strait Islander artists, to represent different views, beliefs and opinions (ACAVAM114)</span>
   * *selecting and manipulating combinations of materials and techniques*
   * *trialling different ways to represent views, beliefs or opinions in their artworks in response to exploration of how artists communicate their views, beliefs and opinions through art*
   * *making aesthetic choices about representation and being able to explain their choices describing the visual conventions and processes*
-* **Visual 5-6**: Explain how visual arts conventions communicate meaning by comparing artworks from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander artworks (ACAVAR117)
+* <span class="light">**Visual 5-6**: Explain how visual arts conventions communicate meaning by comparing artworks from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander artworks (ACAVAR117)</span>
   * *making discerning judgements about how they work as an artist, and what and why they design and create, using appropriate visual conventions, for example, a sculpture that expresses movement*
   * *analysing how symbolic meaning or metaphor is constructed in their own artworks and artworks of others*
-* **Visual 5-6**: Develop and apply techniques and processes when making their artworks (ACAVAM115)
+* <span class="light">**Visual 5-6**: Develop and apply techniques and processes when making their artworks (ACAVAM115)</span>
   * *making informed choices about using various combinations of representational elements appropriate for a concept, theme or subject matter, for example, combining realistic drawing skills with an appropriated image from the past to create new meaning*
   * *explaining influences of other artists on their own art making*
   * *evaluating the characteristics of their work that are more successful, and work to improve their knowledge and skills from this reflection*
-* **D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)
+* <span class="light">**D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)</span>
   * *investigating designed solutions from around the world to make suitable, quality decisions that meet the design brief, challenge or scenario*
   * *investigating how to minimise material use and manage waste by critiquing the environmental and social impacts of materials, components, tools and equipment*
-* **D&T 5-6**: Negotiate criteria for success that include sustainability to evaluate design ideas, processes and solutions (ACTDEP027)
+* <span class="light">**D&T 5-6**: Negotiate criteria for success that include sustainability to evaluate design ideas, processes and solutions (ACTDEP027)</span>
   * *evaluating the suitability of materials, tools and equipment for specific purposes*
   * *reflecting on how well their designed solutions ensure safety and wellbeing of users and consumers and meet the needs of communities and different cultures*
   * *evaluating products, services and environments from a range of technologies contexts with consideration of ethics and sustainability*
-* **D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)
+* <span class="light">**D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)</span>
   * *reflecting on planned steps to see if improvements can be made*
-* **DT 5-6**: Define problems in terms of data and functional requirements drawing on previously solved problems (ACTDIP017)
+* <span class="light">**DT 5-6**: Define problems in terms of data and functional requirements drawing on previously solved problems (ACTDIP017)</span>
   * *investigating characteristics of user interfaces that are common for particular types of problems, for example, touch screens – many people respond more intuitively than when using a keyboard or stylus; and the consistent placement of symbols helps with performing actions that require speed, for example in games*
-* **HPE 5-6**: Examine how identities are influenced by people and places (ACPPS051)
+* <span class="light">**HPE 5-6**: Examine how identities are influenced by people and places (ACPPS051)</span>
   * *investigating how personal and cultural identities are influenced by the groups and communities to which we belong and the places to which we feel connected*
-* **HPE 5-6**: Recognise how media and important people in the community influence personal attitudes, beliefs, decisions and behaviours (ACPPS057)
+* <span class="light">**HPE 5-6**: Recognise how media and important people in the community influence personal attitudes, beliefs, decisions and behaviours (ACPPS057)</span>
   * *examining how media and public identities influence the way people act and the choices they make*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *designing a sequence of passes between teammates to maintain possession or move a piece of equipment from one point to another*
   * *experimenting with different music genres such as Indian bhangra music when performing creative dances*
 
@@ -5791,327 +5820,327 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 7**: Analyse and explain the effect of technological innovations on texts, particularly media texts
- (ACELY1765)
+* <span class="light">**English 7**: Analyse and explain the effect of technological innovations on texts, particularly media texts
+ (ACELY1765)</span>
   * *investigating the influence on written language of communicative technologies like SMS, text, email and Twitter*
-* **English 7**: Understand that the coherence of more complex texts relies on devices that signal text structure and guide readers, for example overviews, initial and concluding paragraphs and topic sentences, indexes or site maps or breadcrumb trails for online texts (ACELA1763)
+* <span class="light">**English 7**: Understand that the coherence of more complex texts relies on devices that signal text structure and guide readers, for example overviews, initial and concluding paragraphs and topic sentences, indexes or site maps or breadcrumb trails for online texts (ACELA1763)</span>
   * *analysing the structure of media texts such as television news items and broadcasts and various types of newspaper and magazine articles*
-* **English 8**: Recognise, explain and analyse the ways literary texts draw on readers’ knowledge of other texts and enable new understanding and appreciation of aesthetic qualities (ACELT1629)
+* <span class="light">**English 8**: Recognise, explain and analyse the ways literary texts draw on readers’ knowledge of other texts and enable new understanding and appreciation of aesthetic qualities (ACELT1629)</span>
   * *examining the language patterns, including sentence patterns, in a range of short texts and discussing the effect on readers’ interpretation of these choices*
   * *discussing, debating and assessing remakes of literary texts and their effectiveness and purpose*
-* **English 8**: Understand the effect of nominalisation in the writing of informative and persuasive texts (ACELA1546)
+* <span class="light">**English 8**: Understand the effect of nominalisation in the writing of informative and persuasive texts (ACELA1546)</span>
   * *analysing formal and persuasive texts to identify and explain language choices such as nominalisation*
-* **Maths 7**: Investigate index notation and represent whole numbers as products of powers of prime numbers (ACMNA149)
+* <span class="light">**Maths 7**: Investigate index notation and represent whole numbers as products of powers of prime numbers (ACMNA149)</span>
   * *solving problems involving lowest common multiples and greatest common divisors (highest common factors) for pairs of whole numbers by comparing their prime factorisation*
-* **Maths 7**: Express one quantity as a fraction of another, with and without the use of digital technologies (ACMNA155)
+* <span class="light">**Maths 7**: Express one quantity as a fraction of another, with and without the use of digital technologies (ACMNA155)</span>
   * *using authentic examples for the quantities to be expressed and understanding the reasons for the calculations*
-* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* <span class="light">**Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)</span>
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
-* **Maths 8**: Use index notation with numbers to establish the index laws with positive integral indices and the zero index (ACMNA182)
+* <span class="light">**Maths 8**: Use index notation with numbers to establish the index laws with positive integral indices and the zero index (ACMNA182)</span>
   * *evaluating numbers expressed as powers of positive integers*
-* **Maths 8**: Carry out the four operations with rational numbers and integers, using efficient mental and written strategies and appropriate digital technologies (ACMNA183)
+* <span class="light">**Maths 8**: Carry out the four operations with rational numbers and integers, using efficient mental and written strategies and appropriate digital technologies (ACMNA183)</span>
   * *using patterns to assist in finding rules for the multiplication and division of integers*
-* **Maths 8**: Investigate terminating and recurring decimals (ACMNA184)
+* <span class="light">**Maths 8**: Investigate terminating and recurring decimals (ACMNA184)</span>
   * *recognising terminating, recurring and non-terminating decimals and choosing their appropriate representations*
-* **Maths 8**: Develop the conditions for congruence of triangles (ACMMG201)
+* <span class="light">**Maths 8**: Develop the conditions for congruence of triangles (ACMMG201)</span>
   * *solving problems using the properties of congruent figures*
-* **Maths 8**: Investigate techniques for collecting data, including census, sampling and observation (ACMSP284)
+* <span class="light">**Maths 8**: Investigate techniques for collecting data, including census, sampling and observation (ACMSP284)</span>
   * *identifying situations where data can be collected by census and those where a sample is appropriate*
-* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* <span class="light">**Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)</span>
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Science 8**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS139)
+* <span class="light">**Science 8**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS139)</span>
   * *considering whether investigation using available resources is possible when identifying questions or problems to investigate*
-* **Dance 7-8**: Develop their choreographic intent by applying the elements of dance to select and organise movement
- (ACADAM014)
+* <span class="light">**Dance 7-8**: Develop their choreographic intent by applying the elements of dance to select and organise movement
+ (ACADAM014)</span>
   * *experimenting with different elements of dance to explore ideas about their choreographic intent*
   * *selecting movement from their improvisations that best communicates their choreographic intentions, for example, movement that communicates mood or emotion*
   * *exploring movement that may have symbolic meaning within a social or cultural context, for example, communicate a specific idea by developing a recurring movement idea (motif)*
-* **Dance 7-8**: Identify and connect specific features and purposes of dance from contemporary and past times to explore viewpoints and enrich their dance-making, starting with dance in Australia and including dance of Aboriginal and Torres Strait Islander Peoples (ACADAR019)
+* <span class="light">**Dance 7-8**: Identify and connect specific features and purposes of dance from contemporary and past times to explore viewpoints and enrich their dance-making, starting with dance in Australia and including dance of Aboriginal and Torres Strait Islander Peoples (ACADAR019)</span>
   * *identifying the distinguishing stylistic features of different dances and considering how this can inform their choreography*
   * *investigating the development of dance styles and the influence of histories, societies, cultures and environments*
   * *investigating the role of dance in transmitting cultural information, such as advocating change in relation to contemporary issues (for example, land degradation)*
-* **Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)
+* <span class="light">**Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)</span>
   * *analysing and practising technical skills used in dances from different cultures to develop and appreciate music used for dance and movements, and demonstrating an awareness of protocols*
-* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
+* <span class="light">**Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)</span>
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
   * *analysing and evaluating the structural choices made in their dance by documenting their process in records such as journals, blogs, and video or audio recording, securing permission where appropriate*
   * *reflecting on the creative process of choreography to clarify their choreographic intent and refine their dance*
   * *responding to feedback by changing the order and pattern of dance movement, phrases or sequences, using choreographic devices*
-* **Dance 7-8**: Rehearse and perform focusing on expressive skills appropriate to style and/or choreographic intent (ACADAM017)
+* <span class="light">**Dance 7-8**: Rehearse and perform focusing on expressive skills appropriate to style and/or choreographic intent (ACADAM017)</span>
   * *using evaluation and rehearsal strategies to enhance confidence, clarity of movement, projection, focus and musicality in performance*
   * *linking the application of the elements of dance to the communication of the choreographer’s intent in teacher-set dances*
   * *experimenting with alternative expressive skills to enhance performance presence and mood, such as facial expression changes in musical theatre*
   * *experimenting with representing social relationships through cultural dance*
-* **Drama 7-8**: Combine the elements of drama in devised and scripted drama to explore and develop issues, ideas and themes (ACADRM040)
+* <span class="light">**Drama 7-8**: Combine the elements of drama in devised and scripted drama to explore and develop issues, ideas and themes (ACADRM040)</span>
   * *investigating and researching starting points for drama, for example, using analysis of performance styles or evaluating their peers’ responses to questions about an issue or image*
   * *experimenting with linear and non-linear narrative to focus dramatic action and tension*
-* **Drama 7-8**: Develop roles and characters consistent with situation, dramatic forms and performance styles to convey status, relationships and intentions (ACADRM041)
+* <span class="light">**Drama 7-8**: Develop roles and characters consistent with situation, dramatic forms and performance styles to convey status, relationships and intentions (ACADRM041)</span>
   * *understanding human behaviour, emotions and empathy to convey roles and characters*
-* **Drama 7-8**: Plan, structure and rehearse drama, exploring ways to communicate and refine dramatic meaning for theatrical effect (ACADRM042)
+* <span class="light">**Drama 7-8**: Plan, structure and rehearse drama, exploring ways to communicate and refine dramatic meaning for theatrical effect (ACADRM042)</span>
   * *analysing and evaluating the structural choices made in their devised drama by documenting their process in records such as journals, blogs, and video or audio recording (with consent of participants)*
-* **Drama 7-8**: Identify and connect specific features and purposes of drama from contemporary and past times to explore viewpoints and enrich their drama making, starting with drama in Australia and including drama of Aboriginal and Torres Strait Islander Peoples (ACADRR046)
+* <span class="light">**Drama 7-8**: Identify and connect specific features and purposes of drama from contemporary and past times to explore viewpoints and enrich their drama making, starting with drama in Australia and including drama of Aboriginal and Torres Strait Islander Peoples (ACADRR046)</span>
   * *identifying the social, historical and cultural contexts of the forms and styles represented in their drama*
   * *describing the role of drama in different cultures and using this information when they plan their own drama*
-* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* <span class="light">**Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)</span>
   * *developing and refining vocal qualities of audibility, clarity and contrast through control of pace, pitch, dynamics and use of pause and silence*
   * *developing use of performance techniques and conventions  relevant to selected performance styles, for example, refining use of the body to communicate through movement and stillness, and through realistic and non-realistic movement; and exploring ways to transition between scenes*
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
   * *adapting facial expression, posture, gesture, movement and voice (including accent) to portray age, power and disposition in a specific performance style, such as contemporary Australian styles of Aboriginal and Torres Strait Islander dramatists*
   * *developing techniques to engage an audience, for example, by expressing and experiencing character relationships through vocal dynamics and tone, eye contact, proximity and space*
-* **Drama 7-8**: Perform devised and scripted drama maintaining commitment to role (ACADRM044)
+* <span class="light">**Drama 7-8**: Perform devised and scripted drama maintaining commitment to role (ACADRM044)</span>
   * *using audience feedback to enhance future performance, for example, adjusting performance based on audience responses to characters’ portrayal of emotions and empathy*
-* **Media 7-8**: Develop media representations to show familiar or shared social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM067)
+* <span class="light">**Media 7-8**: Develop media representations to show familiar or shared social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM067)</span>
   * *investigating viewpoints when making decisions about how they will represent a theme, concept or idea, and considering media conventions and genres*
   * *manipulating combinations of technical and symbolic elements (composition, time, space, sound, movement, lighting) to represent ideas and feelings in their media artworks*
-* **Media 7-8**: Identify specific features and purposes of media artworks from contemporary and past times to explore viewpoints and enrich their media arts making, starting with Australian media artworks including of Aboriginal and Torres Strait Islander media artworks (ACAMAR072)
+* <span class="light">**Media 7-8**: Identify specific features and purposes of media artworks from contemporary and past times to explore viewpoints and enrich their media arts making, starting with Australian media artworks including of Aboriginal and Torres Strait Islander media artworks (ACAMAR072)</span>
   * *surveying the programming of public sector versus private sector television and commenting on differences*
   * *comparing a media artwork (such as an animation) from a sole producer with one from an international organisation and commenting on differences in style*
   * *analysing the role of media artworks and media artists in transmitting cultural information and creating awareness of contemporary issues, such as water quality*
   * *conducting a case study of how the story from a Hollywood blockbuster film is adapted across media platforms to reach different audiencs; for example, games players, social media users, television viewers*
   * *debating an issue like the media’s intrusion on the individual’s right to privacy*
-* **Media 7-8**: Present media artworks for different community and institutional contexts with consideration of ethical and regulatory issues (ACAMAM070)
+* <span class="light">**Media 7-8**: Present media artworks for different community and institutional contexts with consideration of ethical and regulatory issues (ACAMAM070)</span>
   * *justifying their choices for distribution of media artworks for a particular audience*
-* **Music 7-8**: Identify and connect specific features and purposes of music from different eras to explore viewpoints and enrich their music making, starting with Australian music including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR098)
+* <span class="light">**Music 7-8**: Identify and connect specific features and purposes of music from different eras to explore viewpoints and enrich their music making, starting with Australian music including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR098)</span>
   * *making judgements about music as audience members and articulating the reasons for them*
-* **Music 7-8**: Practise and rehearse a variety of music, including Australian music to develop technical and expressive skills
- (ACAMUM094)
+* <span class="light">**Music 7-8**: Practise and rehearse a variety of music, including Australian music to develop technical and expressive skills
+ (ACAMUM094)</span>
   * *exploring and manipulating the elements of music within given parameters to create new music, and reflecting upon musical ideas used by Australian composers, including Aboriginal and Torres Strait Islander artists*
   * *considering and investigating techniques for stylistic features when rehearsing*
-* **Visual 7-8**: Develop ways to enhance their intentions as artists through exploration of how artists use materials, techniques, technologies and processes (ACAVAM119)
+* <span class="light">**Visual 7-8**: Develop ways to enhance their intentions as artists through exploration of how artists use materials, techniques, technologies and processes (ACAVAM119)</span>
   * *investigating the viewpoints of several artists when making decisions about how they will represent a theme, concept or subject matter, particularly focusing on different contexts, practices, techniques and styles*
   * *refining and selecting contextual information about artists, artworks and audiences to make connections between the significance of particular artworks on their art making*
   * *researching artworks that provide different ideas and concepts based on ideological views and institutional theories of design and art practice, for example, the Bauhaus, Chinese social realist painting, Greek classical sculpture*
-* **Visual 7-8**: Identify and connect specific features and purposes of visual artworks from contemporary and past times to explore viewpoints and enrich their art-making, starting with Australian artworks including those of Aboriginal and Torres Strait Islander Peoples (ACAVAR124)
+* <span class="light">**Visual 7-8**: Identify and connect specific features and purposes of visual artworks from contemporary and past times to explore viewpoints and enrich their art-making, starting with Australian artworks including those of Aboriginal and Torres Strait Islander Peoples (ACAVAR124)</span>
   * *respecting cultural practices and sensitivities as they research, analyse and examine the way an artist’s cultural experiences have influenced the representation of their artworks*
   * *recognising how different factors contribute to the ways in which visual artworks are judged to be meaningful by an audience*
   * *analysing how visual arts practices and processes and use of available technologies shape the practices of art, craft and design*
-* **D&T 7-8**: Investigate the ways in which products, services and environments evolve locally, regionally and globally and how competing factors including social, ethical and sustainability considerations are prioritised in the development of technologies and designed solutions for preferred futures
- (ACTDEK029)
+* <span class="light">**D&T 7-8**: Investigate the ways in which products, services and environments evolve locally, regionally and globally and how competing factors including social, ethical and sustainability considerations are prioritised in the development of technologies and designed solutions for preferred futures
+ (ACTDEK029)</span>
   * *investigating how ethics, social values, profitability and sustainability considerations impact on design and technologies, for example animal welfare, intellectual property, off-shore manufacturing in Asia*
   * *investigating traditional and contemporary design and technologies, including from Asia, and predicting how they might change in the future in response to factors such as social change and the need for more sustainable patterns of living*
-* **D&T 7-8**: Independently develop criteria for success to evaluate design ideas, processes and solutions and their sustainability (ACTDEP038)
+* <span class="light">**D&T 7-8**: Independently develop criteria for success to evaluate design ideas, processes and solutions and their sustainability (ACTDEP038)</span>
   * *evaluating designed solutions and processes and transferring new knowledge and skills to future design projects*
-* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* <span class="light">**D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)</span>
   * *investigating the time needed for each step of production*
-* **DT 7-8**: Design algorithms represented diagrammatically and in English, and trace algorithms to predict output for a given input and to identify errors (ACTDIP029)
+* <span class="light">**DT 7-8**: Design algorithms represented diagrammatically and in English, and trace algorithms to predict output for a given input and to identify errors (ACTDIP029)</span>
   * *investigating and designing some common algorithms, such as to search, sequence, sort, merge, control data structures*
-* **DT 7-8**: Evaluate how student solutions and existing information systems meet needs, are innovative, and take account of future risks and sustainability (ACTDIP031)
+* <span class="light">**DT 7-8**: Evaluate how student solutions and existing information systems meet needs, are innovative, and take account of future risks and sustainability (ACTDIP031)</span>
   * *investigating what features of touch input rather than keyboard or mouse input contribute to their success in meeting a wide range of needs, for example mimicking a common movement such as expanding or contracting a hand to change the size of an object on screen, suits users with a range of dexterity*
-* **DT 7-8**: Plan and manage projects that create and communicate ideas and information collaboratively online, taking safety and social contexts into account (ACTDIP032)
+* <span class="light">**DT 7-8**: Plan and manage projects that create and communicate ideas and information collaboratively online, taking safety and social contexts into account (ACTDIP032)</span>
   * *establishing a set of ‘rules’ about acceptable and unacceptable behaviour when collaborating online, considering how different social contexts affect participation in global virtual spaces, including considering the use of language, acronyms and humour, for example only applying tags to images of other people with their permission or considering social protocols of Aboriginal and Torres Strait Islander Peoples*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **HPE 7-8**: Modify rules and scoring systems to allow for fair play, safety and inclusive participation (ACPMP088)
+* <span class="light">**HPE 7-8**: Modify rules and scoring systems to allow for fair play, safety and inclusive participation (ACPMP088)</span>
   * *recognising potential hazards and selecting appropriate responses when undertaking physical activities in the natural environment*
-* **HPE 7-8**: Practise and apply strategies to seek help for themselves or others (ACPPS072)
+* <span class="light">**HPE 7-8**: Practise and apply strategies to seek help for themselves or others (ACPPS072)</span>
   * *examining scenarios to highlight how emotions, dispositions and decision-making can affect outcomes*
-* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* <span class="light">**HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)</span>
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE 7-8**: Practise and apply personal and social skills when undertaking a range of roles in physical activities (ACPMP086)
+* <span class="light">**HPE 7-8**: Practise and apply personal and social skills when undertaking a range of roles in physical activities (ACPMP086)</span>
   * *reflecting on their role and articulating how the actions they initiated in that role led to the achievement of successful outcomes*
-* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* <span class="light">**Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)</span>
   * *evaluating various methods for investigating the ancient past (for example, stratigraphy to date discoveries; DNA testing to identify past individuals from their remains (such as Egyptian mummies) as well as common diseases)*
-* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* <span class="light">**Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)</span>
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
   * *generating a range of questions to investigate a source (for example, a shell midden in ancient Australia – where it was found, how long it was used for, what it reveals about technology and the use of environmental resources)*
-* **Hist 7**: The importance of conserving the remains of the ancient past, including the heritage of Aboriginal and Torres Strait Islander Peoples (ACDSEH148)
+* <span class="light">**Hist 7**: The importance of conserving the remains of the ancient past, including the heritage of Aboriginal and Torres Strait Islander Peoples (ACDSEH148)</span>
   * *investigating world heritage criteria for the listing of significant ancient sites, using an example of an ancient site such as Pompeii*
-* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
- (ACDSEH032)
+* <span class="light">**Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+ (ACDSEH032)</span>
   * *creating a graphic representation of the social structure of Egyptian society*
-* **Hist 7**: Significant beliefs, values and practices of the ancient Egyptians, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH033)
+* <span class="light">**Hist 7**: Significant beliefs, values and practices of the ancient Egyptians, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH033)</span>
   * *investigating significant beliefs associated with death and funerary customs (for example, belief in an afterlife) and practices (for example, burial in tombs and techniques of mummification)*
-* **Hist 7**: The role of a significant individual in ancient Egyptian history such as Hatshepsut or Ramses II (ACDSEH129)
+* <span class="light">**Hist 7**: The role of a significant individual in ancient Egyptian history such as Hatshepsut or Ramses II (ACDSEH129)</span>
   * *examining the historical context, early life and achievements of a significant historical figure from ancient Egypt, and how they were perceived by their contemporaries*
-* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
- (ACDSEH035)
+* <span class="light">**Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+ (ACDSEH035)</span>
   * *examining evidence of the social structure of Athenian or Spartan society (for example, the roles of citizens, women, slaves in Athenian society and the roles of Spartiates, Perioikoi and Helots in Spartan society)*
-* **Hist 7**: Significant beliefs, values and practices of the ancient Greeks, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH036)
+* <span class="light">**Hist 7**: Significant beliefs, values and practices of the ancient Greeks, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH036)</span>
   * *investigating the significant beliefs, values and practices of the ancient Greeks (for example, the Olympic Games or the Delphic Oracle)*
   * *investigating significant beliefs and values associated with warfare (for example, heroic ideals as revealed in the Iliad) and military practices (for example, army organisation, the hoplite phalanx and naval warfare)*
-* **Hist 7**: The role of a significant individual in ancient Greek history such as Leonidas or Pericles (ACDSEH130)
+* <span class="light">**Hist 7**: The role of a significant individual in ancient Greek history such as Leonidas or Pericles (ACDSEH130)</span>
   * *examining the historical context, early life and achievements of a significant historical figure from ancient Greece, and how they were perceived by their contemporaries*
-* **Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
- (ACDSEH038)
+* <span class="light">**Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
+ (ACDSEH038)</span>
   * *examining the evidence of the social structure of Roman society (for example, the roles of patricians, plebeians, women and slaves in the city of Rome) and the idea of Republican virtue and its historical resonance*
-* **Hist 7**: Significant beliefs, values and practices of the ancient Romans, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH039)
+* <span class="light">**Hist 7**: Significant beliefs, values and practices of the ancient Romans, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH039)</span>
   * *investigating significant beliefs associated with daily life (for example, the evidence of household religion) and practices (for example, the use of public amenities such as baths, and the forms of entertainment in theatres and amphitheatres)*
-* **Hist 7**: The role of a significant individual in ancient Rome’s history such as Julius Caesar or Augustus (ACDSEH131)
+* <span class="light">**Hist 7**: The role of a significant individual in ancient Rome’s history such as Julius Caesar or Augustus (ACDSEH131)</span>
   * *examining the historical context, early life and achievements of a significant historical figure from ancient Rome, and how they were perceived by their contemporaries*
-* **Hist 7**: Significant beliefs, values and practices of Indian society, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH045)
+* <span class="light">**Hist 7**: Significant beliefs, values and practices of Indian society, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH045)</span>
   * *investigating the significant beliefs, values and practices of Indian society associated with, for example, the role of the family and religious ceremonies (such as rites of passage for boys and men; rites of passage for girls and women; marriage rites)*
   * *investigating the significant beliefs, values and practices of Indian society associated with death and funerary customs (for example, cremation, the use of professional mourners, the construction of stupas)*
-* **Hist 7**: Contacts and conflicts within and/or with other societies, resulting in developments such as the expansion of trade, the rise of the Mauryan Empire (including its material remains), and the spread of philosophies and beliefs (ACDSEH046)
+* <span class="light">**Hist 7**: Contacts and conflicts within and/or with other societies, resulting in developments such as the expansion of trade, the rise of the Mauryan Empire (including its material remains), and the spread of philosophies and beliefs (ACDSEH046)</span>
   * *examining the extent of Indian contact with other societies such as the Persians under Cyrus, the Macedonians under Alexander; the extensive trade with the Romans and Chinese; the material remains of the Mauryan Empire such as the Pillars of Ashoka and the Barabar Caves; the spread of Hinduism and Buddhism*
-* **Hist 7**: The role of a significant individual in Indian history such as Chandragupta Maurya or Ashoka (ACDSEH133)
+* <span class="light">**Hist 7**: The role of a significant individual in Indian history such as Chandragupta Maurya or Ashoka (ACDSEH133)</span>
   * *examining the historical context, early life and achievements of a significant historical figure from India in this period, and how they were perceived by their contemporaries*
-* **Hist 7**: Significant beliefs, values and practices of Chinese society, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH042)
+* <span class="light">**Hist 7**: Significant beliefs, values and practices of Chinese society, with a particular emphasis on ONE of the following areas: everyday life, warfare, or death and funerary customs (ACDSEH042)</span>
   * *investigating the significant beliefs, values and practices of Chinese society associated with daily life (for example, irrigation and the practice of agriculture, the teachings of Confucius, the evidence of daily life from the Han tombs)*
-* **Hist 7**: Contacts and conflicts within and/or with other societies, resulting in developments such as the expansion of trade, the rise of Imperial China (including its material remains), and the spread of philosophies and beliefs (ACDSEH043)
+* <span class="light">**Hist 7**: Contacts and conflicts within and/or with other societies, resulting in developments such as the expansion of trade, the rise of Imperial China (including its material remains), and the spread of philosophies and beliefs (ACDSEH043)</span>
   * *explaining the rise of imperial China (for example, the use of chariot warfare and the adoption of mass infantry armies, the building of the first phase of the Great Wall of China, military strategies as codified in Sun Tzu’s The Art of War)*
-* **Hist 7**: The role of a significant individual in ancient Chinese history such as Confucius or Qin Shi Huang (ACDSEH132)
+* <span class="light">**Hist 7**: The role of a significant individual in ancient Chinese history such as Confucius or Qin Shi Huang (ACDSEH132)</span>
   * *examining the historical context, early life and achievements of a significant historical figure from China in this period, and how they were perceived by their contemporaries*
-* **Hist 7**: Identify a range of questions about the past to inform a historical inquiry
- (ACHHS207)
+* <span class="light">**Hist 7**: Identify a range of questions about the past to inform a historical inquiry
+ (ACHHS207)</span>
   * *posing a key question such as: ‘How were the pyramids at Giza built?’ and understanding that there may not be a definitive answer; identifying related questions to inform the inquiry including: ‘What evidence is there?’ ‘What theories have been developed?’*
   * *identifying steps in the research process (for example, identifying information needed, locating that information, recording relevant information from sources)*
-* **Hist 7**: Develop texts, particularly descriptions and explanations that use evidence from a range of sources that are acknowledged (ACHHS213)
+* <span class="light">**Hist 7**: Develop texts, particularly descriptions and explanations that use evidence from a range of sources that are acknowledged (ACHHS213)</span>
   * *outlining the significance of a past event, providing reasons for the event and referring to relevant evidence*
-* **Hist 8**: The role of significant individuals such as Selim I or Suleiman the Magnificent in maintaining the strength and influence of the Ottoman Empire
- (ACDSEH055)
+* <span class="light">**Hist 8**: The role of significant individuals such as Selim I or Suleiman the Magnificent in maintaining the strength and influence of the Ottoman Empire
+ (ACDSEH055)</span>
   * *investigating the achievements of individuals (for example, Selim I in establishing the empire and capturing Jerusalem; or Suleiman the Magnificent in expanding the empire to Belgrade in Europe)*
-* **Hist 8**: Significant developments and/or cultural achievements that reflect the concentration of wealth and power in the city-states, such as art and learning (ACDSEH056)
+* <span class="light">**Hist 8**: Significant developments and/or cultural achievements that reflect the concentration of wealth and power in the city-states, such as art and learning (ACDSEH056)</span>
   * *investigating learning in the Renaissance period (for example, humanism, astrology, alchemy, the influence of ancient Greece and Rome)*
-* **Hist 8**: The role and achievements of significant individuals such as Lucrezia Borgia, Galileo, Leonardo da Vinci, Niccolo Machiavelli (ACDSEH058)
+* <span class="light">**Hist 8**: The role and achievements of significant individuals such as Lucrezia Borgia, Galileo, Leonardo da Vinci, Niccolo Machiavelli (ACDSEH058)</span>
   * *investigating the achievements of Galileo (for example, improvements in the telescope and his astronomical observations)*
-* **Hist 8**: Significant developments and/or cultural achievements that led to Viking expansion, including weapons and shipbuilding, and the extent of their trade (ACDSEH047)
+* <span class="light">**Hist 8**: Significant developments and/or cultural achievements that led to Viking expansion, including weapons and shipbuilding, and the extent of their trade (ACDSEH047)</span>
   * *investigating the construction of longboats and their role in exploration, including innovations in keel and sail design.*
-* **Hist 8**: Viking conquests and relationships with subject peoples, including the perspectives of monks, changes in the way of life of the English, and the Norman invasion (ACDSEH048)
+* <span class="light">**Hist 8**: Viking conquests and relationships with subject peoples, including the perspectives of monks, changes in the way of life of the English, and the Norman invasion (ACDSEH048)</span>
   * *investigating the remains of Viking settlements (for example, Dublin (Ireland) and Jorvik (York))*
-* **Hist 8**: Significant developments and/or cultural achievements, such as changing relations between Islam and the West (including the Crusades), architecture, medieval manuscripts and music (ACDSEH050)
+* <span class="light">**Hist 8**: Significant developments and/or cultural achievements, such as changing relations between Islam and the West (including the Crusades), architecture, medieval manuscripts and music (ACDSEH050)</span>
   * *examining the religious nature of illuminated manuscripts and how they were the product of a complex and frequently costly process*
-* **Hist 8**: Continuity and change in society in ONE of the following areas: crime and punishment; military and defence systems; towns, cities and commerce (ACDSEH051)
+* <span class="light">**Hist 8**: Continuity and change in society in ONE of the following areas: crime and punishment; military and defence systems; towns, cities and commerce (ACDSEH051)</span>
   * *investigating different types of crime and punishment (for example, trial by combat as a privilege granted to the nobility; being hung, drawn and quartered as a punishment for heinous crimes such as treason, and the use of the ducking stool as a punishment for women) and in what ways the nature of crime and punishment stayed the same, or changed over time*
-* **Hist 8**: The use of environmental resources in Shogunate Japan and the forestry and land use policies of the Tokugawa Shogunate (ACDSEH064)
+* <span class="light">**Hist 8**: The use of environmental resources in Shogunate Japan and the forestry and land use policies of the Tokugawa Shogunate (ACDSEH064)</span>
   * *investigating the demand for available land and the patterns of land use in the period*
-* **Hist 8**: Theories about the decline of the Shogunate, including modernisation and westernisation, through the adoption of Western arms and technology (ACDSEH065)
+* <span class="light">**Hist 8**: Theories about the decline of the Shogunate, including modernisation and westernisation, through the adoption of Western arms and technology (ACDSEH065)</span>
   * *evaluating the significance of the Meiji Restoration of 1868 AD (CE) that restored imperial rule to Japan*
-* **Hist 8**: Cultural achievements of ONE Polynesian society, such as the Ta moko and hangi in Maori society OR the moai constructed on Easter Island (ACDSEH067)
+* <span class="light">**Hist 8**: Cultural achievements of ONE Polynesian society, such as the Ta moko and hangi in Maori society OR the moai constructed on Easter Island (ACDSEH067)</span>
   * *investigating the construction of the moai (giant statues) on Easter Island (Rapa Nui), the techniques used to make and transport them, and theories about their meaning (for example, representations of dead ancestors or chiefs)*
-* **Hist 8**: The way Polynesian societies used environmental resources (sustainably and unsustainably), including the extinction of the moa in New Zealand, the use of religious/supernatural threats to conserve resources, and the exploitation of Easter Island’s palm trees (ACDSEH068)
+* <span class="light">**Hist 8**: The way Polynesian societies used environmental resources (sustainably and unsustainably), including the extinction of the moa in New Zealand, the use of religious/supernatural threats to conserve resources, and the exploitation of Easter Island’s palm trees (ACDSEH068)</span>
   * *researching the extinction of the moa in New Zealand as a result of hunting and habitat decline*
   * *evaluating the evidence for theories about the deforestation of Easter Island (Rapa Nui)*
-* **Hist 8**: Living conditions and religious beliefs in the 14th century, including life expectancy, medical knowledge and beliefs about the power of God (ACDSEH015)
+* <span class="light">**Hist 8**: Living conditions and religious beliefs in the 14th century, including life expectancy, medical knowledge and beliefs about the power of God (ACDSEH015)</span>
   * *investigating living conditions in London in the fourteenth century (for example, the lack of sanitation, crowded housing); the extent of medical knowledge (for example, based on Hippocrates’ theory); and beliefs about the power of God (for example, that diseases were a punishment of God)*
-* **Hist 8**: Identify a range of questions about the past to inform a historical inquiry
- (ACHHS150)
+* <span class="light">**Hist 8**: Identify a range of questions about the past to inform a historical inquiry
+ (ACHHS150)</span>
   * *experimenting with different words/phrases/historical concepts, when drafting a question, to develop a research focus*
-* **Hist 8**: Develop texts, particularly descriptions and explanations that use evidence from a range of sources that are acknowledged (ACHHS156)
+* <span class="light">**Hist 8**: Develop texts, particularly descriptions and explanations that use evidence from a range of sources that are acknowledged (ACHHS156)</span>
   * *using scaffolds illustrating the structural and language features of particular text types (for example, descriptions and explanations) to create a text that communicates specific findings about the past*
-* **Hist 8**: Use historical terms and concepts (ACHHS149)
+* <span class="light">**Hist 8**: Use historical terms and concepts (ACHHS149)</span>
   * *understanding the different meanings of particular terms and concepts when viewed in their historical context, such as feudalism in medieval Europe and Japan*
-* **Geo 7**: The way that flows of water connects places as it moves through the environment and the way this affects places (ACHGK038)
+* <span class="light">**Geo 7**: The way that flows of water connects places as it moves through the environment and the way this affects places (ACHGK038)</span>
   * *investigating the environmental, economic and social uses of water and the effects of water as it connects people and places (for example, the effects of water diversion in the Snowy Mountains)*
-* **Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
+* <span class="light">**Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)</span>
   * *investigating the main causes of rainfall and applying their knowledge to explain the seasonal rainfall patterns in their own place and in a place with either significantly higher or lower rainfall*
   * *interpreting the spatial distribution of rainfall in Australia and comparing it with the distribution of that of other continents*
   * *using the concept of the water balance to compare the effects of rainfall, run-off and evaporation on the availability of water in Australia and other continents*
-* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* <span class="light">**Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)</span>
   * *investigating the causes of water scarcity (for example, an absolute shortage of water (physical), inadequate development of water resources (economic), or the ways water is used)*
   * *examining why water is a difficult resource to manage and sustain (for example, because of its shared and competing uses and variability of supply over time and space)*
-* **Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
- (ACHGK041)
+* <span class="light">**Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
+ (ACHGK041)</span>
   * *examining and comparing places in Australia and countries of the Asia region that have economies and communities based on irrigation (for example, rice production in the Murrumbidgee Irrigation Area in NSW and the Mekong Delta in Vietnam)*
   * *examining bays, rivers, waterfalls or lakes in Australia and in countries of the Asia region that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value*
   * *investigating the spiritual significance of water in an Asian culture*
-* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* <span class="light">**Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)</span>
   * *investigating their and others’ interpretations of the concept of liveability and choices about where to live (for example, connections to cultural groups, adolescent ‘bright lights’ attraction, retiree tree change and families with children locating near schools, and other facilities)*
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
-* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* <span class="light">**Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)</span>
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *examining the role transport plays in people’s ability to access services and participate in activities in the local area*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
+* <span class="light">**Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)</span>
   * *researching the effects of air pollution on the liveability of cities*
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo 7**: The influence of social connectedness and community identity on the liveability of place
- (ACHGK046)
+* <span class="light">**Geo 7**: The influence of social connectedness and community identity on the liveability of place
+ (ACHGK046)</span>
   * *investigating the extent to which people in their place are socially connected or socially isolated and its effect on liveability*
-* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* <span class="light">**Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)</span>
   * *researching methods implemented in Australia and Europe to improve the liveability of a place, and evaluating their applicability to their own locality*
-* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* <span class="light">**Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)</span>
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
-* **Geo 7**: Evaluate sources for their reliability and usefulness and select, collect and record relevant geographical data and information, using ethical protocols, from appropriate primary and secondary sources
- (ACHGS048)
+* <span class="light">**Geo 7**: Evaluate sources for their reliability and usefulness and select, collect and record relevant geographical data and information, using ethical protocols, from appropriate primary and secondary sources
+ (ACHGS048)</span>
   * *applying ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo 7**: Apply geographical concepts to draw conclusions based on the analysis of the data and information collected (ACHGS052)
+* <span class="light">**Geo 7**: Apply geographical concepts to draw conclusions based on the analysis of the data and information collected (ACHGS052)</span>
   * *reviewing the results of an analysis to propose an answer to an inquiry question, using as an organiser at least one of the concepts of place, space, environment, interconnection, sustainability, scale or change*
-* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* <span class="light">**Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)</span>
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
-* **Geo 8**: Spiritual, aesthetic and cultural value of landscapes and landforms for people, including Aboriginal and Torres Strait Islander Peoples  (ACHGK049)
+* <span class="light">**Geo 8**: Spiritual, aesthetic and cultural value of landscapes and landforms for people, including Aboriginal and Torres Strait Islander Peoples  (ACHGK049)</span>
   * *analysing the role of geomorphic landforms and landscapes in tourism (for example, the Grand Canyon in the USA or Uluru in Australia)*
   * *investigating Aboriginal Dreaming stories and Legends of the Torres Strait concerning the formation, meaning and interconnection of landforms*
-* **Geo 8**: Human causes and effects of landscape degradation (ACHGK051)
+* <span class="light">**Geo 8**: Human causes and effects of landscape degradation (ACHGK051)</span>
   * *analysing the effects of erosion and sedimentation produced by human activities, including farming and recreation, on landscape quality*
   * *examining the effects of mining and quarrying, and urban development, on landscape quality*
   * *investigating the effects of the built elements of environments (for example, urban development, marinas and sea walls) on coastal landscape quality*
-* **Geo 8**: Ways of protecting significant landscapes (ACHGK052)
+* <span class="light">**Geo 8**: Ways of protecting significant landscapes (ACHGK052)</span>
   * *investigating a significant landscape that is threatened by human activities and developing a proposal for the future of the landscape that takes account of the views of the diverse groups, including traditional owners, with an interest in its use or protection*
-* **Geo 8**: Causes, impacts and responses to a geomorphological hazard
- (ACHGK053)
+* <span class="light">**Geo 8**: Causes, impacts and responses to a geomorphological hazard
+ (ACHGK053)</span>
   * *investigating the natural causes and spatial distribution of a geomorphological hazard (for example, volcanic eruption, earthquake, tsunami, landslide, avalanche)*
   * *researching how the application of principles of prevention, mitigation and preparedness minimises the harmful effects of geomorphological hazards or bushfires*
-* **Geo 8**: Causes and consequences of urbanisation, drawing on a study from Indonesia, or another country of the Asia region
- (ACHGK054)
+* <span class="light">**Geo 8**: Causes and consequences of urbanisation, drawing on a study from Indonesia, or another country of the Asia region
+ (ACHGK054)</span>
   * *examining how urbanisation can positively or negatively affect environmental quality (for example, carbon emissions and water consumption)*
-* **Geo 8**: Differences in urban concentration and urban settlement patterns between Australia and the United States of America, and their causes and consequences (ACHGK055)
+* <span class="light">**Geo 8**: Differences in urban concentration and urban settlement patterns between Australia and the United States of America, and their causes and consequences (ACHGK055)</span>
   * *researching the causes of urban concentration in Australia and the United States of America (for example, the history of European settlement, migration, the export orientation of the economy, the centralisation of state governments, environmental constraints and the shape of transportation networks)*
   * *investigating the relationship between population density and proximity to urban centres*
-* **Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)
+* <span class="light">**Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)</span>
   * *examining the effects of resource development on employment growth in both the resource regions and the cities, and on internal migration in Australia*
   * *investigating the effects of the ‘fly-in fly-out’ phenomenon on resource-development places*
-* **Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)
+* <span class="light">**Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)</span>
   * *investigating where and why international migrants settle in Australia and how this may reinforce urban concentration*
-* **Geo 8**: Management and planning of Australia’s urban future (ACHGK059)
+* <span class="light">**Geo 8**: Management and planning of Australia’s urban future (ACHGK059)</span>
   * *examining the forecasts for the size of Australia’s major cities and regional urban centres, and discussing the implications for their environmental sustainability and liveability*
   * *investigating ways of managing the projected growth of Australia’s cities and regional urban centres*
   * *generating ideas on how to decentralise Australia's urban population using Canberra as an example*
-* **Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)
+* <span class="light">**Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)</span>
   * *developing questions about the significance of a spatial distribution (for example, the positive and negative effects of the spatial concentration of population in Australia)*
-* **Geo 8**: Evaluate sources for their reliability and usefulness and select, collect and record relevant geographical data and information, using ethical protocols, from appropriate primary and secondary sources
- (ACHGS056)
+* <span class="light">**Geo 8**: Evaluate sources for their reliability and usefulness and select, collect and record relevant geographical data and information, using ethical protocols, from appropriate primary and secondary sources
+ (ACHGS056)</span>
   * *conducting ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo 8**: Apply geographical concepts to draw conclusions based on the analysis of data and information collected (ACHGS060)
+* <span class="light">**Geo 8**: Apply geographical concepts to draw conclusions based on the analysis of data and information collected (ACHGS060)</span>
   * *reviewing the results of an analysis to propose and defend answers to an inquiry question, emphasising at least one of the geographical concepts of place, space, environment, interconnection, sustainability, scale or change*
-* **Geo 8**: Geomorphic processes that produce landforms, including a case study of at least one landform
- (ACHGK050)
+* <span class="light">**Geo 8**: Geomorphic processes that produce landforms, including a case study of at least one landform
+ (ACHGK050)</span>
   * *researching the effects of rock type, weathering, erosion by water and wind, and transportation and deposition on the chosen landform*
-* **Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)
+* <span class="light">**Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)</span>
   * *developing a statistical map to show demographic or economic data for Australia or China, or show the cultural and demographic diversity of Aboriginal and Torres Strait Islander Peoples using mapping software*
   * *creating a map showing geomorphological features by using data from Geoscience Australia, or demographic statistics from census data, using a spatial technologies application*
   * *using the Global Positioning System (GPS) to make a map of the features of a landform*
-* **C&C 7**: How Australia’s legal system aims to provide justice, including through the rule of law, presumption of innocence, burden of proof, right to a fair trial and right to legal representation (ACHCK050)
+* <span class="light">**C&C 7**: How Australia’s legal system aims to provide justice, including through the rule of law, presumption of innocence, burden of proof, right to a fair trial and right to legal representation (ACHCK050)</span>
   * *exploring how Australians can receive access to justice and legal representation, such as through legal aid*
-* **C&C 8**: How national identity can shape a sense of belonging in Australia’s multicultural society (ACHCK067)
+* <span class="light">**C&C 8**: How national identity can shape a sense of belonging in Australia’s multicultural society (ACHCK067)</span>
   * *examining personal stories to explore how individuals relate to national identity and how it impacts on their sense of belonging in the Australian community*
-* **E&B 7**: The ways consumers and producers interact and respond to each other in the market
- (ACHEK017)
+* <span class="light">**E&B 7**: The ways consumers and producers interact and respond to each other in the market
+ (ACHEK017)</span>
   * *investigating how consumers rely on businesses to meet their needs and wants*
   * *examining how businesses respond to the demands of consumers (for example, preference for healthy options, environmentally friendly packaging or organic food)*
-* **E&B 7**: Why individuals work, types of work and how people derive an income (ACHEK020)
+* <span class="light">**E&B 7**: Why individuals work, types of work and how people derive an income (ACHEK020)</span>
   * *investigating the contribution that work can make to an individual (for example, earning an income, contributing to an individual’s self-esteem, contributing to the community, material and non-material living standards and happiness)*
   * *investigating alternative sources of income such as through owning a business, being a shareholder, providing a rental service*
-* **E&B 7**: Gather relevant data and information from a range of digital, online and print sources (ACHES022)
+* <span class="light">**E&B 7**: Gather relevant data and information from a range of digital, online and print sources (ACHES022)</span>
   * *identifying sources of data and information (for example, Australian Bureau of Statistics for information on types of employment (full-time, part-time, casual))*
-* **E&B 7**: Generate a range of alternatives in response to an observed economic or business issue or event, and evaluate the potential costs and benefits of each alternative (ACHES024)
+* <span class="light">**E&B 7**: Generate a range of alternatives in response to an observed economic or business issue or event, and evaluate the potential costs and benefits of each alternative (ACHES024)</span>
   * *examining the trade-offs involved in making choices about how to earn an income (for example, working as an employee or owning your own business)*
   * *identifying the costs and benefits associated with alternatives (for example, the costs and benefits of being an employee compared with being a business owner)*
-* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* <span class="light">**E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)</span>
   * *creating simple budgets to achieve specific financial goals and using digital and online tools to keep financial records in a ‘real-life’ context*
-* **E&B 7**: Characteristics of entrepreneurs and successful businesses (ACHEK019)
+* <span class="light">**E&B 7**: Characteristics of entrepreneurs and successful businesses (ACHEK019)</span>
   * *investigating successful entrepreneurs and identifying the behaviours and skills that they bring to their business (for example, seeing and taking advantage of an opportunity, establishing a shared vision; demonstrating initiative, innovation and enterprise)*
-* **E&B 8**: The ways markets in Australia operate to enable the distribution of resources, and why they may be influenced by government  (ACHEK027)
+* <span class="light">**E&B 8**: The ways markets in Australia operate to enable the distribution of resources, and why they may be influenced by government  (ACHEK027)</span>
   * *identifying who is involved in the market system in Australia and explaining how the market operates through the interactions of the participants (for example, household, business, finance, and government sectors)*
   * *identifying different types of markets that operate in Australia such as retail markets, labour markets, financial markets, stock markets*
   * *identifying examples of government involvement in the market through reallocation of resources, regulation of economic activity or redistribution of income (for example, providing some types of goods and services not being provided sufficiently by the market, such as health care)*
-* **E&B 8**: The traditional markets of Aboriginal and Torres Strait Islander communities and their participation in contemporary markets (ACHEK028)
+* <span class="light">**E&B 8**: The traditional markets of Aboriginal and Torres Strait Islander communities and their participation in contemporary markets (ACHEK028)</span>
   * *investigating the innovative ways Aboriginal and Torres Strait Islander Peoples utilise their cultural knowledge in contemporary contexts in enterprising ways (for example, cultural tourism and other business ventures that harness traditional knowledge of art, medicines and food derived from the environment)*
-* **E&B 8**: Types of businesses and the ways that businesses respond to opportunities in Australia (ACHEK030)
+* <span class="light">**E&B 8**: Types of businesses and the ways that businesses respond to opportunities in Australia (ACHEK030)</span>
   * *identifying examples of the different ways businesses respond to opportunities in the market (for example, developing a new product to satisfy demand, changing the way they deliver their products or services to consumers)*
-* **E&B 8**: Influences on the ways people work and factors that might affect work in the future (ACHEK031)
+* <span class="light">**E&B 8**: Influences on the ways people work and factors that might affect work in the future (ACHEK031)</span>
   * *investigating present influences on the ways people work, such as technological change, outsourced labour in the global economy, rapid communication changes, casualisation of the workforce*
   * *identifying changes to the workforce over time, such as the jobs available, the way individuals or communities value particular work, career length and human resource development, changing demography, corporate social responsibility and sustainability practices, changes to workplace laws*
-* **E&B 8**: Gather relevant data and information from a range of digital, online and print sources (ACHES033)
+* <span class="light">**E&B 8**: Gather relevant data and information from a range of digital, online and print sources (ACHES033)</span>
   * *accessing reliable information (for example, from departments of fair trading) to access advice on the rights and responsibilities of consumers and businesses, or finding information on strategies to resolve consumer and business disputes*
-* **E&B 8**: Generate a range of alternatives in response to an observed economic or business issue or event, and evaluate the potential costs and benefits of each alternative (ACHES035)
+* <span class="light">**E&B 8**: Generate a range of alternatives in response to an observed economic or business issue or event, and evaluate the potential costs and benefits of each alternative (ACHES035)</span>
   * *identifying opportunities in the market for a business and proposing alternative ways to take advantage of these*
   * *undertaking a cost-benefit analysis of alternative ways for a business to respond to opportunities in the market and making a decision about which one to recommend*
-* **E&B 8**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES036)
+* <span class="light">**E&B 8**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES036)</span>
   * *applying informed decision-making skills to familiar and new situations (for example, helping the family decide what products they need to purchase during the week)*
-* **E&B 8**: The rights and responsibilities of consumers and businesses in Australia in terms of financial and economic decision-making (ACHEK029)
+* <span class="light">**E&B 8**: The rights and responsibilities of consumers and businesses in Australia in terms of financial and economic decision-making (ACHEK029)</span>
   * *distinguishing the difference between rights and responsibilities and creating a list of the rights and responsibilities of consumers and businesses*
   * *investigating the ways the rights of consumers are protected through the law (for example, warranties, cooling off periods)*
   * *identifying examples of how businesses are required by government to protect the safety of consumers (for example, mandatory and voluntary standards, product safety recalls)*
@@ -6443,282 +6472,282 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 9**: Create imaginative, informative and persuasive texts that present a point of view and advance or illustrate arguments, including texts that integrate visual, print and/or audio features (ACELY1746)
+* <span class="light">**English 9**: Create imaginative, informative and persuasive texts that present a point of view and advance or illustrate arguments, including texts that integrate visual, print and/or audio features (ACELY1746)</span>
   * *creating imaginative texts with main ideas developed through the interconnections of plot, settings, characters, the changing of chronological order, foreshadowing in written, spoken and digital texts*
   * *creating informative and argumentative texts with explanations, details and evidence*
-* **English 9**: Understand that Standard Australian English is a living language within which the creation and loss of words and the evolution of usage is ongoing (ACELA1550)
+* <span class="light">**English 9**: Understand that Standard Australian English is a living language within which the creation and loss of words and the evolution of usage is ongoing (ACELA1550)</span>
   * *identifying some of the changes in the grammar of English over time, for example from ‘thee’ and ‘thou’ to ‘you’*
-* **English 9**: Understand how punctuation is used along with layout and font variations in constructing texts for different audiences and purposes (ACELA1556)
+* <span class="light">**English 9**: Understand how punctuation is used along with layout and font variations in constructing texts for different audiences and purposes (ACELA1556)</span>
   * *investigating instances of colons and semicolons in expository texts and discuss their uses in elaborating on and clarifying ideas in complex sentences*
-* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* <span class="light">**English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)</span>
   * *exploring and reflecting on personal understanding of the world and human experience gained from interpreting literature drawn from cultures and times different from the students’ own*
-* **English 10**: Choose a reading technique and reading path appropriate for the type of text, to retrieve and connect ideas within and between texts (ACELY1753)
+* <span class="light">**English 10**: Choose a reading technique and reading path appropriate for the type of text, to retrieve and connect ideas within and between texts (ACELY1753)</span>
   * *using appropriate metalanguage associated with digital technologies to analyse reading pathways on websites*
-* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* <span class="light">**English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)</span>
   * *reflecting on experiences of when language includes, distances or marginalises others*
-* **English 10**: Understand conventions for citing others, and how to reference these in different ways (ACELA1568)
+* <span class="light">**English 10**: Understand conventions for citing others, and how to reference these in different ways (ACELA1568)</span>
   * *understanding who to cite in essays, reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally*
-* **Maths 9**: Apply index laws to numerical expressions with integer indices
- (ACMNA209)
+* <span class="light">**Maths 9**: Apply index laws to numerical expressions with integer indices
+ (ACMNA209)</span>
   * *simplifying and evaluating numerical expressions, using involving both positive and negative integer indices*
-* **Maths 10**: Compare shapes of box plots to corresponding histograms and dot plots (ACMSP250)
+* <span class="light">**Maths 10**: Compare shapes of box plots to corresponding histograms and dot plots (ACMSP250)</span>
   * *investigating data in different ways to make comparisons and draw conclusions*
-* **Maths 10**: Solve problems involving linear equations, including those derived from formulas (ACMNA235)
+* <span class="light">**Maths 10**: Solve problems involving linear equations, including those derived from formulas (ACMNA235)</span>
   * *representing word problems with simple linear equations and solving them to answer questions*
-* **Maths 10**: Solve linear inequalities and graph their solutions on a number line
- (ACMNA236)
+* <span class="light">**Maths 10**: Solve linear inequalities and graph their solutions on a number line
+ (ACMNA236)</span>
   * *representing word problems with simple linear inequalities and solving them to answer questions*
-* **Maths 10**: Solve problems involving parallel and perpendicular lines (ACMNA238)
+* <span class="light">**Maths 10**: Solve problems involving parallel and perpendicular lines (ACMNA238)</span>
   * *solving problems using the fact that parallel lines have the same gradient and conversely that if two lines have the same gradient then they are parallel*
   * *solving problems using the fact that the product of the gradients of perpendicular lines is –1 and conversely that if the product of the gradients of two lines is –1 then they are perpendicular*
-* **Maths 10**: Solve linear equations involving simple algebraic fractions (ACMNA240)
+* <span class="light">**Maths 10**: Solve linear equations involving simple algebraic fractions (ACMNA240)</span>
   * *solving a wide range of linear equations, including those involving one or two simple algebraic fractions, and checking solutions by substitution*
   * *representing word problems, including those involving fractions, as equations and solving them to answer the question*
-* **Maths 10**: Apply logical reasoning, including the use of congruence and similarity, to proofs and numerical exercises involving plane shapes (ACMMG244)
+* <span class="light">**Maths 10**: Apply logical reasoning, including the use of congruence and similarity, to proofs and numerical exercises involving plane shapes (ACMMG244)</span>
   * *performing a sequence of steps to determine an unknown angle giving a justification in moving from one step to the next.*
   * *communicating a proof using a sequence of logically connected statements*
-* **Maths 10**: Use the language of ‘if ....then, ‘given’, ‘of’, ‘knowing that’ to investigate conditional statements and identify common mistakes in interpreting such language (ACMSP247)
+* <span class="light">**Maths 10**: Use the language of ‘if ....then, ‘given’, ‘of’, ‘knowing that’ to investigate conditional statements and identify common mistakes in interpreting such language (ACMSP247)</span>
   * *using arrays and tree diagrams to determine probabilities*
-* **Maths 10A**: Describe, interpret and sketch parabolas, hyperbolas, circles and exponential functions and their transformations (ACMNA267)
+* <span class="light">**Maths 10A**: Describe, interpret and sketch parabolas, hyperbolas, circles and exponential functions and their transformations (ACMNA267)</span>
   * *applying transformations, including translations, reflections in the axes and stretches to help graph parabolas, rectangular hyperbolas, circles and exponential functions*
-* **Maths 10A**: Solve problems involving surface area and volume of right pyramids, right cones, spheres and related composite solids (ACMMG271)
+* <span class="light">**Maths 10A**: Solve problems involving surface area and volume of right pyramids, right cones, spheres and related composite solids (ACMMG271)</span>
   * *using formulas to solve problems*
-* **Maths 10A**: Prove and apply angle and chord properties of circles (ACMMG272)
+* <span class="light">**Maths 10A**: Prove and apply angle and chord properties of circles (ACMMG272)</span>
   * *performing a sequence of steps to determine an unknown angle or length in a diagram involving a circle, or circles, giving a justification in moving from one step to the next*
   * *communicating a proof using a logical sequence of statements*
-* **Maths 10A**: Solve simple trigonometric equations (ACMMG275)
+* <span class="light">**Maths 10A**: Solve simple trigonometric equations (ACMMG275)</span>
   * *using periodicity and symmetry to solve equations*
-* **Science 9**: Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
- (ACSIS170)
+* <span class="light">**Science 9**: Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+ (ACSIS170)</span>
   * *comparing conclusions with earlier predictions and reviewing scientific understanding where appropriate*
-* **Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
- (ACADAM020)
+* <span class="light">**Dance 9-10**: Improvise to find new movement possibilities and explore personal style by combining elements of dance
+ (ACADAM020)</span>
   * *extending their movement vocabulary to explore their own stylistic preferences and personal identity, for example, using analysis of dance styles from a range of cultures and times to inform their choreographic practice*
   * *developing a personal movement vocabulary by combining elements of dance with finding new ways of moving, and establishing a personal style*
   * *investigating the use of elements of dance in works of artists, including those from the Asia region, and adapting dance ideas to create movements that represent a synthesis of influences*
-* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* <span class="light">**Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)</span>
   * *identifying and analysing dance styles and traditions and applying knowledge of the structure and function of the musculoskeletal system to execute movements safely and prevent injury to themselves and others*
-* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* <span class="light">**Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)</span>
   * *documenting their creative process, including use of analysis and evaluation strategies, in reflective records*
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* <span class="light">**Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)</span>
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Drama 9-10**: Improvise with the elements of drama and narrative structure to develop ideas, and explore subtext to shape devised and scripted drama (ACADRM047)
+* <span class="light">**Drama 9-10**: Improvise with the elements of drama and narrative structure to develop ideas, and explore subtext to shape devised and scripted drama (ACADRM047)</span>
   * *communicating meaning through realistic and non-realistic performance styles and dramatic forms by manipulating the elements of drama*
-* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* <span class="light">**Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)</span>
   * *adapting expressive voice and movement skills for performance of different forms and styles and to enhance actor–audience relationships*
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
   * *exploring, reworking and refining the dramatic action through rehearsal and honing expressive performance skills for effective audience engagement*
-* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
- (ACADRM050)
+* <span class="light">**Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+ (ACADRM050)</span>
   * *learning and applying the basic concepts for interpreting texts and contexts, directing dramatic action, and using available theatre technologies*
   * *focusing and strengthening the dramatic action by manipulating pace in movement and dialogue, cues, vocal tone, physical proximity between characters and transitions*
-* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
- (ACADRM051)
+* <span class="light">**Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+ (ACADRM051)</span>
   * *collaborating as a member of a drama team by directing the blocking and staging of dramatic action to communicate intended meaning(s) for an audience*
   * *collaborating to undertake responsibilities in interpreting, rehearsing and performing drama such as stage manager, designer, etc.*
   * *exploring the impact of design elements and technology on dramatic meaning by using costumes, props, sound, multimedia and lighting, and considering impact of drama they view and evaluating options for their own work*
-* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
- (ACAMAM075)
+* <span class="light">**Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+ (ACAMAM075)</span>
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* <span class="light">**Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)</span>
   * *producing media artworks for safe posting on suitable social media sharing sites, taking account of ethical and legal responsibilities*
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
   * *organising and curating a school media arts festival or exhibition*
-* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* <span class="light">**Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)</span>
   * *experimenting with layering of sound to develop a personal style in improvisation and composition*
-* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
- (ACAMUM102)
+* <span class="light">**Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+ (ACAMUM102)</span>
   * *combining and manipulating the elements of music using repetition, variation and contrast to shape compositions*
   * *composing and arranging music using the elements of music to communicate style and genre, and considering contemporary Australian styles and emerging genres such as Aboriginal hip hop and mash up and classical fusion of instrumentation such as symphonic orchestra and didgeridoo*
   * *exploring and manipulating combinations of electronic and acoustic sounds to create new works, using technology as a composition tool and sound source*
   * *experimenting with contemporary media and recording techniques to create and refine original compositions and arrangements*
-* **Music 9-10**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)
+* <span class="light">**Music 9-10**: Practise and rehearse to refine a variety of performance repertoire with increasing technical and interpretative skill (ACAMUM101)</span>
   * *recording and evaluating performances using digital technologies, for example, listening to a recording of their own performances and identifying areas for improvement*
-* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* <span class="light">**Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)</span>
   * *using innovative thinking as they explore the capabilities of digital and virtual technologies to resolve design and planning problems*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* <span class="light">**D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)</span>
   * *considering competing variables that may hinder or enhance project development, for example weight, strength and price; laws; social protocols and community consultation processes*
   * *communicating using appropriate technical terms and recording the generation and development of design ideas for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicates each step of a design process*
-* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* <span class="light">**D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)</span>
   * *investigating manufacturing processes to identify strategies to enhance production*
-* **DT 9-10**: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language (ACTDIP041)
+* <span class="light">**DT 9-10**: Implement modular programs, applying selected algorithms and data structures including using an object-oriented programming language (ACTDIP041)</span>
   * *defining classes that represent the attributes and behaviour of objects in the real world or in a game*
-* **DT 9-10**: Create interactive solutions for sharing ideas and information online, taking into account safety, social contexts and legal responsibilities (ACTDIP043)
+* <span class="light">**DT 9-10**: Create interactive solutions for sharing ideas and information online, taking into account safety, social contexts and legal responsibilities (ACTDIP043)</span>
   * *investigating legal responsibilities of organisations regarding the storage, communication and disposal of personal and organisational data, for example the Australian Privacy Principles as they apply to intellectual property*
   * *applying techniques to make ethical decisions when faced with dilemmas about security and ownership of data, for example selecting an action that results in the greatest benefit for the most number of people; avoiding the use of photos of deceased persons from Aboriginal and Torres Strait Islander communities*
-* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* <span class="light">**DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)</span>
   * *managing and modifying the development of a solution, for example using software to record and monitor project tasks, responsibilities and timeframes and to organise continuous opportunities to review progress with collaborative partners and to conduct regular unit testing*
   * *investigating indicators of economic success, for example the capacity to scale up an innovative solution to meet the demands of a mass market and the savings accrued through sustainable practices*
   * *investigating major causes of threats to data, for example human actions such as losing a storage device, disclosing passwords, theft and fraud*
-* **HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)
+* <span class="light">**HPE 9-10**: Propose, practise and evaluate responses in situations where external influences may impact on their ability to make healthy and safe choices (ACPPS092)</span>
   * *critiquing images and messages in the media that portray what it means to have a good time and be fun to be around, and evaluating how these images can be interpreted*
   * *examining local fast-food options, making healthy selections and advocating healthy choices to peers*
   * *evaluating the influence of personal, social, environmental and cultural factors on decisions and actions young people take in relation to their health, safety and wellbeing*
-* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* <span class="light">**HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)</span>
   * *creating and evaluating visual and multimodal health campaigns in print-based and digital environments to promote health and wellbeing in their community*
-* **HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)
+* <span class="light">**HPE 9-10**: Plan and evaluate new and creative interventions that promote their own and others’ connection to community and natural and built environments (ACPPS097)</span>
   * *creating and evaluating proposals to promote the use of natural settings within the local community for physical activity*
   * *designing and critiquing a strategy to involve family, friends and members of the community in cultural celebrations to promote a sense of connection with and belonging to the community*
   * *designing and adopting actions which promote healthy, active and sustainable lifestyles*
-* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* <span class="light">**HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)</span>
   * *adapting and responding to changes in equipment that increase the complexity of a movement task or performance*
   * *responding to teacher and peer feedback to enhance performance*
   * *providing constructive feedback on their own and others' performance by using movement-analysis software to break down a skill or sequence*
-* **Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)
+* <span class="light">**Hist 9**: The population movements and changing settlement patterns during this period (ACDSEH080)</span>
   * *investigating changes to the cities and landscape in European countries and Australia as the Industrial Revolution continued to develop, using photos (for example, those that were taken as the Eiffel Tower was being constructed using iron)*
-* **Hist 9**: The experiences of men, women and children during the Industrial Revolution, and their changing way of life (ACDSEH081)
+* <span class="light">**Hist 9**: The experiences of men, women and children during the Industrial Revolution, and their changing way of life (ACDSEH081)</span>
   * *investigating the changes in working conditions (for example, longer working hours for low pay and the use of children as a cheap source of labour)*
-* **Hist 9**: Reasons why ONE key idea emerged and/or developed a following  (ACDSEH086)
+* <span class="light">**Hist 9**: Reasons why ONE key idea emerged and/or developed a following  (ACDSEH086)</span>
   * *investigating reasons why a key idea gained support, such as the support for Chartism among the poorer classes as a response to deteriorating living and working conditions*
-* **Hist 9**: Experiences of slaves, convicts and free settlers upon departure, their journey abroad, and their reactions on arrival, including the Australian experience (ACDSEH083)
+* <span class="light">**Hist 9**: Experiences of slaves, convicts and free settlers upon departure, their journey abroad, and their reactions on arrival, including the Australian experience (ACDSEH083)</span>
   * *investigating sources that record the reactions of new arrivals to other countries in this period (for example, responses to the natural environment and climate)*
-* **Hist 9**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)
+* <span class="light">**Hist 9**: Changes in the way of life of a group(s) of people who moved to Australia in this period, such as free settlers on the frontier in Australia (ACDSEH084)</span>
   * *investigating the experiences of a specific group of arrivals to Australia (for example, convicts in Sydney, Hobart, Brisbane; or free settlers in Melbourne, Adelaide, Perth or Darwin)*
-* **Hist 9**: Key features (social, cultural, economic, political) of ONE Asian society at the start of this period (ACDSEH093)
+* <span class="light">**Hist 9**: Key features (social, cultural, economic, political) of ONE Asian society at the start of this period (ACDSEH093)</span>
   * *investigating the key aspects an Asian society at the beginning of this period (for example, identifying the territorial extent of Qing China, the role and influence of the Emperor, and the nature of literature, art and architecture)*
-* **Hist 9**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
- (ACDSEH142)
+* <span class="light">**Hist 9**: The position of the Asian society in relation to other nations in the world around the turn of the twentieth century (that is 1900), including the influence of key ideas such as nationalism
+ (ACDSEH142)</span>
   * *investigating the confrontation between Japan and Western powers (for example, the Russo-Japanese war) and the emergence of Japan as a major world power*
-* **Hist 9**: The extension of settlement, including the effects of contact (intended and unintended) between European settlers in Australia and Aboriginal and Torres Strait Islander Peoples (ACDSEH020)
+* <span class="light">**Hist 9**: The extension of settlement, including the effects of contact (intended and unintended) between European settlers in Australia and Aboriginal and Torres Strait Islander Peoples (ACDSEH020)</span>
   * *investigating the forcible removal of children from Aboriginal and Torres Strait Islander families in the late nineteenth century/early twentieth century (leading to the Stolen Generations), such as the motivations for the removal of children, the practices and laws that were in place, and experiences of separation.*
-* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* <span class="light">**Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)</span>
   * *investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia (for example, invalid and old-age pensions and the maternity allowance scheme)*
-* **Hist 9**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)
+* <span class="light">**Hist 9**: An overview of the causes of World War I and the reasons why men enlisted to fight in the war (ACDSEH021)</span>
   * *investigating the rise of nationalist sentiment as well as the values and attitudes towards war in the period 1750–1918 (for example, idealistic notions of war; sense of adventure)*
-* **Hist 9**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)
+* <span class="light">**Hist 9**: The places where Australians fought and the nature of warfare during World War I, including the Gallipoli campaign (ACDSEH095)</span>
   * *using sources to investigate the fighting at Gallipoli, the difficulties of trench warfare, and the use of tanks, aeroplanes and chemical weapons (gas)*
-* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* <span class="light">**Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)</span>
   * *investigating examples of the war’s impact on Australia’s economy and society (for example, the development of the steel industry in Newcastle and the implementation of the War Precautions Act)*
-* **Hist 9**: The commemoration of World War I, including debates about the nature and significance of the Anzac legend (ACDSEH097)
+* <span class="light">**Hist 9**: The commemoration of World War I, including debates about the nature and significance of the Anzac legend (ACDSEH097)</span>
   * *investigating the ideals associated with the Anzac tradition and how and why World War I is commemorated within Australian society*
-* **Hist 9**: Identify the origin, purpose and context of primary and secondary sources
- (ACHHS169)
+* <span class="light">**Hist 9**: Identify the origin, purpose and context of primary and secondary sources
+ (ACHHS169)</span>
   * *explaining the contextual significance of a source, such as Frank Hurley’s World War I photos, and identifying the purpose of Hurley’s creation of composite photos*
-* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* <span class="light">**Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)</span>
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist 10**: The significance of World War II to Australia’s international relationships in the twentieth century, with particular reference to the United Nations, Britain, the USA and Asia
- (ACDSEH110)
+* <span class="light">**Hist 10**: The significance of World War II to Australia’s international relationships in the twentieth century, with particular reference to the United Nations, Britain, the USA and Asia
+ (ACDSEH110)</span>
   * *evaluating the impact of World War II on the emergence of the United States as a major world power and on Australia’s alliance with the US (for example, the threat of Japan)*
-* **Hist 10**: Methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander Peoples, and the role of ONE individual or group in the struggle (ACDSEH134)
+* <span class="light">**Hist 10**: Methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander Peoples, and the role of ONE individual or group in the struggle (ACDSEH134)</span>
   * *investigating the role of Charles Perkins in the Freedom Ride of 1965 and the efficacy of television in bringing the struggle for rights and freedoms to national attention*
-* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* <span class="light">**Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)</span>
   * *investigating the legacy of children’s experiences in ‘care’ (their placement in orphanages, Children’s Homes, foster care and other forms of out-of-home care), and the significance of the United Nations Convention on the Rights of the Child (1990)*
-* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* <span class="light">**Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)</span>
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
   * *comparing and contrasting views on the values and beliefs of rock’n’roll, film and television across time, age and gender (for example, issues of conservatism and rebellion, the challenge to established ideas and national identity)*
-* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* <span class="light">**Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)</span>
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* <span class="light">**Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)</span>
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* <span class="light">**Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)</span>
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* <span class="light">**Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)</span>
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* <span class="light">**Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)</span>
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
-* **Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)
+* <span class="light">**Hist 10**: Responses of governments, including the Australian Government, and international organisations to environmental threats since the 1960s, including deforestation and climate change (ACDSEH128)</span>
   * *evaluating the effectiveness of international protocols and treaties such as Kyoto (1997), the United Nations Framework Convention on Climate Change (since 1992) and the Washington Declaration (2007)*
-* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
- (ACHHS187)
+* <span class="light">**Hist 10**: Identify the origin, purpose and context of primary and secondary sources
+ (ACHHS187)</span>
   * *using data from immigration records and processing them using ICT to identify historical trends over time*
   * *explaining the context of a source such as the*
-* **Hist 10**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)
+* <span class="light">**Hist 10**: Select and use a range of communication forms (oral, graphic, written) and digital technologies (ACHHS193)</span>
   * *designing a poster that outlines the main arguments against French nuclear testing in the Pacific and explaining the nature and reliability of the sources used to construct the poster*
-* **Geo 9**: Distribution and characteristics of biomes as regions with distinctive climates, soils, vegetation and productivity (ACHGK060)
+* <span class="light">**Geo 9**: Distribution and characteristics of biomes as regions with distinctive climates, soils, vegetation and productivity (ACHGK060)</span>
   * *examining the influence of climate on biomass production (as measured by net primary productivity) in different biomes*
-* **Geo 9**: Human alteration of biomes to produce food, industrial materials and fibres, and the use of systems thinking to analyse the environmental effects of these alterations  (ACHGK061)
+* <span class="light">**Geo 9**: Human alteration of biomes to produce food, industrial materials and fibres, and the use of systems thinking to analyse the environmental effects of these alterations  (ACHGK061)</span>
   * *investigating ways that the production of food and fibre has altered some biomes (for example, through vegetation clearance, introduction of exotic species, drainage, terracing and irrigation)*
-* **Geo 9**: Environmental, economic and technological factors that influence crop yields in Australia and across the world (ACHGK062)
+* <span class="light">**Geo 9**: Environmental, economic and technological factors that influence crop yields in Australia and across the world (ACHGK062)</span>
   * *describing how environmental factors (for example, climate, soil, landform and water), can support higher crop yields and investigating the environmental constraints on agricultural production in Australia (for example, soil moisture, water resources and soils)*
   * *investigating how high crop yields (for example, from wheat, rice and maize) around the world are related to factors such as irrigation, accessibility, labour supply, landforms and agricultural technologies (for example, high-yielding varieties)*
-* **Geo 9**: The capacity of the world’s environments to sustainably feed the projected future global population (ACHGK064)
+* <span class="light">**Geo 9**: The capacity of the world’s environments to sustainably feed the projected future global population (ACHGK064)</span>
   * *examining the effects of anticipated future population growth on global food production and security, and its implications for agriculture and agricultural innovation*
   * *researching the potential of agricultural production in northern Australia*
-* **Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)
+* <span class="light">**Geo 9**: The way transportation and information and communication technologies are used to connect people to services, information and people in other places (ACHGK066)</span>
   * *describing the differences in people's access to the internet between and within countries and exploring how information and communication technologies are being used to connect people to information, services and people in other places (for example, in rural areas across Australia and the world, including selected countries of the Asia region)*
   * *examining how information and communication technologies have made it possible for places (for example, in India and the Philippines) to provide a range of global business services*
-* **Geo 9**: The ways that places and people are interconnected with other places through trade in goods and services, at all scales (ACHGK067)
+* <span class="light">**Geo 9**: The ways that places and people are interconnected with other places through trade in goods and services, at all scales (ACHGK067)</span>
   * *investigating how and why places are interconnected regionally, nationally and globally through trade in goods and services*
   * *investigating some of the products and/or services that businesses in their town, city or rural region sell to other places*
   * *examining tourism, students and retirees as sources of income for some places*
-* **Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)
+* <span class="light">**Geo 9**: The effects of people’s travel, recreational, cultural or leisure choices on places, and the implications for the future of these places (ACHGK069)</span>
   * *investigating the global growth of tourism and its likely effects on the future of places*
-* **Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
- (ACHGS064)
+* <span class="light">**Geo 9**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+ (ACHGS064)</span>
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
-* **Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)
+* <span class="light">**Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)</span>
   * *creating a map to show the relationship between biomes and world food production, using a spatial technologies application*
-* **Geo 10**: Human-induced environmental changes that challenge sustainability
- (ACHGK070)
+* <span class="light">**Geo 10**: Human-induced environmental changes that challenge sustainability
+ (ACHGK070)</span>
   * *evaluating the concept of ecosystem services and the importance of these services for sustainability of biodiversity*
-* **Geo 10**: The Aboriginal and Torres Strait Islander Peoples’ approaches to custodial responsibility and environmental management in different regions of Australia (ACHGK072)
+* <span class="light">**Geo 10**: The Aboriginal and Torres Strait Islander Peoples’ approaches to custodial responsibility and environmental management in different regions of Australia (ACHGK072)</span>
   * *researching the role of Aboriginal and Torres Strait Islander Peoples in environmental management*
-* **Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)
+* <span class="light">**Geo 10**: The application of systems thinking to understanding the causes and likely consequences of the environmental change being investigated  (ACHGK073)</span>
   * *describing the nature of the environmental change and its effect on the sustainability of environmental functions*
-* **Geo 10**: Reasons for spatial variations between countries in selected indicators of human wellbeing
- (ACHGK077)
+* <span class="light">**Geo 10**: Reasons for spatial variations between countries in selected indicators of human wellbeing
+ (ACHGK077)</span>
   * *investigating the economic, social, technological, political and or environmental causes of spatial inequality between countries*
   * *investigating the interrelationships between the rate of population growth and human wellbeing in countries*
-* **Geo 10**: Issues affecting development of places and their impact on human wellbeing, drawing on a study from a developing country or region in Africa, South America or the Pacific Islands (ACHGK078)
+* <span class="light">**Geo 10**: Issues affecting development of places and their impact on human wellbeing, drawing on a study from a developing country or region in Africa, South America or the Pacific Islands (ACHGK078)</span>
   * *investigating development issues (for example, access to clean water, sanitation, health services and adequate food and shelter) and their potential impact on human wellbeing*
-* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* <span class="light">**Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)</span>
   * *planning methods of data collection to answer inquiry questions and evaluating questions for their geographical significance*
-* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
- (ACHGS073)
+* <span class="light">**Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+ (ACHGS073)</span>
   * *collecting quantitative and qualitative data using ethical research methods, including the use of protocols for consultation with Aboriginal and Torres Strait Islander communities*
   * *using Gapminder or United Nations statistics to collect data on countries to answer an inquiry question*
-* **Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)
+* <span class="light">**Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)</span>
   * *constructing and interpreting choropleth maps to show patterns of human wellbeing at a local scale*
   * *creating a map to show measures of environmental change, using a spatial technologies application*
-* **C&C 9**: How citizens’ political choices are shaped, including the influence of the media
- (ACHCK076)
+* <span class="light">**C&C 9**: How citizens’ political choices are shaped, including the influence of the media
+ (ACHCK076)</span>
   * *examining a range of strategies used to persuade citizens’ electoral choices such as public debate, media, opinion polls, advertising, interest groups and political party campaigns*
-* **C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
- (ACHCK079)
+* <span class="light">**C&C 9**: How and why individuals and groups, including religious groups, participate in and contribute to civic life
+ (ACHCK079)</span>
   * *researching the work of a non-government organisation (NGO), philanthropist, community group or religious group and how and why they contribute to the Australian community*
-* **C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)
+* <span class="light">**C&C 9**: Critically evaluate information and ideas from a range of sources in relation to civics and citizenship topics and issues (ACHCS084)</span>
   * *explaining the assumptions or missing information that may affect the reliability of an opinion about an issue (for example, commentary from a traditional form of media)*
-* **C&C 10**: How Australia’s international legal obligations shape Australian law and government policies, including in relation to Aboriginal and Torres Strait Islander Peoples (ACHCK093)
+* <span class="light">**C&C 10**: How Australia’s international legal obligations shape Australian law and government policies, including in relation to Aboriginal and Torres Strait Islander Peoples (ACHCK093)</span>
   * *researching the International Convention on the Elimination of All Forms of Racial Discrimination, Convention on the Rights of the Child, and the Declaration on the Rights of Indigenous Peoples*
-* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* <span class="light">**E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)</span>
   * *locating a range of products in the local shopping centre that were produced overseas, and proposing reasons why they were not produced in Australia (for example, comparative advantage and gains from specialisation and trade)*
   * *investigating the activities of transnational corporations in supply chains and global business activities*
-* **E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)
+* <span class="light">**E&B 9**: Why and how people manage financial risks and rewards in the current Australian and global financial landscape (ACHEK040)</span>
   * *identifying financial risks such as scams and identity theft*
   * *investigating different types of investment that enable people to accumulate savings for the future (for example, shares, term deposits, managed funds)*
   * *identifying ways consumers can protect themselves from risks (for example, through setting financial goals, insurances, savings, investments, diversification, scam avoidance and superannuation)*
-* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
- (ACHEK041)
+* <span class="light">**E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+ (ACHEK041)</span>
   * *investigating the different strategies businesses use to create competitive advantage (for example, research and development, offering a lower-cost product, or by implementing efficient internal operations strategies)*
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* <span class="light">**E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)</span>
   * *using strategies to determine the reliability of information collected (for example, taking into account the author, purpose, audience, medium)*
-* **E&B 9**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
- (ACHEK038)
+* <span class="light">**E&B 9**: Australia as a trading nation and its place within the rising economies of Asia and broader global economy
+ (ACHEK038)</span>
   * *identifying participants in the open Australian economy including household, business, finance, government and foreign sectors*
   * *explaining the impact of global events on the Australian economy and its trade and investment relations with other countries (for example, a natural disaster in a country of the Asia region)*
-* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* <span class="light">**E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)</span>
   * *examining changes to the roles of employees in the workplace (for example, the increasing encouragement for workers to show initiative or act as intrapreneurs)*
-* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* <span class="light">**E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)</span>
   * *investigating economic performance and living standards and discussing how they can mean different things to different people and countries*
   * *investigating the ways living standards can be measured (for example, gross domestic product (GDP), Human Development Index (HDI) or total quality of life index)*
   * *investigating the ways in which income and wealth are distributed in the economy, using measures such as an income distribution histogram, the Lorenz curve or the Gini coefficient*
-* **E&B 10**: The ways businesses respond to changing economic conditions and improve productivity through organisational management and workforce management (ACHEK054)
+* <span class="light">**E&B 10**: The ways businesses respond to changing economic conditions and improve productivity through organisational management and workforce management (ACHEK054)</span>
   * *identifying ethical and unethical workplace practices and investigating the impact of these practices on individuals*
   * *investigating ways that businesses have responded to improving economic conditions (for example, increasing their research and development funding to create innovative products, adjusting marketing strategies to expand their market share, upskilling their workforce to improve productivity)*
-* **E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)
+* <span class="light">**E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)</span>
   * *representing data and information in a format to aid interpretation and analysis (for example, providing a timeline of events and/or providing a graph showing changes in data)*
-* **E&B 10**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)
+* <span class="light">**E&B 10**: Analyse data and information in different formats to explain cause-and-effect relationships, make predictions and illustrate alternative perspectives (ACHES057)</span>
   * *interpreting a range of measures of economic performance and standards of living to identify differences within and between economies*
-* **E&B 10**: Indicators of economic performance and how Australia’s economy is performing (ACHEK050)
+* <span class="light">**E&B 10**: Indicators of economic performance and how Australia’s economy is performing (ACHEK050)</span>
   * *investigating the performance of the Australian economy using key indicators and explaining fluctuations using phases of the business cycle*
-* **E&B 10**: The ways that governments manage economic performance to improve living standards
- (ACHEK052)
+* <span class="light">**E&B 10**: The ways that governments manage economic performance to improve living standards
+ (ACHEK052)</span>
   * *investigating how Australia supports economic growth in the Asia region through participating in the Asia-Pacific Economic Cooperation (APEC) forum*
 
 ### Transfer knowledge into new contexts
@@ -6769,81 +6798,81 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 1**: Use comprehension strategies to build literal and inferred meaning about key events, ideas and information in texts that they listen to, view and read by drawing on growing knowledge of context, text structures and language features
- (ACELY1660)
+* <span class="light">**English 1**: Use comprehension strategies to build literal and inferred meaning about key events, ideas and information in texts that they listen to, view and read by drawing on growing knowledge of context, text structures and language features
+ (ACELY1660)</span>
   * *making connections between the text and students’ own experiences, and between information in print and images*
-* **English 1**: Make short presentations using some introduced text structures and language, for example opening statements (ACELY1657)
+* <span class="light">**English 1**: Make short presentations using some introduced text structures and language, for example opening statements (ACELY1657)</span>
   * *reporting the results of group discussions*
   * *giving short oral presentations about areas of interest or content area topics, speaking clearly and with appropriate volume and using extended vocabulary and a growing knowledge of content-specific words*
-* **English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)
+* <span class="light">**English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)</span>
   * *drawing, writing and using digital technologies to capture and communicate favourite characters and events*
-* **English 2**: Rehearse and deliver short presentations on familiar and new topics (ACELY1667)
+* <span class="light">**English 2**: Rehearse and deliver short presentations on familiar and new topics (ACELY1667)</span>
   * *listening and responding to presentations, including those using multimedia, on familiar and learned topics, recording key information, and connecting new and existing knowledge about a topic*
-* **English 2**: Use comprehension strategies to build literal and inferred meaning and begin to analyse texts by drawing on growing knowledge of context, language and visual features and print and multimodal text structures (ACELY1670)
+* <span class="light">**English 2**: Use comprehension strategies to build literal and inferred meaning and begin to analyse texts by drawing on growing knowledge of context, language and visual features and print and multimodal text structures (ACELY1670)</span>
   * *making connections between the text and students’ own experiences and experiences with other texts, comparing authors’ differing point of view on a topic*
   * *making connections between information in print and images*
   * *building on and using prior knowledge and vocabulary*
   * *making valid inferences using information in a text and students’ own prior knowledge*
-* **English 2**: Re-read and edit text for spelling, sentence-boundary punctuation and text structure
- (ACELY1672)
+* <span class="light">**English 2**: Re-read and edit text for spelling, sentence-boundary punctuation and text structure
+ (ACELY1672)</span>
   * *making significant changes to their texts using a word processing program ( for example add, delete or move sentences)*
-* **Science 2**: Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions (ACSIS040)
+* <span class="light">**Science 2**: Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions (ACSIS040)</span>
   * *comparing and discussing, with guidance, whether observations were expected*
-* **Science 2**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE034)
+* <span class="light">**Science 2**: Science involves observing, asking questions about, and describing changes in, objects and events (ACSHE034)</span>
   * *describing everyday events and experiences and changes in our environment using knowledge of science*
   * *suggesting how everyday items work, using knowledge of forces or materials*
-* **HASS 1**: Compare objects from the past with those from the present and consider how places have changed over time (ACHASSI023)
+* <span class="light">**HASS 1**: Compare objects from the past with those from the present and consider how places have changed over time (ACHASSI023)</span>
   * *using comparative language when describing family life over time and/or comparing features of places, such as ‘smaller than’, ‘bigger than’, ‘closer’, ‘further’, ‘not as big as’, ‘younger/older than’, ‘more rainy days’, ‘fewer/less’, ‘hottest/coldest’, ‘sunnier’, ‘windier than’*
   * *exploring Aboriginal and Torres Strait Islander stories, traditional and contemporary, about places and the past and how places have changed*
-* **HASS 1**: Interpret data and information displayed in pictures and texts and on maps (ACHASSI024)
+* <span class="light">**HASS 1**: Interpret data and information displayed in pictures and texts and on maps (ACHASSI024)</span>
   * *finding the meaning of unfamiliar vocabulary relating to the past (for example, games such as jacks/knuckles and elastics; technology tools such as floppy discs or USBs, record player, cassette player)*
-* **HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)
+* <span class="light">**HASS 1**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI026)</span>
   * *recalling information about a place or a site and giving reasons why it should be cared for and commemorated or celebrated*
   * *imagining how a local feature or place might change in the future and proposing action they could take to improve a place or influence a positive future*
-* **HASS 1**: Differences and similarities between students' daily lives and life during their parents’ and grandparents’ childhoods (ACHASSK030)
+* <span class="light">**HASS 1**: Differences and similarities between students' daily lives and life during their parents’ and grandparents’ childhoods (ACHASSK030)</span>
   * *comparing and commenting on photographs and oral histories (for example, talking to parents, grandparents and other elders) to find out how daily lives have changed*
   * *comparing what has changed over time (for example, homes, family traditions, leisure, communication technology, rules, how needs were met then and now, wants, and shopping/consumer habits)*
-* **HASS 1**: The weather and seasons of places and the ways in which different cultural groups, including Aboriginal and Torres Strait Islander Peoples, describe them (ACHASSK032)
+* <span class="light">**HASS 1**: The weather and seasons of places and the ways in which different cultural groups, including Aboriginal and Torres Strait Islander Peoples, describe them (ACHASSK032)</span>
   * *comparing the Aboriginal or Torres Strait Islander People’s seasonal calendar for the local area with one students are familiar with, such as the four-seasons calendar derived from Europe*
-* **HASS 2**: Sequence familiar objects and events (ACHASSI037)
+* <span class="light">**HASS 2**: Sequence familiar objects and events (ACHASSI037)</span>
   * *creating a timeline, slideshow or story to show how things develop sequentially (for example, seasonal change in plants, cycles of the weather, personal growth milestones)*
-* **HASS 2**: How changing technology affected people’s lives (at home and in the ways they worked, travelled, communicated and played in the past) (ACHASSK046)
+* <span class="light">**HASS 2**: How changing technology affected people’s lives (at home and in the ways they worked, travelled, communicated and played in the past) (ACHASSK046)</span>
   * *examining the traditional toys used by Aboriginal and Torres Strait Islander children to play and learn (for example, Arrernte children learn to play string games so they can remember stories they have been told)*
   * *identifying some rules for children of past generations that do not apply in the present, and some rules of the present that did not exist in the past due to technological changes*
-* **HASS 2**: The ways in which Aboriginal and Torres Strait Islander Peoples maintain special connections to particular Country/Place
- (ACHASSK049)
+* <span class="light">**HASS 2**: The ways in which Aboriginal and Torres Strait Islander Peoples maintain special connections to particular Country/Place
+ (ACHASSK049)</span>
   * *describing the connections of the local Aboriginal and Torres Strait Islander Peoples with the land, sea, waterways, sky and animals of their Country/Place, and how this influences their views on the use of environmental resources*
-* **Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)
+* <span class="light">**Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)</span>
   * *exploring and responding to dances they make and view, for example, considering what the dance made them think about or how the dance made them feel*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *exploring the movements in dances with representatives of the Aboriginal and Torres Strait Islander community, for example, creating movements that represent animals from their region*
   * *using expressive skills to engage the audience, for example, looking out to audience and using facial expression*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *manipulating objects, puppets, 2D images and available technologies to create stories*
-* **Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)
+* <span class="light">**Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)</span>
   * *experimenting with image, for example, retelling a story of the school day in a series of captioned images*
   * *experimenting with technologies to capture images, sounds and text*
   * *exploring composition by selecting and editing images and/or sounds to create the characters in well-known stories or songs*
-* **Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)
+* <span class="light">**Media F-2**: Use media technologies to capture and edit images, sounds and text for a purpose (ACAMAM055)</span>
   * *experimenting with and managing a digital camera to capture still or moving images, for example, reviewing captured images, zooming in and out and deleting unwanted images*
   * *experimenting with sound recording technology and found objects to create and record sound effects to support a story*
-* **Music F-2**: Create compositions and perform music to communicate ideas to an audience
- (ACAMUM082)
+* <span class="light">**Music F-2**: Create compositions and perform music to communicate ideas to an audience
+ (ACAMUM082)</span>
   * *choosing and combining sounds to create compositions, for example, combining pitch and rhythm patterns*
   * *recording music using notation and technologies so others can read the notation and listen to the recording*
-* **D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)
+* <span class="light">**D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)</span>
   * *developing new meanings for objects and action during play, for example exploring how household packaging can be used to represent other objects*
-* **D&T F-2**: Sequence steps for making designed solutions and working collaboratively (ACTDEP009)
+* <span class="light">**D&T F-2**: Sequence steps for making designed solutions and working collaboratively (ACTDEP009)</span>
   * *using lists or storyboarding when planning and making, for example when planning an electronic planting calendar*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *using and playing with everyday materials in new ways or re-using discarded materials, for example using discarded materials to design, make and model a constructed environment*
   * *assembling components of systems and checking they function as planned, for example when making a musical instrument*
-* **DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)
+* <span class="light">**DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)</span>
   * *using different types of data to create information for sharing online, for example creating a multimedia class profile that includes a photo of each student, a personal audio recording and a written message*
-* **HPE 1-2**: Recognise similarities and differences in individuals and groups, and explore how these are celebrated and respected (ACPPS024)
+* <span class="light">**HPE 1-2**: Recognise similarities and differences in individuals and groups, and explore how these are celebrated and respected (ACPPS024)</span>
   * *sharing the things that make them similar to and different from others in the class*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *selecting and implementing different movement skills to be successful in a game*
 
 #### **Level 3**: transfer and apply information in one setting to enrich another
@@ -6886,89 +6915,89 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 3**: Create imaginative texts based on characters, settings and events from students’ own and other cultures using visual features, for example perspective, distance and angle (ACELT1601)
+* <span class="light">**English 3**: Create imaginative texts based on characters, settings and events from students’ own and other cultures using visual features, for example perspective, distance and angle (ACELT1601)</span>
   * *innovating on texts read, viewed and listened to by changing the point of view, revising an ending or creating a sequel*
-* **English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)
+* <span class="light">**English 3**: Use interaction skills, including active listening behaviours and communicate in a clear, coherent manner using a variety of everyday and learned vocabulary and appropriate tone, pace, pitch and volume (ACELY1792)</span>
   * *acquiring new vocabulary in all curriculum areas through listening, reading, viewing and discussion and using this vocabulary in specific ways such as describing people, places, things and processes*
-* **English 4**: Read and write a large core of high frequency words including homophones and know how to use context to identify correct spelling (ACELA1780)
+* <span class="light">**English 4**: Read and write a large core of high frequency words including homophones and know how to use context to identify correct spelling (ACELA1780)</span>
   * *using meaning and context to determine the spelling of homophones, for example ‘there’ and ‘their’; ‘no’ and ‘know’*
-* **Maths 3**: Recall multiplication facts of two, three, five and ten and related division facts (ACMNA056)
+* <span class="light">**Maths 3**: Recall multiplication facts of two, three, five and ten and related division facts (ACMNA056)</span>
   * *establishing multiplication facts using number sequences*
-* **Maths 4**: Recognise that the place value system can be extended to tenths and hundredths. Make connections between fractions and decimal notation (ACMNA079)
+* <span class="light">**Maths 4**: Recognise that the place value system can be extended to tenths and hundredths. Make connections between fractions and decimal notation (ACMNA079)</span>
   * *using division by 10 to extend the place-value system*
   * *using knowledge of fractions to establish equivalences between fractions and decimal notation*
-* **Maths 4**: Solve problems involving purchases and the calculation of change to the nearest five cents with and without digital technologies (ACMNA080)
+* <span class="light">**Maths 4**: Solve problems involving purchases and the calculation of change to the nearest five cents with and without digital technologies (ACMNA080)</span>
   * *carrying out calculations in another currency as well as in dollars and cents, and identifying both as decimal systems*
-* **Maths 4**: Recall multiplication facts up to 10 × 10 and related division facts (ACMNA075)
+* <span class="light">**Maths 4**: Recall multiplication facts up to 10 × 10 and related division facts (ACMNA075)</span>
   * *using known multiplication facts to calculate related division facts*
-* **Science 4**: With guidance, identify questions in familiar contexts that can be investigated scientifically and make predictions based on prior knowledge (ACSIS064)
+* <span class="light">**Science 4**: With guidance, identify questions in familiar contexts that can be investigated scientifically and make predictions based on prior knowledge (ACSIS064)</span>
   * *reflecting on familiar situations to make predictions with teacher guidance*
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *making and recording measurements using familiar formal units and appropriate abbreviations, such as seconds (s), grams (g), centimetres (cm) and millilitres (mL)*
-* **HASS 3**: Record, sort and represent data and the location of places and their characteristics in different formats, including simple graphs, tables and maps, using discipline-appropriate conventions
- (ACHASSI054)
+* <span class="light">**HASS 3**: Record, sort and represent data and the location of places and their characteristics in different formats, including simple graphs, tables and maps, using discipline-appropriate conventions
+ (ACHASSI054)</span>
   * *placing graphs and other data on electronic maps to visualise differences between types and patterns of settlements*
-* **HASS 3**: Sequence information about people’s lives and events (ACHASSI055)
+* <span class="light">**HASS 3**: Sequence information about people’s lives and events (ACHASSI055)</span>
   * *creating visual representations of a sequence of events or happenings (for example, the stages involved in making decisions in a familiar context, such as a planning a class activity, the sequence of seasonal changes in different climates)*
-* **HASS 3**: Examine information to identify different points of view and distinguish facts from opinions (ACHASSI056)
+* <span class="light">**HASS 3**: Examine information to identify different points of view and distinguish facts from opinions (ACHASSI056)</span>
   * *identifying differences in the meaning of celebrations when viewed from different perspectives that result in different actions (for example, the meaning of Australia Day for many Aboriginal and Torres Strait Islander Peoples when compared with its meaning for many other Australians)*
-* **HASS 3**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI057)
+* <span class="light">**HASS 3**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI057)</span>
   * *using maps, ground and aerial photographs and satellite images or a digital application (for example, European Space Agency, NASA World Wind or Google Earth), to identify, locate and describe geographical patterns and distributions (for example, different types and patterns of settlements in Australia and Asia)*
   * *discussing and comparing how Aboriginal and Torres Strait Islander Peoples may represent places and their features visually (for example, in paintings and sand drawings) and identify symbols and patterns*
-* **HASS 3**: Draw simple conclusions based on analysis of information and data
- (ACHASSI058)
+* <span class="light">**HASS 3**: Draw simple conclusions based on analysis of information and data
+ (ACHASSI058)</span>
   * *examining the meaning of diversity using examples drawn from their community (such as celebrations and commemorations), drawn from other countries (such as environments, climate, lifestyle, settlement) and from the experiences of their peers (such as how they participate in their family and community)*
-* **HASS 3**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI060)
+* <span class="light">**HASS 3**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI060)</span>
   * *choosing and enacting roles for group work that recognise an awareness of members’ knowledge and skills and customs*
-* **HASS 3**: Who makes rules, why rules are important and the consequences of rules not being followed (ACHASSK071)
+* <span class="light">**HASS 3**: Who makes rules, why rules are important and the consequences of rules not being followed (ACHASSK071)</span>
   * *considering why rules differ across contexts (for example, a library, the playground, in class, at home, in games and in cultural groups)*
-* **HASS 4**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI078)
+* <span class="light">**HASS 4**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI078)</span>
   * *comparing information in sources to identify evidence of change (for example, Aboriginal, Dutch and French place names on Australia’s west coast; past and present distribution of vegetation in North Africa that points to increasing desertification)*
   * *interpreting thematic maps and using Google Earth or similar applications to describe the characteristics of a continent or region or to identify the distribution of a particular characteristic (for example, languages of South America, equatorial rainforests, settlement along a major river valley in South America from its source to the sea)*
   * *comparing environments in places of similar climate and vegetation that are located on different continents (for example, sandy, icy and stony deserts of Australia, Africa, Antarctica and South America)*
-* **HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)
+* <span class="light">**HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)</span>
   * *reflecting on personal behaviours and identifying attitudes that may affect aspects of the environment at a local or global level (for example, pouring paints down the sink; using products sourced from cleared rainforests) and proposing awareness-raising strategies to reduce impacts on the environment*
   * *proposing possible actions that could be taken to address an issue (for example, improving the management of waste in the school; choosing products not made from endangered species such as elephants) and identifying resources needed to support the actions and likely outcomes (for example, composting lunch waste and using it on the school garden; making socially responsible decisions)*
-* **HASS 4**: The main characteristics of the continents of Africa and South America and the location of their major countries in relation to Australia (ACHASSK087)
+* <span class="light">**HASS 4**: The main characteristics of the continents of Africa and South America and the location of their major countries in relation to Australia (ACHASSK087)</span>
   * *researching the main types of natural vegetation and native animals in a climate zone in Australia, and comparing them with those found in a similar climate in Africa or South America*
-* **Dance 3-4**: Improvise and structure movement ideas for dance sequences using the elements of dance and choreographic devices
- (ACADAM005)
+* <span class="light">**Dance 3-4**: Improvise and structure movement ideas for dance sequences using the elements of dance and choreographic devices
+ (ACADAM005)</span>
   * *using contrast and repetition to explore and generate new movement in response to stimuli such as stories, memories and the environment*
   * *selecting and combining movements using choreographic devices such as contrast and repetition, for example, combining movements learned in a dance from Asia with other dance movements, or repeating movement to show emphasis*
-* **Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)
+* <span class="light">**Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)</span>
   * *using elements of drama and the principles of stories to shape improvisations to communicate their intentions as drama makers, for example, establishing time and place and the roles and characters in the drama*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *exploring dramatic traditions and practices from one or more Asian societies in their drama*
-* **Music 3-4**: Create, perform and record compositions by selecting and organising sounds, silence, tempo and volume (ACAMUM086)
+* <span class="light">**Music 3-4**: Create, perform and record compositions by selecting and organising sounds, silence, tempo and volume (ACAMUM086)</span>
   * *experimenting with ways of using voices and instruments, combining sounds, silence, tempo and volume to create and perform music*
-* **Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)
+* <span class="light">**Music 3-4**: Develop aural skills by exploring, imitating and recognising elements of music including dynamics, pitch and rhythm patterns (ACAMUM084)</span>
   * *singing learnt pitch and rhythm patterns and varying elements of music within them to create different effects, for example, singing softer or louder, faster or slower, repeating phrases*
   * *exploring and varying instrumental timbres in isolation and combination, for example, playing softer or louder, faster or slower, repeating phrases*
-* **Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)
+* <span class="light">**Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)</span>
   * *experimenting with ways of singing and playing expressively, such as learning and practising a song with different dynamics and tempo*
-* **Visual 3-4**: Use materials, techniques and processes to explore visual conventions when making artworks (ACAVAM111)
+* <span class="light">**Visual 3-4**: Use materials, techniques and processes to explore visual conventions when making artworks (ACAVAM111)</span>
   * *selecting and experimenting with forms, styles, materials and technologies to explore symbolic use of visual conventions used by various cultures and times, for example, how colour and pattern are perceived as symbolic in different cultures*
   * *experimenting with alternative styles of representation from different cultures and times in their artworks, for example, realistic, symbolic, narrative, abstract*
   * *manipulating and experimenting with combinations of various materials and technologies to create predictable effects, for example, using crosshatching to create tone or design elements to focus attention in a composition*
-* **D&T 3-4**: Investigate how forces and the properties of materials affect the behaviour of a product or system
- (ACTDEK011)
+* <span class="light">**D&T 3-4**: Investigate how forces and the properties of materials affect the behaviour of a product or system
+ (ACTDEK011)</span>
   * *deconstructing a product or system to identify how motion and forces affect behaviour, for example in a puppet such as a Japanese bunraku puppet or a model windmill with moving sails*
-* **D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)
+* <span class="light">**D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)</span>
   * *comparing how different components interrelate and complement each other in a finished designed solution, for example investigating and playing with joining processes for a variety of materials in the production of common products*
-* **D&T 3-4**: Generate, develop, and communicate design ideas and decisions using appropriate technical terms and graphical representation techniques (ACTDEP015)
+* <span class="light">**D&T 3-4**: Generate, develop, and communicate design ideas and decisions using appropriate technical terms and graphical representation techniques (ACTDEP015)</span>
   * *planning, sharing and documenting creative ideas and processes using digital tools such as a class blog or collaborative document*
-* **D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
- (ACTDEP017)
+* <span class="light">**D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
+ (ACTDEP017)</span>
   * *comparing the amount of waste that would be produced from different design and development options and the potential for recycling waste*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *using appropriate technologies terms to confidently describe and share with others procedures and techniques for making, for example cutting and joining materials*
   * *using tools and equipment accurately when measuring, marking and cutting; and explaining the importance of accuracy when designing and making, for example creating a template, measuring ingredients in a recipe, sowing seeds*
   * *selecting and using materials, components, tools, equipment and processes with consideration of the environmental impact at each stage of the production process*
-* **HPE 3-4**: Apply innovative and creative thinking in solving movement challenges
- (ACPMP049)
+* <span class="light">**HPE 3-4**: Apply innovative and creative thinking in solving movement challenges
+ (ACPMP049)</span>
   * *transferring and applying skills to solve movement challenges*
   * *drawing on prior knowledge to solve movement challenges*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *participating in physical activities which require problem-solving to achieve a goal*
 
 #### **Level 4**: apply knowledge gained from one context to another unrelated context and identify new meaning
@@ -7013,112 +7042,112 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 5**: Plan, draft and publish imaginative, informative and persuasive print and multimodal texts, choosing text structures, language features, images and sound appropriate to purpose and audience
- (ACELY1704)
+* <span class="light">**English 5**: Plan, draft and publish imaginative, informative and persuasive print and multimodal texts, choosing text structures, language features, images and sound appropriate to purpose and audience
+ (ACELY1704)</span>
   * *using research from print and digital resources to gather and organise information for writing*
-* **English 5**: Use interaction skills, for example paraphrasing, questioning and interpreting non-verbal cues and choose vocabulary and vocal effects appropriate for different audiences and purposes (ACELY1796)
+* <span class="light">**English 5**: Use interaction skills, for example paraphrasing, questioning and interpreting non-verbal cues and choose vocabulary and vocal effects appropriate for different audiences and purposes (ACELY1796)</span>
   * *experimenting with voice effects in formal presentations such as tone, volume, pitch and pace, recognising the effects these have on audience understanding*
-* **English 6**: Compare texts including media texts that represent ideas and events in different ways, explaining the effects of the different approaches (ACELY1708)
+* <span class="light">**English 6**: Compare texts including media texts that represent ideas and events in different ways, explaining the effects of the different approaches (ACELY1708)</span>
   * *identifying and exploring news reports of the same event, and discuss the language choices and point of view of the writers*
   * *using display advertising as a topic vehicle for close analysis of the ways images and words combine for deliberate effect including examples from the countries of Asia (for example comparing Hollywood film posters with Indian Bollywood film posters)*
-* **English 6**: Select, navigate and read texts for a range of purposes, applying appropriate text processing strategies and interpreting structural features, for example table of contents, glossary, chapters, headings and subheadings (ACELY1712)
+* <span class="light">**English 6**: Select, navigate and read texts for a range of purposes, applying appropriate text processing strategies and interpreting structural features, for example table of contents, glossary, chapters, headings and subheadings (ACELY1712)</span>
   * *using research skills including identifying research purpose, locating texts, gathering and organising information, evaluating and using information*
-* **English 6**: Use comprehension strategies to interpret and analyse information and ideas, comparing content from a variety of textual sources including media and digital texts (ACELY1713)
+* <span class="light">**English 6**: Use comprehension strategies to interpret and analyse information and ideas, comparing content from a variety of textual sources including media and digital texts (ACELY1713)</span>
   * *using prior knowledge and textual information to make inferences and predictions*
-* **English 6**: Use interaction skills, varying conventions of spoken interactions such as voice volume, tone, pitch and pace, according to group size, formality of interaction and needs and expertise of the audience
- (ACELY1816)
+* <span class="light">**English 6**: Use interaction skills, varying conventions of spoken interactions such as voice volume, tone, pitch and pace, according to group size, formality of interaction and needs and expertise of the audience
+ (ACELY1816)</span>
   * *using effective strategies for dialogue and discussion in range of familiar and new contexts, including speaking clearly and coherently and at appropriate length, acknowledging and extending the contributions of others, asking pertinent questions and answering others’ questions*
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, adapting language choices to meet the perceived audience needs, such as recounting an excursion to a younger class or welcoming a visitor to a school function*
-* **Maths 5**: Identify and describe factors and multiples of whole numbers and use them to solve problems (ACMNA098)
+* <span class="light">**Maths 5**: Identify and describe factors and multiples of whole numbers and use them to solve problems (ACMNA098)</span>
   * *using simple divisibility tests*
-* **Science 5**: With guidance, pose clarifying questions and make predictions about scientific investigations (ACSIS231)
+* <span class="light">**Science 5**: With guidance, pose clarifying questions and make predictions about scientific investigations (ACSIS231)</span>
   * *applying experience from similar situations in the past to predict what might happen in a new situation*
-* **Science 6**: With guidance, pose clarifying questions and make predictions about scientific investigations (ACSIS232)
+* <span class="light">**Science 6**: With guidance, pose clarifying questions and make predictions about scientific investigations (ACSIS232)</span>
   * *applying experience from previous investigations to predict the outcomes of investigations in new contexts*
-* **HASS 5**: Evaluate evidence to draw conclusions (ACHASSI101)
+* <span class="light">**HASS 5**: Evaluate evidence to draw conclusions (ACHASSI101)</span>
   * *exploring past or present representations of people that differ from those commonly conveyed (for example, missing voices of minority groups such as youth, the unemployed, non-citizens, women, children, Aboriginal and/or Torres Strait Islander Peoples, migrants, South Sea Islanders)*
-* **HASS 5**: Work in groups to generate responses to issues and challenges (ACHASSI102)
+* <span class="light">**HASS 5**: Work in groups to generate responses to issues and challenges (ACHASSI102)</span>
   * *using communication technologies to exchange information and to facilitate the development of a collaborative response*
-* **HASS 5**: The reasons people migrated to Australia and the experiences and contributions of a particular migrant group within a colony (ACHASSK109)
+* <span class="light">**HASS 5**: The reasons people migrated to Australia and the experiences and contributions of a particular migrant group within a colony (ACHASSK109)</span>
   * *connecting (where appropriate) stories of migration to students’ own family histories*
-* **HASS 5**: The environmental and human influences on the location and characteristics of a place and the management of spaces within them (ACHASSK113)
+* <span class="light">**HASS 5**: The environmental and human influences on the location and characteristics of a place and the management of spaces within them (ACHASSK113)</span>
   * *comparing how people have responded to climatic conditions in similar and different places and explaining why most Australians live close to the coast compared to inland Australia*
-* **HASS 5**: Influences on consumer choices and methods that can be used to help make informed personal consumer and financial choices (ACHASSK121)
+* <span class="light">**HASS 5**: Influences on consumer choices and methods that can be used to help make informed personal consumer and financial choices (ACHASSK121)</span>
   * *exploring the strategies that can be used when making consumer and financial decisions (for example, finding more information, comparing prices, keeping a record of money spent, saving for the future)*
-* **HASS 5**: The key values that underpin Australia’s democracy
- (ACHASSK115)
+* <span class="light">**HASS 5**: The key values that underpin Australia’s democracy
+ (ACHASSK115)</span>
   * *considering how students apply democratic values in familiar contexts*
-* **HASS 6**: Stories of groups of people who migrated to Australia since Federation (including from ONE country of the Asia region) and reasons they migrated (ACHASSK136)
+* <span class="light">**HASS 6**: Stories of groups of people who migrated to Australia since Federation (including from ONE country of the Asia region) and reasons they migrated (ACHASSK136)</span>
   * *connecting stories of migration to students’ own family histories (where appropriate)*
-* **HASS 6**: How the concept of opportunity cost involves choices about the alternative use of resources and the need to consider trade-offs (ACHASSK149)
+* <span class="light">**HASS 6**: How the concept of opportunity cost involves choices about the alternative use of resources and the need to consider trade-offs (ACHASSK149)</span>
   * *exploring some national needs and wants in Australia and an Asian country (for example, access to water, education, health care) and comparing resource limitations and decisions*
-* **Drama 5-6**: Explain how the elements of drama and production elements communicate meaning by comparing drama from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander drama (ACADRR038)
+* <span class="light">**Drama 5-6**: Explain how the elements of drama and production elements communicate meaning by comparing drama from different social, cultural and historical contexts, including Aboriginal and Torres Strait Islander drama (ACADRR038)</span>
   * *identifying the features of drama from other contexts, including investigating traditional and contemporary drama from Asia*
-* **Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
- (ACADRM037)
+* <span class="light">**Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
+ (ACADRM037)</span>
   * *using props, costumes, instruments and available technologies such as light, sound and multimedia to create dramatic symbols and enhance dramatic action*
   * *planning and designing elements of their performance, for example, creating a stage design and interpreting diagrams and locations and using proximity and directional stage language in performance spaces during rehearsal*
-* **Media 5-6**: Explore representations, characterisations and points of view of people in their community, including themselves, using settings, ideas, story principles and genre conventions in images, sounds and text (ACAMAM062)
+* <span class="light">**Media 5-6**: Explore representations, characterisations and points of view of people in their community, including themselves, using settings, ideas, story principles and genre conventions in images, sounds and text (ACAMAM062)</span>
   * *applying the conventions of an established genre to an ordinary everyday event to create humour, for example, a visit to the library as an action movie or lunch as a sports commentary on the radio*
-* **Media 5-6**: Develop skills with media technologies to shape space, time, movement and lighting within images, sounds and text (ACAMAM063)
+* <span class="light">**Media 5-6**: Develop skills with media technologies to shape space, time, movement and lighting within images, sounds and text (ACAMAM063)</span>
   * *designing and creating an animated sequence that personifies inanimate objects and creates smooth action*
   * *identifying and applying the conventions  and layout of web page design to engage and interact with a particular audience*
   * *editing a chase sequence, adding music to heighten the action and tension*
-* **Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
- (ACAMUM090)
+* <span class="light">**Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
+ (ACAMUM090)</span>
   * *organising, developing and refining ideas by experimenting with structure*
-* **Music 5-6**: Develop technical and expressive skills in singing and playing instruments with understanding of rhythm, pitch and form in a range of pieces, including in music from the community (ACAMUM089)
+* <span class="light">**Music 5-6**: Develop technical and expressive skills in singing and playing instruments with understanding of rhythm, pitch and form in a range of pieces, including in music from the community (ACAMUM089)</span>
   * *rehearsing and refining performances in an expressive manner to communicate meaning, for example, songs from the community*
   * *composing, rehearsing and performing songs and instrumental pieces using scores in a range of forms*
-* **Visual 5-6**: Explore ideas and practices used by artists, including practices of Aboriginal and Torres Strait Islander artists, to represent different views, beliefs and opinions (ACAVAM114)
+* <span class="light">**Visual 5-6**: Explore ideas and practices used by artists, including practices of Aboriginal and Torres Strait Islander artists, to represent different views, beliefs and opinions (ACAVAM114)</span>
   * *trialling different ways to represent views, beliefs or opinions in their artworks in response to exploration of how artists communicate their views, beliefs and opinions through art*
-* **Visual 5-6**: Develop and apply techniques and processes when making their artworks (ACAVAM115)
+* <span class="light">**Visual 5-6**: Develop and apply techniques and processes when making their artworks (ACAVAM115)</span>
   * *making informed choices about using various combinations of representational elements appropriate for a concept, theme or subject matter, for example, combining realistic drawing skills with an appropriated image from the past to create new meaning*
   * *evaluating the characteristics of their work that are more successful, and work to improve their knowledge and skills from this reflection*
-* **D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)
+* <span class="light">**D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)</span>
   * *identifying the components of a service or system that contribute to its success and assessing potential risk or failure, for example, communication in the school or communication of a message to a wide audience; a system that manages an aspect of the environment; a campaign such as Clean Up Australia Day in different communities*
-* **D&T 5-6**: Investigate how electrical energy can control movement, sound or light in a designed product or system
- (ACTDEK020)
+* <span class="light">**D&T 5-6**: Investigate how electrical energy can control movement, sound or light in a designed product or system
+ (ACTDEK020)</span>
   * *deconstructing a product or system to discover how movement, sound or light can be controlled, for example deconstructing a torch or buzzer and exploring circuit design*
-* **D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)
+* <span class="light">**D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)</span>
   * *using current food guides and government-endorsed food policies to plan food choices*
   * *identifying work practices that show an understanding of nutrition, environmental considerations, hygiene and food safety when designing and making a food product, for example washing fruit and vegetables carefully to remove residues, safe disposal of cooking oils to avoid environmental damage, refrigerated storage of highly perishable foods*
-* **D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)
+* <span class="light">**D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)</span>
   * *comparing tools, equipment and techniques to select those most appropriate for a given purpose*
   * *comparing the design and production of products, services and environments in Australia and a country in the Asia region*
-* **D&T 5-6**: Generate, develop and communicate design ideas and processes for audiences using appropriate technical terms and graphical representation techniques (ACTDEP025)
+* <span class="light">**D&T 5-6**: Generate, develop and communicate design ideas and processes for audiences using appropriate technical terms and graphical representation techniques (ACTDEP025)</span>
   * *generating a range of design ideas for products, services or environments using prior knowledge, skills and research*
   * *experimenting with materials, tools and equipment to refine design ideas, for example considering the selection of materials and joining techniques to suit the purpose of a product*
-* **D&T 5-6**: Negotiate criteria for success that include sustainability to evaluate design ideas, processes and solutions (ACTDEP027)
+* <span class="light">**D&T 5-6**: Negotiate criteria for success that include sustainability to evaluate design ideas, processes and solutions (ACTDEP027)</span>
   * *independently and collaboratively identifying criteria for success, processes and planning, for example using visual representations such as a flowchart*
   * *reflecting on how well their designed solutions ensure safety and wellbeing of users and consumers and meet the needs of communities and different cultures*
-* **D&T 5-6**: Select appropriate materials, components, tools, equipment and techniques and apply safe procedures to make designed solutions (ACTDEP026)
+* <span class="light">**D&T 5-6**: Select appropriate materials, components, tools, equipment and techniques and apply safe procedures to make designed solutions (ACTDEP026)</span>
   * *working safely, responsibly and cooperatively to ensure safe work areas, for example the safe use of equipment when making a water-resistant, floating craft or a model of an environmentally sensitive outdoor shelter*
-* **DT 5-6**: Examine how whole numbers are used to represent all data in digital systems (ACTDIK015)
+* <span class="light">**DT 5-6**: Examine how whole numbers are used to represent all data in digital systems (ACTDIK015)</span>
   * *representing whole numbers in binary, for example counting in binary from zero to 15, or writing a friend’s age in binary*
   * *representing the state of an object in a game as active or inactive using the respective binary values of 1 or 0*
-* **DT 5-6**: Implement digital solutions as simple visual programs involving branching, iteration (repetition), and user input
- (ACTDIP020)
+* <span class="light">**DT 5-6**: Implement digital solutions as simple visual programs involving branching, iteration (repetition), and user input
+ (ACTDIP020)</span>
   * *experimenting with different options that involve repeat instructions, for example a continually repeating slideshow, a repeated movement in an animation, a repeated calculation in a spreadsheet*
   * *designing and creating a solution that is interactive, using a visual programming language, for example designing a user interface for people with disability, taking into account visibility and size of icons; or creating a quiz that provides feedback on response and allows the user to try again*
   * *creating a quiz where questions are repeated until the correct response is given, for example questions and feedback on responses in a few slides in a slideshow*
   * *experimenting with different ways of instructing to make choices and repeat instructions, for example using ‘IF’ statements to allow for making choices and iterations (repeat instructions) until a goal is achieved*
-* **DT 5-6**: Plan, create and communicate ideas and information, including collaboratively online, applying agreed ethical, social and technical protocols (ACTDIP022)
+* <span class="light">**DT 5-6**: Plan, create and communicate ideas and information, including collaboratively online, applying agreed ethical, social and technical protocols (ACTDIP022)</span>
   * *applying practices that support the organisation of collaborative problem-solving, for example finding online meeting times that suit all members, and agreeing on ways of protecting files and sharing information digitally with members*
-* **HPE 5-6**: Examine the influence of emotional responses on behaviour and relationships (ACPPS056)
+* <span class="light">**HPE 5-6**: Examine the influence of emotional responses on behaviour and relationships (ACPPS056)</span>
   * *exploring the emotions associated with feeling unsafe or uncomfortable and how emotions can vary according to different contexts and situations*
-* **HPE 5-6**: Recognise how media and important people in the community influence personal attitudes, beliefs, decisions and behaviours (ACPPS057)
+* <span class="light">**HPE 5-6**: Recognise how media and important people in the community influence personal attitudes, beliefs, decisions and behaviours (ACPPS057)</span>
   * *sharing how important people in their life influence them to act or behave in a healthy or safe way*
-* **HPE 5-6**: Apply critical and creative thinking processes in order to generate and assess solutions to movement challenges
- (ACPMP068)
+* <span class="light">**HPE 5-6**: Apply critical and creative thinking processes in order to generate and assess solutions to movement challenges
+ (ACPMP068)</span>
   * *applying movement skills and strategies from other contexts to generate a solution to an unfamiliar movement challenge*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *applying stability and locomotor skills to dodge and feint in different movement situations*
   * *applying kicking, striking and throwing skills to propel an object and keep it in motion*
   * *performing activities that involve a transition from one skill to another, such as from dribbling to shooting or from leaping to balancing*
   * *designing a sequence of passes between teammates to maintain possession or move a piece of equipment from one point to another*
   * *experimenting with different music genres such as Indian bhangra music when performing creative dances*
-* **HPE 5-6**: Propose and apply movement concepts and strategies with and without equipment (ACPMP063)
+* <span class="light">**HPE 5-6**: Propose and apply movement concepts and strategies with and without equipment (ACPMP063)</span>
   * *proposing and applying movement concepts and strategies to perform movement sequences at different levels using different types of equipment*
   * *proposing and applying movement concepts and strategies to safely traverse a natural environment*
 
@@ -7202,168 +7231,168 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 7**: Experiment with text structures and language features and their effects in creating literary texts, for example, using rhythm, sound effects, monologue, layout, navigation and colour (ACELT1805)
+* <span class="light">**English 7**: Experiment with text structures and language features and their effects in creating literary texts, for example, using rhythm, sound effects, monologue, layout, navigation and colour (ACELT1805)</span>
   * *transforming familiar print narratives into short video or film narratives, drawing on knowledge of the type of text and possible adaptations necessary to a new mode*
   * *drawing on literature and life experiences to create a poem, for example ballad, series of haiku*
-* **English 7**: Use interaction skills when discussing and presenting ideas and information, selecting body language, voice qualities and other elements, (for example music and sound) to add interest and meaning (ACELY1804)
+* <span class="light">**English 7**: Use interaction skills when discussing and presenting ideas and information, selecting body language, voice qualities and other elements, (for example music and sound) to add interest and meaning (ACELY1804)</span>
   * *using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, clarifying and rephrasing comments of others*
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, adapting language choices to meet the perceived audience needs, such as debating a topic with a team from another school, introducing a speaker at a school function*
-* **English 7**: Plan, rehearse and deliver presentations, selecting and sequencing appropriate content and multimodal elements to promote a point of view or enable a new way of seeing (ACELY1720)
+* <span class="light">**English 7**: Plan, rehearse and deliver presentations, selecting and sequencing appropriate content and multimodal elements to promote a point of view or enable a new way of seeing (ACELY1720)</span>
   * *preparing a presentation combining print, visual and audio elements to explore and interpret ideas, drawing on knowledge and research about perspectives different from students’ own*
-* **English 7**: Edit for meaning by removing repetition, refining ideas, reordering sentences and adding or substituting words for impact (ACELY1726)
+* <span class="light">**English 7**: Edit for meaning by removing repetition, refining ideas, reordering sentences and adding or substituting words for impact (ACELY1726)</span>
   * *using collaborative technologies to jointly construct and edit texts*
-* **English 7**: Understand that the coherence of more complex texts relies on devices that signal text structure and guide readers, for example overviews, initial and concluding paragraphs and topic sentences, indexes or site maps or breadcrumb trails for online texts (ACELA1763)
+* <span class="light">**English 7**: Understand that the coherence of more complex texts relies on devices that signal text structure and guide readers, for example overviews, initial and concluding paragraphs and topic sentences, indexes or site maps or breadcrumb trails for online texts (ACELA1763)</span>
   * *writing structured paragraphs for use in a range of academic settings such as paragraph responses, reports and presentations*
-* **English 8**: Explore the interconnectedness of Country/Place, People, Identity and Culture in texts including those by Aboriginal and Torres Strait Islander authors (ACELT1806)
+* <span class="light">**English 8**: Explore the interconnectedness of Country/Place, People, Identity and Culture in texts including those by Aboriginal and Torres Strait Islander authors (ACELT1806)</span>
   * *selecting aspects of a text related to Country/Place, People, Identity and Culture and adapt it for a new context, noting if changes in one aspect will result in changes in another*
-* **English 8**: Experiment with particular language features drawn from different types of texts, including combinations of language and visual choices to create new texts (ACELT1768)
+* <span class="light">**English 8**: Experiment with particular language features drawn from different types of texts, including combinations of language and visual choices to create new texts (ACELT1768)</span>
   * *creating and performing scripts for short plays that make use of the affordances of visual, verbal and additional modes (for example music) to create atmosphere, to deepen interpretation of verbal meaning and to enhance the drama of a performance*
-* **English 8**: Use interaction skills for identified purposes, using voice and language conventions to suit different situations, selecting vocabulary, modulating voice and using elements such as music, images and sound for specific effects (ACELY1808)
+* <span class="light">**English 8**: Use interaction skills for identified purposes, using voice and language conventions to suit different situations, selecting vocabulary, modulating voice and using elements such as music, images and sound for specific effects (ACELY1808)</span>
   * *choosing vocabulary and spoken text and sentence structures for particular purposes and audiences, such as debating a topic with a team from another school, creating a voiceover for a media presentation, and adapting language choices such as use of similes, metaphors and personification, to meet perceived audience needs*
-* **English 8**: Plan, rehearse and deliver presentations, selecting and sequencing appropriate content, including multimodal elements, to reflect a diversity of viewpoints (ACELY1731)
+* <span class="light">**English 8**: Plan, rehearse and deliver presentations, selecting and sequencing appropriate content, including multimodal elements, to reflect a diversity of viewpoints (ACELY1731)</span>
   * *creating texts that express views and values other than students’ own*
-* **English 8**: Use comprehension strategies to interpret and evaluate texts by reflecting on the validity of content and the credibility of sources, including finding evidence in the text for the author’s point of view
- (ACELY1734)
+* <span class="light">**English 8**: Use comprehension strategies to interpret and evaluate texts by reflecting on the validity of content and the credibility of sources, including finding evidence in the text for the author’s point of view
+ (ACELY1734)</span>
   * *reflecting on content by connecting and comparing information found in a text to knowledge sourced elsewhere*
-* **Maths 8**: Extend and apply the distributive law to the expansion of algebraic expressions (ACMNA190)
+* <span class="light">**Maths 8**: Extend and apply the distributive law to the expansion of algebraic expressions (ACMNA190)</span>
   * *applying the distributive law to the expansion of algebraic expressions using strategies such as the area model*
-* **Science 7**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS124)
+* <span class="light">**Science 7**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS124)</span>
   * *using information and knowledge from previous investigations to predict the expected results from an investigation*
-* **Science 8**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS139)
+* <span class="light">**Science 8**: Identify questions and problems that can be investigated scientifically and make predictions based on scientific knowledge (ACSIS139)</span>
   * *using information and knowledge from their own investigations and secondary sources to predict the expected results from an investigation*
-* **HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
+* <span class="light">**HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)</span>
   * *using digital technologies to create multimedia presentations (for example, to show the specific features of an ancient battle, pyramid complex or burial site; to show the spatial distribution and patterns of liveability; to present a case for a constitutional change)*
   * *using correct discipline-specific terms and concepts when presenting findings and conclusions (for example, when explaining the rule of law, separation of powers, secular nation, market, workforce, income, financial objectives, entrepreneurial behaviours and skills, costs and benefits)*
-* **Dance 7-8**: Combine elements of dance and improvise by making literal movements into abstract movements (ACADAM013)
+* <span class="light">**Dance 7-8**: Combine elements of dance and improvise by making literal movements into abstract movements (ACADAM013)</span>
   * *using the elements of dance to develop new movements that still maintain the essence of the original movement*
-* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
+* <span class="light">**Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)</span>
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
-* **Drama 7-8**: Perform devised and scripted drama maintaining commitment to role (ACADRM044)
+* <span class="light">**Drama 7-8**: Perform devised and scripted drama maintaining commitment to role (ACADRM044)</span>
   * *using audience feedback to enhance future performance, for example, adjusting performance based on audience responses to characters’ portrayal of emotions and empathy*
-* **Media 7-8**: Develop media representations to show familiar or shared social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM067)
+* <span class="light">**Media 7-8**: Develop media representations to show familiar or shared social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM067)</span>
   * *exploring media artworks that provide different ideas and concepts based on points of view and institutional practice, including viewing and experimenting with the depiction of cultural groups and social values in Australian film and television*
-* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
- (ACAMUM093)
+* <span class="light">**Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+ (ACAMUM093)</span>
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
   * *listening to and interpreting different types of score conventions from different styles and traditions to develop their own style*
   * *experimenting with different types of notation to communicate and record ideas*
-* **Music 7-8**: Structure compositions by combining and manipulating the elements of music using notation
- (ACAMUM095)
+* <span class="light">**Music 7-8**: Structure compositions by combining and manipulating the elements of music using notation
+ (ACAMUM095)</span>
   * *arranging a familiar piece into a different musical style by manipulating the elements of music*
   * *creating an arrangement of a known melody*
-* **Visual 7-8**: Experiment with visual arts conventions and techniques, including exploration of techniques used by Aboriginal and Torres Strait Islander artists, to represent a theme, concept or idea in their artwork
- (ACAVAM118)
+* <span class="light">**Visual 7-8**: Experiment with visual arts conventions and techniques, including exploration of techniques used by Aboriginal and Torres Strait Islander artists, to represent a theme, concept or idea in their artwork
+ (ACAVAM118)</span>
   * *observing how artists select and apply different visual arts techniques to represent themes, concepts and ideas and considering how they could use these in their own art making*
-* **Visual 7-8**: Practise techniques and processes to enhance representation of ideas in their art-making (ACAVAM121)
+* <span class="light">**Visual 7-8**: Practise techniques and processes to enhance representation of ideas in their art-making (ACAVAM121)</span>
   * *reflecting, adjusting, modifying and evaluating their own artwork through consistent critical assessment, and refining intentions and viewpoints when making, responding to and displaying artworks*
-* **D&T 7-8**: Investigate the ways in which products, services and environments evolve locally, regionally and globally and how competing factors including social, ethical and sustainability considerations are prioritised in the development of technologies and designed solutions for preferred futures
- (ACTDEK029)
+* <span class="light">**D&T 7-8**: Investigate the ways in which products, services and environments evolve locally, regionally and globally and how competing factors including social, ethical and sustainability considerations are prioritised in the development of technologies and designed solutions for preferred futures
+ (ACTDEK029)</span>
   * *considering the rights and responsibilities of those working in design and technologies occupations, for example consideration of Aboriginal and Torres Strait Islander protocols*
   * *investigating traditional and contemporary design and technologies, including from Asia, and predicting how they might change in the future in response to factors such as social change and the need for more sustainable patterns of living*
-* **D&T 7-8**: Analyse how motion, force and energy are used to manipulate and control electromechanical systems when designing simple, engineered solutions (ACTDEK031)
+* <span class="light">**D&T 7-8**: Analyse how motion, force and energy are used to manipulate and control electromechanical systems when designing simple, engineered solutions (ACTDEK031)</span>
   * *producing prototypes and jigs to test functionality, including the use of rapid prototyping tools such as 3D printers*
   * *using code to control systems, for example code to program a microcontroller or a simple, object-based coding application to program a system such as a remote-controlled car or simple robotic arm*
-* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
- (ACTDEK032)
+* <span class="light">**D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+ (ACTDEK032)</span>
   * *comparing land and water management methods in contemporary Australian food and fibre production with traditional Aboriginal systems and countries of Asia, for example minimum-tillage cropping, water-efficient irrigation*
-* **D&T 7-8**: Critique needs or opportunities for designing and investigate, analyse and select from a range of materials, components, tools, equipment and processes to develop design ideas (ACTDEP035)
+* <span class="light">**D&T 7-8**: Critique needs or opportunities for designing and investigate, analyse and select from a range of materials, components, tools, equipment and processes to develop design ideas (ACTDEP035)</span>
   * *selecting appropriate materials to acknowledge sustainability requirements by using life cycle thinking*
-* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* <span class="light">**D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)</span>
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *documenting and communicating the generation and development of design ideas for an intended audience, for example developing a digital portfolio with images and text which clearly communicates each step of a design process*
-* **D&T 7-8**: Independently develop criteria for success to evaluate design ideas, processes and solutions and their sustainability (ACTDEP038)
+* <span class="light">**D&T 7-8**: Independently develop criteria for success to evaluate design ideas, processes and solutions and their sustainability (ACTDEP038)</span>
   * *evaluating designed solutions and processes and transferring new knowledge and skills to future design projects*
-* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* <span class="light">**D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)</span>
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **D&T 7-8**: Select and justify choices of materials, components, tools, equipment and techniques to effectively and safely make designed solutions (ACTDEP037)
+* <span class="light">**D&T 7-8**: Select and justify choices of materials, components, tools, equipment and techniques to effectively and safely make designed solutions (ACTDEP037)</span>
   * *identifying and managing risks in the development of various projects, for example working safely, responsibly, cooperatively and ethically on design projects, assessing uncertainty and risk in relation to long-term health and environmental impacts*
   * *developing innovative ways of manipulating technologies using traditional and contemporary materials, components, tools, equipment and techniques and considering alternatives including emerging technologies that could be substituted to reduce waste or time*
-* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
- (ACTDIK024)
+* <span class="light">**DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
+ (ACTDIK024)</span>
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **DT 7-8**: Acquire data from a range of sources and evaluate authenticity, accuracy and timeliness (ACTDIP025)
+* <span class="light">**DT 7-8**: Acquire data from a range of sources and evaluate authenticity, accuracy and timeliness (ACTDIP025)</span>
   * *designing a search engine query to find specific information on the web and checking its accuracy against information contained in other sources, for example entering instructions such as*
-* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* <span class="light">**DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)</span>
   * *applying a set of conditions to a spreadsheet to organise and filter data, for example using conditional formatting to highlight the state of particular cells, and filtering and sorting categorical data using column filters*
   * *modelling the attributes of real-world objects for a computer game*
-* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* <span class="light">**DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)</span>
   * *developing a digital game that manipulates models of real-world objects*
   * *creating digital solutions that provide user navigation and prompts with controlled repetitions, for example an information kiosk that has layers of buttons and prompts the user three times before returning to the beginning*
-* **DT 7-8**: Evaluate how student solutions and existing information systems meet needs, are innovative, and take account of future risks and sustainability (ACTDIP031)
+* <span class="light">**DT 7-8**: Evaluate how student solutions and existing information systems meet needs, are innovative, and take account of future risks and sustainability (ACTDIP031)</span>
   * *comparing student solutions with existing solutions that solve similar problems, for example identifying differences in the user interface of two adventure games and explaining how these differences affect the usability or appeal of the game*
-* **HPE 7-8**: Evaluate and justify reasons for decisions and choices of action when solving movement challenges
- (ACPMP087)
+* <span class="light">**HPE 7-8**: Evaluate and justify reasons for decisions and choices of action when solving movement challenges
+ (ACPMP087)</span>
   * *explaining and justifying the movement concepts and strategies selected in response to movement challenges*
   * *identifying factors that enabled them to achieve success in movement activities and explaining how these factors can be transferred to other learning contexts*
-* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* <span class="light">**HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)</span>
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* <span class="light">**Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)</span>
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
- (ACDSEH032)
+* <span class="light">**Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+ (ACDSEH032)</span>
   * *outlining the rights of women (for example, in the areas of marriage, family life, work and education) and their responsibilities (that is, generally limited to the home and family)*
-* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
- (ACDSEH035)
+* <span class="light">**Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+ (ACDSEH035)</span>
   * *outlining the rights of citizens in ancient Athens (for example, the right to vote), their responsibilities (for example, military service, attending assembly meetings) and the invention of freedom*
-* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
- (ACDSEH041)
+* <span class="light">**Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+ (ACDSEH041)</span>
   * *outlining the rights and responsibilities of women (for example, in the areas of marriage, family life, work and education)*
-* **Hist 7**: Identify and locate relevant sources, using ICT and other methods (ACHHS208)
+* <span class="light">**Hist 7**: Identify and locate relevant sources, using ICT and other methods (ACHHS208)</span>
   * *identifying information within a source that can be used as evidence to support an interpretation*
-* **Hist 7**: Draw conclusions about the usefulness of sources (ACHHS211)
+* <span class="light">**Hist 7**: Draw conclusions about the usefulness of sources (ACHHS211)</span>
   * *using strategies to detect whether a statement is fact or opinion, including word choices that may indicate an opinion is being offered (for example, the use of conditionals 'might', 'could', and other words such as 'believe', 'think', 'suggests')*
-* **Hist 7**: Use historical terms and concepts (ACHHS206)
+* <span class="light">**Hist 7**: Use historical terms and concepts (ACHHS206)</span>
   * *defining and using terms such as BC (Before Christ), AD (anno Domini), BCE (Before Common Era), and CE (Common Era); prehistory (before the period of textual recording) and history (the period beginning with named individuals and textual recording)*
   * *defining and using concepts such as slavery, divine right, source (where a historian finds information) and evidence (the information that is used by the historian)*
-* **Hist 8**: Relationships with subject peoples, including the policy of religious tolerance (ACDSEH054)
+* <span class="light">**Hist 8**: Relationships with subject peoples, including the policy of religious tolerance (ACDSEH054)</span>
   * *outlining the millet system that regarded non-Muslim people as subjects, but as not being subject to Muslim law*
-* **Hist 8**: The spread of Renaissance culture to the rest of Europe, and its legacy (ACDSEH059)
+* <span class="light">**Hist 8**: The spread of Renaissance culture to the rest of Europe, and its legacy (ACDSEH059)</span>
   * *outlining the spread of Renaissance culture to England (for example, the rise of literature through Shakespeare)*
-* **Hist 8**: Significant developments and/or cultural achievements that led to Viking expansion, including weapons and shipbuilding, and the extent of their trade (ACDSEH047)
+* <span class="light">**Hist 8**: Significant developments and/or cultural achievements that led to Viking expansion, including weapons and shipbuilding, and the extent of their trade (ACDSEH047)</span>
   * *outlining the key role of gods such as Odin, Thor, Frey and Freyja in Viking religion and the adoption of Christianity during the Viking period*
-* **Hist 8**: The role of a significant individual in the expansion of Viking settlement and influence, such as Erik the Red or Leif Ericson (ACDSEH049)
+* <span class="light">**Hist 8**: The role of a significant individual in the expansion of Viking settlement and influence, such as Erik the Red or Leif Ericson (ACDSEH049)</span>
   * *outlining Erik the Red’s development of Viking settlements in Eastern and Western Greenland in 985 CE*
-* **Hist 8**: Significant developments and/or cultural achievements, such as changing relations between Islam and the West (including the Crusades), architecture, medieval manuscripts and music (ACDSEH050)
+* <span class="light">**Hist 8**: Significant developments and/or cultural achievements, such as changing relations between Islam and the West (including the Crusades), architecture, medieval manuscripts and music (ACDSEH050)</span>
   * *researching inventions and developments in the Islamic world and their subsequent adoption in the Western world*
-* **Hist 8**: Theories of the decline of Angkor, such as the overuse of water resources, neglect of public works as a result of ongoing war, and the effects of climate change (ACDSEH062)
+* <span class="light">**Hist 8**: Theories of the decline of Angkor, such as the overuse of water resources, neglect of public works as a result of ongoing war, and the effects of climate change (ACDSEH062)</span>
   * *exploring theories about the decline of the Khmer civilisation (for example, the development of an unstable climate such as drought and monsoons; the rise of Theravada Buddhism; the breakdown of Angkor’s water management system)*
-* **Hist 8**: The use of environmental resources in Shogunate Japan and the forestry and land use policies of the Tokugawa Shogunate (ACDSEH064)
+* <span class="light">**Hist 8**: The use of environmental resources in Shogunate Japan and the forestry and land use policies of the Tokugawa Shogunate (ACDSEH064)</span>
   * *outlining the attempts by the Tokugawa Shogunate to curb deforestation (for example, imposing heavy regulations on farmers; managing the harvesting of trees; and using new, lighter and more efficient construction techniques)*
-* **Hist 8**: Theories about the origin and spread of Polynesian settlers throughout the Pacific (ACDSEH013)
+* <span class="light">**Hist 8**: Theories about the origin and spread of Polynesian settlers throughout the Pacific (ACDSEH013)</span>
   * *outlining different theories about the expansion (for example, west/east and east/west movement, the expansion as accidental versus intentional)*
-* **Hist 8**: The organisation of the Mongol army under Genghis Khan and the treatment of conquered peoples, such as the codification of laws and exemption of teachers, lawyers and artists from taxes (ACDSEH077)
+* <span class="light">**Hist 8**: The organisation of the Mongol army under Genghis Khan and the treatment of conquered peoples, such as the codification of laws and exemption of teachers, lawyers and artists from taxes (ACDSEH077)</span>
   * *outlining Genghis Khan’s use of decimal organisation in his army and his policies for governing his empire (for example, codifying laws, banning the killing of animals in the breeding season, supporting religious freedom and expanding trade)*
-* **Hist 8**: The immediate- and long-term effects of the Black Death on Asian, European and African populations, and conflicting theories about the impact of the plague  (ACDSEH071)
+* <span class="light">**Hist 8**: The immediate- and long-term effects of the Black Death on Asian, European and African populations, and conflicting theories about the impact of the plague  (ACDSEH071)</span>
   * *using studies of church records from the period to identify the effect of the Black Death on human populations and to consider the reliability of these statistics*
-* **Hist 8**: The immediate and long-term effects of the conquest on the Aztecs OR Incas as well as on the wider world (ACDSEH075)
+* <span class="light">**Hist 8**: The immediate and long-term effects of the conquest on the Aztecs OR Incas as well as on the wider world (ACDSEH075)</span>
   * *investigating the impact of conquest on the indigenous populations of the Americas (for example, the introduction of new diseases, horses and gunpowder) and the wider world (for example, the introduction of crops such as maize, beans, potatoes, tobacco and chocolate from the Americas to Europe and increased wealth in Europe)*
-* **Hist 8**: Develop texts, particularly descriptions and explanations that use evidence from a range of sources that are acknowledged (ACHHS156)
+* <span class="light">**Hist 8**: Develop texts, particularly descriptions and explanations that use evidence from a range of sources that are acknowledged (ACHHS156)</span>
   * *using scaffolds illustrating the structural and language features of particular text types (for example, descriptions and explanations) to create a text that communicates specific findings about the past*
-* **Geo 7**: Represent data in a range of appropriate forms, for example climate graphs, compound column graphs, population pyramids, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
- (ACHGS049)
+* <span class="light">**Geo 7**: Represent data in a range of appropriate forms, for example climate graphs, compound column graphs, population pyramids, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+ (ACHGS049)</span>
   * *constructing tables, graphs, maps and diagrams to represent the data collected about water scarcity and liveability of places*
   * *creating an annotated diagram to show: how water flows through the environment and connects places; or the influence of environmental quality on the liveability of places*
-* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* <span class="light">**Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)</span>
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
-* **Geo 8**: Ways of protecting significant landscapes (ACHGK052)
+* <span class="light">**Geo 8**: Ways of protecting significant landscapes (ACHGK052)</span>
   * *investigating the negative and positive impacts of bushfires on Australian landscapes and ways of responding to the risk and events of bushfires*
-* **Geo 8**: Represent data in a range of appropriate forms, for example, climate graphs, compound column graphs, population pyramids, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
- (ACHGS057)
+* <span class="light">**Geo 8**: Represent data in a range of appropriate forms, for example, climate graphs, compound column graphs, population pyramids, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+ (ACHGS057)</span>
   * *constructing tables and graphs of demographic or economic data for Australia or China*
   * *creating annotated diagrams to show a landscape and its landforms*
-* **Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)
+* <span class="light">**Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)</span>
   * *developing a statistical map to show demographic or economic data for Australia or China, or show the cultural and demographic diversity of Aboriginal and Torres Strait Islander Peoples using mapping software*
   * *creating a map showing geomorphological features by using data from Geoscience Australia, or demographic statistics from census data, using a spatial technologies application*
   * *using the Global Positioning System (GPS) to make a map of the features of a landform*
-* **C&C 8**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS073)
+* <span class="light">**C&C 8**: Present evidence-based civics and citizenship arguments using subject-specific language (ACHCS073)</span>
   * *creating material for public distribution with a specific purpose and context (for example, an advertisement promoting participation in Australia’s democracy)*
-* **E&B 7**: Why and how individuals and businesses plan to achieve short-term and long-term personal, organisational and financial objectives (ACHEK018)
+* <span class="light">**E&B 7**: Why and how individuals and businesses plan to achieve short-term and long-term personal, organisational and financial objectives (ACHEK018)</span>
   * *identifying ways short- and long-term personal financial objectives can be achieved, for example through developing a budget and having a savings plan*
   * *exploring ways that businesses manage finances and plan in the short- and long-term to achieve organisational and financial objectives (for example, by developing a business plan or borrowing to invest in the business)*
-* **E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
+* <span class="light">**E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)</span>
   * *using data to make predictions about future trends (for example, the trend of shopping online, trends in working hours or how people work)*
 
 #### **Level 6**: identify, plan and justify transference of knowledge to new contexts
@@ -7497,197 +7526,197 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)
+* <span class="light">**English 9**: Analyse how the construction and interpretation of texts, including media texts, can be influenced by cultural perspectives and other texts (ACELY1739)</span>
   * *identifying, comparing and creating relationships between texts (including novels, illustrated stories, social issue cartoons, documentaries, multimodal texts)*
-* **English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)
+* <span class="light">**English 9**: Use interaction skills to present and discuss an idea and to influence and engage an audience by selecting persuasive language, varying voice tone, pitch, and pace, and using elements such as music and sound effects (ACELY1811)</span>
   * *using effective strategies for dialogue and discussion in a range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, presenting a point of view and listening to other viewpoints, and negotiating an agreed position on an issue*
   * *choosing vocabulary, spoken text and sentence structures for particular purposes and audiences, such as debating a topic with a team from another school, creating a voiceover for a media presentation, and adapting language choices such as use of similes, metaphors and personification to meet the perceived audience needs*
-* **English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)
+* <span class="light">**English 9**: Interpret, analyse and evaluate how different perspectives of issue, event, situation, individuals or groups are constructed to serve specific purposes in texts (ACELY1742)</span>
   * *debating the reliability of the coverage in a range of news media of a contentious issue such as commercial logging of old growth forests*
   * *identifying whether two texts may share a common purpose or audience, for example a feature article on a particular website or in a particular newspaper*
   * *analysing how issues are debated and reported in the media in different countries, and the possible reasons for this, for example ‘whaling’ in Japan and Australia*
-* **English 9**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)
+* <span class="light">**English 9**: Understand that authors innovate with text structures and language for specific purposes and effects (ACELA1553)</span>
   * *experimenting with ways to present personal viewpoints through innovating with texts*
-* **English 9**: Understand how punctuation is used along with layout and font variations in constructing texts for different audiences and purposes (ACELA1556)
+* <span class="light">**English 9**: Understand how punctuation is used along with layout and font variations in constructing texts for different audiences and purposes (ACELA1556)</span>
   * *experimenting with the use of colons and semicolons in expositions and other extended writing to improve precision and clarity of expression*
-* **English 10**: Compare the purposes, text structures and language features of traditional and contemporary texts in different media (ACELA1566)
+* <span class="light">**English 10**: Compare the purposes, text structures and language features of traditional and contemporary texts in different media (ACELA1566)</span>
   * *reproducing and adapting existing print texts for an online environment and explaining the reasons for the adaptations (for example accounting for the navigation and use of hyperlinks as structuring principles in hypertext narratives)*
-* **English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)
+* <span class="light">**English 10**: Compare and evaluate a range of representations of individuals and groups in different historical, social and cultural contexts (ACELT1639)</span>
   * *imaginatively adapting texts from an earlier time or different social context for a new audience*
-* **English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)
+* <span class="light">**English 10**: Use organisation patterns, voice and language conventions to present a point of view on a subject, speaking clearly, coherently and with effect, using logic, imagery and rhetorical devices to engage audiences (ACELY1813)</span>
   * *adapting voice effects, such as tone, volume, pitch, pauses and change of pace, for their specific effects such as putting forward a point of view or attempting to persuade an audience to a course of action*
-* **English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)
+* <span class="light">**English 10**: Create sustained texts, including texts that combine specific digital or media content, for imaginative, informative, or persuasive purposes that reflect upon challenging and complex issues (ACELY1756)</span>
   * *presenting a structured argument by providing a statement of the major perspectives or concerns relating to an issue; previewing the structure of arguments; structuring the text to provide a major point for each paragraph with succinct elaboration, and concluding with a summary of the main  issues or recommendations in an argument*
-* **English 10**: Understand that Standard Australian English in its spoken and written forms has a history of evolution and change and continues to evolve (ACELA1563)
+* <span class="light">**English 10**: Understand that Standard Australian English in its spoken and written forms has a history of evolution and change and continues to evolve (ACELA1563)</span>
   * *experimenting with and incorporating new words and creative inventions in students’ own written and spoken texts*
-* **English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)
+* <span class="light">**English 10**: Understand how language use can have inclusive and exclusive social effects, and can empower or disempower people (ACELA1564)</span>
   * *creating texts that represent personal belief systems (such as credos, statements of ethical judgements, guidelines, letters to the editor and blog entries)*
-* **Maths 10**: Connect the compound interest formula to repeated applications of simple interest using appropriate digital technologies (ACMNA229)
+* <span class="light">**Maths 10**: Connect the compound interest formula to repeated applications of simple interest using appropriate digital technologies (ACMNA229)</span>
   * *working with authentic information, data and interest rates to calculate compound interest and solve related problems*
-* **Maths 10**: Simplify algebraic products and quotients using index laws
- (ACMNA231)
+* <span class="light">**Maths 10**: Simplify algebraic products and quotients using index laws
+ (ACMNA231)</span>
   * *applying knowledge of index laws to algebraic terms, and simplifying algebraic expressions using both positive and negative integral indices*
-* **Maths 10**: Explore the connection between algebraic and graphical representations of relations such as simple quadratics, circles and exponentials using digital technology as appropriate (ACMNA239)
+* <span class="light">**Maths 10**: Explore the connection between algebraic and graphical representations of relations such as simple quadratics, circles and exponentials using digital technology as appropriate (ACMNA239)</span>
   * *applying translations, reflections and stretches to parabolas and circles*
-* **Maths 10**: Solve right-angled triangle problems including those involving direction and angles of elevation and depression (ACMMG245)
+* <span class="light">**Maths 10**: Solve right-angled triangle problems including those involving direction and angles of elevation and depression (ACMMG245)</span>
   * *applying Pythagoras' Theorem and trigonometry to problems in surveying and design*
-* **Maths 10**: Use the language of ‘if ....then, ‘given’, ‘of’, ‘knowing that’ to investigate conditional statements and identify common mistakes in interpreting such language (ACMSP247)
+* <span class="light">**Maths 10**: Use the language of ‘if ....then, ‘given’, ‘of’, ‘knowing that’ to investigate conditional statements and identify common mistakes in interpreting such language (ACMSP247)</span>
   * *using arrays and tree diagrams to determine probabilities*
-* **Maths 10A**: Establish the sine, cosine and area rules for any triangle and solve related problems (ACMMG273)
+* <span class="light">**Maths 10A**: Establish the sine, cosine and area rules for any triangle and solve related problems (ACMMG273)</span>
   * *applying knowledge of sine, cosine and area rules to authentic problems such as those involving surveying and design*
-* **Science 9**: The theory of plate tectonics explains global patterns of geological activity and continental movement (ACSSU180)
+* <span class="light">**Science 9**: The theory of plate tectonics explains global patterns of geological activity and continental movement (ACSSU180)</span>
   * *relating the extreme age and stability of a large part of the Australian continent to its plate tectonic history*
-* **Science 10**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE194)
+* <span class="light">**Science 10**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE194)</span>
   * *predicting future applications of aspects of nanotechnology on people’s lives*
-* **Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)
+* <span class="light">**Dance 9-10**: Practise and refine technical skills to develop proficiency in genre- and style-specific techniques (ACADAM022)</span>
   * *refining technical skills in response to self-reflection to develop control, accuracy, strength, balance, alignment, flexibility, endurance, coordination and articulation*
-* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* <span class="light">**Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)</span>
   * *responding to feedback and using self-evaluation to vary and modify motifs, structure and form*
-* **Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)
+* <span class="light">**Dance 9-10**: Perform dances using genre- and style-specific techniques and expressive skills to communicate a choreographer’s intent (ACADAM024)</span>
   * *identifying and refining expressive skills in performance, and selecting appropriate expressive skills to sensitively connect with varying social and cultural contexts and audiences*
-* **Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)
+* <span class="light">**Drama 9-10**: Evaluate how the elements of drama, forms and performance styles in devised and scripted drama convey meaning and aesthetic effect (ACADRR052)</span>
   * *analysing how the elements of drama are manipulated to focus the dramatic action for audiences and using this information to refine drama they make*
-* **Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)
+* <span class="light">**Drama 9-10**: Analyse a range of drama from contemporary and past times to explore differing viewpoints and enrich their drama making, starting with drama from Australia and including drama of Aboriginal and Torres Strait Islander Peoples, and consider drama in international contexts (ACADRR053)</span>
   * *linking conventions from different forms and styles with purposes, origins and contexts*
-* **Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)
+* <span class="light">**Drama 9-10**: Practise and refine the expressive capacity of voice and movement to communicate ideas and dramatic action in a range of forms, styles and performance spaces, including exploration of those developed by Aboriginal and Torres Strait Islander dramatists (ACADRM049)</span>
   * *conveying through voice and movement the tensions in stories, ideas, characters, relationships, actions and dialogue to engage audience expectations*
   * *exploring, reworking and refining the dramatic action through rehearsal and honing expressive performance skills for effective audience engagement*
-* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
- (ACADRM050)
+* <span class="light">**Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+ (ACADRM050)</span>
   * *learning and applying the basic concepts for interpreting texts and contexts, directing dramatic action, and using available theatre technologies*
-* **Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
- (ACADRM051)
+* <span class="light">**Drama 9-10**: Perform devised and scripted drama making deliberate artistic choices and shaping design elements to unify dramatic meaning for an audience
+ (ACADRM051)</span>
   * *collaborating as a member of a drama team by directing the blocking and staging of dramatic action to communicate intended meaning(s) for an audience*
   * *collaborating to undertake responsibilities in interpreting, rehearsing and performing drama such as stage manager, designer, etc.*
-* **Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)
+* <span class="light">**Media 9-10**: Manipulate media representations to identify and examine social and cultural values and beliefs, including those of Aboriginal and Torres Strait Islander Peoples (ACAMAM074)</span>
   * *utilising the techniques of ‘culture jamming’ to change the meanings of well-known media artworks such as popular advertisements*
   * *experimenting with images, sounds and text to develop representations of current social issues*
-* **Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)
+* <span class="light">**Media 9-10**: Plan and design media artworks for a range of purposes that challenge the expectations of specific audiences by particular use of production processes (ACAMAM076)</span>
   * *refining use of software to create the layout for a magazine and selecting which fonts, colours, titles, photographs and articles are to be used, depending on the magazine’s genre, style and audience*
-* **Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
- (ACAMAM075)
+* <span class="light">**Media 9-10**: Develop and refine media production skills to integrate and shape the technical and symbolic elements in images, sounds and text for a specific purpose, meaning and style
+ (ACAMAM075)</span>
   * *refining use of production skills by working collaboratively to ensure that work meets expectations, for example, fulfilling a brief developed by in-school clients*
   * *designing media artworks to communicate with a particular audience, for example, applying genre conventions or refining use of sound and movement*
   * *trialling and refining different layouts, designs and platforms for a website or virtual world, keeping the content consistent with the expectations of the end user and with awareness of appropriate internet protocols*
-* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
- (ACAMUM102)
+* <span class="light">**Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+ (ACAMUM102)</span>
   * *composing and arranging music using the elements of music to communicate style and genre, and considering contemporary Australian styles and emerging genres such as Aboriginal hip hop and mash up and classical fusion of instrumentation such as symphonic orchestra and didgeridoo*
-* **Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)
+* <span class="light">**Visual 9-10**: Plan and design artworks that represent artistic intention (ACAVAM128)</span>
   * *analysing and documenting the practices of selected visual artists and designers, including their use of materials, technologies, techniques and processes, when developing their art and design intentions for representation*
-* **Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)
+* <span class="light">**Visual 9-10**: Develop and refine techniques and processes to represent ideas and subject matter (ACAVAM127)</span>
   * *using innovative thinking as they explore the capabilities of digital and virtual technologies to resolve design and planning problems*
   * *developing skills that can transfer to cross-media and inter-media domains of visual arts*
-* **D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)
+* <span class="light">**D&T 9-10**: Explain how products, services and environments evolve with consideration of preferred futures and the impact of emerging technologies on design decisions (ACTDEK041)</span>
   * *predicting the impact of emerging technologies for preferred futures*
   * *constructing scenarios of how the future may unfold (forecasting) and what impacts there may be for society and particular groups, and back casting from preferred futures*
-* **D&T 9-10**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
- (ACTDEK044)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on the ethical and sustainable production and marketing of food and fibre
+ (ACTDEK044)</span>
   * *comparing the environmental impacts of intensive and extensive production systems and their contribution to food and fibre production*
-* **D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
- (ACTDEK045)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
+ (ACTDEK045)</span>
   * *experimenting with food preservation methods such as freezing and dehydrating to determine changes to food structure and how these impact on designing healthy food solutions, for example dehydrating fruit for the lunch box*
   * *preparing and presenting foods using a range of techniques to ensure optimum nutrient content, flavour, texture and visual appeal, for example designing and producing a healthy snack for the canteen and using food photography and digital technologies to promote the item in a healthy eating campaign*
-* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* <span class="light">**D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)</span>
   * *refining technical skills and using production skills with independence to produce quality designed solutions and to reduce risks in production*
-* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* <span class="light">**D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)</span>
   * *reflecting on learning, evaluating processes and transferring new knowledge and skills to future design projects*
-* **DT 9-10**: Analyse simple compression of data and how content data are separated from presentation (ACTDIK035)
+* <span class="light">**DT 9-10**: Analyse simple compression of data and how content data are separated from presentation (ACTDIK035)</span>
   * *generating a layout or report in a database or applying a style sheet to a web page*
-* **DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
- (ACTDIP037)
+* <span class="light">**DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
+ (ACTDIP037)</span>
   * *interpreting schemas that represent relationships between entities and querying data across tables, for example using foreign keys to represent relationships and joining tables in structured query language (SQL) SELECT statements*
-* **DT 9-10**: Create interactive solutions for sharing ideas and information online, taking into account safety, social contexts and legal responsibilities (ACTDIP043)
+* <span class="light">**DT 9-10**: Create interactive solutions for sharing ideas and information online, taking into account safety, social contexts and legal responsibilities (ACTDIP043)</span>
   * *creating an interactive web-based project that provides enterprising opportunities and complies with accessibility requirements, for example using fragments of a web language to create dynamic content that supports interactivity*
-* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* <span class="light">**DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)</span>
   * *developing an evolutionary prototype iteratively and incrementally, for example regularly revising features of an application in response to user feedback and development decisions*
-* **HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)
+* <span class="light">**HPE 9-10**: Plan, implement and critique strategies to enhance health, safety and wellbeing of their communities (ACPPS096)</span>
   * *preparing, delivering and critiquing a class presentation to the community, for example a presentation to parents on tips for serving and eating food that has been prepared sustainably*
-* **HPE 9-10**: Design, implement and evaluate personalised plans for improving or maintaining their own and others’ physical activity and fitness levels (ACPMP102)
+* <span class="light">**HPE 9-10**: Design, implement and evaluate personalised plans for improving or maintaining their own and others’ physical activity and fitness levels (ACPMP102)</span>
   * *using ICT to design, implement and monitor a personal fitness plan which includes a timeframe, goals and a variety of specific activities that meet the needs of different people*
   * *justifying the selection of physical activities included in a personalised plan linked to the components of health- and skill-related fitness they wish to improve or maintain*
   * *using non-specialised equipment to develop health- or skill-related fitness circuits that can be used by family or community members*
-* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* <span class="light">**HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)</span>
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* <span class="light">**HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)</span>
   * *adapting and responding to changes in equipment that increase the complexity of a movement task or performance*
   * *responding to teacher and peer feedback to enhance performance*
-* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* <span class="light">**Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)</span>
   * *outlining the growth of trade unions as a response to the impacts of the Industrial Revolution*
-* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* <span class="light">**Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)</span>
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* <span class="light">**Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)</span>
   * *graphing the proportion of Australian servicemen who died during World War I, compared to that of other countries involved in the war*
-* **Hist 9**: Use historical terms and concepts (ACHHS165)
+* <span class="light">**Hist 9**: Use historical terms and concepts (ACHHS165)</span>
   * *defining and using concepts such as ‘imperialism’, ‘nationalism’, ‘evolution’, ‘evidence’*
-* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* <span class="light">**Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)</span>
   * *investigating the scale and significance of the Holocaust, using primary sources*
-* **Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)
+* <span class="light">**Hist 10**: The impact of World War II, with a particular emphasis on the Australian home front, including the changing roles of women and use of wartime government controls (conscription, manpower controls, rationing and censorship) (ACDSEH109)</span>
   * *investigating the impact of World War II at a local and national level (for example, significant events such as the bombing of Darwin; the Japanese submarine attack on Sydney and the sinking of ships off the Australian coast; the ‘Battle of Brisbane’; the Cowra breakout and the Brisbane Line)*
-* **Hist 10**: The US civil rights movement and its influence on Australia (ACDSEH105)
+* <span class="light">**Hist 10**: The US civil rights movement and its influence on Australia (ACDSEH105)</span>
   * *outlining the Freedom Rides in the US, how they inspired civil rights campaigners in Australia, and how they became a turning point in the Aboriginal and Torres Strait Islander Peoples' struggle for rights and freedoms*
-* **Hist 10**: Methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander Peoples, and the role of ONE individual or group in the struggle (ACDSEH134)
+* <span class="light">**Hist 10**: Methods used by civil rights activists to achieve change for Aboriginal and Torres Strait Islander Peoples, and the role of ONE individual or group in the struggle (ACDSEH134)</span>
   * *investigating the role of Charles Perkins in the Freedom Ride of 1965 and the efficacy of television in bringing the struggle for rights and freedoms to national attention*
-* **Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)
+* <span class="light">**Hist 10**: The continuing nature of efforts to secure civil rights and freedoms in Australia and throughout the world, such as the Declaration on the Rights of Indigenous Peoples (2007) (ACDSEH143)</span>
   * *investigating the legacy of children’s experiences in ‘care’ (their placement in orphanages, Children’s Homes, foster care and other forms of out-of-home care), and the significance of the United Nations Convention on the Rights of the Child (1990)*
-* **Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)
+* <span class="light">**Hist 10**: Developments in popular culture in post-war Australia and their impact on society, including the introduction of television and rock ’n’ roll (ACDSEH121)</span>
   * *investigating America’s cultural influence, as seen in the arrival of television for the Melbourne Olympics (1956) and Bill Haley’s Australian tour (1957)*
-* **Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)
+* <span class="light">**Hist 10**: Australia’s contribution to international popular culture (music, film, television, sport) (ACDSEH123)</span>
   * *investigating the changing contribution of the Australian rock’n’roll, film and television industries to Australian culture and identity through the development and export of music, film and television, for example the Easybeats from Sydney and Go-Betweens from Brisbane,*
-* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* <span class="light">**Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)</span>
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* <span class="light">**Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)</span>
   * *investigating policies of multiculturalism since the 1970s and the concepts of cultural heritage and assimilation*
-* **Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)
+* <span class="light">**Hist 10**: The background to environmental awareness, including the nineteenth century National Parks movement in America and Australia (ACDSEH028)</span>
   * *outlining the emergence of concerns about the preservation of natural areas for future generations (for example, as reflected in the establishment of national parks in the United States (Yellowstone National Park in 1872), Australia (Royal National Park in 1879), Canada (Rocky Mountains National Park in 1885) and New Zealand (Tongariro National Park in 1887))*
-* **Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)
+* <span class="light">**Hist 10**: The intensification of environmental effects in the twentieth century as a result of population increase, urbanisation, increasing industrial production and trade (ACDSEH125)</span>
   * *investigating the impact of early texts that warned about environmental change (for example,*
-* **Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)
+* <span class="light">**Hist 10**: Significant events and campaigns that contributed to popular awareness of environmental issues, such as the campaign to prevent the damming of Australia’s Gordon River, the nuclear accident at Chernobyl and the Jabiluka mine controversy in 1998 (ACDSEH127)</span>
   * *investigating a range of environmental impacts (for example, the flooding of Lake Pedder in Tasmania, deforestation in Indonesia, the decline of the Aral Sea, the Exxon Valdez oil spill, the whaling industry)*
-* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
- (ACHHS187)
+* <span class="light">**Hist 10**: Identify the origin, purpose and context of primary and secondary sources
+ (ACHHS187)</span>
   * *using data from immigration records and processing them using ICT to identify historical trends over time*
-* **Hist 10**: Use historical terms and concepts (ACHHS183)
+* <span class="light">**Hist 10**: Use historical terms and concepts (ACHHS183)</span>
   * *defining and using terms and concepts such as ‘liberation’, ‘human rights’, ‘popular culture’ and ‘contestability’*
-* **Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
- (ACHGS065)
+* <span class="light">**Geo 9**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+ (ACHGS065)</span>
   * *creating a diagram to illustrate the flows of nutrients and energy within a biome, and the alterations to these flows produced by agriculture*
   * *developing a table to show the types of challenges to food production in Australia compared to other areas of the world, or the ways that places and people are interconnected through trade*
-* **Geo 9**: Interpret and analyse multi-variable data and other geographical information using qualitative and quantitative methods, and digital and spatial technologies as appropriate, to make generalisations and inferences, propose explanations for patterns, trends, relationships and anomalies, and predict outcomes (ACHGS067)
+* <span class="light">**Geo 9**: Interpret and analyse multi-variable data and other geographical information using qualitative and quantitative methods, and digital and spatial technologies as appropriate, to make generalisations and inferences, propose explanations for patterns, trends, relationships and anomalies, and predict outcomes (ACHGS067)</span>
   * *constructing a graph to show the relationship between growth in world population and world food production*
   * *analysing maps of world internet traffic and proposing explanations about the pattern and distribution of connections*
-* **Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)
+* <span class="light">**Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)</span>
   * *creating a map to show the relationship between biomes and world food production, using a spatial technologies application*
-* **Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
- (ACHGS073)
+* <span class="light">**Geo 10**: Evaluate sources for their reliability, bias and usefulness and select, collect, record and organise relevant geographical data and information, using ethical protocols, from a range of appropriate primary and secondary sources
+ (ACHGS073)</span>
   * *using Gapminder or United Nations statistics to collect data on countries to answer an inquiry question*
-* **Geo 10**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
- (ACHGS074)
+* <span class="light">**Geo 10**: Represent multi-variable data in a range of appropriate forms, for example scatter plots, tables, field sketches and annotated diagrams, with and without the use of digital and spatial technologies
+ (ACHGS074)</span>
   * *developing a table to show the responses to environmental change in a particular environment*
-* **Geo 10**: Interpret and analyse multi-variable data and other geographical information using qualitative and quantitative methods, and digital and spatial technologies as appropriate, to make generalisations and inferences, propose explanations for patterns, trends, relationships and anomalies, and predict outcomes (ACHGS076)
+* <span class="light">**Geo 10**: Interpret and analyse multi-variable data and other geographical information using qualitative and quantitative methods, and digital and spatial technologies as appropriate, to make generalisations and inferences, propose explanations for patterns, trends, relationships and anomalies, and predict outcomes (ACHGS076)</span>
   * *constructing computer-generated tables, graphs, maps and diagrams to analyse data on human wellbeing*
-* **Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)
+* <span class="light">**Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)</span>
   * *constructing and interpreting choropleth maps to show patterns of human wellbeing at a local scale*
   * *creating a map to show measures of environmental change, using a spatial technologies application*
-* **C&C 9**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS089)
+* <span class="light">**C&C 9**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS089)</span>
   * *considering Australian, regional and global futures and how students might contribute as active and informed citizens*
-* **C&C 9**: The role of political parties and independent representatives in Australia’s system of government, including the formation of governments (ACHCK075)
+* <span class="light">**C&C 9**: The role of political parties and independent representatives in Australia’s system of government, including the formation of governments (ACHCK075)</span>
   * *discussing the meaning of key concepts such as parliamentary majority, the opposition, hung parliament, minority government*
-* **C&C 10**: Account for different interpretations and points of view (ACHCS098)
+* <span class="light">**C&C 10**: Account for different interpretations and points of view (ACHCS098)</span>
   * *developing an evidence-based argument that includes a rebuttal of an alternative point of view (for example, about Australia’s commitment to its international legal obligations)*
-* **C&C 10**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)
+* <span class="light">**C&C 10**: Reflect on their role as a citizen in Australian, regional and global contexts (ACHCS102)</span>
   * *considering and identifying the qualities of a citizen in a contemporary, successful democracy*
   * *discussing the implications of living in an interconnected world and what this could mean for active and informed citizenship*
-* **C&C 10**: The role of the High Court, including in interpreting the Constitution
- (ACHCK092)
+* <span class="light">**C&C 10**: The role of the High Court, including in interpreting the Constitution
+ (ACHCK092)</span>
   * *exploring an example of a High Court judgement in interpreting and applying Australian law, such as the Mabo decision or the construction of the Hindmarsh Island Bridge*
-* **E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
- (ACHEK041)
+* <span class="light">**E&B 9**: The nature of innovation and how and why businesses seek to create and maintain a competitive advantage in the market, including the global market
+ (ACHEK041)</span>
   * *discussing whether the adoption of strategies based around corporate social responsibility can increase the competitive advantage of businesses*
-* **E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)
+* <span class="light">**E&B 9**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES044)</span>
   * *using strategies to determine the reliability of information collected (for example, taking into account the author, purpose, audience, medium)*
-* **E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)
+* <span class="light">**E&B 9**: The changing roles and responsibilities of participants in the Australian or global workplace (ACHEK042)</span>
   * *discussing the responsibilities of government in improving the conditions of workers (for example, work health and safety, equal employment opportunity, anti-discrimination laws)*
-* **E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)
+* <span class="light">**E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)</span>
   * *representing data and information in a format to aid interpretation and analysis (for example, providing a timeline of events and/or providing a graph showing changes in data)*
 
 ## Analysing, synthesising and evaluating reasoning and procedures
@@ -7700,13 +7729,13 @@ Interpret and analyse learning area texts*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#apply-logic-and-reasoning">Apply logic and reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">253<br><em>3%</em><br>848<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">66<br><em>11%</em><br>76<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">7<br><br>5<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">6<br><br>25<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">27<br><br>72<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">12<br><br>88<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">10<br><br>107<br><em>87%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">10<br><br>55<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">10<br><br>44<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">4<br><br>25<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">3<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">6<br><br>24<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">5<br><br>34<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">22<br><br>74<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">23<br><br>86<br><em>34%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">37<br><br>83<br><em>34%</em></td></tr>
-<tr><td ><a href="#draw-conclusions-and-design-a-course-of-action">Draw conclusions and design a course of action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">83<br><em>1%</em><br>188<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><em>25%</em><br>3<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>6<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">16<br><br>39<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">9<br><br>11<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">10<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">8<br><br>21<br><em>81%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">8<br><br>8<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>10<br><em>90%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>13<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>7<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">7<br><br>11<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">3<br><br>18<br><em>94%</em></td></tr>
-<tr><td ><a href="#evaluate-procedures-and-outcomes">Evaluate procedures and outcomes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">118<br><em>2%</em><br>204<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">32<br><em>6%</em><br>13<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">16<br><br>14<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>20<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><br>14<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">15<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><br>13<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>8<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>2<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>5<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">8<br><br>46<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">11<br><br>25<br><em>48%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.45); text-align: right">102<br><em>10%</em><br>92<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">10<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">26<br><br>45<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">48<br><br>131<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>113<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">35<br><br>138<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">24<br><br>89<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">22<br><br>60<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>31<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">5<br><br>30<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>37<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">9<br><br>51<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>96<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">38<br><br>143<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">51<br><br>126<br><em>45%</em></td></tr>
+<tr><td><a href="#apply-logic-and-reasoning">Apply logic and reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">253<br><em>3%</em><br>848<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">66<br><em>11%</em><br>76<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">7<br><br>5<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">6<br><br>25<br><em>92%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">27<br><br>72<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">12<br><br>88<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">10<br><br>107<br><em>87%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">10<br><br>55<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">10<br><br>44<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">4<br><br>25<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">3<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">6<br><br>24<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">5<br><br>29<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">5<br><br>34<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">22<br><br>74<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">23<br><br>86<br><em>34%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">37<br><br>83<br><em>34%</em></td></tr>
+<tr><td><a href="#draw-conclusions-and-design-a-course-of-action">Draw conclusions and design a course of action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">83<br><em>1%</em><br>188<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><em>25%</em><br>3<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>6<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">16<br><br>39<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">9<br><br>11<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">10<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">8<br><br>21<br><em>81%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">8<br><br>8<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>10<br><em>90%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>12<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>13<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>7<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">7<br><br>11<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">3<br><br>18<br><em>94%</em></td></tr>
+<tr><td><a href="#evaluate-procedures-and-outcomes">Evaluate procedures and outcomes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">118<br><em>2%</em><br>204<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">32<br><em>6%</em><br>13<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">16<br><br>14<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>20<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><br>14<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">15<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><br>13<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>8<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>2<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>5<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>7<br><em>86%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">8<br><br>46<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">11<br><br>25<br><em>48%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.45); text-align: right">102<br><em>10%</em><br>92<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">10<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">26<br><br>45<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">48<br><br>131<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>113<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">35<br><br>138<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">24<br><br>89<br><em>76%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">22<br><br>60<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">6<br><br>31<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">5<br><br>30<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>37<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">10<br><br>48<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">9<br><br>51<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">30<br><br>96<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">38<br><br>143<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">51<br><br>126<br><em>45%</em></td></tr>
 </tbody>
 </table>
 
@@ -7718,13 +7747,13 @@ Interpret and analyse learning area texts*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#apply-logic-and-reasoning">Apply logic and reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">253<br><em>3%</em><br>848<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">5<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">8<br><br>22<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">27<br><br>69<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">46<br><em>2%</em><br>116<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">68<br><em>3%</em><br>308<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.78); text-align: right; color: #fff">99<br><em>4%</em><br>331<br><em>53%</em></td></tr>
-<tr><td ><a href="#draw-conclusions-and-design-a-course-of-action">Draw conclusions and design a course of action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">83<br><em>1%</em><br>188<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>6<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">5<br><br>14<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">12<br><em>8%</em><br>28<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">28<br><br>66<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.82); text-align: right; color: #fff">34<br><br>73<br><em>60%</em></td></tr>
-<tr><td ><a href="#evaluate-procedures-and-outcomes">Evaluate procedures and outcomes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">118<br><em>2%</em><br>204<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">7<br><br>16<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><br>24<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">26<br><br>56<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">72<br><em>3%</em><br>105<br><em>52%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">11<br><br>31<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">39<br><br>99<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">70<br><em>3%</em><br>168<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">122<br><em>2%</em><br>430<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.90); text-align: right; color: #fff">205<br><em>3%</em><br>509<br><em>54%</em></td></tr>
+<tr><td><a href="#apply-logic-and-reasoning">Apply logic and reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">253<br><em>3%</em><br>848<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">5<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">8<br><br>22<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">27<br><br>69<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">46<br><em>2%</em><br>116<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">68<br><em>3%</em><br>308<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.78); text-align: right; color: #fff">99<br><em>4%</em><br>331<br><em>53%</em></td></tr>
+<tr><td><a href="#draw-conclusions-and-design-a-course-of-action">Draw conclusions and design a course of action</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">83<br><em>1%</em><br>188<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>6<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">5<br><br>14<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">12<br><em>8%</em><br>28<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">28<br><br>66<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.82); text-align: right; color: #fff">34<br><br>73<br><em>60%</em></td></tr>
+<tr><td><a href="#evaluate-procedures-and-outcomes">Evaluate procedures and outcomes</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">118<br><em>2%</em><br>204<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">7<br><br>16<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><br>24<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">26<br><br>56<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">72<br><em>3%</em><br>105<br><em>52%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">454<br><em>2%</em><br>1240<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">8<br><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">11<br><br>31<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">39<br><br>99<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">70<br><em>3%</em><br>168<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">122<br><em>2%</em><br>430<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.90); text-align: right; color: #fff">205<br><em>3%</em><br>509<br><em>54%</em></td></tr>
 </tbody>
 </table>
 
@@ -7751,31 +7780,31 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)
+* <span class="light">**English 2**: Identify aspects of different types of literary texts that entertain, and give reasons for personal preferences (ACELT1590)</span>
   * *connecting the feelings and behaviours of animals in anthropomorphic stories with human emotions and relationships*
-* **English 2**: Discuss the characters and settings of different texts and explore how language is used to present these features in different ways (ACELT1591)
+* <span class="light">**English 2**: Discuss the characters and settings of different texts and explore how language is used to present these features in different ways (ACELT1591)</span>
   * *investigating Aboriginal stories, found from online sources, that explain physical features of the landscape and identify and describe the common features of language used*
-* **Maths 1**: Choose simple questions and gather responses and make simple inferences (ACMSP262)
+* <span class="light">**Maths 1**: Choose simple questions and gather responses and make simple inferences (ACMSP262)</span>
   * *determining which questions will gather appropriate responses for a simple investigation*
-* **HASS 2**: Pose questions about past and present objects, people, places and events (ACHASSI034)
+* <span class="light">**HASS 2**: Pose questions about past and present objects, people, places and events (ACHASSI034)</span>
   * *developing inquiry questions about a historical site (for example, ‘What does it look like now?’, ‘What condition is it in?’, ‘What was its purpose?’, ‘How might its use have changed?’, ‘How was it built/created?’, ‘Who built it?’, ‘How is it now used?’, ‘Why is it important?’)*
   * *developing inquiry questions about places (for example, ‘What are the features of the place?’, ‘How far away is it?’, ‘How easy is it to get to?’, ‘How am I connected to it?’)*
   * *posing questions using the stems, ‘How do I feel about …’, ’What would it be like to …’ and ‘What effect …’*
-* **HASS 2**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI041)
+* <span class="light">**HASS 2**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI041)</span>
   * *discussing the history or value of places in the local community from an exploration of place names (for example, place names that are linked to Aboriginal and Torres Strait Islander Peoples, historical events, early settlers, and political, religious and social figures)*
-* **D&T F-2**: Identify how people design and produce familiar products, services and environments and consider sustainability to meet personal and local community needs (ACTDEK001)
+* <span class="light">**D&T F-2**: Identify how people design and produce familiar products, services and environments and consider sustainability to meet personal and local community needs (ACTDEK001)</span>
   * *exploring and critiquing products, services and environments for their impact on sustainability, for example the environmental risks and benefits of a system for organically or hydroponically growing a vegetable crop from seed or seedling to harvest*
-* **D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)
+* <span class="light">**D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)</span>
   * *selecting materials to demonstrate how material properties are appropriate for particular designed solutions, for example materials that enable sliding or floating*
   * *exploring a system such as a marionette or Indonesian wayang kulit shadow puppet to see that by combining materials with forces movement can be created*
   * *exploring how to manipulate materials using a range of tools, equipment and techniques to create movement, for example when constructing a toy boat that floats and moves*
-* **DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)
+* <span class="light">**DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)</span>
   * *creating different patterns using the same elements, for example using patterns of coloured counters to communicate and give meaning such as a response of ‘yes’ or ‘no’*
   * *learning about how data are represented by changing pixel density (resolution) in a photograph with support and noting the change in file size to successfully email to a friend*
-* **DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)
+* <span class="light">**DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)</span>
   * *experimenting with very simple, step-by-step procedures to explore programmable devices, for example providing instructions to physical or virtual objects or robotic devices to move in an intended manner, such as following a path around the classroom*
   * *following a series of instructions to use a piece of hardware or software, for example taking a photograph, editing and storing it to include in a slow motion*
-* **DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)
+* <span class="light">**DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)</span>
   * *planning and creating text, drawings and sound files to share online, for example jointly creating a photo story to illustrate a fable or fairy-tale from the Asia region or a local Aboriginal and Torres Strait Islander community story*
 
 #### **Level 3**: identify and apply appropriate reasoning and thinking strategies for particular outcomes
@@ -7847,76 +7876,76 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **English 3**: Create imaginative texts based on characters, settings and events from students’ own and other cultures using visual features, for example perspective, distance and angle (ACELT1601)
+* <span class="light">**English 3**: Create imaginative texts based on characters, settings and events from students’ own and other cultures using visual features, for example perspective, distance and angle (ACELT1601)</span>
   * *innovating on texts read, viewed and listened to by changing the point of view, revising an ending or creating a sequel*
-* **English 3**: Read an increasing range of different types of texts by combining contextual, semantic, grammatical and phonic knowledge, using text processing strategies, for example monitoring, predicting, confirming, rereading, reading on and self-correcting (ACELY1679)
+* <span class="light">**English 3**: Read an increasing range of different types of texts by combining contextual, semantic, grammatical and phonic knowledge, using text processing strategies, for example monitoring, predicting, confirming, rereading, reading on and self-correcting (ACELY1679)</span>
   * *analysing the way illustrations help to construct meaning and interpreting different types of illustrations and graphics*
-* **English 4**: Explore the effect of choices when framing an image, placement of elements in the image, and salience on composition of still and moving images in a range of types of texts
- (ACELA1496)
+* <span class="light">**English 4**: Explore the effect of choices when framing an image, placement of elements in the image, and salience on composition of still and moving images in a range of types of texts
+ (ACELA1496)</span>
   * *examining visual and multimodal texts, building a vocabulary to describe visual elements and techniques such as framing, composition and visual point of view and beginning to understand how these choices impact on viewer response*
-* **English 4**: Plan, rehearse and deliver presentations incorporating learned content and taking into account the particular purposes and audiences (ACELY1689)
+* <span class="light">**English 4**: Plan, rehearse and deliver presentations incorporating learned content and taking into account the particular purposes and audiences (ACELY1689)</span>
   * *reporting on a topic in an organised manner, providing relevant facts and descriptive detail to enhance audience understanding, and beginning to refer to reliable sources to support claims*
-* **English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)
+* <span class="light">**English 4**: Recognise how quotation marks are used in texts to signal dialogue, titles and quoted (direct) speech (ACELA1492)</span>
   * *experimenting with the use of quotation marks in students’ own writing*
-* **English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)
+* <span class="light">**English 4**: Understand how adverb groups/phrases and prepositional phrases work in different ways to provide circumstantial details about an activity (ACELA1495)</span>
   * *investigating in texts how adverb group/phrases and prepositional phrases can provide details of the circumstances surrounding a happening or state (for example, ‘At midnight (time) he rose slowly (manner) from the chair (place) and went upstairs (place)’*
-* **English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)
+* <span class="light">**English 4**: Use metalanguage to describe the effects of ideas, text structures and language features of literary texts (ACELT1604)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
-* **English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)
+* <span class="light">**English 4**: Discuss how authors and illustrators make stories exciting, moving and absorbing and hold readers’ interest by using various techniques, for example character development and plot tension (ACELT1605)</span>
   * *examining the author’s description of a character’s appearance, behaviour and speech and noting how the character’s development is evident through his or her dialogue and changing relationships and the reactions of other characters to him or her*
-* **Science 3**: With guidance, plan and conduct scientific investigations to find answers to questions, considering the safe use of appropriate materials and equipment (ACSIS054)
+* <span class="light">**Science 3**: With guidance, plan and conduct scientific investigations to find answers to questions, considering the safe use of appropriate materials and equipment (ACSIS054)</span>
   * *discussing as a whole class ways to investigate questions and evaluating which ways might be most successful*
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *recognising the elements of a fair test and using these when planning the steps and processes of an investigation*
-* **HASS 3**: Draw simple conclusions based on analysis of information and data
- (ACHASSI058)
+* <span class="light">**HASS 3**: Draw simple conclusions based on analysis of information and data
+ (ACHASSI058)</span>
   * *explaining conclusions about how their place and community have changed and developed (for example, settlement patterns, local changes in plant and animal species, historic events, cultural celebrations)*
-* **HASS 3**: Who makes rules, why rules are important and the consequences of rules not being followed (ACHASSK071)
+* <span class="light">**HASS 3**: Who makes rules, why rules are important and the consequences of rules not being followed (ACHASSK071)</span>
   * *developing and justifying a set of fair rules and consequences for the class*
   * *identifying familiar rules, how rules protect the rights of others, what their responsibilities are to others, and the consequences when rules are not followed*
   * *considering why rules differ across contexts (for example, a library, the playground, in class, at home, in games and in cultural groups)*
-* **HASS 4**: Pose questions to investigate people, events, places and issues (ACHASSI073)
+* <span class="light">**HASS 4**: Pose questions to investigate people, events, places and issues (ACHASSI073)</span>
   * *developing ‘How do we know?’ questions for evidence, ‘What could be done?’ questions about alternatives, and ‘Is that right or fair?’ questions about decisions past and present*
-* **HASS 4**: The differences between ‘rules’ and ‘laws’, why laws are important and how they affect the lives of people, including experiences of Aboriginal and Torres Strait Islander Peoples (ACHASSK092)
+* <span class="light">**HASS 4**: The differences between ‘rules’ and ‘laws’, why laws are important and how they affect the lives of people, including experiences of Aboriginal and Torres Strait Islander Peoples (ACHASSK092)</span>
   * *discussing examples of laws and why they are important to students’ lives*
-* **Dance 3-4**: Identify how the elements of dance and production elements express ideas in dance they make, perform and experience as audience, including exploration of Aboriginal and Torres Strait Islander dance (ACADAR008)
+* <span class="light">**Dance 3-4**: Identify how the elements of dance and production elements express ideas in dance they make, perform and experience as audience, including exploration of Aboriginal and Torres Strait Islander dance (ACADAR008)</span>
   * *examining dances in their community and comparing them to other dances of different peoples, times and cultures*
-* **Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)
+* <span class="light">**Drama 3-4**: Explore ideas and narrative structures through roles and situations and use empathy in their own improvisations and devised drama (ACADRM031)</span>
   * *experimenting with tension, and creating dramatic meaning to sustain improvisations and process dramas*
-* **Drama 3-4**: Identify intended purposes and meaning of drama, starting with Australian drama, including drama of Aboriginal and Torres Strait Islander Peoples, using the elements of drama to make comparisons (ACADRR034)
+* <span class="light">**Drama 3-4**: Identify intended purposes and meaning of drama, starting with Australian drama, including drama of Aboriginal and Torres Strait Islander Peoples, using the elements of drama to make comparisons (ACADRR034)</span>
   * *examining drama in their community and comparing it to other drama of different people, times and cultures*
-* **Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)
+* <span class="light">**Media 3-4**: Use media technologies to create time and space through the manipulation of images, sounds and text to tell stories (ACAMAM059)</span>
   * *experimenting with the camera and framing the subject, using basic shot types, angles and lighting to control picture space*
   * *experimenting with applying text to accompany still or moving images, such as credits in a title sequence, and selecting appropriate fonts, colour and length of time for display suitable to the purpose of the artwork*
   * *experimenting with ways of formatting and laying out a story using available software and appropriate text conventions for a front page news story*
-* **Music 3-4**: Create, perform and record compositions by selecting and organising sounds, silence, tempo and volume (ACAMUM086)
+* <span class="light">**Music 3-4**: Create, perform and record compositions by selecting and organising sounds, silence, tempo and volume (ACAMUM086)</span>
   * *experimenting with ways of using voices and instruments, combining sounds, silence, tempo and volume to create and perform music*
-* **Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)
+* <span class="light">**Music 3-4**: Practise singing, playing instruments and improvising music, using elements of music including rhythm, pitch, dynamics and form in a range of pieces, including in music from the local community (ACAMUM085)</span>
   * *experimenting with ways of singing and playing expressively, such as learning and practising a song with different dynamics and tempo*
-* **Visual 3-4**: Use materials, techniques and processes to explore visual conventions when making artworks (ACAVAM111)
+* <span class="light">**Visual 3-4**: Use materials, techniques and processes to explore visual conventions when making artworks (ACAVAM111)</span>
   * *selecting and experimenting with forms, styles, materials and technologies to explore symbolic use of visual conventions used by various cultures and times, for example, how colour and pattern are perceived as symbolic in different cultures*
   * *experimenting with alternative styles of representation from different cultures and times in their artworks, for example, realistic, symbolic, narrative, abstract*
   * *manipulating and experimenting with combinations of various materials and technologies to create predictable effects, for example, using crosshatching to create tone or design elements to focus attention in a composition*
-* **D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)
+* <span class="light">**D&T 3-4**: Recognise the role of people in design and technologies occupations and explore factors, including sustainability that impact on the design of products, services and environments to meet community needs (ACTDEK010)</span>
   * *exploring, playing with and testing materials for their appropriateness, for example materials for a new sun-shade product*
   * *examining the suitability of a service or everyday system and proposing improvements, for example a water saving system for a bathroom at home*
   * *investigating materials, components, tools and equipment, including by using digital technologies, to discover their characteristics and properties, how they can be used more sustainably and their impact in the future*
   * *exploring and testing factors that impact on design decisions, for example considering the demographics of an area or the impact of natural disasters on design of constructed environments such as the structural design of buildings in Japan to withstand earthquakes*
   * *critiquing designed products, services and environments to establish the factors that influence the design and use of common technologies, for example the characteristics that contribute to energy-efficient cooking such as wok cooking; the suitability and sustainable use of particular timbers*
-* **D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
- (ACTDEP017)
+* <span class="light">**D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
+ (ACTDEP017)</span>
   * *reflecting on designed solutions to critique and assess suitability, sustainability and enterprise opportunities and determine how well they meet success criteria*
-* **DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)
+* <span class="light">**DT 3-4**: Define simple problems, and describe and follow a sequence of steps and decisions (algorithms) needed to solve them (ACTDIP010)</span>
   * *experimenting with different ways of describing a set of instructions, for example writing two versions of the same simple set of instructions for a programmable robotic device*
   * *defining and describing the sequence of steps needed to incorporate multiple types of data in a solution, for example sequencing the steps in selecting and downloading images and audio to create a book trailer*
-* **DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)
+* <span class="light">**DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)</span>
   * *investigating how information systems are used in communities and explaining what needs are being met, for example students jointly creating a short survey and collecting data about how many community residents use the online library borrowing system to download e-books and why they do or do not*
   * *testing the adequacy of student solutions, for example asking a classmate to review a digital solution and provide feedback*
-* **HPE 3-4**: Describe and apply strategies that can be used in situations that make them feel uncomfortable or unsafe (ACPPS035)
+* <span class="light">**HPE 3-4**: Describe and apply strategies that can be used in situations that make them feel uncomfortable or unsafe (ACPPS035)</span>
   * *examining protective behaviours to stay safe in different situations, including near water or roads, in the park or when someone makes them feel uncomfortable or unsafe*
-* **HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)
+* <span class="light">**HPE 3-4**: Describe how respect, empathy and valuing diversity can positively influence relationships (ACPPS037)</span>
   * *creating an online connection with another school and identifying similarities and differences between students*
-* **HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)
+* <span class="light">**HPE 3-4**: Practise and apply movement concepts and strategies with and without equipment (ACPMP045)</span>
   * *participating in physical activities which require problem-solving to achieve a goal*
 
 ### Draw conclusions and design a course of action
@@ -7933,11 +7962,11 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **HASS 1**: The natural, managed and constructed features of places, their location, how they change and how they can be cared for (ACHASSK031)
+* <span class="light">**HASS 1**: The natural, managed and constructed features of places, their location, how they change and how they can be cared for (ACHASSK031)</span>
   * *describing local features people look after (for example, bushland, wetland, park or a heritage building) and finding out why and how these features need to be cared for, and who provides this care*
-* **HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)
+* <span class="light">**HASS 2**: Reflect on learning to propose how to care for places and sites that are important or significant (ACHASSI042)</span>
   * *sharing with their teacher, other students and members of their family what they know and have learnt about connections with other places, and explaining the significance of these connections*
-* **HASS 2**: The influence of purpose, distance and accessibility on the frequency with which people visit places (ACHASSK051)
+* <span class="light">**HASS 2**: The influence of purpose, distance and accessibility on the frequency with which people visit places (ACHASSK051)</span>
   * *suggesting what their pattern of visits to places might have been one or two generations ago and comparing this to their current pattern*
 
 #### **Level 3**: draw on prior knowledge and use evidence when choosing a course of action or drawing a conclusion
@@ -7963,15 +7992,15 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)
+* <span class="light">**Science 4**: Consider the elements of fair tests and use formal measurements and digital technologies as appropriate, to make and record observations accurately (ACSIS066)</span>
   * *recognising the elements of a fair test and using these when planning the steps and processes of an investigation*
-* **HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)
+* <span class="light">**HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)</span>
   * *recognising the significance of other days or weeks (including the anniversary of the national Apology to Australia’s Indigenous Peoples of 2008, National Reconciliation Week, International Women’s Day, Labour Day and Harmony Day)*
-* **HASS 3**: Interact with others with respect to share points of view (ACHASSI059)
+* <span class="light">**HASS 3**: Interact with others with respect to share points of view (ACHASSI059)</span>
   * *understanding their roles, rights and responsibilities in group situations*
   * *respecting ways to ensure others’ points of view are shared in group situations (for example, adhering to and defending strategies that enable turn-taking and eliminate talking over others)*
   * *valuing for and against arguments when making personal and group decisions*
-* **Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)
+* <span class="light">**Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)</span>
   * *experimenting with tension to create meaning and sustain representations*
 
 ### Evaluate procedures and outcomes
@@ -7985,11 +8014,11 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 1**: Identify outcomes of familiar events involving chance and describe them using everyday language such as ‘will happen’, ‘won’t happen’ or ‘might happen’ (ACMSP024)
+* <span class="light">**Maths 1**: Identify outcomes of familiar events involving chance and describe them using everyday language such as ‘will happen’, ‘won’t happen’ or ‘might happen’ (ACMSP024)</span>
   * *justifying that some events are certain or impossible*
-* **HASS 2**: Pose questions about past and present objects, people, places and events (ACHASSI034)
+* <span class="light">**HASS 2**: Pose questions about past and present objects, people, places and events (ACHASSI034)</span>
   * *developing how, when, where, why questions at the start of and during an investigation and then revisiting the questions to check if they have been answered*
-* **HASS 2**: The history of a significant person, building, site and/or part of the natural environment in the local community and what it reveals about the past (ACHASSK044)
+* <span class="light">**HASS 2**: The history of a significant person, building, site and/or part of the natural environment in the local community and what it reveals about the past (ACHASSK044)</span>
   * *using the internet, newspapers, community information guides and local knowledge to identify and list the people and places promoted as being of historic interest in the local community*
 
 #### **Level 3**: explain and justify ideas and outcomes
@@ -8014,25 +8043,25 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 3**: Apply place value to partition, rearrange and regroup numbers to at least 10 000 to assist calculations and solve problems (ACMNA053)
+* <span class="light">**Maths 3**: Apply place value to partition, rearrange and regroup numbers to at least 10 000 to assist calculations and solve problems (ACMNA053)</span>
   * *justifying choices about partitioning and regrouping numbers in terms of their usefulness for particular calculations*
-* **HASS 3**: Pose questions to investigate people, events, places and issues (ACHASSI052)
+* <span class="light">**HASS 3**: Pose questions to investigate people, events, places and issues (ACHASSI052)</span>
   * *posing evaluation questions (for example, ‘Is the process fair?’, ‘Could the process have been managed better?’)*
-* **HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)
+* <span class="light">**HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)</span>
   * *arguing a point of view on a civics and citizenship issue relevant to their lives (for example, the consequences of breaking school rules, the value of contributing in their community, the need to preserve an endangered species) and making effective use of persuasive language such as ‘I think’ and ‘I dis/agree that’ to gain the support of others*
-* **HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)
+* <span class="light">**HASS 4**: Reflect on learning to propose actions in response to an issue or challenge and consider possible effects of proposed actions (ACHASSI081)</span>
   * *reflecting on learning with the assistance of tools such as a KWL chart (what they know, what they want to know and what they have learned) when evaluating responses to an issue*
-* **HASS 4**: Interact with others with respect to share points of view (ACHASSI080)
+* <span class="light">**HASS 4**: Interact with others with respect to share points of view (ACHASSI080)</span>
   * *participating in role-plays and simple debates which allow for equal presentation of viewpoints*
-* **D&T 3-4**: Investigate how forces and the properties of materials affect the behaviour of a product or system
- (ACTDEK011)
+* <span class="light">**D&T 3-4**: Investigate how forces and the properties of materials affect the behaviour of a product or system
+ (ACTDEK011)</span>
   * *deconstructing a product or system to identify how motion and forces affect behaviour, for example in a puppet such as a Japanese bunraku puppet or a model windmill with moving sails*
-* **D&T 3-4**: Generate, develop, and communicate design ideas and decisions using appropriate technical terms and graphical representation techniques (ACTDEP015)
+* <span class="light">**D&T 3-4**: Generate, develop, and communicate design ideas and decisions using appropriate technical terms and graphical representation techniques (ACTDEP015)</span>
   * *exploring ways of joining, connecting and assembling components that ensure success*
-* **D&T 3-4**: Plan a sequence of production steps when making designed solutions individually and collaboratively (ACTDEP018)
+* <span class="light">**D&T 3-4**: Plan a sequence of production steps when making designed solutions individually and collaboratively (ACTDEP018)</span>
   * *managing time and resource allocation throughout production, for example materials, tools, equipment and people*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *exploring ways of joining, connecting and assembling components that ensure success, and the impact digital technologies have had on these processes*
-* **DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)
+* <span class="light">**DT 3-4**: Explain how student solutions and existing information systems meet common personal, school or community needs (ACTDIP012)</span>
   * *testing the adequacy of student solutions, for example asking a classmate to review a digital solution and provide feedback*
 

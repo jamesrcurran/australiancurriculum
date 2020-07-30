@@ -1,6 +1,39 @@
 # Numeracy
 
 
+## Learning Continuum
+
+<table style="table-layout: fixed; width: 100%">
+<thead>
+</thead>
+<tbody>
+<tr><th colspan="7" style="text-align: center"><a href="#estimating-and-calculating-with-whole-numbers">Estimating and calculating with whole numbers</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#understand-and-use-numbers-in-context">Understand and use numbers in context</a></th><td></td><td><a href="#level-2-model-represent-order-and-use-numbers-up-to-four-digits">model, represent, order and use numbers up to four digits</a></td><td><a href="#level-3-model-represent-order-and-use-numbers-up-to-five-digits">model, represent, order and use numbers up to five digits</a></td><td><a href="#level-4-identify-describe-and-use-numbers-larger-than-one-million">identify, describe and use numbers larger than one million</a></td><td><a href="#level-5-compare-order-and-use-positive-and-negative-numbers-to-solve-everyday-problems">compare, order and use positive and negative numbers to solve everyday problems</a></td><td><a href="#level-6-use-different-ways-to-represent-very-large-and-very-small-numbers-including-scientific-notation">use different ways to represent very large and very small numbers including scientific notation</a></td></tr>
+<tr><th><a href="#estimate-and-calculate">Estimate and calculate</a></th><td></td><td><a href="#level-2-estimate-the-solution-to-a-problem-and-then-calculate-the-answer">estimate the solution to a problem and then calculate the answer</a></td><td><a href="#level-3-estimate-a-solution-to-a-problem-and-then-check-the-solution-by-recalling-addition-subtraction-multiplication-and-division-facts">estimate a solution to a problem and then check the solution by recalling addition, subtraction, multiplication and division facts</a></td><td><a href="#level-4-solve-problems-and-check-calculations-using-efficient-mental-and-written-strategies">solve problems and check calculations using efficient mental and written strategies</a></td><td><a href="#level-5-solve-complex-problems-by-estimating-and-calculating-using-efficient-mental-written-and-digital-strategies">solve complex problems by estimating and calculating using efficient mental, written and digital strategies</a></td><td><a href="#level-6-solve-and-model-problems-involving-complex-data-by-estimating-and-calculating-using-a-variety-of-efficient-mental-written-and-digital-strategies">solve and model problems involving complex data by estimating and calculating using a variety of efficient mental, written and digital strategies</a></td></tr>
+<tr><th><a href="#use-money">Use money</a></th><td></td><td><a href="#level-2-identify-and-use-combinations-of-coins-and-notes-for-simple-purchases">identify and use combinations of coins and notes for simple purchases</a></td><td><a href="#level-3-estimate-the-change-from-simple-purchases">estimate the change from simple purchases</a></td><td><a href="#level-4-create-simple-financial-plans-budgets-and-cost-predictions">create simple financial plans, budgets and cost predictions</a></td><td><a href="#level-5-identify-and-justify-best-value-for-money-decisions">identify and justify ‘best value for money’ decisions</a></td><td><a href="#level-6-evaluate-financial-plans-to-support-specific-financial-goals">evaluate financial plans to support specific financial goals</a></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#recognising-and-using-patterns-and-relationships">Recognising and using patterns and relationships</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#recognise-and-use-patterns-and-relationships">Recognise and use patterns and relationships</a></th><td></td><td><a href="#level-2-identify-describe-and-create-everyday-patterns">identify, describe and create everyday patterns</a></td><td><a href="#level-3-identify-and-describe-trends-in-everyday-patterns">identify and describe trends in everyday patterns</a></td><td><a href="#level-4-identify-and-describe-pattern-rules-and-relationships-that-help-to-identify-trends">identify and describe pattern rules and relationships that help to identify trends</a></td><td><a href="#level-5-identify-trends-using-number-rules-and-relationships">identify trends using number rules and relationships</a></td><td><a href="#level-6-explain-how-the-practical-application-of-patterns-can-be-used-to-identify-trends">explain how the practical application of patterns can be used to identify trends</a></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#using-fractions-decimals-percentages-ratios-and-rates">Using fractions, decimals, percentages, ratios and rates</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#interpret-proportional-reasoning">Interpret proportional reasoning</a></th><td></td><td><a href="#level-2-visualise-and-describe-halves-and-quarters">visualise and describe halves and quarters</a></td><td><a href="#level-3-visualise-describe-and-order-tenths-hundredths-1place-and-2place-decimals">visualise, describe and order tenths, hundredths, 1-place and 2-place decimals</a></td><td><a href="#level-4-visualise-describe-and-order-equivalent-fractions-decimals-and-simple-percentages">visualise, describe and order equivalent fractions, decimals and simple percentages</a></td><td><a href="#level-5-visualise-and-describe-the-proportions-of-percentages-ratios-and-rates">visualise and describe the proportions of percentages, ratios and rates</a></td><td><a href="#level-6-illustrate-and-order-relationships-for-fractions-decimals-percentages-ratios-and-rates">illustrate and order relationships for fractions, decimals, percentages, ratios and rates</a></td></tr>
+<tr><th><a href="#apply-proportional-reasoning">Apply proportional reasoning</a></th><td></td><td><a href="#level-2-solve-problems-using-halves-and-quarters">solve problems using halves and quarters</a></td><td><a href="#level-3-solve-problems-using-equivalent-fractions-for-tenths-hundredths-1place-and-2place-decimals">solve problems using equivalent fractions for tenths, hundredths, 1-place and 2-place decimals</a></td><td><a href="#level-4-solve-problems-using-equivalent-fractions-decimals-and-simple-percentages">solve problems using equivalent fractions, decimals and simple percentages</a></td><td><a href="#level-5-solve-problems-using-simple-percentages-ratios-and-rates">solve problems using simple percentages, ratios and rates</a></td><td><a href="#level-6-solve-problems-involving-fractions-decimals-percentages-ratios-and-rates">solve problems involving fractions, decimals, percentages, ratios and rates</a></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#using-spatial-reasoning">Using spatial reasoning</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#visualise-2d-shapes-and-3d-objects">Visualise 2D shapes and 3D objects</a></th><td></td><td><a href="#level-2-identify-sort-and-describe-common-2d-shapes-and-3d-objects">identify, sort and describe common 2D shapes and 3D objects</a></td><td><a href="#level-3-visualise-sort-identify-and-describe-symmetry-shapes-and-angles-in-the-environment">visualise, sort, identify and describe symmetry, shapes and angles in the environment</a></td><td><a href="#level-4-visualise-sort-describe-and-compare-the-features-of-objects-such-as-prisms-and-pyramids-in-the-environment">visualise, sort, describe and compare the features of objects such as prisms and pyramids in the environment</a></td><td><a href="#level-5-visualise-describe-and-apply-their-understanding-of-the-features-and-properties-of-2d-shapes-and-3d-objects">visualise, describe and apply their understanding of the features and properties of 2D shapes and 3D objects</a></td><td><a href="#level-6-visualise-describe-and-analyse-the-way-shapes-and-objects-are-combined-and-positioned-in-the-environment-for-different-purposes">visualise, describe and analyse the way shapes and objects are combined and positioned in the environment for different purposes</a></td></tr>
+<tr><th><a href="#interpret-maps-and-diagrams">Interpret maps and diagrams</a></th><td></td><td><a href="#level-2-give-and-follow-directions-on-maps-and-diagrams-of-familiar-locations">give and follow directions on maps and diagrams of familiar locations</a></td><td><a href="#level-3-interpret-information-locate-positions-and-describe-routes-on-maps-and-diagrams-using-simple-scales-legends-and-directional-language">interpret information, locate positions and describe routes on maps and diagrams using simple scales, legends and directional language</a></td><td><a href="#level-4-identify-and-describe-routes-and-locations-using-grid-reference-systems-and-directional-language-such-as-north-or-north-east">identify and describe routes and locations, using grid reference systems and directional language such as north or north east</a></td><td><a href="#level-5-create-and-interpret-2d-and-3d-maps-models-and-diagrams">create and interpret 2D and 3D maps, models and diagrams</a></td><td><a href="#level-6-create-and-interpret-maps-models-and-diagrams-using-a-range-of-mapping-tools">create and interpret maps, models and diagrams using a range of mapping tools</a></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#interpreting-statistical-information">Interpreting statistical information</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#interpret-data-displays">Interpret data displays</a></th><td></td><td><a href="#level-2-collect-and-describe-data-on-a-relevant-issue-based-on-one-variable-and-display-as-lists-tables-or-picture-graphs">collect and describe data on a relevant issue based on one variable and display as lists, tables or picture graphs</a></td><td><a href="#level-3-collect-record-and-display-data-as-tables-diagrams-picture-graphs-and-column-graphs">collect record and display data as tables, diagrams, picture graphs and column graphs</a></td><td><a href="#level-4-collect-compare-describe-and-interpret-data-as-2way-tables-double-column-graphs-and-sector-graphs-including-from-digital-media">collect, compare, describe and interpret data as 2-way tables, double column graphs and sector graphs, including from digital media</a></td><td><a href="#level-5-compare-interpret-and-assess-the-effectiveness-of-different-data-displays-of-the-same-information">compare, interpret and assess the effectiveness of different data displays of the same information</a></td><td><a href="#level-6-evaluate-media-statistics-and-trends-by-linking-claims-to-data-displays-statistics-and-representative-data">evaluate media statistics and trends by linking claims to data displays, statistics and representative data</a></td></tr>
+<tr><th><a href="#interpret-chance-events">Interpret chance events</a></th><td></td><td><a href="#level-2-identify-and-describe-familiar-events-that-involve-chance">identify and describe familiar events that involve chance</a></td><td><a href="#level-3-describe-possible-outcomes-from-chance-experiments-using-informal-chance-language-and-recognising-variations-in-results">describe possible outcomes from chance experiments using informal chance language and recognising variations in results</a></td><td><a href="#level-4-describe-chance-events-and-compare-observed-outcomes-with-predictions-using-numerical-representations-such-as-a-75-chance-of-rain-or-5050-chance-of-snow">describe chance events and compare observed outcomes with predictions using numerical representations such as a 75% chance of rain or 50/50 chance of snow</a></td><td><a href="#level-5-describe-and-explain-why-the-actual-results-of-chance-events-are-not-always-the-same-as-expected-results">describe and explain why the actual results of chance events are not always the same as expected results</a></td><td><a href="#level-6-explain-the-likelihood-of-multiple-events-occurring-together-by-giving-examples-of-situations-when-they-might-happen">explain the likelihood of multiple events occurring together by giving examples of situations when they might happen</a></td></tr>
+<tr><th colspan="7" style="text-align: center"><a href="#using-measurement">Using measurement</a></th></tr>
+<th>Sub-element</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th><th>Level 6</th>
+<tr><th><a href="#estimate-and-measure-with-metric-units">Estimate and measure with metric units</a></th><td></td><td><a href="#level-2-estimate-measure-and-order-using-direct-and-indirect-comparisons-and-informal-units-to-collect-and-record-information-about-shapes-and-objects">estimate, measure and order using direct and indirect comparisons and informal units to collect and record information about shapes and objects</a></td><td><a href="#level-3-estimate-measure-and-compare-the-length-temperature-volume-capacity-and-mass-of-everyday-objects-using-metric-units-and-scaled-instruments">estimate, measure and compare the length, temperature, volume, capacity and mass of everyday objects using metric units and scaled instruments</a></td><td><a href="#level-4-choose-and-use-appropriate-metric-units-for-length-area-volume-capacity-and-mass-to-solve-everyday-problems">choose and use appropriate metric units for length, area, volume, capacity and mass to solve everyday problems</a></td><td><a href="#level-5-convert-between-common-metric-units-for-volume-and-capacity-and-use-perimeter-area-and-volume-formulas-to-solve-authentic-problems">convert between common metric units for volume and capacity and use perimeter, area and volume formulas to solve authentic problems</a></td><td><a href="#level-6-solve-complex-problems-involving-surface-area-and-volume-of-prisms-and-cylinders-and-composite-solids">solve complex problems involving surface area and volume of prisms and cylinders and composite solids</a></td></tr>
+<tr><th><a href="#operate-with-clocks-calendars-and-timetables">Operate with clocks, calendars and timetables</a></th><td></td><td><a href="#level-2-read-digital-and-analogue-clocks-to-the-half-and-quarter-hour-sequence-events-by-months-and-seasons-and-identify-a-date-on-a-calendar">read digital and analogue clocks to the half and quarter hour, sequence events by months and seasons and identify a date on a calendar</a></td><td><a href="#level-3-read-digital-and-analogue-clocks-to-the-minute-convert-between-hours-and-minutes-use-am-and-pm-and-use-calendars-to-locate-and-compare-time-events">read digital and analogue clocks to the minute, convert between hours and minutes, use 'am' and 'pm', and use calendars to locate and compare time events</a></td><td><a href="#level-4-convert-between-12-and-24hour-systems-to-solve-time-problems-interpret-and-use-timetables-from-print-and-digital-sources">convert between 12- and 24-hour systems to solve time problems, interpret and use timetables from print and digital sources</a></td><td><a href="#level-5-use-12-and-24hour-systems-within-a-single-time-zone-to-solve-time-problems-and-place-personal-and-family-events-on-an-extended-time-scale">use 12- and 24-hour systems within a single time zone to solve time problems, and place personal and family events on an extended time scale</a></td><td><a href="#level-6-use-12-and-24hour-systems-within-a-multiple-time-zone-to-solve-time-problems-use-large-and-small-timescales-in-complex-contexts-and-place-historical-and-scientific-events-on-an-extended-time-scale">use 12- and 24-hour systems within a multiple time zone to solve time problems, use large and small timescales in complex contexts and place historical and scientific events on an extended time scale</a></td></tr>
+</tbody>
+</table>
+
 ### Analysis by subject
 
 
@@ -9,16 +42,16 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#estimating-and-calculating-with-whole-numbers">Estimating and calculating with whole numbers</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">118<br><em>3%</em><br>179<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>14<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><em>33%</em><br>11<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>17<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">11<br><br>21<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><br>16<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>18<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>21<br><em>100%</em></td></tr>
-<tr><td ><a href="#recognising-and-using-patterns-and-relationships">Recognising and using patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">38<br><br>71<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><em>8%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">14<br><em>7%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">7<br><em>14%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">16<br><br>60<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>9<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">11<br><br>46<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>37<br><em>76%</em></td></tr>
-<tr><td ><a href="#using-fractions-decimals-percentages-ratios-and-rates">Using fractions, decimals, percentages, ratios and rates</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">74<br><em>3%</em><br>82<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><em>100%</em><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
-<tr><td ><a href="#using-spatial-reasoning">Using spatial reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">58<br><em>2%</em><br>88<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">7<br><br>35<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.38); text-align: right">37<br><em>24%</em><br>73<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">3<br><br>23<br><em>87%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">51<br><em>2%</em><br>133<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>12<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>6<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>45<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">13<br><br>61<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><em>25%</em><br>34<br><em>85%</em></td></tr>
-<tr><td ><a href="#interpreting-statistical-information">Interpreting statistical information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">57<br><em>11%</em><br>80<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>46%</em><br>28<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>21%</em><br>31<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">36<br><em>3%</em><br>103<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">18<br><em>6%</em><br>72<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>51<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td></tr>
-<tr><td ><a href="#using-measurement">Using measurement</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.71); text-align: right; color: #fff">39<br><em>5%</em><br>56<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">12<br><em>8%</em><br>36<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>13%</em><br>15<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">5<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>23<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>40<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">6<br><em>33%</em><br>36<br><em>81%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">860<br><em>8%</em><br>1992<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">5<br><em>20%</em><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.89); text-align: right; color: #fff">384<br><em>4%</em><br>556<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">61<br><em>25%</em><br>129<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">103<br><em>20%</em><br>146<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">24<br><em>17%</em><br>94<br><em>74%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">138<br><em>1%</em><br>340<br><em>34%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">23<br><br>59<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">17<br><br>67<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>20<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">3<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">46<br><em>2%</em><br>185<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">29<br><br>189<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">16<br><em>25%</em><br>138<br><em>85%</em></td></tr>
+<tr><td><a href="#estimating-and-calculating-with-whole-numbers">Estimating and calculating with whole numbers</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">118<br><em>3%</em><br>179<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>14<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><em>33%</em><br>11<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>17<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">11<br><br>21<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><br>16<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><em>20%</em><br>12<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>18<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>21<br><em>100%</em></td></tr>
+<tr><td><a href="#recognising-and-using-patterns-and-relationships">Recognising and using patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">38<br><br>71<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><em>8%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">14<br><em>7%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">7<br><em>14%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">16<br><br>60<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>9<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">11<br><br>46<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>37<br><em>76%</em></td></tr>
+<tr><td><a href="#using-fractions-decimals-percentages-ratios-and-rates">Using fractions, decimals, percentages, ratios and rates</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">74<br><em>3%</em><br>82<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><em>100%</em><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
+<tr><td><a href="#using-spatial-reasoning">Using spatial reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">58<br><em>2%</em><br>88<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">7<br><br>35<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.38); text-align: right">37<br><em>24%</em><br>73<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">3<br><br>23<br><em>87%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">51<br><em>2%</em><br>133<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>12<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>6<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>45<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">13<br><br>61<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><em>25%</em><br>34<br><em>85%</em></td></tr>
+<tr><td><a href="#interpreting-statistical-information">Interpreting statistical information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">57<br><em>11%</em><br>80<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>46%</em><br>28<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>21%</em><br>31<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">36<br><em>3%</em><br>103<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">18<br><em>6%</em><br>72<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>51<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td></tr>
+<tr><td><a href="#using-measurement">Using measurement</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.71); text-align: right; color: #fff">39<br><em>5%</em><br>56<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">12<br><em>8%</em><br>36<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>13%</em><br>15<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">5<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>23<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>40<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">6<br><em>33%</em><br>36<br><em>81%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">860<br><em>8%</em><br>1992<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">5<br><em>20%</em><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.89); text-align: right; color: #fff">384<br><em>4%</em><br>556<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">61<br><em>25%</em><br>129<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">103<br><em>20%</em><br>146<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">24<br><em>17%</em><br>94<br><em>74%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">138<br><em>1%</em><br>340<br><em>34%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">23<br><br>59<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">17<br><br>67<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>20<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">3<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">11<br><em>18%</em><br>29<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">46<br><em>2%</em><br>185<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">29<br><br>189<br><em>66%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">16<br><em>25%</em><br>138<br><em>85%</em></td></tr>
 </tbody>
 </table>
 
@@ -30,16 +63,16 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#estimating-and-calculating-with-whole-numbers">Estimating and calculating with whole numbers</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>23<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">20<br><br>51<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">33<br><em>6%</em><br>42<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">24<br><em>4%</em><br>49<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">46<br><em>11%</em><br>99<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">42<br><br>93<br><em>43%</em></td></tr>
-<tr><td ><a href="#recognising-and-using-patterns-and-relationships">Recognising and using patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><em>11%</em><br>38<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">15<br><em>7%</em><br>51<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">25<br><em>4%</em><br>36<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">20<br><em>5%</em><br>51<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">26<br><br>85<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">33<br><em>3%</em><br>97<br><em>54%</em></td></tr>
-<tr><td ><a href="#using-fractions-decimals-percentages-ratios-and-rates">Using fractions, decimals, percentages, ratios and rates</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>10<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">8<br><br>13<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.72); text-align: right; color: #fff">28<br><em>7%</em><br>27<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">24<br><br>30<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">14<br><em>14%</em><br>28<br><em>75%</em></td></tr>
-<tr><td ><a href="#using-spatial-reasoning">Using spatial reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>48<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>12%</em><br>63<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>8%</em><br>77<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><br>73<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">56<br><em>12%</em><br>168<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">57<br><em>2%</em><br>145<br><em>32%</em></td></tr>
-<tr><td ><a href="#interpreting-statistical-information">Interpreting statistical information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><em>12%</em><br>20<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">21<br><em>24%</em><br>30<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">31<br><em>29%</em><br>54<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">29<br><em>14%</em><br>60<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">47<br><em>6%</em><br>128<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">52<br><em>12%</em><br>134<br><em>33%</em></td></tr>
-<tr><td ><a href="#using-measurement">Using measurement</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">7<br><em>14%</em><br>24<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">20<br><em>15%</em><br>41<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>7%</em><br>50<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">18<br><em>11%</em><br>36<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">26<br><br>67<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>47<br><em>55%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">860<br><em>8%</em><br>1992<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">43<br><em>7%</em><br>153<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">104<br><em>12%</em><br>246<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">136<br><em>11%</em><br>272<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">143<br><em>7%</em><br>296<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">225<br><em>7%</em><br>577<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">222<br><em>5%</em><br>544<br><em>42%</em></td></tr>
+<tr><td><a href="#estimating-and-calculating-with-whole-numbers">Estimating and calculating with whole numbers</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>23<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">20<br><br>51<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">33<br><em>6%</em><br>42<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">24<br><em>4%</em><br>49<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">46<br><em>11%</em><br>99<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">42<br><br>93<br><em>43%</em></td></tr>
+<tr><td><a href="#recognising-and-using-patterns-and-relationships">Recognising and using patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><em>11%</em><br>38<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">15<br><em>7%</em><br>51<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">25<br><em>4%</em><br>36<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">20<br><em>5%</em><br>51<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">26<br><br>85<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">33<br><em>3%</em><br>97<br><em>54%</em></td></tr>
+<tr><td><a href="#using-fractions-decimals-percentages-ratios-and-rates">Using fractions, decimals, percentages, ratios and rates</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>10<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">8<br><br>13<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.72); text-align: right; color: #fff">28<br><em>7%</em><br>27<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">24<br><br>30<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">14<br><em>14%</em><br>28<br><em>75%</em></td></tr>
+<tr><td><a href="#using-spatial-reasoning">Using spatial reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>48<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>12%</em><br>63<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>8%</em><br>77<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><br>73<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">56<br><em>12%</em><br>168<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">57<br><em>2%</em><br>145<br><em>32%</em></td></tr>
+<tr><td><a href="#interpreting-statistical-information">Interpreting statistical information</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><em>12%</em><br>20<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">21<br><em>24%</em><br>30<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">31<br><em>29%</em><br>54<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">29<br><em>14%</em><br>60<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">47<br><em>6%</em><br>128<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">52<br><em>12%</em><br>134<br><em>33%</em></td></tr>
+<tr><td><a href="#using-measurement">Using measurement</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">7<br><em>14%</em><br>24<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">20<br><em>15%</em><br>41<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>7%</em><br>50<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">18<br><em>11%</em><br>36<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">26<br><br>67<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>47<br><em>55%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">860<br><em>8%</em><br>1992<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">43<br><em>7%</em><br>153<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">104<br><em>12%</em><br>246<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.32); text-align: right">136<br><em>11%</em><br>272<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">143<br><em>7%</em><br>296<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">225<br><em>7%</em><br>577<br><em>47%</em></td><td style="background-color: rgba(21, 153, 87, 0.52); text-align: right; color: #fff">222<br><em>5%</em><br>544<br><em>42%</em></td></tr>
 </tbody>
 </table>
 
@@ -53,13 +86,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#understand-and-use-numbers-in-context">Understand and use numbers in context</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">63<br><em>3%</em><br>145<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">55<br><em>2%</em><br>91<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>14<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>11<br><em>91%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>13<br><em>100%</em></td></tr>
-<tr><td ><a href="#estimate-and-calculate">Estimate and calculate</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">89<br><em>4%</em><br>159<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">55<br><em>4%</em><br>75<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><em>50%</em><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><br>6<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">11<br><br>21<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">5<br><br>16<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">2<br><br>11<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
-<tr><td ><a href="#use-money">Use money</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">18<br><em>11%</em><br>41<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.89); text-align: right; color: #fff">8<br><em>12%</em><br>13<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">4<br><em>25%</em><br>9<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">5<br><br>11<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">118<br><em>3%</em><br>179<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>14<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><em>33%</em><br>11<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>17<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">11<br><br>21<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><br>16<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>18<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>21<br><em>100%</em></td></tr>
+<tr><td><a href="#understand-and-use-numbers-in-context">Understand and use numbers in context</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">63<br><em>3%</em><br>145<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">55<br><em>2%</em><br>91<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>14<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>11<br><em>91%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">5<br><em>20%</em><br>12<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>13<br><em>100%</em></td></tr>
+<tr><td><a href="#estimate-and-calculate">Estimate and calculate</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">89<br><em>4%</em><br>159<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">55<br><em>4%</em><br>75<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><em>50%</em><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><br>6<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">11<br><br>21<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">5<br><br>16<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">2<br><br>11<br><em>45%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
+<tr><td><a href="#use-money">Use money</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">18<br><em>11%</em><br>41<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.89); text-align: right; color: #fff">8<br><em>12%</em><br>13<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">4<br><em>25%</em><br>9<br><em>11%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">5<br><br>11<br><em>55%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">118<br><em>3%</em><br>179<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>14<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><em>33%</em><br>11<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>17<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">11<br><br>21<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">9<br><br>16<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><em>20%</em><br>12<br><em>67%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">5<br><br>18<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>15<br><em>60%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>21<br><em>100%</em></td></tr>
 </tbody>
 </table>
 
@@ -71,13 +104,13 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#understand-and-use-numbers-in-context">Understand and use numbers in context</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">63<br><em>3%</em><br>145<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">5<br><br>8<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">11<br><br>28<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">16<br><br>24<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">6<br><em>17%</em><br>13<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.38); text-align: right">12<br><em>8%</em><br>37<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">14<br><br>37<br><em>49%</em></td></tr>
-<tr><td ><a href="#estimate-and-calculate">Estimate and calculate</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">89<br><em>4%</em><br>159<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">2<br><br>14<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">7<br><br>19<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">15<br><em>7%</em><br>17<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">14<br><br>28<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.63); text-align: right; color: #fff">28<br><em>11%</em><br>45<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">24<br><br>46<br><em>33%</em></td></tr>
-<tr><td ><a href="#use-money">Use money</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">18<br><em>11%</em><br>41<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">2<br><br>4<br></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">2<br><em>50%</em><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">4<br><br>8<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">6<br><em>17%</em><br>17<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">4<br><br>10<br><em>70%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>23<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">20<br><br>51<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">33<br><em>6%</em><br>42<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">24<br><em>4%</em><br>49<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">46<br><em>11%</em><br>99<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">42<br><br>93<br><em>43%</em></td></tr>
+<tr><td><a href="#understand-and-use-numbers-in-context">Understand and use numbers in context</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">63<br><em>3%</em><br>145<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">5<br><br>8<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">11<br><br>28<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">16<br><br>24<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">6<br><em>17%</em><br>13<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.38); text-align: right">12<br><em>8%</em><br>37<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">14<br><br>37<br><em>49%</em></td></tr>
+<tr><td><a href="#estimate-and-calculate">Estimate and calculate</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">89<br><em>4%</em><br>159<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">2<br><br>14<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">7<br><br>19<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">15<br><em>7%</em><br>17<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">14<br><br>28<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.63); text-align: right; color: #fff">28<br><em>11%</em><br>45<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">24<br><br>46<br><em>33%</em></td></tr>
+<tr><td><a href="#use-money">Use money</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">18<br><em>11%</em><br>41<br><em>46%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">2<br><br>4<br></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">2<br><em>50%</em><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">4<br><br>8<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">6<br><em>17%</em><br>17<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">4<br><br>10<br><em>70%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">170<br><em>5%</em><br>345<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>23<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">20<br><br>51<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">33<br><em>6%</em><br>42<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.28); text-align: right">24<br><em>4%</em><br>49<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">46<br><em>11%</em><br>99<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.49); text-align: right">42<br><br>93<br><em>43%</em></td></tr>
 </tbody>
 </table>
 
@@ -122,18 +155,18 @@
 
 ##### Elaborations only
 
-* **Maths 2**: Investigate number sequences, initially those increasing and decreasing by twos, threes, fives and tens from any starting point, then moving to other sequences (ACMNA026)
+* <span class="light">**Maths 2**: Investigate number sequences, initially those increasing and decreasing by twos, threes, fives and tens from any starting point, then moving to other sequences (ACMNA026)</span>
   * *developing fluency and confidence with numbers and calculations by saying number sequences*
   * *recognising patterns in number sequences, such as adding 10 always results in the same final digit*
-* **Maths 2**: Explore the connection between addition and subtraction (ACMNA029)
+* <span class="light">**Maths 2**: Explore the connection between addition and subtraction (ACMNA029)</span>
   * *becoming fluent with partitioning numbers to understand the connection between addition and subtraction*
   * *using counting on to identify the missing element in an additive problem*
-* **HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)
+* <span class="light">**HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)</span>
   * *creating shared texts (for example, pictorial charts, calendars, lists, recounts, wall murals/collages, big books) to record observations or report findings*
-* **Music F-2**: Create compositions and perform music to communicate ideas to an audience
- (ACAMUM082)
+* <span class="light">**Music F-2**: Create compositions and perform music to communicate ideas to an audience
+ (ACAMUM082)</span>
   * *improvising patterns of body movement, such as clapping or stamping, and creating accompaniments to familiar music*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *performing locomotor movements using different body parts to travel in different directions*
   * *demonstrating balances and describing what helps to maintain stable positions*
   * *demonstrating changes in speed, direction and level of movement in response to changes in music tempo*
@@ -179,13 +212,13 @@
 
 ##### Elaborations only
 
-* **Maths 4**: Recognise that the place value system can be extended to tenths and hundredths. Make connections between fractions and decimal notation (ACMNA079)
+* <span class="light">**Maths 4**: Recognise that the place value system can be extended to tenths and hundredths. Make connections between fractions and decimal notation (ACMNA079)</span>
   * *using knowledge of fractions to establish equivalences between fractions and decimal notation*
-* **Maths 4**: Solve word problems by using number sentences involving multiplication or division where there is no remainder
- (ACMNA082)
+* <span class="light">**Maths 4**: Solve word problems by using number sentences involving multiplication or division where there is no remainder
+ (ACMNA082)</span>
   * *representing a word problem as a number sentence*
   * *writing a word problem using a given number sentence*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *exploring and practising different techniques to propel objects towards a target*
   * *using a surface dive and propelling the body underwater to recover an object*
   * *performing tumbling routines using rolling actions, incline, weight transfer, flight and balances*
@@ -214,12 +247,12 @@
 
 ##### Elaborations only
 
-* **Maths 5**: Find unknown quantities in number sentences involving multiplication and division and identify equivalent number sentences involving multiplication and division (ACMNA121)
+* <span class="light">**Maths 5**: Find unknown quantities in number sentences involving multiplication and division and identify equivalent number sentences involving multiplication and division (ACMNA121)</span>
   * *using relevant problems to develop number sentences*
-* **Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
- (ACAMUM090)
+* <span class="light">**Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
+ (ACAMUM090)</span>
   * *exploring rhythm, pitch and dynamics and expression to create contrast, repetition and balance to develop compositions for performance*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *performing activities that involve a transition from one skill to another, such as from dribbling to shooting or from leaping to balancing*
   * *designing a sequence of passes between teammates to maintain possession or move a piece of equipment from one point to another*
 
@@ -259,47 +292,47 @@
 
 ##### Elaborations only
 
-* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* <span class="light">**Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)</span>
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Maths 8**: Solve problems involving profit and loss, with and without digital technologies (ACMNA189)
+* <span class="light">**Maths 8**: Solve problems involving profit and loss, with and without digital technologies (ACMNA189)</span>
   * *investigating the methods used in retail stores to express discounts*
-* **Science 8**: Properties of the different states of matter can be explained in terms of the motion and arrangement of particles (ACSSU151)
+* <span class="light">**Science 8**: Properties of the different states of matter can be explained in terms of the motion and arrangement of particles (ACSSU151)</span>
   * *using the particle model to explain observed phenomena linking the energy of particles to temperature changes*
-* **Science 8**: Solutions to contemporary issues that are found using science and technology, may impact on other areas of society and may involve ethical considerations (ACSHE135)
+* <span class="light">**Science 8**: Solutions to contemporary issues that are found using science and technology, may impact on other areas of society and may involve ethical considerations (ACSHE135)</span>
   * *investigating how energy efficiency can reduce energy consumption*
-* **Science 8**: People use science understanding and skills in their occupations and these have influenced the development of practices in areas of human activity (ACSHE136)
+* <span class="light">**Science 8**: People use science understanding and skills in their occupations and these have influenced the development of practices in areas of human activity (ACSHE136)</span>
   * *investigating the role of science in the development of technology important to the economies and communities of the Asia–Pacific regions, for example car manufacture, earthquake prediction and electronic optics*
   * *considering how engineers improve energy efficiency of a range of processes*
   * *recognising the role of knowledge of cells and cell divisions in the area of disease treatment and control*
   * *investigating how scientists have created new materials such as synthetic fibres, heat-resistant plastics and pharmaceuticals*
-* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
- (ACAMUM092)
+* <span class="light">**Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
+ (ACAMUM092)</span>
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
- (ACAMUM093)
+* <span class="light">**Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+ (ACAMUM093)</span>
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
- (ACAMUM096)
+* <span class="light">**Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
+ (ACAMUM096)</span>
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* <span class="light">**HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)</span>
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **Hist 7**: Sequence historical events, developments and periods (ACHHS205)
+* <span class="light">**Hist 7**: Sequence historical events, developments and periods (ACHHS205)</span>
   * *identifying the approximate beginning and end dates of ancient societies and the periods of time when they coexisted*
-* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* <span class="light">**Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)</span>
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
- (ACDSEH044)
+* <span class="light">**Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+ (ACDSEH044)</span>
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
- (ACDSEH041)
+* <span class="light">**Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+ (ACDSEH041)</span>
   * *creating a graphic representation of the social structure of Chinese society*
-* **Hist 8**: Sequence historical events, developments and periods (ACHHS148)
+* <span class="light">**Hist 8**: Sequence historical events, developments and periods (ACHHS148)</span>
   * *placing historical events in sequence to identify broader patterns of continuity and change (for example, the Polynesian expansion across the Pacific; the stability of the Angkor/Khmer Empire over many centuries)*
-* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* <span class="light">**E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)</span>
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 6**: use different ways to represent very large and very small numbers including scientific notation
@@ -347,41 +380,41 @@
 
 ##### Elaborations only
 
-* **Maths 9**: Investigate very small and very large time scales and intervals (ACMMG219)
+* <span class="light">**Maths 9**: Investigate very small and very large time scales and intervals (ACMMG219)</span>
   * *investigating the usefulness of scientific notation in representing very large and very small numbers*
-* **Science 9**: Ecosystems consist of communities of interdependent organisms and abiotic components of the environment; matter and energy flow through these systems (ACSSU176)
+* <span class="light">**Science 9**: Ecosystems consist of communities of interdependent organisms and abiotic components of the environment; matter and energy flow through these systems (ACSSU176)</span>
   * *examining factors that affect population sizes such as seasonal changes, destruction of habitats, introduced species*
-* **Science 9**: Chemical reactions involve rearranging atoms to form new substances; during a chemical reaction mass is not created or destroyed (ACSSU178)
+* <span class="light">**Science 9**: Chemical reactions involve rearranging atoms to form new substances; during a chemical reaction mass is not created or destroyed (ACSSU178)</span>
   * *recognising that the conservation of mass in a chemical reaction can be demonstrated by simple chemical equations*
-* **Science 9**: Scientific understanding, including models and theories, is contestable and is refined over time through a process of review by the scientific community (ACSHE157)
+* <span class="light">**Science 9**: Scientific understanding, including models and theories, is contestable and is refined over time through a process of review by the scientific community (ACSHE157)</span>
   * *investigating how models can be used to predict the changes in populations due to environmental changes, such as the impact of flooding or fire on rabbit or kangaroo populations*
-* **Science 9**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)
+* <span class="light">**Science 9**: People use scientific knowledge to evaluate whether they accept claims, explanations or predictions, and advances in science can affect people’s lives, including generating new career opportunities (ACSHE160)</span>
   * *investigating the use of nanotechnology in medicine, such as the delivery of pharmaceuticals*
-* **Science 10**: Different types of chemical reactions are used to produce a range of products and can occur at different rates (ACSSU187)
+* <span class="light">**Science 10**: Different types of chemical reactions are used to produce a range of products and can occur at different rates (ACSSU187)</span>
   * *using word or symbol equations to represent chemical reactions*
-* **Science 10**: The universe contains features including galaxies, stars and solar systems, and the Big Bang theory can be used to explain the origin of the universe (ACSSU188)
+* <span class="light">**Science 10**: The universe contains features including galaxies, stars and solar systems, and the Big Bang theory can be used to explain the origin of the universe (ACSSU188)</span>
   * *recognising that the age of the universe can be derived using knowledge of the Big Bang theory*
-* **Science 10**: Energy conservation in a system can be explained by describing energy transfers and transformations (ACSSU190)
+* <span class="light">**Science 10**: Energy conservation in a system can be explained by describing energy transfers and transformations (ACSSU190)</span>
   * *recognising that the Law of Conservation of Energy explains that total energy is maintained in energy transfer and transformation*
   * *recognising that in energy transfer and transformation, a variety of processes can occur, so that the usable energy is reduced and the system is not 100% efficient*
-* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* <span class="light">**Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)</span>
   * *using aural skills and memory to identify, sing and notate pitch and rhythm patterns, intervals and familiar chord changes*
-* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
- (ACAMUM102)
+* <span class="light">**Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+ (ACAMUM102)</span>
   * *combining and manipulating the elements of music using repetition, variation and contrast to shape compositions*
-* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* <span class="light">**Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)</span>
   * *Considering viewpoints – institutions: For example – Who sponsored this work? If you were commissioned to make an artwork for a commercial business, what would you want to know in order to produce what they want? Would you compromise your beliefs to complete a commissioned artwork?*
-* **HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)
+* <span class="light">**HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)</span>
   * *reviewing, proposing and implementing alternative responses to movement situations based on the outcome of previous performances*
-* **Hist 9**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS164)
+* <span class="light">**Hist 9**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS164)</span>
   * *placing key events in sequence (for example, the Boer War, 1899–1902; World War I, 1914–1918), and identifying parts of the world that were involved in, or affected by, those events*
-* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* <span class="light">**Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)</span>
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
-* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* <span class="light">**Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)</span>
   * *placing in sequence the main events of the Freedom Rides campaigns in the United States and Australia and explaining the links between the two campaigns*
-* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* <span class="light">**Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)</span>
   * *investigating the scale and significance of the Holocaust, using primary sources*
-* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* <span class="light">**Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)</span>
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
 
 ### Estimate and calculate
@@ -413,17 +446,17 @@
 
 ##### Elaborations only
 
-* **Maths 2**: Investigate number sequences, initially those increasing and decreasing by twos, threes, fives and tens from any starting point, then moving to other sequences (ACMNA026)
+* <span class="light">**Maths 2**: Investigate number sequences, initially those increasing and decreasing by twos, threes, fives and tens from any starting point, then moving to other sequences (ACMNA026)</span>
   * *developing fluency and confidence with numbers and calculations by saying number sequences*
-* **Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
- (ACADAM001)
+* <span class="light">**Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
+ (ACADAM001)</span>
   * *exploring fundamental movements safely to improvise dance ideas, for example, running in a race, jumping like a frog, stomping like a giant, rolling like a log, falling like an autumn leaf, floating like a cloud, gliding like a bird*
   * *experimenting with the elements of space, time, dynamics and relationships through movement, for example, considering levels, tempo and dynamics*
-* **Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)
+* <span class="light">**Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)</span>
   * *practising and responding to a range of fundamental movements to music, for example, walking, running, marching, galloping, skipping, crawling (locomotor); bending, stretching, twisting, turning (non-locomotor)*
   * *practising fundamental movements to begin to develop technical skills of body control, posture, strength, balance and coordination, and responding to teacher’s feedback*
   * *developing awareness of and taking responsibility for safe dance practices, for example, being aware of self and others in the dance space, moving with care, respecting others dancing in the space; awareness of the boundaries of the dance space; awareness of their bodies’ needs, for example, getting a drink after dance activities for hydration*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *presenting a learned sequence of movements or performing simple dances, individually or as a group, to classmates, teachers and parents*
 
 #### **Level 3**: estimate a solution to a problem and then check the solution by recalling addition, subtraction, multiplication and division facts
@@ -464,15 +497,15 @@
 
 ##### Elaborations only
 
-* **Maths 4**: Recognise that the place value system can be extended to tenths and hundredths. Make connections between fractions and decimal notation (ACMNA079)
+* <span class="light">**Maths 4**: Recognise that the place value system can be extended to tenths and hundredths. Make connections between fractions and decimal notation (ACMNA079)</span>
   * *using knowledge of fractions to establish equivalences between fractions and decimal notation*
-* **Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)
+* <span class="light">**Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)</span>
   * *practising combinations of fundamental locomotor and non-locomotor movements to a range of musical accompaniment, for example, running and sliding; bending and stretching; running, swinging, walking and stretching*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *sharing with others dramatic action that is structured through dramatic tension, in real or virtual spaces*
-* **DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)
+* <span class="light">**DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)</span>
   * *using software to sort and calculate data when solving problems, for example sorting numerical and categorical data in ascending or descending order and automating simple arithmetic calculations using nearby cells and summing cell ranges in spreadsheet or database software*
 
 #### **Level 4**: solve problems and check calculations using efficient mental and written strategies
@@ -518,22 +551,22 @@
 
 ##### Elaborations only
 
-* **Maths 6**: Identify and describe properties of prime, composite, square and triangular numbers (ACMNA122)
+* <span class="light">**Maths 6**: Identify and describe properties of prime, composite, square and triangular numbers (ACMNA122)</span>
   * *representing composite numbers as a product of their prime factors and using this form to simplify calculations by cancelling common primes*
-* **Maths 6**: Solve problems involving addition and subtraction of fractions with the same or related denominators
- (ACMNA126)
+* <span class="light">**Maths 6**: Solve problems involving addition and subtraction of fractions with the same or related denominators
+ (ACMNA126)</span>
   * *understanding the processes for adding and subtracting fractions with related denominators and fractions as an operator, in preparation for calculating with all fractions*
-* **Maths 6**: Multiply decimals by whole numbers and perform divisions by non-zero whole numbers where the results are terminating decimals, with and without digital technologies (ACMNA129)
+* <span class="light">**Maths 6**: Multiply decimals by whole numbers and perform divisions by non-zero whole numbers where the results are terminating decimals, with and without digital technologies (ACMNA129)</span>
   * *interpreting the results of calculations to provide an answer appropriate to the context*
-* **HASS 6**: The shared values of Australian citizenship and the formal rights and responsibilities of Australian citizens (ACHASSK147)
+* <span class="light">**HASS 6**: The shared values of Australian citizenship and the formal rights and responsibilities of Australian citizens (ACHASSK147)</span>
   * *exploring how laws protect human rights (for example, gender, disability, race and age discrimination law)*
-* **Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
- (ACADRM036)
+* <span class="light">**Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
+ (ACADRM036)</span>
   * *adjusting the weight (heaviness or lightness of movement), speed, use of stillness, levels and movement through space to focus on character and situation and create dramatic action*
-* **DT 5-6**: Acquire, store and validate different types of data, and use a range of software to interpret and visualise data to create information (ACTDIP016)
+* <span class="light">**DT 5-6**: Acquire, store and validate different types of data, and use a range of software to interpret and visualise data to create information (ACTDIP016)</span>
   * *recognising the difference between numerical, text and date formats in spreadsheets*
   * *using software to automate calculations to help with interpreting data, for example using functions to make arithmetic calculations using multiple cells and summing cell ranges*
-* **HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)
+* <span class="light">**HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)</span>
   * *demonstrating an understanding of how to adjust the force and speed of an object to improve accuracy and control*
 
 #### **Level 5**: solve complex problems by estimating and calculating using efficient mental, written and digital strategies
@@ -606,41 +639,41 @@
 
 ##### Elaborations only
 
-* **Maths 7**: Round decimals to a specified number of decimal places (ACMNA156)
+* <span class="light">**Maths 7**: Round decimals to a specified number of decimal places (ACMNA156)</span>
   * *using rounding to estimate the results of calculations with whole numbers and decimals, and understanding the conventions for rounding*
-* **Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)
+* <span class="light">**Maths 7**: Connect fractions, decimals and percentages and carry out simple conversions (ACMNA157)</span>
   * *justifying choices of written, mental or calculator strategies for solving specific problems including those involving large numbers*
   * *understanding that quantities can be represented by different number types and calculated using various operations, and that choices need to be made about each*
-* **Maths 7**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)
+* <span class="light">**Maths 7**: Introduce the concept of variables as a way of representing numbers using letters (ACMNA175)</span>
   * *understanding that arithmetic laws are powerful ways of describing and simplifying calculations and that using these laws leads to the generality of algebra*
-* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
- (ACTDEK033)
+* <span class="light">**D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+ (ACTDEK033)</span>
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
- (ACTDIK024)
+* <span class="light">**DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
+ (ACTDIK024)</span>
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
- (ACPPS073)
+* <span class="light">**HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
+ (ACPPS073)</span>
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* <span class="light">**HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)</span>
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
-* **Hist 8**: The organisation of the Mongol army under Genghis Khan and the treatment of conquered peoples, such as the codification of laws and exemption of teachers, lawyers and artists from taxes (ACDSEH077)
+* <span class="light">**Hist 8**: The organisation of the Mongol army under Genghis Khan and the treatment of conquered peoples, such as the codification of laws and exemption of teachers, lawyers and artists from taxes (ACDSEH077)</span>
   * *outlining Genghis Khan’s use of decimal organisation in his army and his policies for governing his empire (for example, codifying laws, banning the killing of animals in the breeding season, supporting religious freedom and expanding trade)*
-* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* <span class="light">**Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)</span>
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
-* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* <span class="light">**Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)</span>
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
- (ACHGK042)
+* <span class="light">**Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
+ (ACHGK042)</span>
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)
+* <span class="light">**Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)</span>
   * *developing a statistical map to show demographic or economic data for Australia or China, or show the cultural and demographic diversity of Aboriginal and Torres Strait Islander Peoples using mapping software*
   * *creating a map showing geomorphological features by using data from Geoscience Australia, or demographic statistics from census data, using a spatial technologies application*
-* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* <span class="light">**E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)</span>
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
 
 #### **Level 6**: solve and model problems involving complex data by estimating and calculating using a variety of efficient mental, written and digital strategies
@@ -713,34 +746,34 @@
 
 ##### Elaborations only
 
-* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* <span class="light">**Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)</span>
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
- (ACTDEK045)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
+ (ACTDEK045)</span>
   * *experimenting with food preservation methods such as freezing and dehydrating to determine changes to food structure and how these impact on designing healthy food solutions, for example dehydrating fruit for the lunch box*
   * *determining how the causes of food spoilage can be addressed when preparing, cooking, presenting and storing food items, for example developing a comprehensive checklist of considerations for safe and hygienic food storage and preparation including danger zone temperatures for a food service*
-* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)</span>
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
- (ACTDIP037)
+* <span class="light">**DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
+ (ACTDIP037)</span>
   * *automating calculations, for example using absolute cell referencing to automatically extend formulas, and automating arithmetic calculations using built-in functions such as trigonometry, compound interest*
   * *simulating simple, iterative processes, for example modelling compound interest or ecological models using a spreadsheet*
-* **DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
+* <span class="light">**DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)</span>
   * *investigating different types of functional requirements for solutions, for example increasing the speed of processing, calculating new results, improving the quality of reports*
-* **Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)
+* <span class="light">**Visual 9-10**: Present ideas for displaying artworks and evaluate displays of artworks (ACAVAM129)</span>
   * *Considering viewpoints – institutions: For example – Who sponsored this work? If you were commissioned to make an artwork for a commercial business, what would you want to know in order to produce what they want? Would you compromise your beliefs to complete a commissioned artwork?*
-* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* <span class="light">**HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)</span>
   * *experimenting with the manipulation of force and speed applied to an object to examine the difference created in movement paths*
-* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* <span class="light">**Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)</span>
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)
+* <span class="light">**Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)</span>
   * *creating a map to show the relationship between biomes and world food production, using a spatial technologies application*
-* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* <span class="light">**Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)</span>
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *examining the United Nations Millennium Development Goals and their relationship to human wellbeing*
-* **Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)
+* <span class="light">**Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)</span>
   * *creating a map to show measures of environmental change, using a spatial technologies application*
-* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* <span class="light">**E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)</span>
   * *evaluating different types of loans to estimate the short- and long-term financial implications of each*
 
 ### Use money
@@ -788,9 +821,9 @@
 
 ##### Elaborations only
 
-* **D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)
+* <span class="light">**D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)</span>
   * *evaluating the use of computer-aided manufacturing in terms of cost and impacts on local and regional designers, producers and enterprises*
-* **D&T 5-6**: Negotiate criteria for success that include sustainability to evaluate design ideas, processes and solutions (ACTDEP027)
+* <span class="light">**D&T 5-6**: Negotiate criteria for success that include sustainability to evaluate design ideas, processes and solutions (ACTDEP027)</span>
   * *considering the criteria for success in relation to the benefits and costs of production processes, the environmental impact, future use and application, and social values and ethics of clients*
 
 #### **Level 5**: identify and justify ‘best value for money’ decisions
@@ -814,24 +847,24 @@
 
 ##### Elaborations only
 
-* **Maths 8**: Solve problems involving the use of percentages, including percentage increases and decreases, with and without digital technologies (ACMNA187)
+* <span class="light">**Maths 8**: Solve problems involving the use of percentages, including percentage increases and decreases, with and without digital technologies (ACMNA187)</span>
   * *using percentages to solve problems, including those involving mark-ups, discounts,and GST*
-* **Maths 8**: Solve problems involving profit and loss, with and without digital technologies (ACMNA189)
+* <span class="light">**Maths 8**: Solve problems involving profit and loss, with and without digital technologies (ACMNA189)</span>
   * *investigating the methods used in retail stores to express discounts*
-* **HASS 7**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)
+* <span class="light">**HASS 7**: Develop and use criteria to make informed decisions and judgements (ACHASSI161)</span>
   * *examining the trade-offs involved in making choices (for example, choices about spending limited money; how to earn an income such as working as an employee or owning your own business; whether to pay more for an endorsed environmentally friendly product)*
-* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
- (ACTDEK032)
+* <span class="light">**D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+ (ACTDEK032)</span>
   * *recognising the need to increase food production using cost efficient, ethical and sustainable production techniques*
-* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* <span class="light">**DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)</span>
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
-* **HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
- (ACPPS073)
+* <span class="light">**HPE 7-8**: Investigate and select strategies to promote health, safety and wellbeing
+ (ACPPS073)</span>
   * *researching a variety of snack and lunch options, and evaluating nutritional value, value for money and sustainability impacts to create a weekly menu plan*
-* **E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)
+* <span class="light">**E&B 7**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES025)</span>
   * *creating simple budgets to achieve specific financial goals and using digital and online tools to keep financial records in a ‘real-life’ context*
   * *applying enterprising behaviours to a class activity (for example, by taking on a leadership role in a project, establishing goals, accepting responsibility, and negotiating and working with others during the investigation)*
-* **E&B 8**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES036)
+* <span class="light">**E&B 8**: Apply economics and business knowledge, skills and concepts in familiar and new situations (ACHES036)</span>
   * *applying informed decision-making skills to familiar and new situations (for example, helping the family decide what products they need to purchase during the week)*
 
 #### **Level 6**: evaluate financial plans to support specific financial goals
@@ -849,17 +882,17 @@
 
 ##### Elaborations only
 
-* **Maths 10**: Connect the compound interest formula to repeated applications of simple interest using appropriate digital technologies (ACMNA229)
+* <span class="light">**Maths 10**: Connect the compound interest formula to repeated applications of simple interest using appropriate digital technologies (ACMNA229)</span>
   * *working with authentic information, data and interest rates to calculate compound interest and solve related problems*
-* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* <span class="light">**Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)</span>
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)</span>
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* <span class="light">**DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)</span>
   * *investigating indicators of economic success, for example the capacity to scale up an innovative solution to meet the demands of a mass market and the savings accrued through sustainable practices*
-* **E&B 10**: Factors that influence major consumer and financial decisions and the short- and long-term consequences of these decisions (ACHEK053)
+* <span class="light">**E&B 10**: Factors that influence major consumer and financial decisions and the short- and long-term consequences of these decisions (ACHEK053)</span>
   * *evaluating the outcomes of buying (for example, a car, using criteria such as the effect of loan repayments on disposable income, depreciation, maintenance and insurance costs compared with the benefits of independence, convenience and social status)*
-* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* <span class="light">**E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)</span>
   * *evaluating different types of loans to estimate the short- and long-term financial implications of each*
   * *applying enterprising behaviours to a class or independent activity (for example, by showing initiative and leadership, establishing goals that are meaningful and realistic, accepting responsibility)*
 
@@ -873,11 +906,11 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#recognise-and-use-patterns-and-relationships">Recognise and use patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">38<br><br>71<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><em>8%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">14<br><em>7%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">7<br><em>14%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">16<br><br>60<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>9<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">11<br><br>46<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>37<br><em>76%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">38<br><br>71<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><em>8%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">14<br><em>7%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">7<br><em>14%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">16<br><br>60<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>9<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">11<br><br>46<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>37<br><em>76%</em></td></tr>
+<tr><td><a href="#recognise-and-use-patterns-and-relationships">Recognise and use patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">38<br><br>71<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><em>8%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">14<br><em>7%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">7<br><em>14%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">16<br><br>60<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>9<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">11<br><br>46<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>37<br><em>76%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>4<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">38<br><br>71<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.20); text-align: right">12<br><em>8%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">14<br><em>7%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">7<br><em>14%</em><br>11<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.26); text-align: right">16<br><br>60<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>10<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">5<br><br>21<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>9<br><em>78%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.18); text-align: right">11<br><br>46<br><em>26%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>19<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">6<br><em>17%</em><br>37<br><em>76%</em></td></tr>
 </tbody>
 </table>
 
@@ -889,11 +922,11 @@
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#recognise-and-use-patterns-and-relationships">Recognise and use patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><em>11%</em><br>38<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">15<br><em>7%</em><br>51<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">25<br><em>4%</em><br>36<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">20<br><em>5%</em><br>51<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">26<br><br>85<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">33<br><em>3%</em><br>97<br><em>54%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><em>11%</em><br>38<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">15<br><em>7%</em><br>51<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">25<br><em>4%</em><br>36<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">20<br><em>5%</em><br>51<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">26<br><br>85<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">33<br><em>3%</em><br>97<br><em>54%</em></td></tr>
+<tr><td><a href="#recognise-and-use-patterns-and-relationships">Recognise and use patterns and relationships</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><em>11%</em><br>38<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">15<br><em>7%</em><br>51<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">25<br><em>4%</em><br>36<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">20<br><em>5%</em><br>51<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">26<br><br>85<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">33<br><em>3%</em><br>97<br><em>54%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">123<br><em>4%</em><br>333<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.15); text-align: right">9<br><em>11%</em><br>38<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">15<br><em>7%</em><br>51<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">25<br><em>4%</em><br>36<br><em>22%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">20<br><em>5%</em><br>51<br><em>35%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">26<br><br>85<br><em>62%</em></td><td style="background-color: rgba(21, 153, 87, 0.54); text-align: right; color: #fff">33<br><em>3%</em><br>97<br><em>54%</em></td></tr>
 </tbody>
 </table>
 
@@ -947,53 +980,53 @@
 
 ##### Elaborations only
 
-* **Maths 2**: Recognise, model, represent and order numbers to at least 1000 (ACMNA027)
+* <span class="light">**Maths 2**: Recognise, model, represent and order numbers to at least 1000 (ACMNA027)</span>
   * *recognising there are different ways of representing numbers and identifying patterns going beyond 100*
-* **Maths 2**: Identify and describe half and quarter turns (ACMMG046)
+* <span class="light">**Maths 2**: Identify and describe half and quarter turns (ACMMG046)</span>
   * *predicting and reproducing a pattern based around half and quarter turns of a shape and sketching the next element in the pattern*
-* **Science 1**: Observable changes occur in the sky and landscape (ACSSU019)
+* <span class="light">**Science 1**: Observable changes occur in the sky and landscape (ACSSU019)</span>
   * *recording short and longer term patterns of events that occur on Earth and in the sky, such as the appearance of the moon and stars at night, the weather and the seasons*
-* **HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)
+* <span class="light">**HASS 1**: Present narratives, information and findings in oral, graphic and written forms using simple terms to denote the passing of time and to describe direction and location (ACHASSI027)</span>
   * *creating shared texts (for example, pictorial charts, calendars, lists, recounts, wall murals/collages, big books) to record observations or report findings*
-* **HASS 2**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI041)
+* <span class="light">**HASS 2**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI041)</span>
   * *making generalisations from data showing patterns and relationships (for example, the relationship between the distance of places and the frequency of visits to them; between rubbish in the school and eating areas; between marine animals and where human rubbish may go; between climate zones and clothing or housing)*
-* **Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)
+* <span class="light">**Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)</span>
   * *practising and responding to a range of fundamental movements to music, for example, walking, running, marching, galloping, skipping, crawling (locomotor); bending, stretching, twisting, turning (non-locomotor)*
   * *practising fundamental movements to begin to develop technical skills of body control, posture, strength, balance and coordination, and responding to teacher’s feedback*
   * *developing awareness of and taking responsibility for safe dance practices, for example, being aware of self and others in the dance space, moving with care, respecting others dancing in the space; awareness of the boundaries of the dance space; awareness of their bodies’ needs, for example, getting a drink after dance activities for hydration*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *presenting a learned sequence of movements or performing simple dances, individually or as a group, to classmates, teachers and parents*
-* **Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)
+* <span class="light">**Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)</span>
   * *recognising patterns of movement in dances they make, perform and view using their own words and learnt dance terminology*
-* **Music F-2**: Create compositions and perform music to communicate ideas to an audience
- (ACAMUM082)
+* <span class="light">**Music F-2**: Create compositions and perform music to communicate ideas to an audience
+ (ACAMUM082)</span>
   * *improvising patterns of body movement, such as clapping or stamping, and creating accompaniments to familiar music*
-* **Music F-2**: Respond to music and consider where and why people make music, starting with Australian music, including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR083)
+* <span class="light">**Music F-2**: Respond to music and consider where and why people make music, starting with Australian music, including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR083)</span>
   * *describing shapes, patterns, form or mood of pieces of music using their own words and learnt music terminology*
-* **Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)
+* <span class="light">**Media F-2**: Explore ideas, characters and settings in the community through stories in images, sounds and text (ACAMAM054)</span>
   * *experimenting with image, for example, retelling a story of the school day in a series of captioned images*
-* **Media F-2**: Create and present media artworks that communicate ideas and stories to an audience
- (ACAMAM056)
+* <span class="light">**Media F-2**: Create and present media artworks that communicate ideas and stories to an audience
+ (ACAMAM056)</span>
   * *capturing and sequencing images and text to create comic books that retell familiar and traditional stories to share with the class*
-* **D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)
+* <span class="light">**D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)</span>
   * *exploring systems used in the classroom or community for creatively dealing with problems and needs, for example storage systems for equipment, traffic system flow for drop and go zones, the use of hoists and ramps to facilitate access*
-* **DT F-2**: Collect, explore and sort data, and use digital systems to present the data creatively (ACTDIP003)
+* <span class="light">**DT F-2**: Collect, explore and sort data, and use digital systems to present the data creatively (ACTDIP003)</span>
   * *collecting, and sorting data through play, for example collecting data about favourite toys and sorting them into categories such as toys they like or dislike*
   * *exploring and creating graphs to represent classroom data, for example collecting data on the country of birth of each student and presenting the results as a picture graph*
-* **Visual F-2**: Explore ideas, experiences, observations and imagination to create visual artworks and design, including considering ideas in artworks by Aboriginal and Torres Strait Islander artists
- (ACAVAM106)
+* <span class="light">**Visual F-2**: Explore ideas, experiences, observations and imagination to create visual artworks and design, including considering ideas in artworks by Aboriginal and Torres Strait Islander artists
+ (ACAVAM106)</span>
   * *observing and recording the shapes, colours and textures of people, objects and concepts they experience in their daily lives, for example, drawing faces, insects, plants, food*
   * *practising drawing images and making objects related to self, others and personal environments in different forms, for example, painting, sculpture, photography*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *performing locomotor movements using different body parts to travel in different directions*
   * *demonstrating changes in speed, direction and level of movement in response to changes in music tempo*
   * *creating, following, repeating and altering movement sequences and games in response to rhythm, music or words*
   * *selecting and implementing different movement skills to be successful in a game*
-* **HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)
+* <span class="light">**HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)</span>
   * *participating in activities of different intensity and comparing the body’s reactions*
-* **English 2**: Know some features of text organisation including page and screen layouts, alphabetical order, and different types of diagrams, for example timelines (ACELA1466)
+* <span class="light">**English 2**: Know some features of text organisation including page and screen layouts, alphabetical order, and different types of diagrams, for example timelines (ACELA1466)</span>
   * *recognising how chapters and table of contents, alphabetical order of index and glossary operate to guide access to information*
-* **English 2**: Create short imaginative, informative and persuasive texts using growing knowledge of text structures and language features for familiar and some less familiar audiences, selecting print and multimodal elements appropriate to the audience and purpose (ACELY1671)
+* <span class="light">**English 2**: Create short imaginative, informative and persuasive texts using growing knowledge of text structures and language features for familiar and some less familiar audiences, selecting print and multimodal elements appropriate to the audience and purpose (ACELY1671)</span>
   * *sequencing content according to text structure*
 
 #### **Level 3**: identify and describe trends in everyday patterns
@@ -1060,19 +1093,19 @@
 
 ##### Elaborations only
 
-* **Maths 4**: Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9 (ACMNA074)
+* <span class="light">**Maths 4**: Investigate number sequences involving multiples of 3, 4, 6, 7, 8, and 9 (ACMNA074)</span>
   * *recognising that number sequences can be extended indefinitely, and determining any patterns in the sequences*
-* **Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)
+* <span class="light">**Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)</span>
   * *practising combinations of fundamental locomotor and non-locomotor movements to a range of musical accompaniment, for example, running and sliding; bending and stretching; running, swinging, walking and stretching*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)
+* <span class="light">**Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)</span>
   * *creating a sequence of images, sounds and text or a combination of these to clearly establish the beginning, middle and end of a story or event*
-* **Media 3-4**: Plan, create and present media artworks for specific purposes with awareness of responsible media practice (ACAMAM060)
+* <span class="light">**Media 3-4**: Plan, create and present media artworks for specific purposes with awareness of responsible media practice (ACAMAM060)</span>
   * *storyboarding and filming a short sequence showing a conflict, selecting camera angles, lighting and costume to convey meaning without dialogue*
-* **DT 3-4**: Recognise different types of data and explore how the same data can be represented in different ways (ACTDIK008)
+* <span class="light">**DT 3-4**: Recognise different types of data and explore how the same data can be represented in different ways (ACTDIK008)</span>
   * *exploring codes and symbols that are representations of data, for example morse code and semaphore and how similar symbols in Aboriginal and Torres Strait Islander art can represent different concepts depending on the context, for example three circles, drawn as lines, can represent ants, fruit, flowers or eggs depending on the art region*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *performing tumbling routines using rolling actions, incline, weight transfer, flight and balances*
   * *performing routines incorporating different jumping techniques and connecting movements*
 
@@ -1138,39 +1171,39 @@
 
 ##### Elaborations only
 
-* **Maths 5**: Identify and describe factors and multiples of whole numbers and use them to solve problems (ACMNA098)
+* <span class="light">**Maths 5**: Identify and describe factors and multiples of whole numbers and use them to solve problems (ACMNA098)</span>
   * *exploring factors and multiples using number sequences*
-* **Maths 6**: Find a simple fraction of a quantity where the result is a whole number, with and without digital technologies (ACMNA127)
+* <span class="light">**Maths 6**: Find a simple fraction of a quantity where the result is a whole number, with and without digital technologies (ACMNA127)</span>
   * *recognising that finding one third of a quantity is the same as dividing by 3*
-* **Maths 6**: Explore the use of brackets and order of operations to write number sentences (ACMNA134)
+* <span class="light">**Maths 6**: Explore the use of brackets and order of operations to write number sentences (ACMNA134)</span>
   * *appreciating the need for rules to complete multiple operations within the same number sentence*
-* **HASS 6**: The world’s cultural diversity, including that of its indigenous peoples (ACHASSK140)
+* <span class="light">**HASS 6**: The world’s cultural diversity, including that of its indigenous peoples (ACHASSK140)</span>
   * *researching the proportion of the Australian population and of the population from their local area who were born in each world cultural region, using data from the Australian Bureau of Statistics and then comparing aspects of selected cultures*
-* **Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
- (ACAMUM090)
+* <span class="light">**Music 5-6**: Rehearse and perform music including music they have composed by improvising, sourcing and arranging ideas and making decisions to engage an audience
+ (ACAMUM090)</span>
   * *exploring rhythm, pitch and dynamics and expression to create contrast, repetition and balance to develop compositions for performance*
-* **Drama 5-6**: Explore dramatic action, empathy and space in improvisations, playbuilding and scripted drama to develop characters and situations (ACADRM035)
+* <span class="light">**Drama 5-6**: Explore dramatic action, empathy and space in improvisations, playbuilding and scripted drama to develop characters and situations (ACADRM035)</span>
   * *exploring physical, fictional and emotional space to create characters and situations and imagined feelings*
-* **Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
- (ACADRM036)
+* <span class="light">**Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
+ (ACADRM036)</span>
   * *adjusting the weight (heaviness or lightness of movement), speed, use of stillness, levels and movement through space to focus on character and situation and create dramatic action*
-* **Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)
+* <span class="light">**Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)</span>
   * *designing a storyboard that reflects a key scene in a sequence; for example, an opening scene of a film that shows the important camera angles, transitions, edits, voice and soundtrack*
   * *designing a navigational plan for a game, using multiple levels and obstacles; for example, creating and designing problems to be solved in order to progress to a new level*
-* **D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)
+* <span class="light">**D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)</span>
   * *sequencing the process of converting ‘on-farm’ food or fibre products into a product suitable for retail sale, that is, the ‘paddock to plate’ supply chain, or when making yarn or fabric from fibre*
-* **D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)
+* <span class="light">**D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)</span>
   * *exploring the steps involved in the process to satisfy a design brief, need or opportunity*
   * *identifying the importance of complementary parts of working, everyday systems by deconstructing the components, structure and purpose of products, services or environments*
-* **D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)
+* <span class="light">**D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)</span>
   * *setting milestones for production processes and allocating roles to team members*
-* **DT 5-6**: Acquire, store and validate different types of data, and use a range of software to interpret and visualise data to create information (ACTDIP016)
+* <span class="light">**DT 5-6**: Acquire, store and validate different types of data, and use a range of software to interpret and visualise data to create information (ACTDIP016)</span>
   * *using digital systems to validate data, for example setting data types in a spreadsheet to make sure a date is input correctly*
   * *selecting and using peripheral devices suitable to the data, for example using a data probe to collect data about changing soil temperatures for plants, interpreting the data and sharing the results as a digital graph*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *performing activities that involve a transition from one skill to another, such as from dribbling to shooting or from leaping to balancing*
   * *designing a sequence of passes between teammates to maintain possession or move a piece of equipment from one point to another*
-* **English 6**: Identify and explain how analytical images like figures, tables, diagrams, maps and graphs contribute to our understanding of verbal information in factual and persuasive texts (ACELA1524)
+* <span class="light">**English 6**: Identify and explain how analytical images like figures, tables, diagrams, maps and graphs contribute to our understanding of verbal information in factual and persuasive texts (ACELA1524)</span>
   * *observing how sequential events can be represented visually by a series of images, including comic strips, timelines, photo stories, procedure diagrams and flowcharts, life-cycle diagrams, and the flow of images in picture books*
 
 #### **Level 5**: identify trends using number rules and relationships
@@ -1243,101 +1276,101 @@
 
 ##### Elaborations only
 
-* **Maths 7**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)
+* <span class="light">**Maths 7**: Multiply and divide fractions and decimals using efficient written strategies and digital technologies (ACMNA154)</span>
   * *investigating multiplication of fractions and decimals, using strategies including patterning and multiplication as repeated addition, with both concrete materials and digital technologies, and identifying the processes for division as the inverse of multiplication*
-* **Maths 7**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
- (ACMNA178)
+* <span class="light">**Maths 7**: Given coordinates, plot points on the Cartesian plane, and find coordinates for a given point
+ (ACMNA178)</span>
   * *plotting points from a table of integer values and recognising simple patterns, such as points that lie on a straight line*
-* **Maths 7**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)
+* <span class="light">**Maths 7**: Describe translations, reflections in an axis and rotations of multiples of 90° on the Cartesian plane using coordinates. Identify line and rotational symmetries (ACMMG181)</span>
   * *describing patterns and investigating different ways to produce the same transformation such as using two successive reflections to provide the same result as a translation*
   * *experimenting with, creating and re-creating patterns using combinations of reflections and rotations using digital technologies*
-* **Maths 8**: Carry out the four operations with rational numbers and integers, using efficient mental and written strategies and appropriate digital technologies (ACMNA183)
+* <span class="light">**Maths 8**: Carry out the four operations with rational numbers and integers, using efficient mental and written strategies and appropriate digital technologies (ACMNA183)</span>
   * *using patterns to assist in finding rules for the multiplication and division of integers*
-* **Science 8**: Summarise data, from students’ own investigations and secondary sources, and use scientific understanding to identify relationships and draw conclusions based on evidence
- (ACSIS145)
+* <span class="light">**Science 8**: Summarise data, from students’ own investigations and secondary sources, and use scientific understanding to identify relationships and draw conclusions based on evidence
+ (ACSIS145)</span>
   * *constructing tables, graphs, keys and models to represent relationships and trends in collected data*
-* **HASS 7**: The quantity and variability of Australia’s water resources compared with other continents
- (ACHASSK184)
+* <span class="light">**HASS 7**: The quantity and variability of Australia’s water resources compared with other continents
+ (ACHASSK184)</span>
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)
+* <span class="light">**HASS 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHASSK196)</span>
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)
+* <span class="light">**Dance 7-8**: Practise and refine technical skills in style-specific techniques (ACADAM015)</span>
   * *analysing and practising technical skills used in dances from different cultures to develop and appreciate music used for dance and movements, and demonstrating an awareness of protocols*
-* **Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)
+* <span class="light">**Dance 7-8**: Structure dances using choreographic devices and form (ACADAM016)</span>
   * *selecting, combining, refining and sequencing movement using choreographic devices such as transitions, variation and contrast and choreographic forms such as binary, ternary and narrative*
   * *responding to feedback by changing the order and pattern of dance movement, phrases or sequences, using choreographic devices*
-* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* <span class="light">**Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)</span>
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
- (ACAMUM092)
+* <span class="light">**Music 7-8**: Experiment with texture and timbre in sound sources using aural skills
+ (ACAMUM092)</span>
   * *experimenting with and transcribing pitch contour, beat patterns and rhythm sequences*
   * *singing and recognising intervals and melodic patterns to extend music ideas in improvisation and composition*
-* **Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
- (ACAMUM093)
+* <span class="light">**Music 7-8**: Develop musical ideas, such as mood, by improvising, combining and manipulating the elements of music
+ (ACAMUM093)</span>
   * *experimenting with technology to sequence and combine ideas to enhance intentions in compositions and performances*
-* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* <span class="light">**Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)</span>
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
- (ACTDEK032)
+* <span class="light">**D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+ (ACTDEK032)</span>
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
- (ACTDEK033)
+* <span class="light">**D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+ (ACTDEK033)</span>
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* <span class="light">**D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)</span>
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
- (ACTDIK024)
+* <span class="light">**DT 7-8**: Investigate how digital systems represent text, image and audio data in binary
+ (ACTDIK024)</span>
   * *converting between decimal and 8-bit (1 byte) unsigned binary, covering whole numbers typically used for characters and RGB, for example 65 in decimal is 01000001 in 8-bit binary*
-* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* <span class="light">**HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)</span>
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* <span class="light">**HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)</span>
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* <span class="light">**Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)</span>
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
+* <span class="light">**Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)</span>
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* <span class="light">**Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)</span>
   * *discussing the impact of housing density on the liveability of places*
-* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* <span class="light">**Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)</span>
   * *creating a map to show the spatial distribution and patterns of liveability, using computer mapping software*
-* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* <span class="light">**Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)</span>
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)
+* <span class="light">**Geo 8**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS058)</span>
   * *developing a statistical map to show demographic or economic data for Australia or China, or show the cultural and demographic diversity of Aboriginal and Torres Strait Islander Peoples using mapping software*
   * *creating a map showing geomorphological features by using data from Geoscience Australia, or demographic statistics from census data, using a spatial technologies application*
   * *using the Global Positioning System (GPS) to make a map of the features of a landform*
-* **Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)
+* <span class="light">**Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)</span>
   * *identifying and explaining the main types, patterns and trends of internal migration in Australia (for example, employment, lifestyle and retirement migration)*
   * *explaining that Aboriginal and Torres Strait Islander Peoples’ population mobility reflects attachment to a number of places through family, Country/Place, dispossession, relocation and employment*
-* **Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)
+* <span class="light">**Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)</span>
   * *identifying and explaining the main types and patterns of international migration (for example, permanent migration, temporary labour migration, student migration, forced migration (including refugees) and family reunion)*
   * *investigating where and why international migrants settle in Australia and how this may reinforce urban concentration*
   * *exploring the changing cultural diversity of the Australian population*
-* **Geo 8**: Management and planning of Australia’s urban future (ACHGK059)
+* <span class="light">**Geo 8**: Management and planning of Australia’s urban future (ACHGK059)</span>
   * *investigating ways of managing the projected growth of Australia’s cities and regional urban centres*
   * *exploring the arguments for and against a more balanced distribution of the urban population*
-* **Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)
+* <span class="light">**Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)</span>
   * *developing questions about the significance of a spatial distribution (for example, the positive and negative effects of the spatial concentration of population in Australia)*
   * *planning an investigation of the processes responsible for the geographical phenomenon being studied, at a range of scales (for example, the causes and consequences of urbanisation)*
-* **E&B 8**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES037)
+* <span class="light">**E&B 8**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES037)</span>
   * *constructing appropriate displays of information and data to show trends and relationships (for example, preparing a data show which includes visual displays including graphs and charts as well as text to present findings and conclusions)*
 
 #### **Level 6**: explain how the practical application of patterns can be used to identify trends
@@ -1432,98 +1465,98 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 9**: Extend and apply the index laws to variables, using positive integer indices and the zero index (ACMNA212)
+* <span class="light">**Maths 9**: Extend and apply the index laws to variables, using positive integer indices and the zero index (ACMNA212)</span>
   * *understanding that index laws apply to variables as well as numbers*
-* **Maths 9**: Apply the distributive law to the expansion of algebraic expressions, including binomials, and collect like terms where appropriate (ACMNA213)
+* <span class="light">**Maths 9**: Apply the distributive law to the expansion of algebraic expressions, including binomials, and collect like terms where appropriate (ACMNA213)</span>
   * *understanding the relationship between expansion and factorisation and identifying algebraic factors in algebraic expressions*
-* **Maths 9**: Find the midpoint and gradient of a line segment (interval) on the Cartesian plane using a range of strategies, including graphing software (ACMNA294)
+* <span class="light">**Maths 9**: Find the midpoint and gradient of a line segment (interval) on the Cartesian plane using a range of strategies, including graphing software (ACMNA294)</span>
   * *investigating graphical and algebraic techniques for finding midpoint and gradient*
   * *recognising that the gradient of a line is the same as the gradient of any line segment on that line*
-* **Maths 9**: Investigate Pythagoras’ Theorem and its application to solving simple problems involving right angled triangles (ACMMG222)
+* <span class="light">**Maths 9**: Investigate Pythagoras’ Theorem and its application to solving simple problems involving right angled triangles (ACMMG222)</span>
   * *recognising that right-angled triangle calculations may generate results that can be integers, fractions or irrational numbers*
-* **Maths 10A**: Use information technologies to investigate bivariate numerical data sets. Where appropriate use a straight line to describe the relationship allowing for variation (ACMSP279)
+* <span class="light">**Maths 10A**: Use information technologies to investigate bivariate numerical data sets. Where appropriate use a straight line to describe the relationship allowing for variation (ACMSP279)</span>
   * *investigating different techniques for finding a ‘line of best fit’*
-* **Science 9**: Energy transfer through different mediums can be explained using wave and particle models (ACSSU182)
+* <span class="light">**Science 9**: Energy transfer through different mediums can be explained using wave and particle models (ACSSU182)</span>
   * *exploring the properties of waves, and situations where energy is transferred in the form of waves, such as sound and light*
-* **Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)
+* <span class="light">**Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)</span>
   * *representing patterns of inheritance of a simple dominant/recessive characteristic through generations of a family*
-* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* <span class="light">**Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)</span>
   * *structuring dance using devices such as chance theory (for example, dice) and changing the order and pattern of dance movement, phrases or sequences*
-* **Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)
+* <span class="light">**Music 9-10**: Improvise and arrange music, using aural recognition of texture, dynamics and expression to manipulate the elements of music to explore personal style in composition and performance (ACAMUM099)</span>
   * *using aural skills and memory to identify, sing and notate pitch and rhythm patterns, intervals and familiar chord changes*
-* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
- (ACAMUM102)
+* <span class="light">**Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+ (ACAMUM102)</span>
   * *combining and manipulating the elements of music using repetition, variation and contrast to shape compositions*
-* **D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)
+* <span class="light">**D&T 9-10**: Develop project plans using digital technologies to plan and manage projects individually and collaboratively taking into consideration time, cost, risk and production processes (ACTDEP052)</span>
   * *creating production flowcharts using digital technologies to ensure efficient, safe and sustainable sequences*
-* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* <span class="light">**D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)</span>
   * *explaining how product life cycle thinking can influence decision-making related to design and technologies, for example rethinking products to provide for re-use, selecting a material for a product that has a lower carbon footprint*
   * *critiquing mass production systems taking into account ethics and sustainability considerations, for example the mass production of food, clothing and shoes and why manufacturers produce different versions of the same product*
-* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* <span class="light">**D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)</span>
   * *examining relationships of properties for complementary materials for products, for example examining compressive and tensile strengths of materials*
-* **DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
- (ACTDIP037)
+* <span class="light">**DT 9-10**: Analyse and visualise data to create information and address complex problems, and model processes, entities and their relationships using structured data
+ (ACTDIP037)</span>
   * *using visualisation software tools to identify patterns and relationships between sets of data and information, and support abstract reasoning, for example representing data using histograms, network diagrams and maps*
   * *summarising data using advanced filtering and grouping techniques, for example pivot tables in spreadsheets and aggregation functions in databases*
   * *automating calculations, for example using absolute cell referencing to automatically extend formulas, and automating arithmetic calculations using built-in functions such as trigonometry, compound interest*
   * *simulating simple, iterative processes, for example modelling compound interest or ecological models using a spreadsheet*
   * *interpreting schemas that represent relationships between entities and querying data across tables, for example using foreign keys to represent relationships and joining tables in structured query language (SQL) SELECT statements*
-* **DT 9-10**: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems (ACTDIK034)
+* <span class="light">**DT 9-10**: Investigate the role of hardware and software in managing, controlling and securing the movement of and access to data in networked digital systems (ACTDIK034)</span>
   * *explaining encryption of data as a means of protecting data, for example secret keys and ‘exclusive or’ (XOR) and hashing algorithms to digitally sign data*
-* **HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)
+* <span class="light">**HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)</span>
   * *using established criteria to apply and evaluate the effectiveness of movement concepts and strategies*
   * *developing and implementing appropriate movement concepts and strategies for selected movement scenarios*
   * *reviewing, proposing and implementing alternative responses to movement situations based on the outcome of previous performances*
-* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* <span class="light">**HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)</span>
   * *experimenting with the manipulation of force and speed applied to an object to examine the difference created in movement paths*
   * *creating a group performance that demonstrates synchronous and individual movements*
   * *using ICT to analyse movements and enhance movement sequences and performances*
-* **HPE 9-10**: Examine the role physical activity, outdoor recreation and sport play in the lives of Australians and investigate how this has changed over time (ACPMP104)
+* <span class="light">**HPE 9-10**: Examine the role physical activity, outdoor recreation and sport play in the lives of Australians and investigate how this has changed over time (ACPMP104)</span>
   * *researching the trends in participation in organised junior sports and predicting future trends and directions*
-* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* <span class="light">**Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)</span>
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)
+* <span class="light">**Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)</span>
   * *graphing historical data to identify past trends and to draw conclusions about their significance (for example, the proportion of Australian servicemen who returned from World War I, and the ‘lost generations’ in the years after the war)*
-* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* <span class="light">**Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)</span>
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
- (ACHHS187)
+* <span class="light">**Hist 10**: Identify the origin, purpose and context of primary and secondary sources
+ (ACHHS187)</span>
   * *using data from immigration records and processing them using ICT to identify historical trends over time*
-* **Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)
+* <span class="light">**Geo 9**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS066)</span>
   * *creating a map to show the relationship between biomes and world food production, using a spatial technologies application*
-* **Geo 9**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS068)
+* <span class="light">**Geo 9**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS068)</span>
   * *testing conclusions by considering alternative points of view about an area of inquiry and providing a response using as organisers at least two of the concepts of place, space, environment, interconnection, sustainability, scale and change*
-* **Geo 9**: Identify how geographical information systems (GIS) might be used to analyse geographical data and make predictions (ACHGS069)
+* <span class="light">**Geo 9**: Identify how geographical information systems (GIS) might be used to analyse geographical data and make predictions (ACHGS069)</span>
   * *identifying the relevant layers of a geographical information system and using them to investigate how they can portray and analyse demographic, economic and environmental data*
-* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* <span class="light">**Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)</span>
   * *planning an investigation of the processes responsible for the geographical phenomenon being studied, at a range of scales (for example, the connections between people and places)*
-* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* <span class="light">**Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)</span>
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* <span class="light">**Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)</span>
   * *identifying and evaluating different ways of measuring wellbeing (for example, per capita income or the UN Human Development Index), and applying them to investigate spatial variations in human wellbeing and comparing the results from different measures*
   * *identifying trends in human wellbeing in countries over time*
-* **Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing on a regional scale within India or another country of the Asia region
- (ACHGK079)
+* <span class="light">**Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing on a regional scale within India or another country of the Asia region
+ (ACHGK079)</span>
   * *examining spatial data on human wellbeing in India to identify the regions of India with high and low levels of wellbeing, discussing identified patterns and explaining the differences*
   * *examining how a person’s wellbeing is influenced by where they live, with reference to at least two different regions in a country of the Asia region*
-* **Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
- (ACHGK080)
+* <span class="light">**Geo 10**: Reasons for, and consequences of, spatial variations in human wellbeing in Australia at the local scale
+ (ACHGK080)</span>
   * *researching spatial differences in the wellbeing of the Aboriginal and Torres Strait Islander population across Australia, and the extent to which these differences depend on how wellbeing is measured*
-* **Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)
+* <span class="light">**Geo 10**: Represent spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS075)</span>
   * *constructing and interpreting choropleth maps to show patterns of human wellbeing at a local scale*
   * *creating a map to show measures of environmental change, using a spatial technologies application*
-* **Geo 10**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS077)
+* <span class="light">**Geo 10**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS077)</span>
   * *synthesising information from several sources through using as organisers at least two of the concepts of place, space, environment, interconnection, sustainability, scale and change*
-* **Geo 10**: Identify how geographical information systems (GIS) might be used to analyse geographical data and make predictions (ACHGS078)
+* <span class="light">**Geo 10**: Identify how geographical information systems (GIS) might be used to analyse geographical data and make predictions (ACHGS078)</span>
   * *outlining how geographical information systems (GIS) are used in environmental management or in analysing spatial patterns of human wellbeing*
-* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* <span class="light">**Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)</span>
   * *planning an investigation of the processes responsible for the geographical phenomenon being studied, at a range of scales (for example, the reasons for and types of variation in human wellbeing in one country)*
   * *planning methods of data collection to answer inquiry questions and evaluating questions for their geographical significance*
-* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* <span class="light">**E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)</span>
   * *examining the implications of participating in an interdependent global economy for consumers, workers, businesses and government (for example, mapping the global supply chain for a product to identify the advantages and disadvantages for participants in the chain)*
-* **E&B 10**: Indicators of economic performance and how Australia’s economy is performing (ACHEK050)
+* <span class="light">**E&B 10**: Indicators of economic performance and how Australia’s economy is performing (ACHEK050)</span>
   * *identifying indicators of economic performance such as economic growth rates, unemployment trends, inflation rates, sustainability indexes*
-* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* <span class="light">**E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)</span>
   * *evaluating different types of loans to estimate the short- and long-term financial implications of each*
   * *using appropriate indicators of economic performance to explain variations across economies*
 
@@ -1537,12 +1570,12 @@ Interpret and analyse learning area texts*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#interpret-proportional-reasoning">Interpret proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">42<br><em>5%</em><br>53<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">40<br><em>2%</em><br>43<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">1<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">1<br><em>100%</em><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td></tr>
-<tr><td ><a href="#apply-proportional-reasoning">Apply proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">36<br><em>6%</em><br>55<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">34<br><em>3%</em><br>39<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">1<br><em>100%</em><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">74<br><em>3%</em><br>82<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><em>100%</em><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
+<tr><td><a href="#interpret-proportional-reasoning">Interpret proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">42<br><em>5%</em><br>53<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">40<br><em>2%</em><br>43<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">1<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">1<br><em>100%</em><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td></tr>
+<tr><td><a href="#apply-proportional-reasoning">Apply proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">36<br><em>6%</em><br>55<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">34<br><em>3%</em><br>39<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">1<br><em>100%</em><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">74<br><em>3%</em><br>82<br><em>10%</em></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><br>5<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.05); text-align: right">2<br><em>100%</em><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>7<br><em>100%</em></td></tr>
 </tbody>
 </table>
 
@@ -1554,12 +1587,12 @@ Interpret and analyse learning area texts*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#interpret-proportional-reasoning">Interpret proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">42<br><em>5%</em><br>53<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">3<br><br>6<br></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">4<br><br>6<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.76); text-align: right; color: #fff">16<br><em>6%</em><br>14<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.57); text-align: right; color: #fff">12<br><br>15<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">7<br><em>14%</em><br>12<br><em>75%</em></td></tr>
-<tr><td ><a href="#apply-proportional-reasoning">Apply proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">36<br><em>6%</em><br>55<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">1<br><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">4<br><br>7<br></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">12<br><em>8%</em><br>13<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">12<br><br>15<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">7<br><em>14%</em><br>16<br><em>75%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>10<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">8<br><br>13<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.72); text-align: right; color: #fff">28<br><em>7%</em><br>27<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">24<br><br>30<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">14<br><em>14%</em><br>28<br><em>75%</em></td></tr>
+<tr><td><a href="#interpret-proportional-reasoning">Interpret proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">42<br><em>5%</em><br>53<br><em>25%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">3<br><br>6<br></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">4<br><br>6<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.76); text-align: right; color: #fff">16<br><em>6%</em><br>14<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.57); text-align: right; color: #fff">12<br><br>15<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">7<br><em>14%</em><br>12<br><em>75%</em></td></tr>
+<tr><td><a href="#apply-proportional-reasoning">Apply proportional reasoning</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">36<br><em>6%</em><br>55<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">1<br><br>4<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">4<br><br>7<br></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">12<br><em>8%</em><br>13<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">12<br><br>15<br><em>27%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">7<br><em>14%</em><br>16<br><em>75%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">78<br><em>5%</em><br>108<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">4<br><br>10<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">8<br><br>13<br><em>8%</em></td><td style="background-color: rgba(21, 153, 87, 0.72); text-align: right; color: #fff">28<br><em>7%</em><br>27<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">24<br><br>30<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">14<br><em>14%</em><br>28<br><em>75%</em></td></tr>
 </tbody>
 </table>
 
@@ -1599,7 +1632,7 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)
+* <span class="light">**DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)</span>
   * *using software to sort and calculate data when solving problems, for example sorting numerical and categorical data in ascending or descending order and automating simple arithmetic calculations using nearby cells and summing cell ranges in spreadsheet or database software*
 
 #### **Level 4**: visualise, describe and order equivalent fractions, decimals and simple percentages
@@ -1643,7 +1676,7 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 5**: Create simple financial plans (ACMNA106)
+* <span class="light">**Maths 5**: Create simple financial plans (ACMNA106)</span>
   * *identifying the GST component of invoices and receipts*
 
 #### **Level 5**: visualise and describe the proportions of percentages, ratios and rates
@@ -1679,8 +1712,8 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
- (ACTDEK033)
+* <span class="light">**D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+ (ACTDEK033)</span>
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
 
@@ -1702,24 +1735,24 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 9**: Express numbers in scientific notation
- (ACMNA210)
+* <span class="light">**Maths 9**: Express numbers in scientific notation
+ (ACMNA210)</span>
   * *representing extremely large and small numbers in scientific notation, and numbers expressed in scientific notation as whole numbers or decimals*
-* **Maths 10**: Solve linear equations involving simple algebraic fractions (ACMNA240)
+* <span class="light">**Maths 10**: Solve linear equations involving simple algebraic fractions (ACMNA240)</span>
   * *representing word problems, including those involving fractions, as equations and solving them to answer the question*
-* **Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)
+* <span class="light">**Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)</span>
   * *predicting simple ratios of offspring genotypes and phenotypes in crosses involving dominant/recessive gene pairs or in genes that are sex-linked*
-* **DT 9-10**: Analyse simple compression of data and how content data are separated from presentation (ACTDIK035)
+* <span class="light">**DT 9-10**: Analyse simple compression of data and how content data are separated from presentation (ACTDIK035)</span>
   * *explaining how simple compression schemes reduce the size of repetitive data, for example how run length encoding reduces the size of images*
-* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* <span class="light">**Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)</span>
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
-* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* <span class="light">**Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)</span>
   * *graphing the proportion of Australian servicemen who died during World War I, compared to that of other countries involved in the war*
-* **Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)
+* <span class="light">**Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)</span>
   * *graphing historical data to identify past trends and to draw conclusions about their significance (for example, the proportion of Australian servicemen who returned from World War I, and the ‘lost generations’ in the years after the war)*
-* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* <span class="light">**Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)</span>
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* <span class="light">**Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)</span>
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
 
 ### Apply proportional reasoning
@@ -1734,9 +1767,9 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 2**: Recognise and represent division as grouping into equal sets and solve simple problems using these representations (ACMNA032)
+* <span class="light">**Maths 2**: Recognise and represent division as grouping into equal sets and solve simple problems using these representations (ACMNA032)</span>
   * *dividing the class or a collection of objects into equal-sized groups*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *demonstrating balances and describing what helps to maintain stable positions*
 
 #### **Level 3**: solve problems using equivalent fractions for tenths, hundredths, 1-place and 2-place decimals
@@ -1792,11 +1825,11 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 5**: Recognise that the place value system can be extended beyond hundredths (ACMNA104)
+* <span class="light">**Maths 5**: Recognise that the place value system can be extended beyond hundredths (ACMNA104)</span>
   * *using knowledge of place value and division by 10 to extend the number system to thousandths and beyond*
-* **Maths 5**: Create simple financial plans (ACMNA106)
+* <span class="light">**Maths 5**: Create simple financial plans (ACMNA106)</span>
   * *identifying the GST component of invoices and receipts*
-* **HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)
+* <span class="light">**HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)</span>
   * *working with a partner to explore pushing and pulling movements and how these can be manipulated to perform counter-balances*
 
 #### **Level 5**: solve problems using simple percentages, ratios and rates
@@ -1830,12 +1863,12 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 7**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)
+* <span class="light">**Maths 7**: Assign probabilities to the outcomes of events and determine probabilities for events (ACMSP168)</span>
   * *expressing probabilities as decimals, fractions and percentages*
-* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
- (ACTDEK033)
+* <span class="light">**D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+ (ACTDEK033)</span>
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
 
@@ -1858,29 +1891,29 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 10**: Solve linear equations involving simple algebraic fractions (ACMNA240)
+* <span class="light">**Maths 10**: Solve linear equations involving simple algebraic fractions (ACMNA240)</span>
   * *representing word problems, including those involving fractions, as equations and solving them to answer the question*
-* **Science 9**: Plan, select and use appropriate investigation types, including field work and laboratory experimentation, to collect reliable data; assess risk and address ethical issues associated with these methods (ACSIS165)
+* <span class="light">**Science 9**: Plan, select and use appropriate investigation types, including field work and laboratory experimentation, to collect reliable data; assess risk and address ethical issues associated with these methods (ACSIS165)</span>
   * *explaining the choice of variables to be controlled, changed and measured in an investigation*
-* **Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)
+* <span class="light">**Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)</span>
   * *predicting simple ratios of offspring genotypes and phenotypes in crosses involving dominant/recessive gene pairs or in genes that are sex-linked*
-* **Science 10**: The theory of evolution by natural selection explains the diversity of living things and is supported by a range of scientific evidence
- (ACSSU185)
+* <span class="light">**Science 10**: The theory of evolution by natural selection explains the diversity of living things and is supported by a range of scientific evidence
+ (ACSSU185)</span>
   * *relating genetic characteristics to survival and reproductive rates*
-* **Science 10**: The motion of objects can be described and predicted using the laws of physics (ACSSU229)
+* <span class="light">**Science 10**: The motion of objects can be described and predicted using the laws of physics (ACSSU229)</span>
   * *gathering data to analyse everyday motions produced by forces, such as measurements of distance and time, speed, force, mass and acceleration*
-* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* <span class="light">**HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)</span>
   * *experimenting with the manipulation of force and speed applied to an object to examine the difference created in movement paths*
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **HPE 9-10**: Examine the role physical activity, outdoor recreation and sport play in the lives of Australians and investigate how this has changed over time (ACPMP104)
+* <span class="light">**HPE 9-10**: Examine the role physical activity, outdoor recreation and sport play in the lives of Australians and investigate how this has changed over time (ACPMP104)</span>
   * *researching the trends in participation in organised junior sports and predicting future trends and directions*
-* **Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)
+* <span class="light">**Hist 9**: The short and long-term impacts of the Industrial Revolution, including global changes in landscapes, transport and communication (ACDSEH082)</span>
   * *describing the impact of factories, mines and cities on the environment, and on population growth and distribution*
-* **Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)
+* <span class="light">**Hist 10**: The waves of post-World War II migration to Australia, including the influence of significant world events (ACDSEH144)</span>
   * *investigating the nature of the waves of migration such as the countries that were the source of migrants, the numbers of migrants from those countries, and trends in migration since World War II such as increasing migration from the Asian region to Australia*
-* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* <span class="light">**Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)</span>
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **E&B 10**: Factors that influence major consumer and financial decisions and the short- and long-term consequences of these decisions (ACHEK053)
+* <span class="light">**E&B 10**: Factors that influence major consumer and financial decisions and the short- and long-term consequences of these decisions (ACHEK053)</span>
   * *evaluating the outcomes of buying (for example, a car, using criteria such as the effect of loan repayments on disposable income, depreciation, maintenance and insurance costs compared with the benefits of independence, convenience and social status)*
 
 ## Using spatial reasoning
@@ -1893,12 +1926,12 @@ Interpret and analyse learning area texts*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#visualise-d-shapes-and-d-objects">Visualise 2D shapes and 3D objects</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">59<br><em>3%</em><br>161<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><em>100%</em><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">41<br><em>2%</em><br>65<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">2<br><br>13<br><em>77%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">4<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>10<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">4<br><br>7<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">5<br><br>23<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>12<br><em>83%</em></td></tr>
-<tr><td ><a href="#interpret-maps-and-diagrams">Interpret maps and diagrams</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">135<br><em>8%</em><br>385<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><br>23<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>22<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.55); text-align: right; color: #fff">37<br><em>24%</em><br>72<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>19<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.76); text-align: right; color: #fff">51<br><em>2%</em><br>132<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><br>38<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><br>38<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><em>33%</em><br>22<br><em>86%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">58<br><em>2%</em><br>88<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">7<br><br>35<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.38); text-align: right">37<br><em>24%</em><br>73<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">3<br><br>23<br><em>87%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">51<br><em>2%</em><br>133<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>12<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>6<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>45<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">13<br><br>61<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><em>25%</em><br>34<br><em>85%</em></td></tr>
+<tr><td><a href="#visualise-2d-shapes-and-3d-objects">Visualise 2D shapes and 3D objects</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">59<br><em>3%</em><br>161<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><em>100%</em><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">41<br><em>2%</em><br>65<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">2<br><br>13<br><em>77%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">4<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>10<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.14); text-align: right">4<br><br>7<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">5<br><br>23<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><br>12<br><em>83%</em></td></tr>
+<tr><td><a href="#interpret-maps-and-diagrams">Interpret maps and diagrams</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">135<br><em>8%</em><br>385<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><br>23<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">5<br><br>22<br><em>68%</em></td><td style="background-color: rgba(21, 153, 87, 0.55); text-align: right; color: #fff">37<br><em>24%</em><br>72<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><br>19<br><em>84%</em></td><td style="background-color: rgba(21, 153, 87, 0.76); text-align: right; color: #fff">51<br><em>2%</em><br>132<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">2<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><br>38<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">8<br><br>38<br><em>63%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">3<br><em>33%</em><br>22<br><em>86%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">58<br><em>2%</em><br>88<br><em>9%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">7<br><br>35<br><em>71%</em></td><td style="background-color: rgba(21, 153, 87, 0.38); text-align: right">37<br><em>24%</em><br>73<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">3<br><br>23<br><em>87%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">51<br><em>2%</em><br>133<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><br>11<br><em>82%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><br>17<br><em>65%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>12<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>6<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>45<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">13<br><br>61<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">4<br><em>25%</em><br>34<br><em>85%</em></td></tr>
 </tbody>
 </table>
 
@@ -1910,12 +1943,12 @@ Interpret and analyse learning area texts*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#visualise-d-shapes-and-d-objects">Visualise 2D shapes and 3D objects</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">59<br><em>3%</em><br>161<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">5<br><br>29<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">7<br><br>30<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">10<br><em>20%</em><br>27<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">13<br><br>31<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.37); text-align: right">11<br><br>35<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">15<br><br>30<br><em>27%</em></td></tr>
-<tr><td ><a href="#interpret-maps-and-diagrams">Interpret maps and diagrams</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">135<br><em>8%</em><br>385<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">7<br><br>19<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><em>18%</em><br>33<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">14<br><br>50<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">11<br><br>42<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">45<br><em>16%</em><br>133<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">42<br><em>2%</em><br>115<br><em>33%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>48<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>12%</em><br>63<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>8%</em><br>77<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><br>73<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">56<br><em>12%</em><br>168<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">57<br><em>2%</em><br>145<br><em>32%</em></td></tr>
+<tr><td><a href="#visualise-2d-shapes-and-3d-objects">Visualise 2D shapes and 3D objects</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">59<br><em>3%</em><br>161<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.17); text-align: right">5<br><br>29<br><em>69%</em></td><td style="background-color: rgba(21, 153, 87, 0.24); text-align: right">7<br><br>30<br><em>73%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">10<br><em>20%</em><br>27<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">13<br><br>31<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.37); text-align: right">11<br><br>35<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">15<br><br>30<br><em>27%</em></td></tr>
+<tr><td><a href="#interpret-maps-and-diagrams">Interpret maps and diagrams</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">135<br><em>8%</em><br>385<br><em>40%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">7<br><br>19<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">17<br><em>18%</em><br>33<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.21); text-align: right">14<br><br>50<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.16); text-align: right">11<br><br>42<br><em>52%</em></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">45<br><em>16%</em><br>133<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">42<br><em>2%</em><br>115<br><em>33%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">194<br><em>7%</em><br>546<br><em>43%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">12<br><br>48<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>12%</em><br>63<br><em>51%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><em>8%</em><br>77<br><em>53%</em></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">24<br><br>73<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.58); text-align: right; color: #fff">56<br><em>12%</em><br>168<br><em>44%</em></td><td style="background-color: rgba(21, 153, 87, 0.59); text-align: right; color: #fff">57<br><em>2%</em><br>145<br><em>32%</em></td></tr>
 </tbody>
 </table>
 
@@ -1943,44 +1976,44 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)
+* <span class="light">**Maths 2**: Recognise and represent multiplication as repeated addition, groups and arrays (ACMNA031)</span>
   * *visualising a group of objects as a unit and using this to calculate the number of objects in several identical groups*
-* **Maths 2**: Recognise and represent division as grouping into equal sets and solve simple problems using these representations (ACMNA032)
+* <span class="light">**Maths 2**: Recognise and represent division as grouping into equal sets and solve simple problems using these representations (ACMNA032)</span>
   * *identifying the difference between dividing a set of objects into three equal groups and dividing the same set of objects into groups of three*
-* **Science 1**: Everyday materials can be physically changed in a variety of ways (ACSSU018)
+* <span class="light">**Science 1**: Everyday materials can be physically changed in a variety of ways (ACSSU018)</span>
   * *predicting and comparing how the shapes of objects made from different materials can be physically changed through actions such as bending, stretching and twisting*
-* **Science 1**: Participate in guided investigations to explore and answer questions (ACSIS025)
+* <span class="light">**Science 1**: Participate in guided investigations to explore and answer questions (ACSIS025)</span>
   * *sorting information and classifying objects based on easily observable characteristics with teacher guidance*
-* **Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
- (ACADAM001)
+* <span class="light">**Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
+ (ACADAM001)</span>
   * *exploring fundamental movements safely to improvise dance ideas, for example, running in a race, jumping like a frog, stomping like a giant, rolling like a log, falling like an autumn leaf, floating like a cloud, gliding like a bird*
   * *experimenting with the elements of space, time, dynamics and relationships through movement, for example, considering levels, tempo and dynamics*
-* **Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)
+* <span class="light">**Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)</span>
   * *practising and responding to a range of fundamental movements to music, for example, walking, running, marching, galloping, skipping, crawling (locomotor); bending, stretching, twisting, turning (non-locomotor)*
   * *practising fundamental movements to begin to develop technical skills of body control, posture, strength, balance and coordination, and responding to teacher’s feedback*
   * *developing awareness of and taking responsibility for safe dance practices, for example, being aware of self and others in the dance space, moving with care, respecting others dancing in the space; awareness of the boundaries of the dance space; awareness of their bodies’ needs, for example, getting a drink after dance activities for hydration*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *presenting a learned sequence of movements or performing simple dances, individually or as a group, to classmates, teachers and parents*
-* **Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)
+* <span class="light">**Dance F-2**: Respond to dance and consider where and why people dance, starting with dances from Australia including dances of Aboriginal and Torres Strait Islander Peoples (ACADAR004)</span>
   * *recognising patterns of movement in dances they make, perform and view using their own words and learnt dance terminology*
-* **Music F-2**: Respond to music and consider where and why people make music, starting with Australian music, including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR083)
+* <span class="light">**Music F-2**: Respond to music and consider where and why people make music, starting with Australian music, including music of Aboriginal and Torres Strait Islander Peoples (ACAMUR083)</span>
   * *describing shapes, patterns, form or mood of pieces of music using their own words and learnt music terminology*
-* **Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
- (ACADRM028)
+* <span class="light">**Drama F-2**: Use voice, facial expression, movement and space to imagine and establish role and situation
+ (ACADRM028)</span>
   * *practising movement within a space to create the difference between their performance space and the audience space*
   * *manipulating objects, puppets, 2D images and available technologies to create stories*
-* **D&T F-2**: Sequence steps for making designed solutions and working collaboratively (ACTDEP009)
+* <span class="light">**D&T F-2**: Sequence steps for making designed solutions and working collaboratively (ACTDEP009)</span>
   * *checking that planned features have been included in design plans and drawings by referring to identified criteria for success including care for the environment*
-* **D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)
+* <span class="light">**D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)</span>
   * *exploring systems used in the classroom or community for creatively dealing with problems and needs, for example storage systems for equipment, traffic system flow for drop and go zones, the use of hoists and ramps to facilitate access*
   * *exploring facilities in local environments for accessibility and environmental impact, for example location of bike tracks and sporting fields using digital maps to view local area*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *using and playing with everyday materials in new ways or re-using discarded materials, for example using discarded materials to design, make and model a constructed environment*
   * *assembling components of systems and checking they function as planned, for example when making a musical instrument*
-* **DT F-2**: Recognise and explore digital systems (hardware and software components) for a purpose (ACTDIK001)
+* <span class="light">**DT F-2**: Recognise and explore digital systems (hardware and software components) for a purpose (ACTDIK001)</span>
   * *constructing a model of a real or imaginary digital systems device for use in role-play scenarios and explaining the features of the device to an adult*
-* **Visual F-2**: Explore ideas, experiences, observations and imagination to create visual artworks and design, including considering ideas in artworks by Aboriginal and Torres Strait Islander artists
- (ACAVAM106)
+* <span class="light">**Visual F-2**: Explore ideas, experiences, observations and imagination to create visual artworks and design, including considering ideas in artworks by Aboriginal and Torres Strait Islander artists
+ (ACAVAM106)</span>
   * *observing and recording the shapes, colours and textures of people, objects and concepts they experience in their daily lives, for example, drawing faces, insects, plants, food*
   * *practising drawing images and making objects related to self, others and personal environments in different forms, for example, painting, sculpture, photography*
 
@@ -2017,29 +2050,29 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)
+* <span class="light">**Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)</span>
   * *modelling the relative sizes and movement of the sun, Earth and moon*
-* **Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)
+* <span class="light">**Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)</span>
   * *practising combinations of fundamental locomotor and non-locomotor movements to a range of musical accompaniment, for example, running and sliding; bending and stretching; running, swinging, walking and stretching*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)
+* <span class="light">**Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)</span>
   * *experimenting with the loudness/softness, pace and pitch of their voices to create roles and situations, time and place*
   * *developing sensory and spatial awareness when creating dramatic action*
-* **Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)
+* <span class="light">**Drama 3-4**: Shape and perform dramatic action using narrative structures and tension in devised and scripted drama, including exploration of Aboriginal and Torres Strait Islander drama (ACADRM033)</span>
   * *sharing with others dramatic action that is structured through dramatic tension, in real or virtual spaces*
-* **Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)
+* <span class="light">**Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)</span>
   * *constructing realistic representations of the classroom or other community locations and then constructing fictional versions of the same space*
-* **Media 3-4**: Plan, create and present media artworks for specific purposes with awareness of responsible media practice (ACAMAM060)
+* <span class="light">**Media 3-4**: Plan, create and present media artworks for specific purposes with awareness of responsible media practice (ACAMAM060)</span>
   * *storyboarding and filming a short sequence showing a conflict, selecting camera angles, lighting and costume to convey meaning without dialogue*
-* **D&T 3-4**: Critique needs or opportunities for designing and explore and test a variety of materials, components, tools and equipment and the techniques needed to produce designed solutions (ACTDEP014)
+* <span class="light">**D&T 3-4**: Critique needs or opportunities for designing and explore and test a variety of materials, components, tools and equipment and the techniques needed to produce designed solutions (ACTDEP014)</span>
   * *critiquing and selecting appropriate joining techniques for materials to produce working models*
   * *examining the structure and production of everyday products, services and environments to enhance their own design ideas*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *exploring ways of joining, connecting and assembling components that ensure success, and the impact digital technologies have had on these processes*
-* **DT 3-4**: Recognise different types of data and explore how the same data can be represented in different ways (ACTDIK008)
+* <span class="light">**DT 3-4**: Recognise different types of data and explore how the same data can be represented in different ways (ACTDIK008)</span>
   * *exploring codes and symbols that are representations of data, for example morse code and semaphore and how similar symbols in Aboriginal and Torres Strait Islander art can represent different concepts depending on the context, for example three circles, drawn as lines, can represent ants, fruit, flowers or eggs depending on the art region*
-* **HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)
+* <span class="light">**HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)</span>
   * *discussing and demonstrating different levels, movement pathways, and use of space and flow in movement sequences*
   * *using the body to demonstrate an understanding of symmetry, shapes and angles when performing movement skills, balances or movement sequences*
 
@@ -2083,32 +2116,32 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science 5**: Light from a source forms shadows and can be absorbed, reflected and refracted (ACSSU080)
+* <span class="light">**Science 5**: Light from a source forms shadows and can be absorbed, reflected and refracted (ACSSU080)</span>
   * *drawing simple labelled ray diagrams to show the paths of light from a source to our eyes*
   * *comparing shadows from point and extended light sources such as torches and fluorescent tubes*
   * *recognising the refraction of light at the surfaces of different transparent materials, such as when light travels from air to water or air to glass*
-* **HASS 6**: Organise and represent data in a range of formats including tables, graphs and large- and small-scale maps, using discipline-appropriate conventions
- (ACHASSI124)
+* <span class="light">**HASS 6**: Organise and represent data in a range of formats including tables, graphs and large- and small-scale maps, using discipline-appropriate conventions
+ (ACHASSI124)</span>
   * *explaining spatial representations (for example, describing how the representation of the spherical globe on flat paper produces distortions in maps)*
-* **Drama 5-6**: Explore dramatic action, empathy and space in improvisations, playbuilding and scripted drama to develop characters and situations (ACADRM035)
+* <span class="light">**Drama 5-6**: Explore dramatic action, empathy and space in improvisations, playbuilding and scripted drama to develop characters and situations (ACADRM035)</span>
   * *exploring physical, fictional and emotional space to create characters and situations and imagined feelings*
-* **Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
- (ACADRM036)
+* <span class="light">**Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
+ (ACADRM036)</span>
   * *adjusting the weight (heaviness or lightness of movement), speed, use of stillness, levels and movement through space to focus on character and situation and create dramatic action*
-* **Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
- (ACADRM037)
+* <span class="light">**Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
+ (ACADRM037)</span>
   * *planning and designing elements of their performance, for example, creating a stage design and interpreting diagrams and locations and using proximity and directional stage language in performance spaces during rehearsal*
-* **Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)
+* <span class="light">**Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)</span>
   * *designing a storyboard that reflects a key scene in a sequence; for example, an opening scene of a film that shows the important camera angles, transitions, edits, voice and soundtrack*
   * *designing a navigational plan for a game, using multiple levels and obstacles; for example, creating and designing problems to be solved in order to progress to a new level*
-* **D&T 5-6**: Investigate how electrical energy can control movement, sound or light in a designed product or system
- (ACTDEK020)
+* <span class="light">**D&T 5-6**: Investigate how electrical energy can control movement, sound or light in a designed product or system
+ (ACTDEK020)</span>
   * *producing models using materials, tools and equipment to show how to control movement, sound or light*
-* **DT 5-6**: Design, modify and follow simple algorithms involving sequences of steps, branching, and iteration (repetition) (ACTDIP019)
+* <span class="light">**DT 5-6**: Design, modify and follow simple algorithms involving sequences of steps, branching, and iteration (repetition) (ACTDIP019)</span>
   * *designing the instructions for a robot, for example a robot vacuum cleaner to clean a room*
-* **HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)
+* <span class="light">**HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)</span>
   * *demonstrating an understanding of how to adjust the force and speed of an object to improve accuracy and control*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *designing a sequence of passes between teammates to maintain possession or move a piece of equipment from one point to another*
 
 #### **Level 5**: visualise, describe and apply their understanding of the features and properties of 2D shapes and 3D objects
@@ -2146,43 +2179,43 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 8**: Investigate the relationship between features of circles such as circumference, area, radius and diameter. Use formulas to solve problems involving circumference and area
- (ACMMG197)
+* <span class="light">**Maths 8**: Investigate the relationship between features of circles such as circumference, area, radius and diameter. Use formulas to solve problems involving circumference and area
+ (ACMMG197)</span>
   * *investigating the area of circles using a square grid or by rearranging a circle divided into sectors*
-* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* <span class="light">**Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)</span>
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)
+* <span class="light">**Dance 7-8**: Analyse how choreographers use elements of dance and production elements to communicate intent (ACADAR018)</span>
   * *deconstructing sections of a dance, for example, identifying and describing recurring movement within sequences and the use of the elements of dance and production elements such as lighting, performance space, music and costume*
   * *identifying and interpreting how interrelating elements, choreographic devices such as variation, contrast and transitions, and forms are used to communicate intent*
-* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* <span class="light">**Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)</span>
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* <span class="light">**D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)</span>
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **Visual 7-8**: Develop planning skills for art-making by exploring techniques and processes used by different artists
- (ACAVAM120)
+* <span class="light">**Visual 7-8**: Develop planning skills for art-making by exploring techniques and processes used by different artists
+ (ACAVAM120)</span>
   * *imagining and refining their visual and spatial representations of the world, combining a variety of technologies*
-* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* <span class="light">**HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)</span>
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *travelling, marking and intercepting to achieve and retain possession*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
- (ACDSEH032)
+* <span class="light">**Hist 7**: Roles of key groups in ancient Egyptian society (such as the nobility, bureaucracy, women, slaves), including the influence of law and religion
+ (ACDSEH032)</span>
   * *creating a graphic representation of the social structure of Egyptian society*
-* **Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
- (ACDSEH035)
+* <span class="light">**Hist 7**: Roles of key groups in Athenian and/or Spartan society (such as citizens, women, slaves), including the influence of law and religion
+ (ACDSEH035)</span>
   * *examining evidence of the social structure of Athenian or Spartan society (for example, the roles of citizens, women, slaves in Athenian society and the roles of Spartiates, Perioikoi and Helots in Spartan society)*
-* **Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
- (ACDSEH038)
+* <span class="light">**Hist 7**: Roles of key groups in ancient Roman society (such as patricians, plebeians, women, slaves), including the influence of law and religion
+ (ACDSEH038)</span>
   * *examining the evidence of the social structure of Roman society (for example, the roles of patricians, plebeians, women and slaves in the city of Rome) and the idea of Republican virtue and its historical resonance*
-* **Hist 8**: Significant developments and/or cultural achievements that reflect the power and influence of the Ottoman Empire, such as the fall of Constantinople in 1453 AD (CE), art and architecture (ACDSEH053)
+* <span class="light">**Hist 8**: Significant developments and/or cultural achievements that reflect the power and influence of the Ottoman Empire, such as the fall of Constantinople in 1453 AD (CE), art and architecture (ACDSEH053)</span>
   * *describing Ottoman art and architecture (for example, the Selimiye Mosque in the city of Edirne in Turkey, and Islamic geometric design)*
-* **Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)
+* <span class="light">**Geo 7**: Represent spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, using spatial technologies as appropriate (ACHGS050)</span>
   * *developing a map to show the spatial distribution of measures of the liveability of their own place, or a selected hydrological hazard in Australia and another region of the world*
 
 #### **Level 6**: visualise, describe and analyse the way shapes and objects are combined and positioned in the environment for different purposes
@@ -2229,21 +2262,21 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Maths 10**: Explore the connection between algebraic and graphical representations of relations such as simple quadratics, circles and exponentials using digital technology as appropriate (ACMNA239)
+* <span class="light">**Maths 10**: Explore the connection between algebraic and graphical representations of relations such as simple quadratics, circles and exponentials using digital technology as appropriate (ACMNA239)</span>
   * *sketching the graphs of exponential functions using transformations*
-* **Maths 10A**: Use the unit circle to define trigonometric functions, and graph them with and without the use of digital technologies (ACMMG274)
+* <span class="light">**Maths 10A**: Use the unit circle to define trigonometric functions, and graph them with and without the use of digital technologies (ACMMG274)</span>
   * *investigating angles of any magnitude*
-* **Science 9**: Advances in scientific understanding often rely on technological advances and are often linked to scientific discoveries (ACSHE158)
+* <span class="light">**Science 9**: Advances in scientific understanding often rely on technological advances and are often linked to scientific discoveries (ACSHE158)</span>
   * *investigating technologies involved in the mapping of continental movement*
-* **Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)
+* <span class="light">**Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)</span>
   * *using models and diagrams to represent the relationship between DNA, genes and chromosomes*
-* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
- (ACADRM050)
+* <span class="light">**Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+ (ACADRM050)</span>
   * *structuring the performance space to convey dramatic meaning and sense of style for an audience*
-* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* <span class="light">**D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)</span>
   * *critiquing the design of new products to identify how well design ideas respond to sustainability issues*
   * *examining relationships of properties for complementary materials for products, for example examining compressive and tensile strengths of materials*
-* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* <span class="light">**D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)</span>
   * *producing drawings, models and prototypes to explore design ideas, for example using technical drawing techniques, digital imaging programs, 3D printers or augmented reality modelling software; producing multiple prototypes that show an understanding of key aesthetic considerations in competing designs*
 
 ### Interpret maps and diagrams
@@ -2295,21 +2328,21 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **D&T F-2**: Sequence steps for making designed solutions and working collaboratively (ACTDEP009)
+* <span class="light">**D&T F-2**: Sequence steps for making designed solutions and working collaboratively (ACTDEP009)</span>
   * *checking that planned features have been included in design plans and drawings by referring to identified criteria for success including care for the environment*
-* **D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)
+* <span class="light">**D&T F-2**: Explore the characteristics and properties of materials and components that are used to produce designed solutions (ACTDEK004)</span>
   * *exploring systems used in the classroom or community for creatively dealing with problems and needs, for example storage systems for equipment, traffic system flow for drop and go zones, the use of hoists and ramps to facilitate access*
   * *exploring facilities in local environments for accessibility and environmental impact, for example location of bike tracks and sporting fields using digital maps to view local area*
-* **D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)
+* <span class="light">**D&T F-2**: Use materials, components, tools, equipment and techniques to safely make designed solutions (ACTDEP007)</span>
   * *assembling components of systems and checking they function as planned, for example when making a musical instrument*
-* **DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)
+* <span class="light">**DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)</span>
   * *sorting objects and events based on easily identified characteristics and using digital systems to represent patterns in data, for example sorting birthdates and presenting the patterns using seasonal symbols*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *performing locomotor movements using different body parts to travel in different directions*
   * *demonstrating balances and describing what helps to maintain stable positions*
   * *demonstrating changes in speed, direction and level of movement in response to changes in music tempo*
   * *selecting and implementing different movement skills to be successful in a game*
-* **HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)
+* <span class="light">**HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)</span>
   * *participating in activities of different intensity and comparing the body’s reactions*
 
 #### **Level 3**: interpret information, locate positions and describe routes on maps and diagrams using simple scales, legends and directional language
@@ -2361,47 +2394,47 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **HASS 3**: Locate and collect information and data from different sources, including observations (ACHASSI053)
+* <span class="light">**HASS 3**: Locate and collect information and data from different sources, including observations (ACHASSI053)</span>
   * *collecting data from maps, aerial photographs, satellite images or a digital application (for example, Google Earth) to identify, locate and describe different types of settlement*
-* **HASS 3**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI057)
+* <span class="light">**HASS 3**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI057)</span>
   * *identifying differences in the representation of a place on a map, in an aerial photo and in a satellite image and discussing how different methods of representation give different information about distributions and patterns*
   * *interpreting cartographic information such as titles, map symbols, north point, compass direction, grid references and major lines of latitude*
   * *using maps, ground and aerial photographs and satellite images or a digital application (for example, European Space Agency, NASA World Wind or Google Earth), to identify, locate and describe geographical patterns and distributions (for example, different types and patterns of settlements in Australia and Asia)*
-* **HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)
+* <span class="light">**HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)</span>
   * *describing the location and direction from a local place in Australia to a local place in at least two neighbouring countries (for example, New Zealand and Indonesia) using a globe or wall map*
-* **HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)
+* <span class="light">**HASS 3**: The location of Australia’s neighbouring countries and the diverse characteristics of their places (ACHASSK067)</span>
   * *using a globe to locate the Pacific Island nations, New Zealand, Papua New Guinea, Timor-Leste and Indonesia and countries relevant to students, labelling them on a map, and identifying the direction of each country from Australia*
-* **HASS 3**: The main climate types of the world and the similarities and differences between the climates of different places (ACHASSK068)
+* <span class="light">**HASS 3**: The main climate types of the world and the similarities and differences between the climates of different places (ACHASSK068)</span>
   * *identifying the hot, temperate and polar zones of the world and the difference between climate and weather*
   * *identifying and locating examples of the main climatic types in Australia and the world (for example, equatorial, tropical arid, semi-arid, temperate and Mediterranean)*
-* **HASS 4**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI078)
+* <span class="light">**HASS 4**: Interpret data and information displayed in different formats, to identify and describe distributions and simple patterns (ACHASSI078)</span>
   * *decoding the meaning of symbols and emblems associated with Australian history, geography and civic life and applying an understanding of conventions, vocabulary and symbols when interpreting large-scale maps*
   * *interpreting thematic maps and using Google Earth or similar applications to describe the characteristics of a continent or region or to identify the distribution of a particular characteristic (for example, languages of South America, equatorial rainforests, settlement along a major river valley in South America from its source to the sea)*
-* **HASS 4**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI082)
+* <span class="light">**HASS 4**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI082)</span>
   * *describing the relative location of different features in a place by distance and compass direction (for example, the distance from their home to the local waste management site, the route of a navigator)*
-* **Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)
+* <span class="light">**Media 3-4**: Investigate and devise representations of people in their community, including themselves, through settings, ideas and story structure in images, sounds and text (ACAMAM058)</span>
   * *constructing realistic representations of the classroom or other community locations and then constructing fictional versions of the same space*
-* **D&T 3-4**: Investigate food and fibre production and food technologies used in modern and traditional societies (ACTDEK012)
+* <span class="light">**D&T 3-4**: Investigate food and fibre production and food technologies used in modern and traditional societies (ACTDEK012)</span>
   * *identifying the areas in Australia and Asia where major food or fibre plants and animals are grown or bred, for example the wheat and sheep belts, areas where sugar cane or rice are grown, northern Australia’s beef industry, plantation and native forest areas*
   * *describing ideal conditions for successful plant and animal production including how climate and soils affect production and availability of foods, for example Aboriginal seasons and food availability*
-* **D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)
+* <span class="light">**D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)</span>
   * *investigating local constructed environments to compare how buildings were constructed in the past and in the present and noting innovations*
   * *analysing products, services and constructed environments from a range of technologies contexts with consideration of possible innovative solutions and impacts on the local community and the sustainability of its environment*
-* **D&T 3-4**: Critique needs or opportunities for designing and explore and test a variety of materials, components, tools and equipment and the techniques needed to produce designed solutions (ACTDEP014)
+* <span class="light">**D&T 3-4**: Critique needs or opportunities for designing and explore and test a variety of materials, components, tools and equipment and the techniques needed to produce designed solutions (ACTDEP014)</span>
   * *examining the structure and production of everyday products, services and environments to enhance their own design ideas*
-* **DT 3-4**: Recognise different types of data and explore how the same data can be represented in different ways (ACTDIK008)
+* <span class="light">**DT 3-4**: Recognise different types of data and explore how the same data can be represented in different ways (ACTDIK008)</span>
   * *using a table to reorganise information that includes sentences, and/or words, and/or numbers and/or images*
   * *recognising representations of different types of data such as waves for sound*
-* **DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)
+* <span class="light">**DT 3-4**: Collect, access and present different types of data using simple software to create information and solve problems (ACTDIP009)</span>
   * *selecting appropriate formats or layout styles to present data as information depending on the type of data and the audience, for example lists, tables, graphs, animations, info graphics and presentations*
   * *using different techniques to present data as information, for example creating a column chart in a spreadsheet by colouring cells to represent different items*
   * *improving the appearance and usability of data, for example using colour, headings and labelling of images to organise and accurately identify data*
   * *using software to sort and calculate data when solving problems, for example sorting numerical and categorical data in ascending or descending order and automating simple arithmetic calculations using nearby cells and summing cell ranges in spreadsheet or database software*
-* **HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)
+* <span class="light">**HPE 3-4**: Combine elements of effort, space, time, objects and people when performing movement sequences (ACPMP047)</span>
   * *demonstrating acceleration and deceleration of movement in physical activities*
-* **HPE 3-4**: Describe and apply strategies that can be used in situations that make them feel uncomfortable or unsafe (ACPPS035)
+* <span class="light">**HPE 3-4**: Describe and apply strategies that can be used in situations that make them feel uncomfortable or unsafe (ACPPS035)</span>
   * *indicating on a local map the location of safe places and people who can help*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *exploring and practising different techniques to propel objects towards a target*
   * *performing routines incorporating different jumping techniques and connecting movements*
 
@@ -2446,49 +2479,49 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science 5**: Science involves testing predictions by gathering data and using evidence to develop explanations of events and phenomena and reflects historical and cultural contributions (ACSHE081)
+* <span class="light">**Science 5**: Science involves testing predictions by gathering data and using evidence to develop explanations of events and phenomena and reflects historical and cultural contributions (ACSHE081)</span>
   * *learning how Aboriginal and Torres Strait Islander Peoples use observation of the night sky to assist with navigation (OI.3, OI.5)*
   * *researching how scientists were able to develop ideas about the solar system through the gathering of evidence through space exploration*
-* **Science 5**: Communicate ideas, explanations and processes using scientific representations in a variety of ways, including multi-modal texts (ACSIS093)
+* <span class="light">**Science 5**: Communicate ideas, explanations and processes using scientific representations in a variety of ways, including multi-modal texts (ACSIS093)</span>
   * *using labelled diagrams, including cross-sectional representations, to communicate ideas*
-* **Science 6**: Communicate ideas, explanations and processes using scientific representations in a variety of ways, including multi-modal texts (ACSIS110)
+* <span class="light">**Science 6**: Communicate ideas, explanations and processes using scientific representations in a variety of ways, including multi-modal texts (ACSIS110)</span>
   * *using labelled diagrams, including cross-sectional representations, to communicate ideas and processes within multi-modal texts*
-* **HASS 5**: Interpret data and information displayed in a range of formats to identify, describe and compare distributions, patterns and trends, and to infer relationships (ACHASSI100)
+* <span class="light">**HASS 5**: Interpret data and information displayed in a range of formats to identify, describe and compare distributions, patterns and trends, and to infer relationships (ACHASSI100)</span>
   * *making inferences using sources, such as graphs and thematic maps, that show distribution (for example, the number of electors in some state or federal electorates to discuss representation; the distribution of primary resource industries in Australia and their proximity to cities; the spread of the cane toad across Australia and its threat to environments)*
   * *interpreting and creating maps such as flow and choropleth maps, or plans for specific purposes (for example, a bushfire management plan)*
-* **HASS 5**: Locate and collect relevant information and data from primary sources and secondary sources
- (ACHASSI095)
+* <span class="light">**HASS 5**: Locate and collect relevant information and data from primary sources and secondary sources
+ (ACHASSI095)</span>
   * *finding geographical information in primary sources (such as fieldwork and photographs) and secondary sources (such as maps, plans and reports in digital and non-digital form)*
   * *using geographical tools (for example, a globe, wall map or digital application such as Google Earth) to collect information (for example, to identify the environmental characteristics of the major countries of Europe and North America)*
-* **HASS 5**: Evaluate evidence to draw conclusions (ACHASSI101)
+* <span class="light">**HASS 5**: Evaluate evidence to draw conclusions (ACHASSI101)</span>
   * *exploring maps and sources showing Aboriginal and Torres Strait Islander language groups and Countries/Places, to explain the diversity of their cultures*
-* **HASS 5**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
- (ACHASSI105)
+* <span class="light">**HASS 5**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
+ (ACHASSI105)</span>
   * *selecting and applying appropriate media and strategies to suit their communication, including the use of graphs, tables, timelines, photographs and pictures, in digital and non-digital modes*
-* **HASS 5**: The nature of convict or colonial presence, including the factors that influenced patterns of development, aspects of the daily life of the inhabitants (including Aboriginal Peoples and Torres Strait Islander Peoples) and how the environment changed (ACHASSK107)
+* <span class="light">**HASS 5**: The nature of convict or colonial presence, including the factors that influenced patterns of development, aspects of the daily life of the inhabitants (including Aboriginal Peoples and Torres Strait Islander Peoples) and how the environment changed (ACHASSK107)</span>
   * *mapping local, regional and state/territory rural and urban settlement patterns in the 1800s, and noting factors such as geographical features, climate, water resources, the discovery of gold, transport and access to port facilities that shaped these patterns*
-* **HASS 5**: The impact of bushfires or floods on environments and communities, and how people can respond (ACHASSK114)
+* <span class="light">**HASS 5**: The impact of bushfires or floods on environments and communities, and how people can respond (ACHASSK114)</span>
   * *mapping and explaining the location, frequency and severity of bushfires or flooding in Australia*
-* **HASS 6**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
- (ACHASSI133)
+* <span class="light">**HASS 6**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
+ (ACHASSI133)</span>
   * *describing the relative location of places and their features in Australia and in selected countries of the Asia region, when investigating and making connections*
-* **Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
- (ACADRM037)
+* <span class="light">**Drama 5-6**: Rehearse and perform devised and scripted drama that develops narrative, drives dramatic tension, and uses dramatic symbol, performance styles and design elements to share community and cultural stories and engage an audience
+ (ACADRM037)</span>
   * *planning and designing elements of their performance, for example, creating a stage design and interpreting diagrams and locations and using proximity and directional stage language in performance spaces during rehearsal*
-* **Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)
+* <span class="light">**Media 5-6**: Plan, produce and present media artworks for specific audiences and purposes using responsible media practice (ACAMAM064)</span>
   * *designing a navigational plan for a game, using multiple levels and obstacles; for example, creating and designing problems to be solved in order to progress to a new level*
-* **D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)
+* <span class="light">**D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)</span>
   * *considering the impact designed products, services or environments have in relation to sustainability and also on local, regional and global communities, including Aboriginal and Torres Strait Islander communities  and countries in the Asia region*
-* **D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)
+* <span class="light">**D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)</span>
   * *sequencing the process of converting ‘on-farm’ food or fibre products into a product suitable for retail sale, that is, the ‘paddock to plate’ supply chain, or when making yarn or fabric from fibre*
-* **D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)
+* <span class="light">**D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)</span>
   * *exploring the steps involved in the process to satisfy a design brief, need or opportunity*
   * *identifying the importance of complementary parts of working, everyday systems by deconstructing the components, structure and purpose of products, services or environments*
-* **D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)
+* <span class="light">**D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)</span>
   * *outlining the planning and production steps needed to produce a product, service or environment using digital technologies*
-* **DT 5-6**: Acquire, store and validate different types of data, and use a range of software to interpret and visualise data to create information (ACTDIP016)
+* <span class="light">**DT 5-6**: Acquire, store and validate different types of data, and use a range of software to interpret and visualise data to create information (ACTDIP016)</span>
   * *using data visualisation software to help in interpreting trends, for example uploading data to a web application and building a visualisation of the dataset*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *designing a sequence of passes between teammates to maintain possession or move a piece of equipment from one point to another*
 
 #### **Level 5**: create and interpret 2D and 3D maps, models and diagrams
@@ -2641,115 +2674,115 @@ Interpret and analyse learning area texts*
 
 ##### Elaborations only
 
-* **Science 7**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)
+* <span class="light">**Science 7**: Predictable phenomena on Earth, including seasons and eclipses, are caused by the relative positions of the sun, Earth and the moon (ACSSU115)</span>
   * *explaining why different regions of the Earth experience different seasonal conditions*
-* **Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)
+* <span class="light">**Science 7**: Construct and use a range of representations, including graphs, keys and models to represent and analyse patterns or relationships in data using digital technologies as appropriate (ACSIS129)</span>
   * *understanding different types of graphical and physical representation and considering their advantages and disadvantages*
-* **Science 8**: Energy appears in different forms, including movement (kinetic energy), heat and potential energy, and energy transformations and transfers cause change within systems (ACSSU155)
+* <span class="light">**Science 8**: Energy appears in different forms, including movement (kinetic energy), heat and potential energy, and energy transformations and transfers cause change within systems (ACSSU155)</span>
   * *using flow diagrams to illustrate changes between different forms of energy*
-* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
- (ACHASSI153)
+* <span class="light">**HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+ (ACHASSI153)</span>
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS 7**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
- (ACHASSK164)
+* <span class="light">**HASS 7**: The theory that people moved out of Africa around 60 000 BC (BCE) and migrated to other parts of the world, including Australia
+ (ACHASSK164)</span>
   * *Composing texts through speaking, writing and creating
                             
 
 Compose spoken, written, visual and multimodal learning area texts*
-* **HASS 7**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
- (ACHASSK166)
+* <span class="light">**HASS 7**: Key features of ancient societies (farming, trade, social classes, religion, rule of law)
+ (ACHASSK166)</span>
   * *identifying the major civilisations of the ancient world (namely Egypt, Mesopotamia, Persia, Greece, Rome, India, China and the Maya); where and when they existed, and the evidence for contact between them*
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **HASS 7**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
- (ACHASSK169)
+* <span class="light">**HASS 7**: The methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains
+ (ACHASSK169)</span>
   * *Comprehending texts through listening, reading and viewing
                             
 
 Navigate, read and view learning area texts
 Interpret and analyse learning area texts*
-* **D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)
+* <span class="light">**D&T 7-8**: Generate, develop, test and communicate design ideas, plans and processes for various audiences using appropriate technical terms and technologies including graphical representation techniques (ACTDEP036)</span>
   * *using a variety of critical and creative thinking strategies such as brainstorming, sketching, 3-D modelling and experimenting to generate innovative design ideas*
   * *developing models, prototypes or samples using a range of materials, tools and equipment to test the functionality of ideas*
   * *producing annotated concept sketches and drawings, using: technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, orthogonal drawings; patterns and templates to explain design ideas*
-* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* <span class="light">**D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)</span>
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)
+* <span class="light">**DT 7-8**: Analyse and visualise data using a range of software to create information, and use structured data to model objects or events (ACTDIP026)</span>
   * *using features and functions of software to summarise data to create information, for example calculating a simple budget of income and payments and creating a summary table for analysis*
   * *visualising data to create information, for example identify trends and outlier data from spreadsheets using plots, or displaying geocoded data on a map*
   * *applying a set of conditions to a spreadsheet to organise and filter data, for example using conditional formatting to highlight the state of particular cells, and filtering and sorting categorical data using column filters*
-* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* <span class="light">**DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)</span>
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)
+* <span class="light">**HPE 7-8**: Use feedback to improve body control and coordination when performing specialised movement skills in a variety of situations (ACPMP080)</span>
   * *designing and performing movement sequences to create, use and defend space*
   * *composing and performing a group dance sequence in response to a piece of music or other stimuli*
   * *designing and performing movement sequences to travel around, over, under and through natural or built obstacles*
-* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* <span class="light">**HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)</span>
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* <span class="light">**Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)</span>
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* <span class="light">**Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)</span>
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* <span class="light">**Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)</span>
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
- (ACDSEH044)
+* <span class="light">**Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+ (ACDSEH044)</span>
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
- (ACDSEH041)
+* <span class="light">**Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+ (ACDSEH041)</span>
   * *creating a graphic representation of the social structure of Chinese society*
-* **Hist 8**: The way of life in Viking society (social, cultural, economic and political features) and the roles and relationships of different groups in society (ACDSEH007)
+* <span class="light">**Hist 8**: The way of life in Viking society (social, cultural, economic and political features) and the roles and relationships of different groups in society (ACDSEH007)</span>
   * *locating Viking lands in Scandinavia (Denmark, Norway and Sweden)*
-* **Hist 8**: Theories about the origin and spread of Polynesian settlers throughout the Pacific (ACDSEH013)
+* <span class="light">**Hist 8**: Theories about the origin and spread of Polynesian settlers throughout the Pacific (ACDSEH013)</span>
   * *locating Polynesia on a map, tracing the expansion of Polynesian settlers throughout the Pacific, and considering how they made their journeys*
-* **Hist 8**: The extent of the Mongol expansion as one of the largest land empires in history (ACDSEH078)
+* <span class="light">**Hist 8**: The extent of the Mongol expansion as one of the largest land empires in history (ACDSEH078)</span>
   * *mapping the expansion of the Mongol empire across Asia and Europe*
-* **Hist 8**: The role of expanding trade between Europe and Asia in the Black Death, including the origin and spread of the disease (ACDSEH069)
+* <span class="light">**Hist 8**: The role of expanding trade between Europe and Asia in the Black Death, including the origin and spread of the disease (ACDSEH069)</span>
   * *mapping the spread of the Black Death (Asia, Africa, Europe) in the fourteenth century CE*
-* **Hist 8**: Locate, compare, select and use information from a range of sources as evidence
- (ACHHS153)
+* <span class="light">**Hist 8**: Locate, compare, select and use information from a range of sources as evidence
+ (ACHHS153)</span>
   * *designing a table to list sources and the aspects of the past about which they provide information (for example, social structure, economy, governance)*
-* **Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
- (ACHGK041)
+* <span class="light">**Geo 7**: Economic, cultural, spiritual and aesthetic value of water for people, including Aboriginal and Torres Strait Islander Peoples and peoples of the Asia region
+ (ACHGK041)</span>
   * *exploring the multilayered meanings (material, cultural and spiritual wellbeing) associated with rivers, waterways, waterholes, seas, lakes, soaks and springs for Aboriginal and Torres Strait Islander Peoples*
   * *examining bays, rivers, waterfalls or lakes in Australia and in countries of the Asia region that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value*
-* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
- (ACHGK042)
+* <span class="light">**Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
+ (ACHGK042)</span>
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* <span class="light">**Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)</span>
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)
+* <span class="light">**Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)</span>
   * *identifying and explaining the main types, patterns and trends of internal migration in Australia (for example, employment, lifestyle and retirement migration)*
   * *examining the effects of resource development on employment growth in both the resource regions and the cities, and on internal migration in Australia*
   * *investigating the effects of the ‘fly-in fly-out’ phenomenon on resource-development places*
   * *explaining that Aboriginal and Torres Strait Islander Peoples’ population mobility reflects attachment to a number of places through family, Country/Place, dispossession, relocation and employment*
-* **Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)
+* <span class="light">**Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)</span>
   * *identifying and explaining the main types and patterns of international migration (for example, permanent migration, temporary labour migration, student migration, forced migration (including refugees) and family reunion)*
   * *investigating where and why international migrants settle in Australia and how this may reinforce urban concentration*
   * *exploring the changing cultural diversity of the Australian population*
-* **Geo 8**: Management and planning of Australia’s urban future (ACHGK059)
+* <span class="light">**Geo 8**: Management and planning of Australia’s urban future (ACHGK059)</span>
   * *examining the forecasts for the size of Australia’s major cities and regional urban centres, and discussing the implications for their environmental sustainability and liveability*
   * *investigating ways of managing the projected growth of Australia’s cities and regional urban centres*
   * *exploring the arguments for and against a more balanced distribution of the urban population*
   * *generating ideas on how to decentralise Australia's urban population using Canberra as an example*
-* **Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)
+* <span class="light">**Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)</span>
   * *developing questions about the significance of a spatial distribution (for example, the positive and negative effects of the spatial concentration of population in Australia)*
-* **E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)
+* <span class="light">**E&B 7**: Interpret data and information displayed in different formats to identify relationships and trends (ACHES023)</span>
   * *interpreting tables, charts and graphs containing economic or business data to identify trends (for example, to answer the question: ‘To what extent has the number of people in casual work increased?’)*
-* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* <span class="light">**E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)</span>
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **E&B 8**: Gather relevant data and information from a range of digital, online and print sources (ACHES033)
+* <span class="light">**E&B 8**: Gather relevant data and information from a range of digital, online and print sources (ACHES033)</span>
   * *organising and categorising data and/or information (for example, constructing a table showing the differences between types of businesses)*
-* **E&B 8**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES037)
+* <span class="light">**E&B 8**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES037)</span>
   * *constructing appropriate displays of information and data to show trends and relationships (for example, preparing a data show which includes visual displays including graphs and charts as well as text to present findings and conclusions)*
-* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* <span class="light">**C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)</span>
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* <span class="light">**C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)</span>
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 6**: create and interpret maps, models and diagrams using a range of mapping tools
@@ -2888,82 +2921,82 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Maths 9**: Calculate relative frequencies from given or collected data to estimate probabilities of events involving 'and' or 'or' (ACMSP226)
+* <span class="light">**Maths 9**: Calculate relative frequencies from given or collected data to estimate probabilities of events involving 'and' or 'or' (ACMSP226)</span>
   * *using Venn diagrams or two-way tables to calculate relative frequencies of events involving ‘and’, ‘or’ questions*
-* **Science 9**: Energy transfer through different mediums can be explained using wave and particle models (ACSSU182)
+* <span class="light">**Science 9**: Energy transfer through different mediums can be explained using wave and particle models (ACSSU182)</span>
   * *investigating factors that affect the transfer of energy through an electric circuit*
-* **Science 9**: Scientific understanding, including models and theories, is contestable and is refined over time through a process of review by the scientific community (ACSHE157)
+* <span class="light">**Science 9**: Scientific understanding, including models and theories, is contestable and is refined over time through a process of review by the scientific community (ACSHE157)</span>
   * *investigating how models can be used to predict the changes in populations due to environmental changes, such as the impact of flooding or fire on rabbit or kangaroo populations*
-* **Science 9**: Values and needs of contemporary society can influence the focus of scientific research
- (ACSHE228)
+* <span class="light">**Science 9**: Values and needs of contemporary society can influence the focus of scientific research
+ (ACSHE228)</span>
   * *investigating contemporary science issues related to living in a Pacific country located near plate boundaries, for example Japan, Indonesia, New Zealand*
-* **Science 9**: Plan, select and use appropriate investigation types, including field work and laboratory experimentation, to collect reliable data; assess risk and address ethical issues associated with these methods (ACSIS165)
+* <span class="light">**Science 9**: Plan, select and use appropriate investigation types, including field work and laboratory experimentation, to collect reliable data; assess risk and address ethical issues associated with these methods (ACSIS165)</span>
   * *using modelling and simulations, including using digital technology to investigate situations and events*
-* **Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)
+* <span class="light">**Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)</span>
   * *using models and diagrams to represent the relationship between DNA, genes and chromosomes*
-* **Science 10**: Advances in scientific understanding often rely on technological advances and are often linked to scientific discoveries (ACSHE192)
+* <span class="light">**Science 10**: Advances in scientific understanding often rely on technological advances and are often linked to scientific discoveries (ACSHE192)</span>
   * *considering how computer modelling has improved knowledge and predictability of phenomena such as climate change and atmospheric pollution*
   * *considering how information technology can be applied to different areas of science such as bioinformatics and the Square Kilometre Array*
-* **Science 10**: Plan, select and use appropriate investigation types, including field work and laboratory experimentation, to collect reliable data; assess risk and address ethical issues associated with these methods (ACSIS199)
+* <span class="light">**Science 10**: Plan, select and use appropriate investigation types, including field work and laboratory experimentation, to collect reliable data; assess risk and address ethical issues associated with these methods (ACSIS199)</span>
   * *using modelling and simulations, including using digital technology, to investigate situations and events*
-* **Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
- (ACADRM050)
+* <span class="light">**Drama 9-10**: Structure drama to engage an audience through manipulation of dramatic action, forms and performance styles and by using design elements
+ (ACADRM050)</span>
   * *structuring the performance space to convey dramatic meaning and sense of style for an audience*
-* **D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
- (ACTDEK045)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
+ (ACTDEK045)</span>
   * *determining how the causes of food spoilage can be addressed when preparing, cooking, presenting and storing food items, for example developing a comprehensive checklist of considerations for safe and hygienic food storage and preparation including danger zone temperatures for a food service*
-* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* <span class="light">**D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)</span>
   * *critiquing the design of new products to identify how well design ideas respond to sustainability issues*
   * *examining relationships of properties for complementary materials for products, for example examining compressive and tensile strengths of materials*
-* **D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)
+* <span class="light">**D&T 9-10**: Develop, modify and communicate design ideas by applying design thinking, creativity, innovation and enterprise skills of increasing sophistication  (ACTDEP049)</span>
   * *producing drawings, models and prototypes to explore design ideas, for example using technical drawing techniques, digital imaging programs, 3D printers or augmented reality modelling software; producing multiple prototypes that show an understanding of key aesthetic considerations in competing designs*
-* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* <span class="light">**D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)</span>
   * *modifying production processes to respond to unforeseen challenges or opportunities, for example when producing bulk quantities of recipes, lower than average rainfall and impacts on growth, materials with unexpected faults*
-* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* <span class="light">**D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)</span>
   * *evaluating choices made at various stages of a design process and modifying plans when needed with consideration of criteria for success*
-* **DT 9-10**: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements (ACTDIP036)
+* <span class="light">**DT 9-10**: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements (ACTDIP036)</span>
   * *extracting specific data from an external source and storing it in a format that is more useful for analysis, for example combining mapping data from multiple electronic data sets to build a composite representation*
-* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* <span class="light">**DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)</span>
   * *investigating indicators of economic success, for example the capacity to scale up an innovative solution to meet the demands of a mass market and the savings accrued through sustainable practices*
-* **HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)
+* <span class="light">**HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)</span>
   * *using established criteria to apply and evaluate the effectiveness of movement concepts and strategies*
   * *developing and implementing appropriate movement concepts and strategies for selected movement scenarios*
   * *reviewing, proposing and implementing alternative responses to movement situations based on the outcome of previous performances*
-* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* <span class="light">**HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)</span>
   * *experimenting with the manipulation of force and speed applied to an object to examine the difference created in movement paths*
-* **Hist 9**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS164)
+* <span class="light">**Hist 9**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS164)</span>
   * *representing the relationship between events in different times and places using interactive timelines*
-* **Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)
+* <span class="light">**Hist 9**: The technological innovations that led to the Industrial Revolution, and other conditions that influenced the industrialisation of Britain (ACDSEH017)</span>
   * *mapping the British Empire c.1800 AD (CE) and the raw materials it obtained from colonies (for example, sugar from Jamaica, wool from Australia and cotton from India)*
-* **Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)
+* <span class="light">**Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)</span>
   * *graphing historical data to identify past trends and to draw conclusions about their significance (for example, the proportion of Australian servicemen who returned from World War I, and the ‘lost generations’ in the years after the war)*
-* **Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)
+* <span class="light">**Hist 10**: Use chronological sequencing to demonstrate the relationship between events and developments in different periods and places (ACHHS182)</span>
   * *using interactive timelines to explore the various manifestations or effects of an event in different geographical locations*
-* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
- (ACHHS187)
+* <span class="light">**Hist 10**: Identify the origin, purpose and context of primary and secondary sources
+ (ACHHS187)</span>
   * *using data from immigration records and processing them using ICT to identify historical trends over time*
-* **Geo 9**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS068)
+* <span class="light">**Geo 9**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS068)</span>
   * *testing conclusions by considering alternative points of view about an area of inquiry and providing a response using as organisers at least two of the concepts of place, space, environment, interconnection, sustainability, scale and change*
-* **Geo 9**: The ways that places and people are interconnected with other places through trade in goods and services, at all scales (ACHGK067)
+* <span class="light">**Geo 9**: The ways that places and people are interconnected with other places through trade in goods and services, at all scales (ACHGK067)</span>
   * *investigating how and why places are interconnected regionally, nationally and globally through trade in goods and services*
-* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* <span class="light">**Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)</span>
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo 10**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS077)
+* <span class="light">**Geo 10**: Apply geographical concepts to synthesise information from various sources and draw conclusions based on the analysis of data and information, taking into account alternative points of view (ACHGS077)</span>
   * *synthesising information from several sources through using as organisers at least two of the concepts of place, space, environment, interconnection, sustainability, scale and change*
-* **Geo 10**: Human-induced environmental changes that challenge sustainability
- (ACHGK070)
+* <span class="light">**Geo 10**: Human-induced environmental changes that challenge sustainability
+ (ACHGK070)</span>
   * *identifying human-induced environmental changes (for example, water and atmospheric pollution; loss of biodiversity; degradation of land, inland and coastal aquatic environments) and discussing the challenges they pose for sustainability*
-* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* <span class="light">**Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)</span>
   * *examining a national, state or community program to reduce regional inequalities in wellbeing in a country (for example, India)*
-* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* <span class="light">**E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)</span>
   * *examining the implications of participating in an interdependent global economy for consumers, workers, businesses and government (for example, mapping the global supply chain for a product to identify the advantages and disadvantages for participants in the chain)*
-* **E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
+* <span class="light">**E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)</span>
   * *representing data in different forms such as charts, tables and graphs, maps or models to communicate findings*
-* **E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)
+* <span class="light">**E&B 10**: Gather relevant and reliable data and information from a range of digital, online and print sources (ACHES056)</span>
   * *representing data and information in a format to aid interpretation and analysis (for example, providing a timeline of events and/or providing a graph showing changes in data)*
-* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* <span class="light">**E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)</span>
   * *investigating the ways in which income and wealth are distributed in the economy, using measures such as an income distribution histogram, the Lorenz curve or the Gini coefficient*
-* **E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
+* <span class="light">**E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)</span>
   * *communicating findings of the investigation in appropriate formats (for example, web pages, financial statements, spreadsheets, graphs and reports)*
 
 ## Interpreting statistical information
@@ -2976,12 +3009,12 @@ connecting x-intercepts of a graph to a related equation*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#interpret-data-displays">Interpret data displays</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">161<br><em>13%</em><br>383<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">38<br><em>11%</em><br>56<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">23<br><em>35%</em><br>27<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">28<br><em>21%</em><br>31<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.45); text-align: right">36<br><em>3%</em><br>103<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">8<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">18<br><em>6%</em><br>72<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">7<br><br>51<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td></tr>
-<tr><td ><a href="#interpret-chance-events">Interpret chance events</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">24<br><em>29%</em><br>26<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">19<br><em>11%</em><br>24<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">5<br><em>100%</em><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">57<br><em>11%</em><br>80<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>46%</em><br>28<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>21%</em><br>31<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">36<br><em>3%</em><br>103<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">18<br><em>6%</em><br>72<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>51<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td></tr>
+<tr><td><a href="#interpret-data-displays">Interpret data displays</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">161<br><em>13%</em><br>383<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">38<br><em>11%</em><br>56<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">23<br><em>35%</em><br>27<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">28<br><em>21%</em><br>31<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.45); text-align: right">36<br><em>3%</em><br>103<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">8<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">18<br><em>6%</em><br>72<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">7<br><br>51<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td></tr>
+<tr><td><a href="#interpret-chance-events">Interpret chance events</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">24<br><em>29%</em><br>26<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 1.00); text-align: right; color: #fff">19<br><em>11%</em><br>24<br><em>12%</em></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">5<br><em>100%</em><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.01); text-align: right">1<br><br>1<br></td><td style="background-color: rgba(21, 153, 87, 0.62); text-align: right; color: #fff">57<br><em>11%</em><br>80<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>46%</em><br>28<br><em>18%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">28<br><em>21%</em><br>31<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">2<br><em>50%</em><br>16<br><em>94%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">36<br><em>3%</em><br>103<br><em>37%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><br>21<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.19); text-align: right">18<br><em>6%</em><br>72<br><em>17%</em></td><td style="background-color: rgba(21, 153, 87, 0.08); text-align: right">7<br><br>51<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td></tr>
 </tbody>
 </table>
 
@@ -2993,12 +3026,12 @@ connecting x-intercepts of a graph to a related equation*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#interpret-data-displays">Interpret data displays</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">161<br><em>13%</em><br>383<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">8<br><em>12%</em><br>20<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">18<br><em>22%</em><br>28<br><em>14%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">23<br><em>17%</em><br>51<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">24<br><em>12%</em><br>56<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">43<br><em>7%</em><br>121<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">48<br><em>12%</em><br>124<br><em>33%</em></td></tr>
-<tr><td ><a href="#interpret-chance-events">Interpret chance events</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">24<br><em>29%</em><br>26<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">3<br><em>33%</em><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">8<br><em>62%</em><br>3<br></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">5<br><em>20%</em><br>4<br></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">4<br><br>7<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">4<br><br>10<br><em>30%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><em>12%</em><br>20<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">21<br><em>24%</em><br>30<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">31<br><em>29%</em><br>54<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">29<br><em>14%</em><br>60<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">47<br><em>6%</em><br>128<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">52<br><em>12%</em><br>134<br><em>33%</em></td></tr>
+<tr><td><a href="#interpret-data-displays">Interpret data displays</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">161<br><em>13%</em><br>383<br><em>32%</em></td><td style="background-color: rgba(21, 153, 87, 0.10); text-align: right">8<br><em>12%</em><br>20<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">18<br><em>22%</em><br>28<br><em>14%</em></td><td style="background-color: rgba(21, 153, 87, 0.29); text-align: right">23<br><em>17%</em><br>51<br><em>20%</em></td><td style="background-color: rgba(21, 153, 87, 0.30); text-align: right">24<br><em>12%</em><br>56<br><em>30%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">43<br><em>7%</em><br>121<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.60); text-align: right; color: #fff">48<br><em>12%</em><br>124<br><em>33%</em></td></tr>
+<tr><td><a href="#interpret-chance-events">Interpret chance events</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">24<br><em>29%</em><br>26<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.25); text-align: right">3<br><em>33%</em><br>2<br></td><td style="background-color: rgba(21, 153, 87, 0.67); text-align: right; color: #fff">8<br><em>62%</em><br>3<br></td><td style="background-color: rgba(21, 153, 87, 0.42); text-align: right">5<br><em>20%</em><br>4<br></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">4<br><br>7<br><em>29%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">4<br><br>10<br><em>30%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">185<br><em>15%</em><br>409<br><em>31%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">8<br><em>12%</em><br>20<br><em>15%</em></td><td style="background-color: rgba(21, 153, 87, 0.23); text-align: right">21<br><em>24%</em><br>30<br><em>13%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">31<br><em>29%</em><br>54<br><em>19%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">29<br><em>14%</em><br>60<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.51); text-align: right; color: #fff">47<br><em>6%</em><br>128<br><em>41%</em></td><td style="background-color: rgba(21, 153, 87, 0.56); text-align: right; color: #fff">52<br><em>12%</em><br>134<br><em>33%</em></td></tr>
 </tbody>
 </table>
 
@@ -3054,13 +3087,13 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **HASS 1**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI025)
+* <span class="light">**HASS 1**: Draw simple conclusions based on discussions, observations and information displayed in pictures and texts and on maps (ACHASSI025)</span>
   * *making conclusions after collecting and recording information about events over time (for example, a birthday chart that shows most class members are the same age; stories and pictures which confirm continuity of events over time, such as the local show) or about types of homes and locations where class members live (for example, an illustrated map showing that some students live in town, some live on a farm, some live in a unit, or some live in a house)*
-* **D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)
+* <span class="light">**D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)</span>
   * *identifying one common testing method, and recording results, for example taste-testing comparisons of a food product and recording results in a digital form*
-* **DT F-2**: Recognise and explore digital systems (hardware and software components) for a purpose (ACTDIK001)
+* <span class="light">**DT F-2**: Recognise and explore digital systems (hardware and software components) for a purpose (ACTDIK001)</span>
   * *exploring and identifying hardware and software components of digital systems when creating ideas and information, for example experimenting with different ways of providing instructions to games software using a mouse, touch pad, touch screen, keyboard, stylus, or switch scanning device, and using different software to manipulate text, numbers, sound and images*
-* **DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)
+* <span class="light">**DT F-2**: Create and organise ideas and information using information systems independently and with others, and share these with known people in safe online environments (ACTDIP006)</span>
   * *using different types of data to create information for sharing online, for example creating a multimedia class profile that includes a photo of each student, a personal audio recording and a written message*
 
 #### **Level 3**: collect record and display data as tables, diagrams, picture graphs and column graphs
@@ -3139,24 +3172,24 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)
+* <span class="light">**Science 3**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS060)</span>
   * *using simple explanations and arguments, reports or graphical representations to communicate ideas to other students*
-* **Science 4**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS071)
+* <span class="light">**Science 4**: Represent and communicate observations, ideas and findings using formal and informal representations (ACSIS071)</span>
   * *using simple explanations and arguments, reports or graphical representations to communicate ideas to other students*
-* **HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)
+* <span class="light">**HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)</span>
   * *selecting and applying appropriate media to communicate their findings, including the use of graphs, tables, timelines, photographs and pictures*
-* **HASS 4**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI082)
+* <span class="light">**HASS 4**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI082)</span>
   * *selecting appropriate representations to suit and enhance their communication, including graphs, tables, timelines, photographs and pictures, in digital and non-digital modes*
-* **D&T 3-4**: Generate, develop, and communicate design ideas and decisions using appropriate technical terms and graphical representation techniques (ACTDEP015)
+* <span class="light">**D&T 3-4**: Generate, develop, and communicate design ideas and decisions using appropriate technical terms and graphical representation techniques (ACTDEP015)</span>
   * *identifying the properties of materials needed for the designed solution*
-* **D&T 3-4**: Plan a sequence of production steps when making designed solutions individually and collaboratively (ACTDEP018)
+* <span class="light">**D&T 3-4**: Plan a sequence of production steps when making designed solutions individually and collaboratively (ACTDEP018)</span>
   * *managing time and resource allocation throughout production, for example materials, tools, equipment and people*
-* **D&T 3-4**: Critique needs or opportunities for designing and explore and test a variety of materials, components, tools and equipment and the techniques needed to produce designed solutions (ACTDEP014)
+* <span class="light">**D&T 3-4**: Critique needs or opportunities for designing and explore and test a variety of materials, components, tools and equipment and the techniques needed to produce designed solutions (ACTDEP014)</span>
   * *exploring and testing a range of materials under different conditions for suitability including sustainability considerations and identifying appropriate tools, equipment and techniques*
   * *examining the structure and production of everyday products, services and environments to enhance their own design ideas*
   * *exploring the properties of materials to determine suitability, for example the absorbency of different fabrics or the strength of different resistant materials*
-* **D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
- (ACTDEP017)
+* <span class="light">**D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
+ (ACTDEP017)</span>
   * *comparing the amount of waste that would be produced from different design and development options and the potential for recycling waste*
 
 #### **Level 4**: collect, compare, describe and interpret data as 2-way tables, double column graphs and sector graphs, including from digital media
@@ -3232,36 +3265,36 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **HASS 5**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
- (ACHASSI105)
+* <span class="light">**HASS 5**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
+ (ACHASSI105)</span>
   * *selecting and applying appropriate media and strategies to suit their communication, including the use of graphs, tables, timelines, photographs and pictures, in digital and non-digital modes*
-* **HASS 6**: Evaluate evidence to draw conclusions (ACHASSI129)
+* <span class="light">**HASS 6**: Evaluate evidence to draw conclusions (ACHASSI129)</span>
   * *drawing conclusions based on identified evidence (for example, using census data to construct arguments for and against migration; business council information to identify the ways different businesses provide goods and services to a community)*
-* **HASS 6**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
- (ACHASSI133)
+* <span class="light">**HASS 6**: Present ideas, findings, viewpoints and conclusions in a range of texts and modes that incorporate source materials, digital and non-digital representations and discipline-specific terms and conventions
+ (ACHASSI133)</span>
   * *using accurate and subject-appropriate terms, for example, historical terms (such as ‘nation’, ‘democracy’, ‘federation’, ‘empire’, ‘immigration’, ‘deportation’, ‘suffrage’, ‘enfranchisement’, ‘heritage’, ‘diversity’, ‘contribution’, ‘achievement’, ‘significance’, ‘development’, ‘rural’, ‘urban’, ‘bias’, ‘stereotype’, ‘perspective’), geographical terms (such as ‘relative location’, ‘scale’, ‘cultural diversity’, ‘inequality’, ‘interconnections’), civics and citizenship terms (such as ‘Westminster system’, ‘courts’, ‘monarchy’ and ‘three levels of government’) and economics and business terms (such as ‘opportunity cost’, ‘trade-offs’, ‘industry sectors’)*
-* **HASS 6**: The contribution of individuals and groups to the development of Australian society since Federation (ACHASSK137)
+* <span class="light">**HASS 6**: The contribution of individuals and groups to the development of Australian society since Federation (ACHASSK137)</span>
   * *examining population data that show the places of birth of Australia’s people at one or more points of time in the past and today*
-* **HASS 6**: The shared values of Australian citizenship and the formal rights and responsibilities of Australian citizens (ACHASSK147)
+* <span class="light">**HASS 6**: The shared values of Australian citizenship and the formal rights and responsibilities of Australian citizens (ACHASSK147)</span>
   * *exploring how laws protect human rights (for example, gender, disability, race and age discrimination law)*
-* **D&T 5-6**: Generate, develop and communicate design ideas and processes for audiences using appropriate technical terms and graphical representation techniques (ACTDEP025)
+* <span class="light">**D&T 5-6**: Generate, develop and communicate design ideas and processes for audiences using appropriate technical terms and graphical representation techniques (ACTDEP025)</span>
   * *representing and communicating design ideas using modelling and drawing standards including the use of digital technologies, for example scale; symbols and codes in diagrams; pictorial maps and aerial views using web mapping service applications*
-* **D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)
+* <span class="light">**D&T 5-6**: Examine how people in design and technologies occupations address competing considerations, including sustainability in the design of products, services, and environments for current and future use (ACTDEK019)</span>
   * *evaluating the sustainability implications of materials, systems, components, tools and equipment, for example materials can be recycled or re-used to reduce waste; systems may benefit some, but disadvantage others*
   * *considering the impact designed products, services or environments have in relation to sustainability and also on local, regional and global communities, including Aboriginal and Torres Strait Islander communities  and countries in the Asia region*
-* **D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)
+* <span class="light">**D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)</span>
   * *sequencing the process of converting ‘on-farm’ food or fibre products into a product suitable for retail sale, that is, the ‘paddock to plate’ supply chain, or when making yarn or fabric from fibre*
   * *experimenting with tools, equipment, combining ingredients and techniques to design and make food products or meals for selected groups for healthy eating taking into consideration environmental impacts and nutritional benefits*
-* **D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)
+* <span class="light">**D&T 5-6**: Investigate characteristics and properties of a range of materials, systems, components, tools and equipment and evaluate the impact of their use (ACTDEK023)</span>
   * *identifying the properties of materials for the design and construction of a sustainable household item, for example a product for storing harvested water*
   * *evaluating the functional properties of a specific-purpose household system, for example a security system*
   * *evaluating the use of computer-aided manufacturing in terms of cost and impacts on local and regional designers, producers and enterprises*
   * *comparing the design and production of products, services and environments in Australia and a country in the Asia region*
-* **D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)
+* <span class="light">**D&T 5-6**: Critique needs or opportunities for designing, and investigate materials, components, tools, equipment and processes to achieve intended designed solutions (ACTDEP024)</span>
   * *exploring the steps involved in the process to satisfy a design brief, need or opportunity*
   * *identifying the importance of complementary parts of working, everyday systems by deconstructing the components, structure and purpose of products, services or environments*
-* **DT 5-6**: Examine the main components of common digital systems and how they may connect together to form networks to transmit data
- (ACTDIK014)
+* <span class="light">**DT 5-6**: Examine the main components of common digital systems and how they may connect together to form networks to transmit data
+ (ACTDIK014)</span>
   * *explaining how data may be transmitted between two digital systems in different ways, for example that wires or cables are used in wired networks to transfer data from one digital system to another, and radio waves are used to transmit data in wireless or mobile networks*
 
 #### **Level 5**: compare, interpret and assess the effectiveness of different data displays of the same information
@@ -3397,98 +3430,98 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 7**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)
+* <span class="light">**Science 7**: Communicate ideas, findings and evidence based solutions to problems using scientific language, and representations, using digital technologies as appropriate (ACSIS133)</span>
   * *presenting the outcomes of research using effective forms of representation of data or ideas and scientific language that is appropriate for the target audience*
-* **HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
- (ACHASSI153)
+* <span class="light">**HASS 7**: Apply a methodology to locate and collect relevant information and data from a range of primary sources and secondary sources
+ (ACHASSI153)</span>
   * *collecting useful information from secondary sources to answer inquiry questions (for example, articles, graphs, charts and statistics to show religious diversity in Australia; information from the Australian Bureau of Statistics to understand patterns of employment in Australia; thematic maps, weather maps, climate graphs, compound column graphs and population pyramids, reports, census data and the media to support a study of liveability of a city)*
-* **HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)
+* <span class="light">**HASS 7**: Present ideas, findings, viewpoints, explanations and conclusions in a range of texts and modes that incorporate source materials, citations, graphic representations and discipline-specific terms, conventions and concepts (ACHASSI163)</span>
   * *using graphic representations (such as graphs, tables, spreadsheets and photographs) to present, supplement and clarify information contained in reports and other documents*
-* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
- (ACTDEK033)
+* <span class="light">**D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+ (ACTDEK033)</span>
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
   * *explaining how food preparation techniques impact on the sensory properties (flavour, appearance, texture, aroma) of food, for example the browning of cut fruit, the absorption of water when cooking rice*
-* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* <span class="light">**D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)</span>
   * *explaining and interpreting drawings, planning and production steps needed to produce products, services or environments for specific purposes*
-* **DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)
+* <span class="light">**DT 7-8**: Implement and modify programs with user interfaces involving branching, iteration and functions in a general-purpose programming language (ACTDIP030)</span>
   * *developing and modifying digital solutions by implementing instructions contained in algorithms through programs*
-* **DT 7-8**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)
+* <span class="light">**DT 7-8**: Investigate how data is transmitted and secured in wired, wireless and mobile networks, and how the specifications affect performance (ACTDIK023)</span>
   * *comparing the reliability and speed of transmitting data through wireless, wired and mobile networks*
-* **DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)
+* <span class="light">**DT 7-8**: Design the user experience of a digital system, generating, evaluating and communicating alternative designs (ACTDIP028)</span>
   * *designing the user interface of a solution using a range of design tools, for example using a storyboard to explain the stages of a game, and wire-frames and mock-ups to describe the appearance of a solution*
-* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* <span class="light">**HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)</span>
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **Hist 7**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)
+* <span class="light">**Hist 7**: How historians and archaeologists investigate history, including excavation and archival research (ACDSEH001)</span>
   * *identifying different approaches to historical investigation such as the use of excavation and stratigraphy, oral history and use of data derived from radiocarbon dating*
-* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* <span class="light">**Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)</span>
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* <span class="light">**Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)</span>
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* <span class="light">**Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)</span>
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
- (ACDSEH044)
+* <span class="light">**Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+ (ACDSEH044)</span>
   * *creating a graphic representation of the social structure of Indian society*
   * *explaining the social structure of India, including the role of Brahmins – priests, teachers; Kshatriyas – kings, warriors; Vaishyas – merchants, artisans; Shudras – labourers, peasants*
-* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
- (ACDSEH041)
+* <span class="light">**Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+ (ACDSEH041)</span>
   * *creating a graphic representation of the social structure of Chinese society*
-* **Hist 8**: The immediate- and long-term effects of the Black Death on Asian, European and African populations, and conflicting theories about the impact of the plague  (ACDSEH071)
+* <span class="light">**Hist 8**: The immediate- and long-term effects of the Black Death on Asian, European and African populations, and conflicting theories about the impact of the plague  (ACDSEH071)</span>
   * *using studies of church records from the period to identify the effect of the Black Death on human populations and to consider the reliability of these statistics*
-* **Hist 8**: Locate, compare, select and use information from a range of sources as evidence
- (ACHHS153)
+* <span class="light">**Hist 8**: Locate, compare, select and use information from a range of sources as evidence
+ (ACHHS153)</span>
   * *designing a table to list sources and the aspects of the past about which they provide information (for example, social structure, economy, governance)*
-* **Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)
+* <span class="light">**Geo 7**: Factors that influence the decisions people make about where to live and their perceptions of the liveability of places (ACHGK043)</span>
   * *discussing the concept of liveability and the ways it is measured and comparing objective measures such as transportation infrastructure with subjective measures such as people's perceptions*
   * *comparing student access to and use of places and spaces in their local area and evaluating how this affects perceptions of liveability*
   * *discussing that many Aboriginal and Torres Strait Islander Peoples choose to live on their Country/Place or might prefer to if they had the choice*
-* **Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)
+* <span class="light">**Geo 7**: The influence of accessibility to services and facilities on the liveability of places (ACHGK044)</span>
   * *comparing accessibility to and availability of a range of services and facilities between different types of settlements (urban, rural and remote) in Australia and other countries (for example, access to clean water, sanitation, education and health services)*
   * *comparing transportation and accessibility in Australian cities with cities in countries of the Asia region or Europe*
-* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
+* <span class="light">**Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)</span>
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
-* **Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)
+* <span class="light">**Geo 7**: Strategies used to enhance the liveability of places, especially for young people, including examples from Australia and Europe (ACHGK047)</span>
   * *discussing the impact of housing density on the liveability of places*
-* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
- (ACHGK042)
+* <span class="light">**Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
+ (ACHGK042)</span>
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
-* **Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)
+* <span class="light">**Geo 7**: Develop geographically significant questions and plan an inquiry, using appropriate geographical methodologies and concepts (ACHGS047)</span>
   * *developing questions to investigate patterns of spatial distribution of rainfall in Australia and other places*
   * *using a range of methods, including digital technologies, to plan and conduct an information search about the quantity and variability of water in Australia and another country from another continent*
-* **Geo 8**: Causes, impacts and responses to a geomorphological hazard
- (ACHGK053)
+* <span class="light">**Geo 8**: Causes, impacts and responses to a geomorphological hazard
+ (ACHGK053)</span>
   * *investigating the natural causes and spatial distribution of a geomorphological hazard (for example, volcanic eruption, earthquake, tsunami, landslide, avalanche)*
-* **Geo 8**: Causes and consequences of urbanisation, drawing on a study from Indonesia, or another country of the Asia region
- (ACHGK054)
+* <span class="light">**Geo 8**: Causes and consequences of urbanisation, drawing on a study from Indonesia, or another country of the Asia region
+ (ACHGK054)</span>
   * *exploring the connections between urbanisation and economic and social opportunities*
   * *examining how urbanisation can positively or negatively affect environmental quality (for example, carbon emissions and water consumption)*
-* **Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)
+* <span class="light">**Geo 8**: Reasons for, and effects of, internal migration in both Australia and China (ACHGK056)</span>
   * *identifying and explaining the main types, patterns and trends of internal migration in Australia (for example, employment, lifestyle and retirement migration)*
   * *examining the effects of resource development on employment growth in both the resource regions and the cities, and on internal migration in Australia*
   * *explaining that Aboriginal and Torres Strait Islander Peoples’ population mobility reflects attachment to a number of places through family, Country/Place, dispossession, relocation and employment*
-* **Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)
+* <span class="light">**Geo 8**: Reasons for, and effects of, international migration in Australia (ACHGK058)</span>
   * *identifying and explaining the main types and patterns of international migration (for example, permanent migration, temporary labour migration, student migration, forced migration (including refugees) and family reunion)*
   * *investigating where and why international migrants settle in Australia and how this may reinforce urban concentration*
   * *exploring the changing cultural diversity of the Australian population*
-* **Geo 8**: Management and planning of Australia’s urban future (ACHGK059)
+* <span class="light">**Geo 8**: Management and planning of Australia’s urban future (ACHGK059)</span>
   * *examining the forecasts for the size of Australia’s major cities and regional urban centres, and discussing the implications for their environmental sustainability and liveability*
   * *investigating ways of managing the projected growth of Australia’s cities and regional urban centres*
   * *exploring the arguments for and against a more balanced distribution of the urban population*
   * *generating ideas on how to decentralise Australia's urban population using Canberra as an example*
-* **Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)
+* <span class="light">**Geo 8**: Develop geographically significant questions and plan an inquiry using appropriate geographical methodologies and concepts (ACHGS055)</span>
   * *developing questions about the significance of a spatial distribution (for example, the positive and negative effects of the spatial concentration of population in Australia)*
   * *planning an investigation of the processes responsible for the geographical phenomenon being studied, at a range of scales (for example, the causes and consequences of urbanisation)*
   * *using a range of methods including digital technologies to plan and conduct an information search about reasons for and effects of internal migration in Australia*
-* **E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)
+* <span class="light">**E&B 7**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES026)</span>
   * *communicating findings in different formats such as graphs, tables, spreadsheets, visual displays and reports*
-* **E&B 8**: Generate a range of alternatives in response to an observed economic or business issue or event, and evaluate the potential costs and benefits of each alternative (ACHES035)
+* <span class="light">**E&B 8**: Generate a range of alternatives in response to an observed economic or business issue or event, and evaluate the potential costs and benefits of each alternative (ACHES035)</span>
   * *undertaking a cost-benefit analysis of alternative ways for a business to respond to opportunities in the market and making a decision about which one to recommend*
-* **E&B 8**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES037)
+* <span class="light">**E&B 8**: Present evidence-based conclusions using economics and business language and concepts in a range of appropriate formats, and reflect on the consequences of alternative actions (ACHES037)</span>
   * *constructing appropriate displays of information and data to show trends and relationships (for example, preparing a data show which includes visual displays including graphs and charts as well as text to present findings and conclusions)*
-* **C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)
+* <span class="light">**C&C 7**: How Australia is a secular nation and a multi-faith society with a Christian heritage (ACHCK051)</span>
   * *identifying trends regarding religious observance in Australian society using the Australian Bureau of Statistics and other data sources*
-* **C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)
+* <span class="light">**C&C 7**: Identify, gather and sort information and ideas from a range of sources (ACHCS055)</span>
   * *using a range of sources of information to show religious diversity in Australia, such as articles, graphs, charts and statistics*
 
 #### **Level 6**: evaluate media statistics and trends by linking claims to data displays, statistics and representative data
@@ -3640,80 +3673,80 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Maths 10**: Explore the connection between algebraic and graphical representations of relations such as simple quadratics, circles and exponentials using digital technology as appropriate (ACMNA239)
+* <span class="light">**Maths 10**: Explore the connection between algebraic and graphical representations of relations such as simple quadratics, circles and exponentials using digital technology as appropriate (ACMNA239)</span>
   * *applying translations, reflections and stretches to parabolas and circles*
-* **Maths 10**: Use the language of ‘if ....then, ‘given’, ‘of’, ‘knowing that’ to investigate conditional statements and identify common mistakes in interpreting such language (ACMSP247)
+* <span class="light">**Maths 10**: Use the language of ‘if ....then, ‘given’, ‘of’, ‘knowing that’ to investigate conditional statements and identify common mistakes in interpreting such language (ACMSP247)</span>
   * *using two-way tables and Venn diagrams to understand conditional statements*
-* **Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)
+* <span class="light">**Science 10**: Select and use appropriate equipment, including digital technologies, to collect and record data systematically and accurately (ACSIS200)</span>
   * *identifying where human error can influence the reliability of data*
-* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* <span class="light">**D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)</span>
   * *critiquing mass production systems taking into account ethics and sustainability considerations, for example the mass production of food, clothing and shoes and why manufacturers produce different versions of the same product*
-* **D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
- (ACTDEK045)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on how the principles of food safety, preservation, preparation, presentation and sensory perceptions influence the creation of food solutions for healthy eating
+ (ACTDEK045)</span>
   * *conducting sensory assessment testing of a range of foods to determine how these characteristics might be used to enhance food solutions, for example taste testing a variety of milks, comparing freshly squeezed juice to commercial juices*
   * *determining how the causes of food spoilage can be addressed when preparing, cooking, presenting and storing food items, for example developing a comprehensive checklist of considerations for safe and hygienic food storage and preparation including danger zone temperatures for a food service*
-* **D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)
+* <span class="light">**D&T 9-10**: Investigate and make judgements on how the characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions (ACTDEK046)</span>
   * *analysing and explaining the ways in which the properties and characteristics of materials have been considered in the design of a product with specific requirements such as reduced weight to reduce transport costs in rural Australia*
-* **D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)
+* <span class="light">**D&T 9-10**: Critique needs or opportunities to develop design briefs and investigate and select an increasingly sophisticated range of materials, systems, components, tools and equipment to develop design ideas (ACTDEP048)</span>
   * *examining relationships of properties for complementary materials for products, for example examining compressive and tensile strengths of materials*
-* **D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)
+* <span class="light">**D&T 9-10**: Work flexibly to effectively and safely test, select, justify and use appropriate technologies and processes to make designed solutions (ACTDEP050)</span>
   * *modifying production processes to respond to unforeseen challenges or opportunities, for example when producing bulk quantities of recipes, lower than average rainfall and impacts on growth, materials with unexpected faults*
-* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* <span class="light">**D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)</span>
   * *evaluating projects for their long-term application, functionality and impact*
-* **DT 9-10**: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements (ACTDIP036)
+* <span class="light">**DT 9-10**: Develop techniques for acquiring, storing and validating quantitative and qualitative data from a range of sources, considering privacy and security requirements (ACTDIP036)</span>
   * *developing strategies and techniques for capturing accurate and usable qualitative and quantitative data of different formats, for example using text entry for open-ended questions to acquire qualitative data; using radio buttons or checkboxes for closed questions to acquire quantitative data*
   * *identifying strengths and weaknesses of collecting data using different methods, for example online surveys, face-to-face interviews, phone interviews, observation, blog entries in response to a posting, phone logs, browser history and online webcam systems*
   * *developing strategies to ensure the privacy and security of survey data, for example using numbers rather than names as identifiers; password protecting files to reduce risks of modifying data and using CAPTCHA™ to confirm human responses*
   * *extracting specific data from an external source and storing it in a format that is more useful for analysis, for example combining mapping data from multiple electronic data sets to build a composite representation*
-* **DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)
+* <span class="light">**DT 9-10**: Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs (ACTDIP038)</span>
   * *investigating different types of functional requirements for solutions, for example increasing the speed of processing, calculating new results, improving the quality of reports*
-* **DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)
+* <span class="light">**DT 9-10**: Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)</span>
   * *investigating indicators of economic success, for example the capacity to scale up an innovative solution to meet the demands of a mass market and the savings accrued through sustainable practices*
-* **HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)
+* <span class="light">**HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)</span>
   * *reviewing, proposing and implementing alternative responses to movement situations based on the outcome of previous performances*
-* **HPE 9-10**: Examine the role physical activity, outdoor recreation and sport play in the lives of Australians and investigate how this has changed over time (ACPMP104)
+* <span class="light">**HPE 9-10**: Examine the role physical activity, outdoor recreation and sport play in the lives of Australians and investigate how this has changed over time (ACPMP104)</span>
   * *researching the trends in participation in organised junior sports and predicting future trends and directions*
-* **Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)
+* <span class="light">**Hist 9**: The impact of World War I, with a particular emphasis on Australia including the changing role of women (ACDSEH096)</span>
   * *graphing the proportion of Australian servicemen who died during World War I, compared to that of other countries involved in the war*
-* **Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)
+* <span class="light">**Hist 9**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS170)</span>
   * *graphing historical data to identify past trends and to draw conclusions about their significance (for example, the proportion of Australian servicemen who returned from World War I, and the ‘lost generations’ in the years after the war)*
-* **Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)
+* <span class="light">**Hist 10**: Examination of significant events of World War II, including the Holocaust and use of the atomic bomb (ACDSEH107)</span>
   * *investigating the scale and significance of the Holocaust, using primary sources*
-* **Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)
+* <span class="light">**Hist 10**: The contribution of migration to Australia’s changing identity as a nation and to its international relationships (ACDSEH147)</span>
   * *analysing post-World War II population growth and the development of Australia’s culturally diverse society using different types of graphs*
-* **Hist 10**: Identify the origin, purpose and context of primary and secondary sources
- (ACHHS187)
+* <span class="light">**Hist 10**: Identify the origin, purpose and context of primary and secondary sources
+ (ACHHS187)</span>
   * *using data from immigration records and processing them using ICT to identify historical trends over time*
-* **Hist 10**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS188)
+* <span class="light">**Hist 10**: Process and synthesise information from a range of sources for use as evidence in an historical argument (ACHHS188)</span>
   * *combining historical data from a range of sources to identify and explain the impact of World War II*
-* **Geo 9**: Environmental, economic and technological factors that influence crop yields in Australia and across the world (ACHGK062)
+* <span class="light">**Geo 9**: Environmental, economic and technological factors that influence crop yields in Australia and across the world (ACHGK062)</span>
   * *investigating how high crop yields (for example, from wheat, rice and maize) around the world are related to factors such as irrigation, accessibility, labour supply, landforms and agricultural technologies (for example, high-yielding varieties)*
-* **Geo 9**: The effects of the production and consumption of goods on places and environments throughout the world and including a country from North-East Asia (ACHGK068)
+* <span class="light">**Geo 9**: The effects of the production and consumption of goods on places and environments throughout the world and including a country from North-East Asia (ACHGK068)</span>
   * *exploring the environmental impacts of the consumer product on the places that produce the raw materials, make the product, and receive the wastes at the end of its life*
   * *identifying the effects of international trade in consumer products on Australian places*
   * *evaluating the effects of international demand for food products on biodiversity throughout the world, in the places of their production*
-* **Geo 9**: The ways that places and people are interconnected with other places through trade in goods and services, at all scales (ACHGK067)
+* <span class="light">**Geo 9**: The ways that places and people are interconnected with other places through trade in goods and services, at all scales (ACHGK067)</span>
   * *investigating how and why places are interconnected regionally, nationally and globally through trade in goods and services*
-* **Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)
+* <span class="light">**Geo 9**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS063)</span>
   * *planning an investigation of the processes responsible for the geographical phenomenon being studied, at a range of scales (for example, the connections between people and places)*
   * *using a range of methods including digital technologies to plan and conduct an information search about human alteration to biomes in Australia and another country*
-* **Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)
+* <span class="light">**Geo 9**: Reflect on and evaluate findings of an inquiry to propose individual and collective action in response to a contemporary geographical challenge, taking account of environmental, economic, political and social considerations; and explain the predicted outcomes and consequences of their proposal (ACHGS071)</span>
   * *examining the environmental, economic and social factors that need to be considered in an investigation of a contemporary geographical issue such as ways of increasing Australian or global food production or the effects of information and communications technologies on the location of manufacturing or services and debating alternative responses that consider environmental, economic and social factors*
-* **Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)
+* <span class="light">**Geo 10**: The role of international and national government and non-government organisations' initiatives in improving human wellbeing in Australia and other countries (ACHGK081)</span>
   * *examining a national, state or community program to reduce regional inequalities in wellbeing in a country (for example, India)*
-* **Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)
+* <span class="light">**Geo 10**: Develop geographically significant questions and plan an inquiry that identifies and applies appropriate geographical methodologies and concepts (ACHGS072)</span>
   * *planning an investigation of the processes responsible for the geographical phenomenon being studied, at a range of scales (for example, the reasons for and types of variation in human wellbeing in one country)*
   * *planning methods of data collection to answer inquiry questions and evaluating questions for their geographical significance*
   * *using a range of methods including digital technologies to plan and conduct an information search about the causes and consequences of change to environments*
-* **E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)
+* <span class="light">**E&B 9**: Why and how participants in the global economy are dependent on each other (ACHEK039)</span>
   * *examining the implications of participating in an interdependent global economy for consumers, workers, businesses and government (for example, mapping the global supply chain for a product to identify the advantages and disadvantages for participants in the chain)*
-* **E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)
+* <span class="light">**E&B 9**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES048)</span>
   * *representing data in different forms such as charts, tables and graphs, maps or models to communicate findings*
-* **E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)
+* <span class="light">**E&B 10**: The links between economic performance and living standards, and how and why variations exist within and between economies (ACHEK051)</span>
   * *investigating the ways in which income and wealth are distributed in the economy, using measures such as an income distribution histogram, the Lorenz curve or the Gini coefficient*
-* **E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)
+* <span class="light">**E&B 10**: Apply economics and business knowledge, skills and concepts in familiar, new and hypothetical situations (ACHES059)</span>
   * *using appropriate indicators of economic performance to explain variations across economies*
-* **E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)
+* <span class="light">**E&B 10**: Present reasoned arguments and evidence-based conclusions in a range of appropriate formats using economics and business conventions, language and concepts (ACHES060)</span>
   * *communicating findings of the investigation in appropriate formats (for example, web pages, financial statements, spreadsheets, graphs and reports)*
 
 ### Interpret chance events
@@ -3784,7 +3817,7 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Maths 8**: Represent events in two-way tables and Venn diagrams and solve related problems (ACMSP292)
+* <span class="light">**Maths 8**: Represent events in two-way tables and Venn diagrams and solve related problems (ACMSP292)</span>
   * *using Venn diagrams and two-way tables to calculate probabilities for events, satisfying 'and', 'or' and 'not' conditions*
   * *understanding that representing data in Venn diagrams or two-way tables facilitates the calculation of probabilities*
 
@@ -3806,12 +3839,12 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Maths 10**: Determine quartiles and interquartile range
- (ACMSP248)
+* <span class="light">**Maths 10**: Determine quartiles and interquartile range
+ (ACMSP248)</span>
   * *finding the five-number summary (minimum and maximum values, median and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets*
-* **Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)
+* <span class="light">**Science 10**: Transmission of heritable characteristics from one generation to the next involves DNA and genes (ACSSU184)</span>
   * *predicting simple ratios of offspring genotypes and phenotypes in crosses involving dominant/recessive gene pairs or in genes that are sex-linked*
-* **Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)
+* <span class="light">**Dance 9-10**: Structure dances using movement motifs, choreographic devices and form (ACADAM023)</span>
   * *structuring dance using devices such as chance theory (for example, dice) and changing the order and pattern of dance movement, phrases or sequences*
 
 ## Using measurement
@@ -3824,12 +3857,12 @@ connecting x-intercepts of a graph to a related equation*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">English</th><th style="test-align: center">Maths</th><th style="test-align: center">Science</th><th style="test-align: center">HASS</th><th style="test-align: center">Hist</th><th style="test-align: center">Geo</th><th style="test-align: center">C&amp;C</th><th style="test-align: center">E&amp;B</th><th style="test-align: center">Dance</th><th style="test-align: center">Drama</th><th style="test-align: center">Media</th><th style="test-align: center">Visual</th><th style="test-align: center">DT</th><th style="test-align: center">D&amp;T</th><th style="test-align: center">HPE</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">English</th><th style="text-align: center">Maths</th><th style="text-align: center">Science</th><th style="text-align: center">HASS</th><th style="text-align: center">Hist</th><th style="text-align: center">Geo</th><th style="text-align: center">C&amp;C</th><th style="text-align: center">E&amp;B</th><th style="text-align: center">Dance</th><th style="text-align: center">Drama</th><th style="text-align: center">Media</th><th style="text-align: center">Music</th><th style="text-align: center">Visual</th><th style="text-align: center">DT</th><th style="text-align: center">D&amp;T</th><th style="text-align: center">HPE</th>
 </thead>
 <tbody>
-<tr><td ><a href="#estimate-and-measure-with-metric-units">Estimate and measure with metric units</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">64<br><em>6%</em><br>149<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.78); text-align: right; color: #fff">25<br><em>4%</em><br>39<br><em>3%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">11<br><em>9%</em><br>26<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><em>100%</em><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.50); text-align: right">16<br><br>15<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>28<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">4<br><em>25%</em><br>22<br><em>73%</em></td></tr>
-<tr><td ><a href="#operate-with-clocks-calendars-and-timetables">Operate with clocks, calendars and timetables</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">46<br><em>7%</em><br>102<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.61); text-align: right; color: #fff">14<br><em>7%</em><br>17<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">1<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.61); text-align: right; color: #fff">14<br><em>7%</em><br>13<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">8<br><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">1<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">1<br><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">2<br><em>50%</em><br>14<br><em>93%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.71); text-align: right; color: #fff">39<br><em>5%</em><br>56<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">12<br><em>8%</em><br>36<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>13%</em><br>15<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">5<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>23<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>40<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">6<br><em>33%</em><br>36<br><em>81%</em></td></tr>
+<tr><td><a href="#estimate-and-measure-with-metric-units">Estimate and measure with metric units</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">64<br><em>6%</em><br>149<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.78); text-align: right; color: #fff">25<br><em>4%</em><br>39<br><em>3%</em></td><td style="background-color: rgba(21, 153, 87, 0.34); text-align: right">11<br><em>9%</em><br>26<br><em>50%</em></td><td style="background-color: rgba(21, 153, 87, 0.03); text-align: right">1<br><em>100%</em><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.50); text-align: right">16<br><br>15<br><em>7%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">3<br><br>28<br><em>64%</em></td><td style="background-color: rgba(21, 153, 87, 0.12); text-align: right">4<br><em>25%</em><br>22<br><em>73%</em></td></tr>
+<tr><td><a href="#operate-with-clocks-calendars-and-timetables">Operate with clocks, calendars and timetables</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">46<br><em>7%</em><br>102<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.61); text-align: right; color: #fff">14<br><em>7%</em><br>17<br><em>6%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">1<br><br>10<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.61); text-align: right; color: #fff">14<br><em>7%</em><br>13<br><em>23%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.35); text-align: right">8<br><br>8<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>3<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">1<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>1<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.04); text-align: right">1<br><br>12<br><em>83%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">2<br><em>50%</em><br>14<br><em>93%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.71); text-align: right; color: #fff">39<br><em>5%</em><br>56<br><em>4%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">12<br><em>8%</em><br>36<br><em>56%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>13%</em><br>15<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.09); text-align: right">5<br><br>19<br><em>58%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>23<br><em>39%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>14<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>4<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.02); text-align: right">1<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>0<br></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">0<br><br>2<br><em>100%</em></td><td style="background-color: rgba(21, 153, 87, 0.07); text-align: right">4<br><br>40<br><em>70%</em></td><td style="background-color: rgba(21, 153, 87, 0.11); text-align: right">6<br><em>33%</em><br>36<br><em>81%</em></td></tr>
 </tbody>
 </table>
 
@@ -3841,12 +3874,12 @@ connecting x-intercepts of a graph to a related equation*
 <col style="width: 20%">
 </colgroup>
 <thead>
-<th style="test-align: center">Element</th><th style="test-align: center"></th><th style="test-align: center">TOTAL</th><th style="test-align: center">L1</th><th style="test-align: center">L2</th><th style="test-align: center">L3</th><th style="test-align: center">L4</th><th style="test-align: center">L5</th><th style="test-align: center">L6</th>
+<th style="text-align: center">Element</th><th style="text-align: center"></th><th style="text-align: center">TOTAL</th><th style="text-align: center">L1</th><th style="text-align: center">L2</th><th style="text-align: center">L3</th><th style="text-align: center">L4</th><th style="text-align: center">L5</th><th style="text-align: center">L6</th>
 </thead>
 <tbody>
-<tr><td ><a href="#estimate-and-measure-with-metric-units">Estimate and measure with metric units</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">64<br><em>6%</em><br>149<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><br>18<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">7<br><em>29%</em><br>25<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">10<br><em>10%</em><br>33<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">13<br><em>8%</em><br>29<br><em>21%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">17<br><br>36<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">15<br><br>21<br><em>38%</em></td></tr>
-<tr><td ><a href="#operate-with-clocks-calendars-and-timetables">Operate with clocks, calendars and timetables</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">46<br><em>7%</em><br>102<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><em>20%</em><br>6<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.57); text-align: right; color: #fff">13<br><em>8%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><br>17<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><em>20%</em><br>7<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">9<br><br>31<br><em>74%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">9<br><br>26<br><em>69%</em></td></tr>
-<tr><td ><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">7<br><em>14%</em><br>24<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">20<br><em>15%</em><br>41<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>7%</em><br>50<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">18<br><em>11%</em><br>36<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">26<br><br>67<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>47<br><em>55%</em></td></tr>
+<tr><td><a href="#estimate-and-measure-with-metric-units">Estimate and measure with metric units</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">64<br><em>6%</em><br>149<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.06); text-align: right">2<br><br>18<br><em>89%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">7<br><em>29%</em><br>25<br><em>72%</em></td><td style="background-color: rgba(21, 153, 87, 0.31); text-align: right">10<br><em>10%</em><br>33<br><em>42%</em></td><td style="background-color: rgba(21, 153, 87, 0.41); text-align: right">13<br><em>8%</em><br>29<br><em>21%</em></td><td style="background-color: rgba(21, 153, 87, 0.53); text-align: right; color: #fff">17<br><br>36<br><em>36%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">15<br><br>21<br><em>38%</em></td></tr>
+<tr><td><a href="#operate-with-clocks-calendars-and-timetables">Operate with clocks, calendars and timetables</a></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">46<br><em>7%</em><br>102<br><em>61%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><em>20%</em><br>6<br><em>33%</em></td><td style="background-color: rgba(21, 153, 87, 0.57); text-align: right; color: #fff">13<br><em>8%</em><br>16<br><em>38%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><br>17<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.22); text-align: right">5<br><em>20%</em><br>7<br><em>57%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">9<br><br>31<br><em>74%</em></td><td style="background-color: rgba(21, 153, 87, 0.39); text-align: right">9<br><br>26<br><em>69%</em></td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>CDs</strong><br><em>unelab</em><br><strong>Elabs</strong><br><em>orphan</em></td><td style="background-color: rgba(21, 153, 87, 0.00); text-align: right">110<br><em>6%</em><br>251<br><em>49%</em></td><td style="background-color: rgba(21, 153, 87, 0.13); text-align: right">7<br><em>14%</em><br>24<br><em>75%</em></td><td style="background-color: rgba(21, 153, 87, 0.36); text-align: right">20<br><em>15%</em><br>41<br><em>59%</em></td><td style="background-color: rgba(21, 153, 87, 0.27); text-align: right">15<br><em>7%</em><br>50<br><em>48%</em></td><td style="background-color: rgba(21, 153, 87, 0.33); text-align: right">18<br><em>11%</em><br>36<br><em>28%</em></td><td style="background-color: rgba(21, 153, 87, 0.47); text-align: right">26<br><br>67<br><em>54%</em></td><td style="background-color: rgba(21, 153, 87, 0.44); text-align: right">24<br><br>47<br><em>55%</em></td></tr>
 </tbody>
 </table>
 
@@ -3873,35 +3906,35 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 2**: A push or a pull affects how an object moves or changes shape (ACSSU033)
+* <span class="light">**Science 2**: A push or a pull affects how an object moves or changes shape (ACSSU033)</span>
   * *exploring how different strengths of pushes and pulls affect the movement of objects*
-* **HASS 1**: The weather and seasons of places and the ways in which different cultural groups, including Aboriginal and Torres Strait Islander Peoples, describe them (ACHASSK032)
+* <span class="light">**HASS 1**: The weather and seasons of places and the ways in which different cultural groups, including Aboriginal and Torres Strait Islander Peoples, describe them (ACHASSK032)</span>
   * *describing the daily and seasonal weather of their place by its rainfall, temperature, sunshine and wind, and comparing it with the weather of other places that they know or are aware of*
-* **HASS 2**: Interpret data and information displayed in pictures and texts and on maps (ACHASSI040)
+* <span class="light">**HASS 2**: Interpret data and information displayed in pictures and texts and on maps (ACHASSI040)</span>
   * *interpreting distance on maps using terms such as ‘metres’, ‘distant’, ‘close’, ‘local’, ‘many hours in a bus/car/plane’, ‘walking distance’ to decide on the accessibility of different features and places*
-* **Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
- (ACADAM001)
+* <span class="light">**Dance F-2**: Explore, improvise and organise ideas to make dance sequences using the elements of dance
+ (ACADAM001)</span>
   * *exploring fundamental movements safely to improvise dance ideas, for example, running in a race, jumping like a frog, stomping like a giant, rolling like a log, falling like an autumn leaf, floating like a cloud, gliding like a bird*
   * *experimenting with the elements of space, time, dynamics and relationships through movement, for example, considering levels, tempo and dynamics*
-* **Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)
+* <span class="light">**Dance F-2**: Use fundamental movement skills to develop technical skills when practising dance sequences (ACADAM002)</span>
   * *practising and responding to a range of fundamental movements to music, for example, walking, running, marching, galloping, skipping, crawling (locomotor); bending, stretching, twisting, turning (non-locomotor)*
   * *practising fundamental movements to begin to develop technical skills of body control, posture, strength, balance and coordination, and responding to teacher’s feedback*
   * *developing awareness of and taking responsibility for safe dance practices, for example, being aware of self and others in the dance space, moving with care, respecting others dancing in the space; awareness of the boundaries of the dance space; awareness of their bodies’ needs, for example, getting a drink after dance activities for hydration*
-* **Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)
+* <span class="light">**Dance F-2**: Present dance that communicates ideas to an audience, including dance used by cultural groups in the community (ACADAM003)</span>
   * *presenting a learned sequence of movements or performing simple dances, individually or as a group, to classmates, teachers and parents*
-* **D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)
+* <span class="light">**D&T F-2**: Generate, develop and record design ideas through describing, drawing and modelling (ACTDEP006)</span>
   * *identifying one common testing method, and recording results, for example taste-testing comparisons of a food product and recording results in a digital form*
-* **D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)
+* <span class="light">**D&T F-2**: Explore how technologies use forces to create movement in products (ACTDEK002)</span>
   * *exploring how the principles of push and pull are used in the design of toys, for example in a spinning toy such as an Aboriginal mammandur*
   * *identifying, and playing and experimenting with, components such as wheels, balls, slides, springs and available local materials, tools and equipment to solve problems requiring movement*
   * *exploring a system such as a marionette or Indonesian wayang kulit shadow puppet to see that by combining materials with forces movement can be created*
   * *combining materials and using forces in design, for example designing the door on a cage or a simple conveyor belt to move materials short distances*
   * *exploring how to manipulate materials using a range of tools, equipment and techniques to create movement, for example when constructing a toy boat that floats and moves*
-* **DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)
+* <span class="light">**DT F-2**: Follow, describe and represent a sequence of steps and decisions (algorithms) needed to solve simple problems (ACTDIP004)</span>
   * *experimenting with very simple, step-by-step procedures to explore programmable devices, for example providing instructions to physical or virtual objects or robotic devices to move in an intended manner, such as following a path around the classroom*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *creating, following, repeating and altering movement sequences and games in response to rhythm, music or words*
-* **HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)
+* <span class="light">**HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)</span>
   * *participating in activities of different intensity and comparing the body’s reactions*
 
 #### **Level 3**: estimate, measure and compare the length, temperature, volume, capacity and mass of everyday objects using metric units and scaled instruments
@@ -3944,28 +3977,28 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)
+* <span class="light">**Science 3**: A change of state between solid and liquid can be caused by adding or removing heat (ACSSU046)</span>
   * *investigating how liquids and solids respond to changes in temperature, for example water changing to ice, or melting chocolate*
-* **Science 3**: Heat can be produced in many ways and can move from one object to another (ACSSU049)
+* <span class="light">**Science 3**: Heat can be produced in many ways and can move from one object to another (ACSSU049)</span>
   * *recognising that we can feel heat and measure its effects using a thermometer*
-* **Science 4**: Science involves making predictions and describing patterns and relationships (ACSHE061)
+* <span class="light">**Science 4**: Science involves making predictions and describing patterns and relationships (ACSHE061)</span>
   * *considering how scientific practices such as sorting, classification and estimation are used by Aboriginal and Torres Strait Islander Peoples in everyday life (OI.1, OI.5)*
-* **Science 4**: Living things have life cycles (ACSSU072)
+* <span class="light">**Science 4**: Living things have life cycles (ACSSU072)</span>
   * *making and recording observations of living things as they develop through their life cycles*
-* **Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)
+* <span class="light">**Dance 3-4**: Practise technical skills safely in fundamental movements (ACADAM006)</span>
   * *practising combinations of fundamental locomotor and non-locomotor movements to a range of musical accompaniment, for example, running and sliding; bending and stretching; running, swinging, walking and stretching*
-* **Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)
+* <span class="light">**Dance 3-4**: Perform dances using expressive skills to communicate ideas, including telling cultural or community stories (ACADAM007)</span>
   * *exploring the elements of dance to communicate ideas clearly, such as telling cultural stories in a dance with or without music; for example, travelling lightly using hands and feet to represent a bilby, or skipping vigorously and at a high level to express joy, or rolling softly on the floor using different body shapes to represent shells washed by the sea*
-* **D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)
+* <span class="light">**D&T 3-4**: Investigate the suitability of materials, systems, components, tools and equipment for a range of purposes (ACTDEK013)</span>
   * *conducting experiments and tests to understand the properties of materials, for example strength, durability, warmth, elasticity*
   * *investigating the mass production of products to ensure standardisation, for example students setting up a production line to produce a product for a school fete*
   * *investigating the suitability of technologies − materials, systems, components, tools and equipment − when designing and making a product, service or environment, for example a toy for a young child, a composting system for household waste management, raised garden beds for improved access, weaving nets, bags or baskets*
-* **D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)
+* <span class="light">**D&T 3-4**: Select and use materials, components, tools, equipment and techniques and use safe work practices to make designed solutions (ACTDEP016)</span>
   * *using tools and equipment accurately when measuring, marking and cutting; and explaining the importance of accuracy when designing and making, for example creating a template, measuring ingredients in a recipe, sowing seeds*
-* **D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
- (ACTDEP017)
+* <span class="light">**D&T 3-4**: Evaluate design ideas, processes and solutions based on criteria for success developed with guidance and including care for the environment
+ (ACTDEP017)</span>
   * *comparing the amount of waste that would be produced from different design and development options and the potential for recycling waste*
-* **HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)
+* <span class="light">**HPE 3-4**: Practise and refine fundamental movement skills in a variety of movement sequences and situations (ACPMP043)</span>
   * *exploring and practising different techniques to propel objects towards a target*
   * *using a surface dive and propelling the body underwater to recover an object*
   * *performing tumbling routines using rolling actions, incline, weight transfer, flight and balances*
@@ -4016,18 +4049,18 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 5**: Solids, liquids and gases have different observable properties and behave in different ways (ACSSU077)
+* <span class="light">**Science 5**: Solids, liquids and gases have different observable properties and behave in different ways (ACSSU077)</span>
   * *recognising that substances exist in different states depending on the temperature*
-* **Science 5**: The Earth is part of a system of planets orbiting around a star (the sun) (ACSSU078)
+* <span class="light">**Science 5**: The Earth is part of a system of planets orbiting around a star (the sun) (ACSSU078)</span>
   * *modelling the relative size of and distance between Earth, other planets in the solar system and the sun*
-* **Science 6**: Sudden geological changes and extreme weather events can affect Earth’s surface (ACSSU096)
+* <span class="light">**Science 6**: Sudden geological changes and extreme weather events can affect Earth’s surface (ACSSU096)</span>
   * *describing how people measure significant geological events*
-* **Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
- (ACADRM036)
+* <span class="light">**Drama 5-6**: Develop skills and techniques of voice and movement to create character, mood and atmosphere and focus dramatic action
+ (ACADRM036)</span>
   * *adjusting the weight (heaviness or lightness of movement), speed, use of stillness, levels and movement through space to focus on character and situation and create dramatic action*
-* **D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)
+* <span class="light">**D&T 5-6**: Investigate how and why food and fibre are produced in managed environments and prepared to enable people to grow and be healthy (ACTDEK021)</span>
   * *experimenting with tools, equipment, combining ingredients and techniques to design and make food products or meals for selected groups for healthy eating taking into consideration environmental impacts and nutritional benefits*
-* **HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)
+* <span class="light">**HPE 5-6**: Practise specialised movement skills and apply them in a variety of movement sequences and situations (ACPMP061)</span>
   * *performing activities that involve a transition from one skill to another, such as from dribbling to shooting or from leaping to balancing*
 
 #### **Level 5**: convert between common metric units for volume and capacity and use perimeter, area and volume formulas to solve authentic problems
@@ -4083,29 +4116,29 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Maths 7**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)
+* <span class="light">**Maths 7**: Investigate and calculate 'best buys', with and without digital technologies (ACMNA174)</span>
   * *applying the unitary method to identify ‘best buys’ situations, such as comparing the cost per 100g*
-* **Science 7**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)
+* <span class="light">**Science 7**: Change to an object’s motion is caused by unbalanced forces, including Earth’s gravitational attraction, acting on the object (ACSSU117)</span>
   * *investigating common situations where forces are balanced, such as stationary objects, and unbalanced, such as falling objects*
-* **Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
- (ACAMUM096)
+* <span class="light">**Music 7-8**: Perform and present a range of music, using techniques and expression appropriate to style
+ (ACAMUM096)</span>
   * *controlling tone and volume to create a balanced sound in ensemble performance*
-* **D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
- (ACTDEK032)
+* <span class="light">**D&T 7-8**: Analyse how food and fibre are produced when designing managed environments and how these can become more sustainable
+ (ACTDEK032)</span>
   * *describing physical and chemical characteristics of soil and their effects on plant growth when producing food and fibre products*
   * *investigating different animal feeding strategies such as grazing and supplementary feeding, and their effects on product quality, for example meat tenderness, wool fibre diameter (micron), milk fat and protein content when producing food and fibre products*
   * *recognising the importance of food and fibre production to Australia’s food security and economy including exports and imports to and from Asia when critiquing and exploring food and fibre production*
-* **D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
- (ACTDEK033)
+* <span class="light">**D&T 7-8**: Analyse how characteristics and properties of food determine preparation techniques and presentation when designing solutions for healthy eating
+ (ACTDEK033)</span>
   * *examining the relationship between food preparation techniques and the impact on nutrient value, for example steaming vegetables*
   * *investigating how a recipe can be modified to enhance health benefits, and justifying decisions, for example by replacing full cream milk with skim milk*
   * *analysing food preparation techniques used in different cultures including those from the Asia region and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying*
-* **HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)
+* <span class="light">**HPE 7-8**: Practise, apply and transfer movement concepts and strategies with and without equipment (ACPMP082)</span>
   * *exploring similarities in the bases of support and flow of movements when performing movement sequences*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)
+* <span class="light">**Geo 7**: The influence of environmental quality on the liveability of places (ACHGK045)</span>
   * *investigating the concept of environmental quality and surveying the environmental quality of their local area and its effect on liveability*
 
 #### **Level 6**: solve complex problems involving surface area and volume of prisms and cylinders and composite solids
@@ -4147,17 +4180,17 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 9**: All matter is made of atoms that are composed of protons, neutrons and electrons; natural radioactivity arises from the decay of nuclei in atoms (ACSSU177)
+* <span class="light">**Science 9**: All matter is made of atoms that are composed of protons, neutrons and electrons; natural radioactivity arises from the decay of nuclei in atoms (ACSSU177)</span>
   * *comparing the mass and charge of protons, neutrons and electrons*
-* **Science 9**: Chemical reactions, including combustion and the reactions of acids, are important in both non-living and living systems and involve energy transfer (ACSSU179)
+* <span class="light">**Science 9**: Chemical reactions, including combustion and the reactions of acids, are important in both non-living and living systems and involve energy transfer (ACSSU179)</span>
   * *investigating a range of different reactions to classify them as exothermic or endothermic*
-* **Science 9**: Advances in scientific understanding often rely on technological advances and are often linked to scientific discoveries (ACSHE158)
+* <span class="light">**Science 9**: Advances in scientific understanding often rely on technological advances and are often linked to scientific discoveries (ACSHE158)</span>
   * *investigating technologies involved in the mapping of continental movement*
-* **Science 10**: The motion of objects can be described and predicted using the laws of physics (ACSSU229)
+* <span class="light">**Science 10**: The motion of objects can be described and predicted using the laws of physics (ACSSU229)</span>
   * *gathering data to analyse everyday motions produced by forces, such as measurements of distance and time, speed, force, mass and acceleration*
-* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* <span class="light">**HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)</span>
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)
+* <span class="light">**HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)</span>
   * *using established criteria to apply and evaluate the effectiveness of movement concepts and strategies*
   * *developing and implementing appropriate movement concepts and strategies for selected movement scenarios*
   * *reviewing, proposing and implementing alternative responses to movement situations based on the outcome of previous performances*
@@ -4194,17 +4227,17 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 1**: Observable changes occur in the sky and landscape (ACSSU019)
+* <span class="light">**Science 1**: Observable changes occur in the sky and landscape (ACSSU019)</span>
   * *recording short and longer term patterns of events that occur on Earth and in the sky, such as the appearance of the moon and stars at night, the weather and the seasons*
-* **DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)
+* <span class="light">**DT F-2**: Recognise and explore patterns in data and represent data as pictures, symbols and diagrams (ACTDIK002)</span>
   * *sorting objects and events based on easily identified characteristics and using digital systems to represent patterns in data, for example sorting birthdates and presenting the patterns using seasonal symbols*
-* **HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)
+* <span class="light">**HPE 1-2**: Perform fundamental movement skills in a variety of movement sequences and situations (ACPMP025)</span>
   * *demonstrating changes in speed, direction and level of movement in response to changes in music tempo*
-* **HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)
+* <span class="light">**HPE 1-2**: Discuss the body’s reactions to participating in physical activities (ACPMP028)</span>
   * *participating in activities of different intensity and comparing the body’s reactions*
-* **English 1**: Discuss features of plot, character and setting in different types of  literature and explore some features of characters in different texts (ACELT1584)
+* <span class="light">**English 1**: Discuss features of plot, character and setting in different types of  literature and explore some features of characters in different texts (ACELT1584)</span>
   * *discussing features of book settings including time (year, season) and place (country or city, realistic or imagined)*
-* **English 2**: Discuss the characters and settings of different texts and explore how language is used to present these features in different ways (ACELT1591)
+* <span class="light">**English 2**: Discuss the characters and settings of different texts and explore how language is used to present these features in different ways (ACELT1591)</span>
   * *describing features of text settings including time, colours used to portray year, season, and place (country or city) and how this impacts on the characters*
 
 #### **Level 3**: read digital and analogue clocks to the minute, convert between hours and minutes, use 'am' and 'pm', and use calendars to locate and compare time events
@@ -4226,22 +4259,22 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Maths 3**: Identify angles as measures of turn and compare angle sizes in everyday situations (ACMMG064)
+* <span class="light">**Maths 3**: Identify angles as measures of turn and compare angle sizes in everyday situations (ACMMG064)</span>
   * *recognising that analogue clocks use the turning of arms to indicate time, and comparing the size of angles between the arms for familiar times*
-* **Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)
+* <span class="light">**Science 3**: Earth’s rotation on its axis causes regular changes, including night and day (ACSSU048)</span>
   * *describing timescales for the rotation of the Earth*
-* **Science 4**: Living things have life cycles (ACSSU072)
+* <span class="light">**Science 4**: Living things have life cycles (ACSSU072)</span>
   * *making and recording observations of living things as they develop through their life cycles*
-* **HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)
+* <span class="light">**HASS 3**: Present ideas, findings and conclusions in texts and modes that incorporate digital and non-digital representations and discipline-specific terms (ACHASSI061)</span>
   * *selecting and applying appropriate media to communicate their findings, including the use of graphs, tables, timelines, photographs and pictures*
-* **HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)
+* <span class="light">**HASS 3**: Days and weeks celebrated or commemorated in Australia (including Australia Day, Anzac Day, and National Sorry Day) and the importance of symbols and emblems (ACHASSK064)</span>
   * *recognising the significance of other days or weeks (including the anniversary of the national Apology to Australia’s Indigenous Peoples of 2008, National Reconciliation Week, International Women’s Day, Labour Day and Harmony Day)*
-* **Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)
+* <span class="light">**Drama 3-4**: Use voice, body, movement and language to sustain role and relationships and create dramatic action with a sense of time and place (ACADRM032)</span>
   * *experimenting with the loudness/softness, pace and pitch of their voices to create roles and situations, time and place*
   * *developing sensory and spatial awareness when creating dramatic action*
-* **D&T 3-4**: Investigate food and fibre production and food technologies used in modern and traditional societies (ACTDEK012)
+* <span class="light">**D&T 3-4**: Investigate food and fibre production and food technologies used in modern and traditional societies (ACTDEK012)</span>
   * *describing ideal conditions for successful plant and animal production including how climate and soils affect production and availability of foods, for example Aboriginal seasons and food availability*
-* **D&T 3-4**: Plan a sequence of production steps when making designed solutions individually and collaboratively (ACTDEP018)
+* <span class="light">**D&T 3-4**: Plan a sequence of production steps when making designed solutions individually and collaboratively (ACTDEP018)</span>
   * *determining planning processes as a class, for example recording a procedure or creating time plans*
   * *managing time and resource allocation throughout production, for example materials, tools, equipment and people*
 
@@ -4260,10 +4293,10 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)
+* <span class="light">**D&T 5-6**: Develop project plans that include consideration of resources when making designed solutions individually and collaboratively (ACTDEP028)</span>
   * *setting milestones for production processes and allocating roles to team members*
   * *outlining the planning and production steps needed to produce a product, service or environment using digital technologies*
-* **HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)
+* <span class="light">**HPE 5-6**: Manipulate and modify elements of effort, space, time, objects and people to perform movement sequences (ACPMP065)</span>
   * *demonstrating an understanding of how to adjust the force and speed of an object to improve accuracy and control*
   * *creating a movement sequence that demonstrates variations in flow and levels and involves individuals moving together in time*
 
@@ -4296,50 +4329,50 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 7**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)
+* <span class="light">**Science 7**: Some of Earth’s resources are renewable, including water that cycles through the environment, but others are non-renewable (ACSSU116)</span>
   * *considering timescales for regeneration of resources*
-* **Science 7**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)
+* <span class="light">**Science 7**: Scientific knowledge has changed peoples’ understanding of the world and is refined as new evidence becomes available (ACSHE119)</span>
   * *researching developments in the understanding of astronomy, such as the predictions of eclipses and the calculation of the length of the solar year by Al‑Battani in the tenth century*
-* **Science 8**: Sedimentary, igneous and metamorphic rocks contain minerals and are formed by processes that occur within Earth over a variety of timescales (ACSSU153)
+* <span class="light">**Science 8**: Sedimentary, igneous and metamorphic rocks contain minerals and are formed by processes that occur within Earth over a variety of timescales (ACSSU153)</span>
   * *representing the stages in the formation of igneous, metamorphic and sedimentary rocks, including indications of timescales involved*
-* **Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)
+* <span class="light">**Drama 7-8**: Develop and refine expressive skills in voice and movement to communicate ideas and dramatic action in different performance styles and conventions, including contemporary Australian drama styles developed by Aboriginal and Torres Strait Islander dramatists (ACADRM043)</span>
   * *employing voice and movement appropriate to situation and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning in a scripted drama*
-* **Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)
+* <span class="light">**Media 7-8**: Plan, structure and design media artworks that engage audiences (ACAMAM069)</span>
   * *selecting footage that has been captured on a camera, editing the footage into a sequence and applying a soundtrack that matches the edited sequence’s pace, rhythm and style*
-* **D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)
+* <span class="light">**D&T 7-8**: Use project management processes when working individually and collaboratively to coordinate production of designed solutions (ACTDEP039)</span>
   * *organising time, evaluating decisions and managing resources to ensure successful project completion and protection of the work space and local environment*
   * *investigating the time needed for each step of production*
-* **HPE 7-8**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)
+* <span class="light">**HPE 7-8**: Evaluate strategies to manage personal, physical and social changes that occur as they grow older (ACPPS071)</span>
   * *accessing and assessing health information and services that support young people to effectively manage changes and transitions as they grow older*
-* **HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)
+* <span class="light">**HPE 7-8**: Participate in physical activities that develop health-related and skill-related fitness components, and create and monitor personal fitness plans (ACPMP083)</span>
   * *measuring heart rate, breathing rate and ability to talk in order to monitor the body’s reaction to a range of physical activities, and predicting the benefits of each activity on health- and skill-related fitness components*
-* **HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)
+* <span class="light">**HPE 7-8**: Demonstrate and explain how the elements of effort, space, time, objects and people can enhance movement sequences (ACPMP084)</span>
   * *demonstrating an understanding of how to adjust the angle of release of an object and how this will affect the height and distance of flight*
   * *designing and refining movement concepts and strategies to manipulate space and their relationship to other players in this space*
-* **Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)
+* <span class="light">**Hist 7**: Methods and sources used to investigate at least ONE historical controversy or mystery that has challenged historians or archaeologists, such as in the analysis of unidentified human remains (ACDSEH030)</span>
   * *using a cross-sectional drawing of the earth’s surface from an archaeological excavation to identify the evidence located at various layers (stratigraphy) and what it reveals about change over time (for example, a charcoal layer containing human remains and weapons may indicate the capture and destruction of an ancient settlement such as Troy)*
-* **Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)
+* <span class="light">**Hist 7**: The nature of sources for ancient Australia and what they reveal about Australia’s past in the ancient period, such as the use of resources (ACDSEH031)</span>
   * *investigating the discovery of Mungo Woman in 1969 and the use of radiocarbon dating to draw conclusions about the longevity of human occupation at Lake Mungo*
-* **Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)
+* <span class="light">**Hist 7**: Physical features of India (such as fertile river plains) and how they influenced the civilisation that developed there (ACDSEH006)</span>
   * *creating a graphic representation of the extent of India as a political unit at this time (for example, its diverse climatic and geographical features, types and location of food production, areas of high- and low-density population)*
-* **Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
- (ACDSEH044)
+* <span class="light">**Hist 7**: Roles of key groups in Indian society in this period (such as kings, emperors, priests, merchants, peasants), including the influence of law and religion
+ (ACDSEH044)</span>
   * *creating a graphic representation of the social structure of Indian society*
-* **Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
- (ACDSEH041)
+* <span class="light">**Hist 7**: Roles of key groups in Chinese society in this period (such as kings, emperors, scholars, craftsmen, women), including the influence of law and religion
+ (ACDSEH041)</span>
   * *creating a graphic representation of the social structure of Chinese society*
-* **Hist 8**: The extent of the Mongol expansion as one of the largest land empires in history (ACDSEH078)
+* <span class="light">**Hist 8**: The extent of the Mongol expansion as one of the largest land empires in history (ACDSEH078)</span>
   * *mapping the expansion of the Mongol empire across Asia and Europe*
-* **Hist 8**: The role of expanding trade between Europe and Asia in the Black Death, including the origin and spread of the disease (ACDSEH069)
+* <span class="light">**Hist 8**: The role of expanding trade between Europe and Asia in the Black Death, including the origin and spread of the disease (ACDSEH069)</span>
   * *mapping the spread of the Black Death (Asia, Africa, Europe) in the fourteenth century CE*
-* **Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)
+* <span class="light">**Geo 7**: The quantity and variability of Australia’s water resources compared with other continents (ACHGK039)</span>
   * *investigating the main causes of rainfall and applying their knowledge to explain the seasonal rainfall patterns in their own place and in a place with either significantly higher or lower rainfall*
   * *interpreting the spatial distribution of rainfall in Australia and comparing it with the distribution of that of other continents*
   * *using the concept of the water balance to compare the effects of rainfall, run-off and evaporation on the availability of water in Australia and other continents*
-* **Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)
+* <span class="light">**Geo 7**: The nature of water scarcity and ways of overcoming it, including studies drawn from Australia and West Asia and/or North Africa (ACHGK040)</span>
   * *investigating the causes of water scarcity (for example, an absolute shortage of water (physical), inadequate development of water resources (economic), or the ways water is used)*
-* **Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
- (ACHGK042)
+* <span class="light">**Geo 7**: Causes, impacts and responses to an atmospheric or hydrological hazard
+ (ACHGK042)</span>
   * *explaining the physical causes and the temporal and spatial patterns of an atmospheric or hydrological hazard through a study of either droughts, storms, tropical cyclones or floods*
 
 #### **Level 6**: use 12- and 24-hour systems within a multiple time zone to solve time problems, use large and small timescales in complex contexts and place historical and scientific events on an extended time scale
@@ -4370,38 +4403,38 @@ connecting x-intercepts of a graph to a related equation*
 
 ##### Elaborations only
 
-* **Science 10**: The motion of objects can be described and predicted using the laws of physics (ACSSU229)
+* <span class="light">**Science 10**: The motion of objects can be described and predicted using the laws of physics (ACSSU229)</span>
   * *gathering data to analyse everyday motions produced by forces, such as measurements of distance and time, speed, force, mass and acceleration*
-* **Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
- (ACAMUM102)
+* <span class="light">**Music 9-10**: Plan and organise compositions with an understanding of style and convention, including drawing upon Australian music by Aboriginal and Torres Strait Islander artists
+ (ACAMUM102)</span>
   * *combining and manipulating the elements of music using repetition, variation and contrast to shape compositions*
-* **Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)
+* <span class="light">**Media 9-10**: Produce and distribute media artworks for a range of community and institutional contexts and consider social, ethical and regulatory issues (ACAMAM077)</span>
   * *investigating the production context of a media artwork and producing the work within a specified budget and timeline*
-* **D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)
+* <span class="light">**D&T 9-10**: Critically analyse factors, including social, ethical and sustainability considerations, that impact on designed solutions for global preferred futures and the complex design and production processes involved (ACTDEK040)</span>
   * *explaining how product life cycle thinking can influence decision-making related to design and technologies, for example rethinking products to provide for re-use, selecting a material for a product that has a lower carbon footprint*
   * *critiquing mass production systems taking into account ethics and sustainability considerations, for example the mass production of food, clothing and shoes and why manufacturers produce different versions of the same product*
-* **D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)
+* <span class="light">**D&T 9-10**: Evaluate design ideas, processes and solutions against comprehensive criteria for success recognising the need for sustainability (ACTDEP051)</span>
   * *evaluating projects for their long-term application, functionality and impact*
-* **HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)
+* <span class="light">**HPE 9-10**: Provide and apply feedback to develop and refine specialised movement skills in a range of challenging movement situations (ACPMP099)</span>
   * *using ICT to record others' performance, and providing feedback on synchronicity and timing of movements in relation to other people, objects or external stimuli*
-* **HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)
+* <span class="light">**HPE 9-10**: Develop, implement and evaluate movement concepts and strategies for successful outcomes with and without equipment (ACPMP101)</span>
   * *reviewing, proposing and implementing alternative responses to movement situations based on the outcome of previous performances*
-* **HPE 9-10**: Design, implement and evaluate personalised plans for improving or maintaining their own and others’ physical activity and fitness levels (ACPMP102)
+* <span class="light">**HPE 9-10**: Design, implement and evaluate personalised plans for improving or maintaining their own and others’ physical activity and fitness levels (ACPMP102)</span>
   * *using ICT to design, implement and monitor a personal fitness plan which includes a timeframe, goals and a variety of specific activities that meet the needs of different people*
-* **HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)
+* <span class="light">**HPE 9-10**: Analyse the impact of effort, space, time, objects and people when composing and performing movement sequences (ACPMP103)</span>
   * *experimenting with the manipulation of force and speed applied to an object to examine the difference created in movement paths*
   * *creating a group performance that demonstrates synchronous and individual movements*
-* **Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)
+* <span class="light">**Hist 9**: Experiences of non-Europeans in Australia prior to the 1900s (such as the Japanese, Chinese, South Sea Islanders, Afghans) (ACDSEH089)</span>
   * *outlining the migration of Chinese to the goldfields in Australia in the nineteenth century and attitudes towards the Chinese as revealed in cartoons (for example, 'The Mongolian Octopus')*
-* **Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)
+* <span class="light">**Hist 9**: Laws made by federal Parliament between 1901-1914 including the Harvester Judgement, pensions, and the Immigration Restriction Act (ACDSEH092)</span>
   * *creating a timeline of major social legislation passed by federal Parliament between 1901 and 1914*
-* **Hist 10**: Overview of the causes and course of World War II (ACDSEH024)
+* <span class="light">**Hist 10**: Overview of the causes and course of World War II (ACDSEH024)</span>
   * *identifying key events in the European theatre of war (for example, Germany’s invasion of Poland in 1939; the Holocaust 1942–1945; the Russians reaching Berlin in 1945)*
   * *identifying key events in the Asia-Pacific theatre of war (for example, the Japanese attack on Pearl Harbor in 1941; the fall of Singapore in 1942; the American victory at the Battle of Midway in 1942)*
-* **Geo 9**: The perceptions people have of place, and how these influence their connections to different places (ACHGK065)
+* <span class="light">**Geo 9**: The perceptions people have of place, and how these influence their connections to different places (ACHGK065)</span>
   * *comparing students' perceptions and use of places and spaces in their local area, particularly at different times of day, between males and females, different age groups, people with and without disability, and people from diverse cultures including Indigenous and non-Indigenous peoples, and reflecting on the differences*
-* **Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)
+* <span class="light">**Geo 10**: Different ways of measuring and mapping human wellbeing and development, and how these can be applied to measure differences between places (ACHGK076)</span>
   * *identifying trends in human wellbeing in countries over time*
-* **Geo 10**: Issues affecting development of places and their impact on human wellbeing, drawing on a study from a developing country or region in Africa, South America or the Pacific Islands (ACHGK078)
+* <span class="light">**Geo 10**: Issues affecting development of places and their impact on human wellbeing, drawing on a study from a developing country or region in Africa, South America or the Pacific Islands (ACHGK078)</span>
   * *identifying the trends in gross domestic product (GDP) and GDP per capita over time in the selected country or region and their relationship with trends in measures of wellbeing*
 

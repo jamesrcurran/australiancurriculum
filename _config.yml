@@ -3,7 +3,7 @@ plugins:
 
 remote_theme: tuur29/pages-themes-cayman
 title: "Australian Curriculum review"
-description: "Analysis of Australian Curriculum, focused on Digital Technologies and the ICT Capability."
+description: "Analysis of General Capabilities by James Curran and Bruce Fuda"
 
 colors:
     gradient_left: "#155799"
